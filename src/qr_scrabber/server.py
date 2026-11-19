@@ -1,25 +1,101 @@
-"""Multi-threaded static + QR API HTTP server for the Glow & Glare lookup web app."""
+"""Multi-threaded static + QR/Catalog API HTTP server for the Glow & Glare lookup web app."""
 
 from __future__ import annotations
 
+import gzip
 import io
 import json
 import mimetypes
 import re
+import threading
 from http import HTTPStatus
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from typing import Any
-from urllib.parse import unquote, urlsplit
+from urllib.parse import parse_qs, unquote, urlsplit
 
 import segno
 
 from qr_scrabber.gs1 import verify_gs1_check_digit
 
 _API_QR_RE = re.compile(r"^/api/qr/(\d{14})\.svg$")
+_COMPRESSIBLE_EXTS = frozenset({".json", ".html", ".css", ".js", ".svg"})
 
 
-def _load_total_products(output_dir: Path) -> int:
+def _slim_product_for_ui(p: dict[str, Any]) -> dict[str, Any]:
+    """Project a full ProductRecord dict into a compact UI payload preserving all UI fields."""
+    brand = p.get("brand") or {}
+    product = p.get("product") or {}
+    barcode = p.get("barcode") or {}
+    qr = p.get("qr") or {}
+    verif = p.get("verification") or {}
+    return {
+        "gtin14": p.get("gtin14"),
+        "product_name": p.get("product_name"),
+        "image_url": p.get("image_url"),
+        "local_image_path": p.get("local_image_path"),
+        "brand": {
+            "slug": brand.get("slug"),
+            "display_name": brand.get("display_name"),
+        },
+        "product": {
+            "name": product.get("name"),
+            "alternate_names": (product.get("alternate_names") or [])[:4],
+            "quantity": product.get("quantity"),
+            "categories": (product.get("categories") or [])[:4],
+            "primary_image_url": product.get("primary_image_url"),
+            "thumbnail_url": product.get("thumbnail_url"),
+            "local_image_path": product.get("local_image_path"),
+        },
+        "barcode": {
+            "gtin14": barcode.get("gtin14"),
+            "ean13": barcode.get("ean13"),
+            "upc_a": barcode.get("upc_a"),
+            "ean8": barcode.get("ean8"),
+            "primary_code": barcode.get("primary_code"),
+            "barcode_type": barcode.get("barcode_type"),
+            "raw_codes": (barcode.get("raw_codes") or [])[:4],
+        },
+        "qr": {
+            "gs1_digital_link": qr.get("gs1_digital_link"),
+            "qr_svg_path": qr.get("qr_svg_path"),
+        },
+        "verification": {
+            "status": verif.get("status"),
+            "sources": verif.get("sources") or [],
+        },
+    }
+
+
+class _CatalogCache:
+    """Thread-safe mtime-validated in-memory cache of compact UI catalog records."""
+
+    def __init__(self, output_dir: Path) -> None:
+        self._output_dir = output_dir
+        self._lock = threading.Lock()
+        self._mtime_ns: int = -1
+        self._items: list[dict[str, Any]] = []
+
+    def get_items(self) -> list[dict[str, Any]]:
+        all_path = self._output_dir / "all_products.json"
+        if not all_path.is_file():
+            return []
+        try:
+            stat = all_path.stat()
+        except OSError:
+            return []
+        with self._lock:
+            if stat.st_mtime_ns != self._mtime_ns:
+                raw = json.loads(all_path.read_text(encoding="utf-8"))
+                if isinstance(raw, list):
+                    self._items = [_slim_product_for_ui(p) for p in raw if isinstance(p, dict)]
+                else:
+                    self._items = []
+                self._mtime_ns = stat.st_mtime_ns
+            return self._items
+
+
+def _load_total_products(output_dir: Path, cache: _CatalogCache | None = None) -> int:
     summary_path = output_dir / "summary.json"
     if summary_path.is_file():
         try:
@@ -30,6 +106,9 @@ def _load_total_products(output_dir: Path) -> int:
                 return int(data["total_unique_verified_products"])
         except (OSError, json.JSONDecodeError):
             pass
+
+    if cache is not None:
+        return len(cache.get_items())
 
     all_path = output_dir / "all_products.json"
     if all_path.is_file():
@@ -59,7 +138,9 @@ def _render_qr_svg_bytes(gtin14: str) -> bytes:
 
 
 class CatalogRequestHandler(SimpleHTTPRequestHandler):
-    """Serves static catalog files plus `/api/health` and dynamic `/api/qr/<gtin14>.svg`."""
+    """Serves static catalog files with gzip plus `/api/health`, `/api/catalog`, and `/api/qr`."""
+
+    protocol_version = "HTTP/1.1"
 
     extensions_map = {
         **SimpleHTTPRequestHandler.extensions_map,
@@ -74,13 +155,24 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
         ".png": "image/png",
     }
 
-    def __init__(self, *args: Any, directory: str | None = None, **kwargs: Any) -> None:
+    def __init__(
+        self,
+        *args: Any,
+        directory: str | None = None,
+        catalog_cache: _CatalogCache | None = None,
+        **kwargs: Any,
+    ) -> None:
         self._output_dir = Path(directory or ".").resolve()
+        self._catalog_cache = catalog_cache
         super().__init__(*args, directory=str(self._output_dir), **kwargs)
 
     def log_message(self, format: str, *args: Any) -> None:  # noqa: A002
         # Keep stdout/stderr clean during automated tests and daemon runs
         return
+
+    def _accepts_gzip(self) -> bool:
+        ae = self.headers.get("Accept-Encoding", "")
+        return "gzip" in ae.lower()
 
     def _send_bytes(
         self,
@@ -90,23 +182,32 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
         content_type: str = "application/octet-stream",
         cache_control: str = "no-cache",
         head_only: bool = False,
+        allow_gzip: bool = True,
     ) -> None:
+        use_gzip = allow_gzip and len(body) >= 512 and self._accepts_gzip()
+        payload = gzip.compress(body, compresslevel=6) if use_gzip else body
+
         self.send_response(status)
         self.send_header("Content-Type", content_type)
-        self.send_header("Content-Length", str(len(body)))
+        self.send_header("Content-Length", str(len(payload)))
         self.send_header("Cache-Control", cache_control)
         self.send_header("X-Content-Type-Options", "nosniff")
+        self.send_header("X-QR-Server", "1")
+        if use_gzip:
+            self.send_header("Content-Encoding", "gzip")
+            self.send_header("Vary", "Accept-Encoding")
         self.end_headers()
         if not head_only:
-            self.wfile.write(body)
+            self.wfile.write(payload)
 
     def _handle_api(self, *, head_only: bool = False) -> bool:
-        path = unquote(urlsplit(self.path).path)
+        parsed = urlsplit(self.path)
+        path = unquote(parsed.path)
 
         if path == "/api/health":
             payload = {
                 "status": "ok",
-                "total_products": _load_total_products(self._output_dir),
+                "total_products": _load_total_products(self._output_dir, self._catalog_cache),
             }
             encoded = json.dumps(payload).encode("utf-8")
             self._send_bytes(
@@ -115,6 +216,47 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
                 content_type="application/json; charset=utf-8",
                 cache_control="no-store",
                 head_only=head_only,
+                allow_gzip=False,
+            )
+            return True
+
+        if path == "/api/catalog":
+            qs = parse_qs(parsed.query)
+            try:
+                offset = max(0, int((qs.get("offset") or ["0"])[0]))
+                limit = int((qs.get("limit") or ["700"])[0])
+                limit = max(1, min(limit, 1000))
+            except ValueError:
+                err = json.dumps({"error": "Invalid offset or limit parameter."}).encode("utf-8")
+                self._send_bytes(
+                    err,
+                    status=HTTPStatus.BAD_REQUEST,
+                    content_type="application/json; charset=utf-8",
+                    cache_control="no-store",
+                    head_only=head_only,
+                    allow_gzip=False,
+                )
+                return True
+
+            items = self._catalog_cache.get_items() if self._catalog_cache is not None else []
+            page_items = items[offset : offset + limit]
+            body = json.dumps(
+                {
+                    "total": len(items),
+                    "offset": offset,
+                    "limit": limit,
+                    "items": page_items,
+                },
+                separators=(",", ":"),
+                ensure_ascii=False,
+            ).encode("utf-8")
+            self._send_bytes(
+                body,
+                status=HTTPStatus.OK,
+                content_type="application/json; charset=utf-8",
+                cache_control="no-cache",
+                head_only=head_only,
+                allow_gzip=True,
             )
             return True
 
@@ -131,6 +273,7 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
                     content_type="application/json; charset=utf-8",
                     cache_control="no-store",
                     head_only=head_only,
+                    allow_gzip=False,
                 )
                 return True
 
@@ -141,20 +284,80 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
                 content_type="image/svg+xml; charset=utf-8",
                 cache_control="public, max-age=86400",
                 head_only=head_only,
+                allow_gzip=True,
             )
             return True
 
         return False
 
+    def _serve_static(self, *, head_only: bool = False) -> None:
+        fs_path = Path(self.translate_path(self.path))
+        if fs_path.is_dir():
+            index_file = fs_path / "index.html"
+            if index_file.is_file():
+                fs_path = index_file
+            else:
+                self._send_bytes(
+                    b"Not Found",
+                    status=HTTPStatus.NOT_FOUND,
+                    content_type="text/plain; charset=utf-8",
+                    cache_control="no-store",
+                    head_only=head_only,
+                    allow_gzip=False,
+                )
+                return
+
+        if not fs_path.is_file():
+            self._send_bytes(
+                b"Not Found",
+                status=HTTPStatus.NOT_FOUND,
+                content_type="text/plain; charset=utf-8",
+                cache_control="no-store",
+                head_only=head_only,
+                allow_gzip=False,
+            )
+            return
+
+        # Guard against path traversal outside output_dir
+        try:
+            fs_path.resolve().relative_to(self._output_dir)
+        except ValueError:
+            self._send_bytes(
+                b"Forbidden",
+                status=HTTPStatus.FORBIDDEN,
+                content_type="text/plain; charset=utf-8",
+                cache_control="no-store",
+                head_only=head_only,
+                allow_gzip=False,
+            )
+            return
+
+        raw = fs_path.read_bytes()
+        ctype = self.guess_type(str(fs_path))
+        ext = fs_path.suffix.lower()
+        cache_ctrl = (
+            "public, max-age=86400"
+            if ext in (".jpg", ".jpeg", ".png", ".webp", ".svg")
+            else "no-cache"
+        )
+        self._send_bytes(
+            raw,
+            status=HTTPStatus.OK,
+            content_type=ctype,
+            cache_control=cache_ctrl,
+            head_only=head_only,
+            allow_gzip=(ext in _COMPRESSIBLE_EXTS),
+        )
+
     def do_GET(self) -> None:  # noqa: N802
         if self._handle_api(head_only=False):
             return
-        super().do_GET()
+        self._serve_static(head_only=False)
 
     def do_HEAD(self) -> None:  # noqa: N802
         if self._handle_api(head_only=True):
             return
-        super().do_HEAD()
+        self._serve_static(head_only=True)
 
     def guess_type(self, path: str) -> str:
         ext = Path(path).suffix.lower()
@@ -179,8 +382,10 @@ def create_server(
     if not root.is_dir():
         raise FileNotFoundError(f"Output directory does not exist: {root}")
 
+    cache = _CatalogCache(root)
+
     def _handler(*args: Any, **kwargs: Any) -> CatalogRequestHandler:
-        return CatalogRequestHandler(*args, directory=str(root), **kwargs)
+        return CatalogRequestHandler(*args, directory=str(root), catalog_cache=cache, **kwargs)
 
     return ReusableThreadingHTTPServer((host, port), _handler)
 

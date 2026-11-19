@@ -567,22 +567,68 @@
     });
   }
 
+  async function loadCatalogChunked() {
+    const CHUNK_SIZE = 700;
+    const firstResp = await fetch(`./api/catalog?offset=0&limit=${CHUNK_SIZE}`);
+    if (!firstResp.ok) {
+      throw new Error(`Failed to load /api/catalog (HTTP ${firstResp.status})`);
+    }
+    const firstPage = await firstResp.json();
+    const total = Number(firstPage.total || 0);
+    const items = Array.isArray(firstPage.items) ? [...firstPage.items] : [];
+
+    if (total > items.length) {
+      const offsets = [];
+      for (let off = CHUNK_SIZE; off < total; off += CHUNK_SIZE) {
+        offsets.push(off);
+      }
+      const pages = await Promise.all(
+        offsets.map(async (off) => {
+          const resp = await fetch(`./api/catalog?offset=${off}&limit=${CHUNK_SIZE}`);
+          if (!resp.ok) {
+            throw new Error(`Failed to load catalog chunk at offset ${off} (HTTP ${resp.status})`);
+          }
+          const data = await resp.json();
+          return Array.isArray(data.items) ? data.items : [];
+        })
+      );
+      for (const pageItems of pages) {
+        items.push(...pageItems);
+      }
+    }
+    return items;
+  }
+
   async function init() {
     bindEvents();
     try {
-      const [productsResp, summaryResp] = await Promise.all([
-        fetch("./all_products.json"),
+      const [summaryResp, healthResp] = await Promise.all([
         fetch("./summary.json").catch(() => null),
+        fetch("./api/health").catch(() => null),
       ]);
-
-      if (!productsResp.ok) {
-        throw new Error(`Failed to load all_products.json (HTTP ${productsResp.status})`);
-      }
-
-      allProducts = await productsResp.json();
       let summary = null;
       if (summaryResp && summaryResp.ok) {
         summary = await summaryResp.json();
+      }
+
+      let hasChunkedApi = false;
+      if (healthResp && healthResp.ok) {
+        try {
+          const health = await healthResp.json();
+          hasChunkedApi = Boolean(health && health.status === "ok");
+        } catch {
+          hasChunkedApi = false;
+        }
+      }
+
+      if (hasChunkedApi) {
+        allProducts = await loadCatalogChunked();
+      } else {
+        const productsResp = await fetch("./all_products.json");
+        if (!productsResp.ok) {
+          throw new Error(`Failed to load all_products.json (HTTP ${productsResp.status})`);
+        }
+        allProducts = await productsResp.json();
       }
 
       indexProducts(allProducts);
