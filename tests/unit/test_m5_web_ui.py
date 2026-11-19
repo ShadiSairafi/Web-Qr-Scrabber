@@ -188,17 +188,56 @@ def test_server_endpoints_and_dynamic_qr_optical_decode(tmp_path: Path) -> None:
             assert health.json() == {"status": "ok", "total_products": 5}
 
             target = products[2]  # no static QR file; served dynamically
-            qr_resp = client.get(f"{base}/api/qr/{target.gtin14}.svg")
+            qr_resp = client.get(
+                f"{base}/api/qr/{target.gtin14}.svg",
+                headers={"Accept-Encoding": "gzip"},
+            )
             assert qr_resp.status_code == 200
-            assert "image/svg+xml" in qr_resp.headers["content-type"]
+            assert qr_resp.headers["content-type"] == "image/svg+xml"
+            assert "content-encoding" not in qr_resp.headers
+            assert b"viewBox=" in qr_resp.content
 
             svg_file = tmp_path / "dynamic_qr.svg"
             svg_file.write_bytes(qr_resp.content)
             decoded = decode_qr_file(svg_file)
             assert target.qr.gs1_digital_link in decoded
 
+            # Dynamic crisp PNG QR endpoint
+            png_resp = client.get(
+                f"{base}/api/qr/{target.gtin14}.png",
+                headers={"Accept-Encoding": "gzip"},
+            )
+            assert png_resp.status_code == 200
+            assert png_resp.headers["content-type"] == "image/png"
+            assert "content-encoding" not in png_resp.headers
+
+            png_file = tmp_path / "dynamic_qr.png"
+            png_file.write_bytes(png_resp.content)
+            decoded_png = decode_qr_file(png_file)
+            assert target.qr.gs1_digital_link in decoded_png
+
+            # Static /qr/<brand>/<gtin14>.svg served uncompressed with viewBox,
+            # and missing static /qr/<brand>/<gtin14>.svg dynamically falls back
+            static_p = products[0]
+            assert static_p.qr.qr_svg_path is not None
+            static_resp = client.get(
+                f"{base}/{static_p.qr.qr_svg_path}",
+                headers={"Accept-Encoding": "gzip"},
+            )
+            assert static_resp.status_code == 200
+            assert static_resp.headers["content-type"] == "image/svg+xml"
+            assert "content-encoding" not in static_resp.headers
+            assert b"viewBox=" in static_resp.content
+
+            missing_static_resp = client.get(f"{base}/qr/fenty-beauty/{target.gtin14}.svg")
+            assert missing_static_resp.status_code == 200
+            assert missing_static_resp.headers["content-type"] == "image/svg+xml"
+            assert b"viewBox=" in missing_static_resp.content
+
             bad_qr = client.get(f"{base}/api/qr/00000000000001.svg")
             assert bad_qr.status_code == 400
+            bad_png_qr = client.get(f"{base}/api/qr/00000000000001.png")
+            assert bad_png_qr.status_code == 400
     finally:
         srv.shutdown()
         srv.server_close()
@@ -269,6 +308,13 @@ def test_web_ui_playwright_serial_regex_pagination_and_modal(tmp_path: Path) -> 
                 "el => el.complete ? el.naturalWidth : 0"
             )
             assert exact_img_width > 0
+            page.wait_for_function(
+                "() => { const el = document.querySelector('#exact-match-card .exact-qr-img');"
+                " return Boolean(el && el.complete && el.naturalWidth > 0); }"
+            )
+            exact_qr_loc = page.locator("#exact-match-card .exact-qr-img")
+            exact_qr_src = exact_qr_loc.get_attribute("src") or ""
+            assert exact_qr_src.endswith(f"/api/qr/{target_p1.gtin14}.png")
 
             # 4. Exact GS1 Digital Link URL search
             page.fill("#search-input", target_p1.qr.gs1_digital_link)
@@ -293,6 +339,10 @@ def test_web_ui_playwright_serial_regex_pagination_and_modal(tmp_path: Path) -> 
             page.wait_for_selector("article.product-card")
             page.locator("article.product-card .qr-thumb-btn").first.click()
             assert page.locator("#qr-modal").is_visible()
+            page.wait_for_function(
+                "() => { const el = document.querySelector('#qr-modal-img');"
+                " return Boolean(el && el.complete && el.naturalWidth > 0); }"
+            )
             page.locator("#qr-modal-close").click()
             assert not page.locator("#qr-modal").is_visible()
 

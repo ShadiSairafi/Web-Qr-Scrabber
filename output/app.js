@@ -39,6 +39,7 @@
   let activeHighlightRe = null;
   let activeModalProduct = null;
   let searchDebounceTimer = null;
+  let hasChunkedApi = false;
   let hasLiveLookup = false;
   let liveLookupTimer = null;
   let liveLookupAbort = null;
@@ -73,11 +74,44 @@
     return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
   }
 
-  function getQrSrc(product) {
+  function getQrDownloadSrc(product) {
     if (product?.qr?.qr_svg_path) {
       return `./${product.qr.qr_svg_path}`;
     }
-    return `/api/qr/${product.gtin14}.svg`;
+    return `./api/qr/${product.gtin14}.svg`;
+  }
+
+  function getQrCandidates(product) {
+    const candidates = [];
+    const gtin = product?.gtin14;
+    if (hasChunkedApi && gtin) {
+      candidates.push(`./api/qr/${gtin}.png`);
+    }
+    if (product?.qr?.qr_svg_path) {
+      candidates.push(`./${product.qr.qr_svg_path}`);
+    }
+    if (gtin) {
+      candidates.push(`./api/qr/${gtin}.svg`);
+      if (!hasChunkedApi) {
+        candidates.push(`./api/qr/${gtin}.png`);
+      }
+    }
+    return [...new Set(candidates)];
+  }
+
+  function attachSafeQrFallback(imgEl, product) {
+    const candidates = getQrCandidates(product);
+    if (!candidates.length) return;
+    let idx = 0;
+    imgEl.src = candidates[0];
+    imgEl.onerror = () => {
+      idx += 1;
+      if (idx < candidates.length) {
+        imgEl.src = candidates[idx];
+      } else {
+        imgEl.onerror = null;
+      }
+    };
   }
 
   function getImageCandidates(product) {
@@ -194,16 +228,15 @@
 
   function openQrModal(product) {
     activeModalProduct = product;
-    const qrSrc = getQrSrc(product);
     const primarySerial = product?.barcode?.primary_code || product.gtin14;
     els.qrModalBrand.textContent = product?.brand?.display_name || "";
     els.qrModalTitle.textContent = product?.product_name || product?.product?.name || "";
-    els.qrModalImg.src = qrSrc;
     els.qrModalImg.alt = `QR code for ${product.product_name} (${product.gtin14})`;
+    attachSafeQrFallback(els.qrModalImg, product);
     els.qrModalPrimary.textContent = primarySerial;
     els.qrModalGtin14.textContent = product.gtin14;
     els.qrModalLink.textContent = product?.qr?.gs1_digital_link || `https://id.gs1.org/01/${product.gtin14}`;
-    els.qrModalDownload.href = qrSrc;
+    els.qrModalDownload.href = getQrDownloadSrc(product);
     els.qrModalDownload.setAttribute("download", `${product.gtin14}.svg`);
 
     if (typeof els.qrModal.showModal === "function") {
@@ -342,7 +375,6 @@
     const badge = formatVerificationBadge(product.verification?.status);
     const primaryCode = product.barcode?.primary_code || product.gtin14;
     const barcodeType = product.barcode?.barcode_type || "GTIN-14";
-    const qrSrc = getQrSrc(product);
     const sourcesText = (product.verification?.sources || []).join(" + ");
     const livePill = opts.liveAdded
       ? `<span class="mode-pill mode-live">Live Lookup · Saved to Catalog</span>`
@@ -394,7 +426,7 @@
         </div>
         <div class="exact-qr-panel">
           <button type="button" class="exact-qr-btn" aria-label="Enlarge QR code">
-            <img class="exact-qr-img" src="${escapeHtml(qrSrc)}" alt="Scannable QR code for ${escapeHtml(product.gtin14)}">
+            <img class="exact-qr-img" alt="Scannable QR code for ${escapeHtml(product.gtin14)}">
           </button>
           <span class="exact-qr-caption">Click QR to enlarge</span>
         </div>
@@ -403,6 +435,9 @@
 
     const exactImg = els.exactMatchCard.querySelector(".exact-product-img");
     attachSafeImageFallback(exactImg, product);
+
+    const exactQrImg = els.exactMatchCard.querySelector(".exact-qr-img");
+    attachSafeQrFallback(exactQrImg, product);
 
     const copySerialBtn = els.exactMatchCard.querySelector(".exact-copy-serial");
     copySerialBtn.addEventListener("click", () => copyToClipboard(primaryCode, copySerialBtn));
@@ -426,7 +461,6 @@
     const badge = formatVerificationBadge(product.verification?.status);
     const primaryCode = product.barcode?.primary_code || product.gtin14;
     const barcodeType = product.barcode?.barcode_type || "GTIN-14";
-    const qrSrc = getQrSrc(product);
     const submetaParts = [
       product.product?.quantity,
       (product.verification?.sources || []).join(" + "),
@@ -451,13 +485,16 @@
           </div>
         </div>
         <button type="button" class="qr-thumb-btn" aria-label="Enlarge QR code for ${escapeHtml(product.product_name)}">
-          <img class="product-qr" loading="lazy" src="${escapeHtml(qrSrc)}" alt="QR code ${escapeHtml(product.gtin14)}">
+          <img class="product-qr" loading="lazy" alt="QR code ${escapeHtml(product.gtin14)}">
         </button>
       </div>
     `;
 
     const imgEl = article.querySelector(".product-image");
     attachSafeImageFallback(imgEl, product);
+
+    const qrImgEl = article.querySelector(".product-qr");
+    attachSafeQrFallback(qrImgEl, product);
 
     const copyBtn = article.querySelector(".copy-serial-btn");
     copyBtn.addEventListener("click", () => copyToClipboard(primaryCode, copyBtn));
@@ -717,7 +754,7 @@
         summary = await summaryResp.json();
       }
 
-      let hasChunkedApi = false;
+      hasChunkedApi = false;
       if (healthResp && healthResp.ok) {
         try {
           const health = await healthResp.json();

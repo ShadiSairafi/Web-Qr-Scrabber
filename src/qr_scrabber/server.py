@@ -20,8 +20,9 @@ import segno
 from qr_scrabber.gs1 import normalize_barcode, verify_gs1_check_digit
 from qr_scrabber.live_lookup import LiveBarcodeLookupService, _extract_digits
 
-_API_QR_RE = re.compile(r"^/api/qr/(\d{14})\.svg$")
-_COMPRESSIBLE_EXTS = frozenset({".json", ".html", ".css", ".js", ".svg"})
+_API_QR_RE = re.compile(r"^/api/qr/(\d{14})\.(svg|png)$")
+_STATIC_QR_RE = re.compile(r"^/qr/[^/]+/(\d{14})\.svg$")
+_COMPRESSIBLE_EXTS = frozenset({".json", ".html", ".css", ".js"})
 
 
 def _slim_product_for_ui(p: dict[str, Any]) -> dict[str, Any]:
@@ -148,6 +149,31 @@ def _render_qr_svg_bytes(gtin14: str) -> bytes:
         dark="#000000",
         light="#ffffff",
         xmldecl=True,
+        omitsize=False,
+    )
+    raw = buf.getvalue()
+    # Ensure a viewBox is present so CSS resizing always scales the full QR cleanly
+    if b"viewBox=" not in raw:
+        w, h = qr.symbol_size(scale=6, border=4)
+        raw = raw.replace(
+            f'width="{w}" height="{h}"'.encode(),
+            f'width="{w}" height="{h}" viewBox="0 0 {w} {h}"'.encode(),
+            1,
+        )
+    return raw
+
+
+def _render_qr_png_bytes(gtin14: str) -> bytes:
+    payload = f"https://id.gs1.org/01/{gtin14}"
+    qr = segno.make_qr(payload, error="m")
+    buf = io.BytesIO()
+    qr.save(
+        buf,
+        kind="png",
+        scale=8,
+        border=4,
+        dark="#000000",
+        light="#ffffff",
     )
     return buf.getvalue()
 
@@ -159,7 +185,7 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
 
     extensions_map = {
         **SimpleHTTPRequestHandler.extensions_map,
-        ".svg": "image/svg+xml; charset=utf-8",
+        ".svg": "image/svg+xml",
         ".json": "application/json; charset=utf-8",
         ".js": "application/javascript; charset=utf-8",
         ".css": "text/css; charset=utf-8",
@@ -365,7 +391,7 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
 
         qr_match = _API_QR_RE.match(path)
         if qr_match:
-            gtin14 = qr_match.group(1)
+            gtin14, ext = qr_match.group(1), qr_match.group(2)
             if not verify_gs1_check_digit(gtin14):
                 self._send_json(
                     {"error": f"Invalid GS1 GTIN-14 check digit: {gtin14}"},
@@ -374,14 +400,26 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
                 )
                 return True
 
+            if ext == "png":
+                png_bytes = _render_qr_png_bytes(gtin14)
+                self._send_bytes(
+                    png_bytes,
+                    status=HTTPStatus.OK,
+                    content_type="image/png",
+                    cache_control="public, max-age=86400",
+                    head_only=head_only,
+                    allow_gzip=False,
+                )
+                return True
+
             svg_bytes = _render_qr_svg_bytes(gtin14)
             self._send_bytes(
                 svg_bytes,
                 status=HTTPStatus.OK,
-                content_type="image/svg+xml; charset=utf-8",
+                content_type="image/svg+xml",
                 cache_control="public, max-age=86400",
                 head_only=head_only,
-                allow_gzip=True,
+                allow_gzip=False,
             )
             return True
 
@@ -405,6 +443,19 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
                 return
 
         if not fs_path.is_file():
+            # Dynamic fallback if a static /qr/<brand>/<gtin14>.svg file is absent
+            req_path = unquote(urlsplit(self.path).path)
+            static_qr = _STATIC_QR_RE.match(req_path)
+            if static_qr and verify_gs1_check_digit(static_qr.group(1)):
+                self._send_bytes(
+                    _render_qr_svg_bytes(static_qr.group(1)),
+                    status=HTTPStatus.OK,
+                    content_type="image/svg+xml",
+                    cache_control="public, max-age=86400",
+                    head_only=head_only,
+                    allow_gzip=False,
+                )
+                return
             self._send_bytes(
                 b"Not Found",
                 status=HTTPStatus.NOT_FOUND,
@@ -432,6 +483,16 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
         raw = fs_path.read_bytes()
         ctype = self.guess_type(str(fs_path))
         ext = fs_path.suffix.lower()
+        # Ensure static segno SVGs include a viewBox so CSS sizing scales cleanly everywhere
+        if ext == ".svg" and b"viewBox=" not in raw:
+            m_wh = re.search(rb'width="(\d+)"\s+height="(\d+)"', raw)
+            if m_wh:
+                w, h = m_wh.group(1), m_wh.group(2)
+                raw = raw.replace(
+                    m_wh.group(0),
+                    m_wh.group(0) + b' viewBox="0 0 ' + w + b" " + h + b'"',
+                    1,
+                )
         cache_ctrl = (
             "public, max-age=86400"
             if ext in (".jpg", ".jpeg", ".png", ".webp", ".svg")
