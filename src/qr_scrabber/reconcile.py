@@ -162,15 +162,17 @@ def reconcile_sources(
     obf_result: SourceHarvestResult,
     upc_result: SourceHarvestResult,
     opf_result: SourceHarvestResult | None = None,
+    storefront_result: SourceHarvestResult | None = None,
     harvested_at: str | None = None,
 ) -> ReconciliationResult:
-    """Reconcile OBF (+ optional OPF) and UPCitemdb on canonical `gtin14` with zero duplicates."""
+    """Reconcile OBF/OPF, UPCitemdb, and official brand storefronts on canonical `gtin14`."""
     ts = harvested_at or datetime.now(UTC).isoformat().replace("+00:00", "Z")
 
     quarantine_records: list[QuarantineRecord] = [
         *obf_result.quarantined,
         *(opf_result.quarantined if opf_result is not None else []),
         *upc_result.quarantined,
+        *(storefront_result.quarantined if storefront_result is not None else []),
     ]
 
     # Combine OBF and optional OPF into the Open Facts pool (OBF takes precedence)
@@ -180,9 +182,12 @@ def reconcile_sources(
 
     obf_by_gtin, obf_dups = _deduplicate_source(open_facts_candidates)
     upc_by_gtin, upc_dups = _deduplicate_source(upc_result.candidates)
-    intra_dups = obf_dups + upc_dups
+    sf_by_gtin, sf_dups = _deduplicate_source(
+        storefront_result.candidates if storefront_result is not None else []
+    )
+    intra_dups = obf_dups + upc_dups + sf_dups
 
-    all_gtins = sorted(set(obf_by_gtin.keys()) | set(upc_by_gtin.keys()))
+    all_gtins = sorted(set(obf_by_gtin.keys()) | set(upc_by_gtin.keys()) | set(sf_by_gtin.keys()))
 
     products: list[ProductRecord] = []
     cross_source_matches: list[CrossSourceMatch] = []
@@ -197,25 +202,33 @@ def reconcile_sources(
     for gtin14 in all_gtins:
         obf = obf_by_gtin.get(gtin14)
         upc = upc_by_gtin.get(gtin14)
+        sf = sf_by_gtin.get(gtin14)
 
-        if obf is not None and upc is not None:
-            obf_slug = registry.resolve_canonical_slug(obf.brand_slug)
-            upc_slug = registry.resolve_canonical_slug(upc.brand_slug)
-            obf_title = _clean_name(obf.product_name)
-            upc_title = _clean_name(upc.product_name)
+        present = [c for c in (obf, upc, sf) if c is not None]
+        if len(present) >= 2:
+            # Cross-source verification across 2+ independent sources
+            left = obf if obf is not None else sf
+            right = upc if upc is not None else sf
+            assert left is not None and right is not None
+            extras = [c for c in present if c is not left and c is not right]
+
+            left_slug = registry.resolve_canonical_slug(left.brand_slug)
+            right_slug = registry.resolve_canonical_slug(right.brand_slug)
+            left_title = _clean_name(left.product_name)
+            right_title = _clean_name(right.product_name)
             sim = round(
-                float(fuzz.token_set_ratio(fold_unicode(obf_title), fold_unicode(upc_title))),
+                float(fuzz.token_set_ratio(fold_unicode(left_title), fold_unicode(right_title))),
                 2,
             )
 
             status: VerificationStatus
-            if obf_slug == upc_slug:
-                resolved_slug = obf_slug
+            if left_slug == right_slug:
+                resolved_slug = left_slug
                 status = "verified_cross_source"
                 confidence = 1.0 if sim >= 60.0 else 0.95
                 verified_cross_count += 1
             else:
-                resolved_sub = registry.resolve_parent_subbrand(obf_slug, upc_slug)
+                resolved_sub = registry.resolve_parent_subbrand(left_slug, right_slug)
                 if resolved_sub is not None:
                     resolved_slug = resolved_sub
                     status = "verified_cross_source_subbrand_resolved"
@@ -224,8 +237,8 @@ def reconcile_sources(
                     parent_subbrand_resolutions.append(
                         ParentSubbrandResolution(
                             gtin14=gtin14,
-                            openbeautyfacts_brand_slug=obf_slug,
-                            upcitemdb_brand_slug=upc_slug,
+                            openbeautyfacts_brand_slug=left_slug,
+                            upcitemdb_brand_slug=right_slug,
                             resolved_brand_slug=resolved_slug,
                             title_similarity=sim,
                         )
@@ -234,22 +247,22 @@ def reconcile_sources(
                     brand_conflicts.append(
                         BrandConflict(
                             gtin14=gtin14,
-                            openbeautyfacts_brand_slug=obf_slug,
-                            openbeautyfacts_title=obf_title,
-                            upcitemdb_brand_slug=upc_slug,
-                            upcitemdb_title=upc_title,
+                            openbeautyfacts_brand_slug=left_slug,
+                            openbeautyfacts_title=left_title,
+                            upcitemdb_brand_slug=right_slug,
+                            upcitemdb_title=right_title,
                             title_similarity=sim,
                             resolution="quarantined",
                         )
                     )
                     quarantine_records.append(
                         QuarantineRecord(
-                            raw_code=obf.raw_codes[0],
+                            raw_code=left.raw_codes[0],
                             gtin14=gtin14,
                             reason="CROSS_SOURCE_BRAND_CONFLICT",
-                            source="openbeautyfacts+upcitemdb",
-                            raw_brand=f"{obf.matched_raw_brand} vs {upc.matched_raw_brand}",
-                            raw_title=f"{obf_title} | {upc_title}",
+                            source=f"{left.source}+{right.source}",
+                            raw_brand=f"{left.matched_raw_brand} vs {right.matched_raw_brand}",
+                            raw_title=f"{left_title} | {right_title}",
                         )
                     )
                     continue
@@ -258,18 +271,24 @@ def reconcile_sources(
             if brand_entry is None:
                 continue
 
+            extra_alt_names: list[str] = []
+            for ex in extras:
+                if ex.product_name:
+                    extra_alt_names.append(ex.product_name)
+                extra_alt_names.extend(ex.alternate_names)
+
             canonical_name, alt_names = _choose_canonical_name(
-                obf_title,
-                upc_title,
-                [*obf.alternate_names, *upc.alternate_names],
+                left_title,
+                right_title,
+                [*left.alternate_names, *right.alternate_names, *extra_alt_names],
             )
             if not canonical_name:
                 quarantine_records.append(
                     QuarantineRecord(
-                        raw_code=obf.raw_codes[0],
+                        raw_code=left.raw_codes[0],
                         gtin14=gtin14,
                         reason="MISSING_PRODUCT_NAME",
-                        source="openbeautyfacts+upcitemdb",
+                        source=f"{left.source}+{right.source}",
                         raw_brand=brand_entry.display_name,
                         raw_title=None,
                     )
@@ -277,29 +296,40 @@ def reconcile_sources(
                 continue
 
             source_names: dict[str, str] = {}
-            if obf_title:
-                source_names[obf.source] = obf_title
-            if upc_title:
-                source_names["upcitemdb"] = upc_title
+            for cand_item in (left, right, *extras):
+                ct = _clean_name(cand_item.product_name)
+                if ct:
+                    source_names[cand_item.source] = ct
 
-            raw_codes = list(dict.fromkeys([*obf.raw_codes, *upc.raw_codes]))
-            matched_raw = list(dict.fromkeys([obf.matched_raw_brand, upc.matched_raw_brand]))
-            categories = list(dict.fromkeys([*obf.categories, *upc.categories]))
-            image_urls = list(dict.fromkeys([*obf.image_urls, *upc.image_urls]))
+            raw_codes = list(
+                dict.fromkeys(code for c in (left, right, *extras) for code in c.raw_codes)
+            )
+            matched_raw = list(
+                dict.fromkeys(c.matched_raw_brand for c in (left, right, *extras))
+            )
+            categories = list(
+                dict.fromkeys(cat for c in (left, right, *extras) for cat in c.categories)
+            )
+            image_urls = list(
+                dict.fromkeys(u for c in (left, right, *extras) for u in c.image_urls)
+            )
             primary_img = (
-                obf.primary_image_url
-                or upc.primary_image_url
+                (obf.primary_image_url if obf is not None else None)
+                or (sf.primary_image_url if sf is not None else None)
+                or (upc.primary_image_url if upc is not None else None)
                 or (image_urls[0] if image_urls else None)
             )
-            thumb_img = obf.thumbnail_url or upc.thumbnail_url or primary_img
+            thumb_img = (
+                (obf.thumbnail_url if obf is not None else None)
+                or (sf.thumbnail_url if sf is not None else None)
+                or (upc.thumbnail_url if upc is not None else None)
+                or primary_img
+            )
 
-            sources_list = list(dict.fromkeys([obf.source, "upcitemdb"]))
-            match_methods = {
-                obf.source: obf.match_method,
-                "upcitemdb": upc.match_method,
-            }
+            sources_list = list(dict.fromkeys(c.source for c in (left, right, *extras)))
+            match_methods = {c.source: c.match_method for c in (left, right, *extras)}
 
-            barcode_info = BarcodeInfo.from_normalized(obf.barcode, raw_codes=raw_codes)
+            barcode_info = BarcodeInfo.from_normalized(left.barcode, raw_codes=raw_codes)
             qr_info = build_qr_metadata(
                 gtin14=gtin14,
                 primary_code=barcode_info.primary_code,
@@ -324,9 +354,9 @@ def reconcile_sources(
                     name=canonical_name,
                     source_names=source_names,
                     alternate_names=alt_names,
-                    quantity=obf.quantity or upc.quantity,
+                    quantity=left.quantity or right.quantity,
                     categories=categories,
-                    description=obf.description or upc.description,
+                    description=left.description or right.description,
                     primary_image_url=primary_img,
                     thumbnail_url=thumb_img,
                     image_urls=image_urls,
@@ -342,11 +372,17 @@ def reconcile_sources(
                     cross_source_title_similarity=sim,
                 ),
                 provenance=ProvenanceInfo(
-                    openbeautyfacts_url=obf.source_url if obf.source == "openbeautyfacts" else None,
-                    openproductsfacts_url=(
-                        obf.source_url if obf.source == "openproductsfacts" else None
+                    openbeautyfacts_url=(
+                        obf.source_url
+                        if (obf is not None and obf.source == "openbeautyfacts")
+                        else None
                     ),
-                    upcitemdb_ean=upc.upcitemdb_ean,
+                    openproductsfacts_url=(
+                        obf.source_url
+                        if (obf is not None and obf.source == "openproductsfacts")
+                        else None
+                    ),
+                    upcitemdb_ean=upc.upcitemdb_ean if upc is not None else None,
                     harvested_at=ts,
                 ),
             )
@@ -357,15 +393,14 @@ def reconcile_sources(
                     product_name=canonical_name,
                     resolved_brand_slug=brand_entry.slug,
                     resolved_brand_display_name=brand_entry.display_name,
-                    openbeautyfacts_title=obf_title,
-                    upcitemdb_title=upc_title,
+                    openbeautyfacts_title=left_title,
+                    upcitemdb_title=right_title,
                     title_similarity=sim,
                     verification_status=status,
                 )
             )
         else:
-            cand = obf if obf is not None else upc
-            assert cand is not None
+            cand = present[0]
             resolved_slug = registry.resolve_canonical_slug(cand.brand_slug)
             brand_entry = registry.get_canonical_entry(resolved_slug)
             if brand_entry is None:
@@ -476,8 +511,9 @@ def reconcile_sources(
             openbeautyfacts_raw_matched=(
                 obf_result.raw_matched_count
                 + (opf_result.raw_matched_count if opf_result is not None else 0)
+                + (storefront_result.raw_matched_count if storefront_result is not None else 0)
             ),
-            openbeautyfacts_unique_valid=len(obf_by_gtin),
+            openbeautyfacts_unique_valid=len(obf_by_gtin) + len(sf_by_gtin),
             upcitemdb_raw_matched=upc_result.raw_matched_count,
             upcitemdb_unique_valid=len(upc_by_gtin),
             intra_source_duplicates_removed=intra_dups,

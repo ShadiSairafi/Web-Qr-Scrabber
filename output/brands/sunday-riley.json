@@ -6,8 +6,5014 @@
   "is_store_own_brand": false,
   "alias_of": null,
   "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
-  "product_count": 0,
-  "canonical_product_count": 0,
+  "product_count": 65,
+  "canonical_product_count": 65,
   "cross_source_verified_count": 0,
-  "products": []
+  "products": [
+    {
+      "gtin14": "00810156810312",
+      "product_name": "C.E.O. Body Butter",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-body-butter-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00810156810312.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Body Butter",
+        "source_names": {
+          "brand_storefront": "C.E.O. Body Butter"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-body-butter-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-body-butter-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-body-butter-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00810156810312.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156810312",
+        "ean13": "0810156810312",
+        "upc_a": "810156810312",
+        "ean8": null,
+        "primary_code": "810156810312",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156810312"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156810312",
+        "qr_payload_text": "https://id.gs1.org/01/00810156810312",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156810312",
+          "code": "810156810312",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Body Butter",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-body-butter-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156810312.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156810442",
+      "product_name": "A.M. Weekend Getaway",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-m-weekend-getaway-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00810156810442.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "A.M. Weekend Getaway",
+        "source_names": {
+          "brand_storefront": "A.M. Weekend Getaway"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-m-weekend-getaway-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-m-weekend-getaway-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/a-m-weekend-getaway-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00810156810442.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156810442",
+        "ean13": "0810156810442",
+        "upc_a": "810156810442",
+        "ean8": null,
+        "primary_code": "810156810442",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156810442"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156810442",
+        "qr_payload_text": "https://id.gs1.org/01/00810156810442",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156810442",
+          "code": "810156810442",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "A.M. Weekend Getaway",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-m-weekend-getaway-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156810442.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156810695",
+      "product_name": "Aquamarine Melt Hydrating Gel-Balm Cleanser",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/aquamarine-melt-hydrating-gel-balm-cleanser-beige-2026.png?v=1794255161",
+      "local_image_path": "images/sunday-riley/00810156810695.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Aquamarine Melt Hydrating Gel-Balm Cleanser",
+        "source_names": {
+          "brand_storefront": "Aquamarine Melt Hydrating Gel-Balm Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "cleanser"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/aquamarine-melt-hydrating-gel-balm-cleanser-beige-2026.png?v=1794255161",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/aquamarine-melt-hydrating-gel-balm-cleanser-beige-2026.png?v=1794255161",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/aquamarine-melt-hydrating-gel-balm-cleanser-beige-2026.png?v=1794255161"
+        ],
+        "local_image_path": "images/sunday-riley/00810156810695.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156810695",
+        "ean13": "0810156810695",
+        "upc_a": "810156810695",
+        "ean8": null,
+        "primary_code": "810156810695",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156810695"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156810695",
+        "qr_payload_text": "https://id.gs1.org/01/00810156810695",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156810695",
+          "code": "810156810695",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Aquamarine Melt Hydrating Gel-Balm Cleanser",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/aquamarine-melt-hydrating-gel-balm-cleanser-beige-2026.png?v=1794255161"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156810695.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156810817",
+      "product_name": "AI",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ai-beige-2026.png?v=1794255161",
+      "local_image_path": "images/sunday-riley/00810156810817.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "AI",
+        "source_names": {
+          "brand_storefront": "AI"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ai-beige-2026.png?v=1794255161",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ai-beige-2026.png?v=1794255161",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ai-beige-2026.png?v=1794255161"
+        ],
+        "local_image_path": "images/sunday-riley/00810156810817.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156810817",
+        "ean13": "0810156810817",
+        "upc_a": "810156810817",
+        "ean8": null,
+        "primary_code": "810156810817",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156810817"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156810817",
+        "qr_payload_text": "https://id.gs1.org/01/00810156810817",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156810817",
+          "code": "810156810817",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "AI",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ai-beige-2026.png?v=1794255161"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156810817.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156810831",
+      "product_name": "Detox Darling",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/detox-darling-beige-2026.png?v=1794255069",
+      "local_image_path": "images/sunday-riley/00810156810831.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Detox Darling",
+        "source_names": {
+          "brand_storefront": "Detox Darling"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/detox-darling-beige-2026.png?v=1794255069",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/detox-darling-beige-2026.png?v=1794255069",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/detox-darling-beige-2026.png?v=1794255069"
+        ],
+        "local_image_path": "images/sunday-riley/00810156810831.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156810831",
+        "ean13": "0810156810831",
+        "upc_a": "810156810831",
+        "ean8": null,
+        "primary_code": "810156810831",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156810831"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156810831",
+        "qr_payload_text": "https://id.gs1.org/01/00810156810831",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156810831",
+          "code": "810156810831",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Detox Darling",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/detox-darling-beige-2026.png?v=1794255069"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156810831.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156810848",
+      "product_name": "Tidal Deep Hydration + Plumping Serum - 1 fl oz/30 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/tidal-deep-hydration-plumping-serum-beige-2026.png?v=1794255161",
+      "local_image_path": "images/sunday-riley/00810156810848.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Tidal Deep Hydration + Plumping Serum - 1 fl oz/30 ml",
+        "source_names": {
+          "brand_storefront": "Tidal Deep Hydration + Plumping Serum - 1 fl oz/30 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/tidal-deep-hydration-plumping-serum-beige-2026.png?v=1794255161",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/tidal-deep-hydration-plumping-serum-beige-2026.png?v=1794255161",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/tidal-deep-hydration-plumping-serum-beige-2026.png?v=1794255161"
+        ],
+        "local_image_path": "images/sunday-riley/00810156810848.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156810848",
+        "ean13": "0810156810848",
+        "upc_a": "810156810848",
+        "ean8": null,
+        "primary_code": "810156810848",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156810848"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156810848",
+        "qr_payload_text": "https://id.gs1.org/01/00810156810848",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156810848",
+          "code": "810156810848",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Tidal Deep Hydration + Plumping Serum - 1 fl oz/30 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/tidal-deep-hydration-plumping-serum-beige-2026.png?v=1794255161"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156810848.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156810909",
+      "product_name": "Breakout Breakup",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/breakout-breakup-beige-2026.png?v=1794254969",
+      "local_image_path": "images/sunday-riley/00810156810909.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Breakout Breakup",
+        "source_names": {
+          "brand_storefront": "Breakout Breakup"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "cleanser"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/breakout-breakup-beige-2026.png?v=1794254969",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/breakout-breakup-beige-2026.png?v=1794254969",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/breakout-breakup-beige-2026.png?v=1794254969"
+        ],
+        "local_image_path": "images/sunday-riley/00810156810909.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156810909",
+        "ean13": "0810156810909",
+        "upc_a": "810156810909",
+        "ean8": null,
+        "primary_code": "810156810909",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156810909"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156810909",
+        "qr_payload_text": "https://id.gs1.org/01/00810156810909",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156810909",
+          "code": "810156810909",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Breakout Breakup",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/breakout-breakup-beige-2026.png?v=1794254969"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156810909.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156811036",
+      "product_name": "C.E.O. 15% Vitamin C Brightening Serum - 1.7 fl oz/50 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--50ml-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00810156811036.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. 15% Vitamin C Brightening Serum - 1.7 fl oz/50 ml",
+        "source_names": {
+          "brand_storefront": "C.E.O. 15% Vitamin C Brightening Serum - 1.7 fl oz/50 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--50ml-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--50ml-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--50ml-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00810156811036.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156811036",
+        "ean13": "0810156811036",
+        "upc_a": "810156811036",
+        "ean8": null,
+        "primary_code": "810156811036",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156811036"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156811036",
+        "qr_payload_text": "https://id.gs1.org/01/00810156811036",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156811036",
+          "code": "810156811036",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. 15% Vitamin C Brightening Serum - 1.7 fl oz/50 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--50ml-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156811036.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156811760",
+      "product_name": "Ceramor Ceramide Barrier Replenishing Cream",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramor-beige-2026.png?v=1794255161",
+      "local_image_path": "images/sunday-riley/00810156811760.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Ceramor Ceramide Barrier Replenishing Cream",
+        "source_names": {
+          "brand_storefront": "Ceramor Ceramide Barrier Replenishing Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramor-beige-2026.png?v=1794255161",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramor-beige-2026.png?v=1794255161",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramor-beige-2026.png?v=1794255161"
+        ],
+        "local_image_path": "images/sunday-riley/00810156811760.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156811760",
+        "ean13": "0810156811760",
+        "upc_a": "810156811760",
+        "ean8": null,
+        "primary_code": "810156811760",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156811760"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156811760",
+        "qr_payload_text": "https://id.gs1.org/01/00810156811760",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156811760",
+          "code": "810156811760",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Ceramor Ceramide Barrier Replenishing Cream",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramor-beige-2026.png?v=1794255161"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156811760.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156811807",
+      "product_name": "Deep Dive Hydration Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/deep-dive-hydration-set-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00810156811807.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Deep Dive Hydration Set",
+        "source_names": {
+          "brand_storefront": "Deep Dive Hydration Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/deep-dive-hydration-set-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/deep-dive-hydration-set-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/deep-dive-hydration-set-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00810156811807.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156811807",
+        "ean13": "0810156811807",
+        "upc_a": "810156811807",
+        "ean8": null,
+        "primary_code": "810156811807",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156811807"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156811807",
+        "qr_payload_text": "https://id.gs1.org/01/00810156811807",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156811807",
+          "code": "810156811807",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Deep Dive Hydration Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/deep-dive-hydration-set-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156811807.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812255",
+      "product_name": "C.E.O. Cream Ornament",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-cream-ornament-beige-2026.png?v=1794255307",
+      "local_image_path": "images/sunday-riley/00810156812255.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Cream Ornament",
+        "source_names": {
+          "brand_storefront": "C.E.O. Cream Ornament"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-cream-ornament-beige-2026.png?v=1794255307",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-cream-ornament-beige-2026.png?v=1794255307",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-cream-ornament-beige-2026.png?v=1794255307"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812255.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812255",
+        "ean13": "0810156812255",
+        "upc_a": "810156812255",
+        "ean8": null,
+        "primary_code": "810156812255",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812255"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812255",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812255",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812255",
+          "code": "810156812255",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Cream Ornament",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-cream-ornament-beige-2026.png?v=1794255307"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812255.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812262",
+      "product_name": "Good Genes + C.E.O. Glow Ornament",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-c-e-o-glow-ornament-beige-2026.png?v=1794255307",
+      "local_image_path": "images/sunday-riley/00810156812262.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Good Genes + C.E.O. Glow Ornament",
+        "source_names": {
+          "brand_storefront": "Good Genes + C.E.O. Glow Ornament"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-c-e-o-glow-ornament-beige-2026.png?v=1794255307",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-c-e-o-glow-ornament-beige-2026.png?v=1794255307",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-c-e-o-glow-ornament-beige-2026.png?v=1794255307"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812262.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812262",
+        "ean13": "0810156812262",
+        "upc_a": "810156812262",
+        "ean8": null,
+        "primary_code": "810156812262",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812262"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812262",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812262",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812262",
+          "code": "810156812262",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Good Genes + C.E.O. Glow Ornament",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-c-e-o-glow-ornament-beige-2026.png?v=1794255307"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812262.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812279",
+      "product_name": "Hydration Ornament",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-ornament-beige-2026.png?v=1794255307",
+      "local_image_path": "images/sunday-riley/00810156812279.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Hydration Ornament",
+        "source_names": {
+          "brand_storefront": "Hydration Ornament"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-ornament-beige-2026.png?v=1794255307",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-ornament-beige-2026.png?v=1794255307",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-ornament-beige-2026.png?v=1794255307"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812279.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812279",
+        "ean13": "0810156812279",
+        "upc_a": "810156812279",
+        "ean8": null,
+        "primary_code": "810156812279",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812279"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812279",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812279",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812279",
+          "code": "810156812279",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Hydration Ornament",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-ornament-beige-2026.png?v=1794255307"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812279.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812293",
+      "product_name": "Hydration Station",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-station-beige-2026.png?v=1794255162",
+      "local_image_path": "images/sunday-riley/00810156812293.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Hydration Station",
+        "source_names": {
+          "brand_storefront": "Hydration Station"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-station-beige-2026.png?v=1794255162",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-station-beige-2026.png?v=1794255162",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-station-beige-2026.png?v=1794255162"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812293.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812293",
+        "ean13": "0810156812293",
+        "upc_a": "810156812293",
+        "ean8": null,
+        "primary_code": "810156812293",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812293"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812293",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812293",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812293",
+          "code": "810156812293",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Hydration Station",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/hydration-station-beige-2026.png?v=1794255162"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812293.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812309",
+      "product_name": "The C Suite",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-c-suite-beige-2026.png?v=1794255238",
+      "local_image_path": "images/sunday-riley/00810156812309.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "The C Suite",
+        "source_names": {
+          "brand_storefront": "The C Suite"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-c-suite-beige-2026.png?v=1794255238",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-c-suite-beige-2026.png?v=1794255238",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/the-c-suite-beige-2026.png?v=1794255238"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812309.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812309",
+        "ean13": "0810156812309",
+        "upc_a": "810156812309",
+        "ean8": null,
+        "primary_code": "810156812309",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812309"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812309",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812309",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812309",
+          "code": "810156812309",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "The C Suite",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-c-suite-beige-2026.png?v=1794255238"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812309.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812316",
+      "product_name": "Double Shot",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/double-shot-1-beige-2026.png?v=1794255238",
+      "local_image_path": "images/sunday-riley/00810156812316.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Double Shot",
+        "source_names": {
+          "brand_storefront": "Double Shot"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/double-shot-1-beige-2026.png?v=1794255238",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/double-shot-1-beige-2026.png?v=1794255238",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/double-shot-1-beige-2026.png?v=1794255238"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812316.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812316",
+        "ean13": "0810156812316",
+        "upc_a": "810156812316",
+        "ean8": null,
+        "primary_code": "810156812316",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812316"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812316",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812316",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812316",
+          "code": "810156812316",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Double Shot",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/double-shot-1-beige-2026.png?v=1794255238"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812316.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812323",
+      "product_name": "Sold Out",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/sold-out-beige-2026.png?v=1794255238",
+      "local_image_path": "images/sunday-riley/00810156812323.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Sold Out",
+        "source_names": {
+          "brand_storefront": "Sold Out"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/sold-out-beige-2026.png?v=1794255238",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/sold-out-beige-2026.png?v=1794255238",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/sold-out-beige-2026.png?v=1794255238"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812323.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812323",
+        "ean13": "0810156812323",
+        "upc_a": "810156812323",
+        "ean8": null,
+        "primary_code": "810156812323",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812323"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812323",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812323",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812323",
+          "code": "810156812323",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Sold Out",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/sold-out-beige-2026.png?v=1794255238"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812323.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812330",
+      "product_name": "The Essentials",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-essentials-beige-2026.png?v=1794255238",
+      "local_image_path": "images/sunday-riley/00810156812330.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "The Essentials",
+        "source_names": {
+          "brand_storefront": "The Essentials"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-essentials-beige-2026.png?v=1794255238",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-essentials-beige-2026.png?v=1794255238",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/the-essentials-beige-2026.png?v=1794255238"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812330.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812330",
+        "ean13": "0810156812330",
+        "upc_a": "810156812330",
+        "ean8": null,
+        "primary_code": "810156812330",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812330"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812330",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812330",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812330",
+          "code": "810156812330",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "The Essentials",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/the-essentials-beige-2026.png?v=1794255238"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812330.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812347",
+      "product_name": "Carry-On Essentials",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/carry-on-essentials-beige-2026.png?v=1794255307",
+      "local_image_path": "images/sunday-riley/00810156812347.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Carry-On Essentials",
+        "source_names": {
+          "brand_storefront": "Carry-On Essentials"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/carry-on-essentials-beige-2026.png?v=1794255307",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/carry-on-essentials-beige-2026.png?v=1794255307",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/carry-on-essentials-beige-2026.png?v=1794255307"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812347.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812347",
+        "ean13": "0810156812347",
+        "upc_a": "810156812347",
+        "ean8": null,
+        "primary_code": "810156812347",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812347"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812347",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812347",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812347",
+          "code": "810156812347",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Carry-On Essentials",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/carry-on-essentials-beige-2026.png?v=1794255307"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812347.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810156812613",
+      "product_name": "Go To Bed With Me",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/go-to-bed-with-me-beige-2026.png?v=1794266704",
+      "local_image_path": "images/sunday-riley/00810156812613.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Go To Bed With Me",
+        "source_names": {
+          "brand_storefront": "Go To Bed With Me"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/go-to-bed-with-me-beige-2026.png?v=1794266704",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/go-to-bed-with-me-beige-2026.png?v=1794266704",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/go-to-bed-with-me-beige-2026.png?v=1794266704"
+        ],
+        "local_image_path": "images/sunday-riley/00810156812613.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810156812613",
+        "ean13": "0810156812613",
+        "upc_a": "810156812613",
+        "ean8": null,
+        "primary_code": "810156812613",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810156812613"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810156812613",
+        "qr_payload_text": "https://id.gs1.org/01/00810156812613",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810156812613",
+          "code": "810156812613",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Go To Bed With Me",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/go-to-bed-with-me-beige-2026.png?v=1794266704"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00810156812613.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494010961",
+      "product_name": "Juno Antioxidant + Superfood Face Oil - 1.18 fl oz/35ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494010961.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Juno Antioxidant + Superfood Face Oil - 1.18 fl oz/35ml",
+        "source_names": {
+          "brand_storefront": "Juno Antioxidant + Superfood Face Oil - 1.18 fl oz/35ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494010961.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494010961",
+        "ean13": "0817494010961",
+        "upc_a": "817494010961",
+        "ean8": null,
+        "primary_code": "817494010961",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494010961"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494010961",
+        "qr_payload_text": "https://id.gs1.org/01/00817494010961",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494010961",
+          "code": "817494010961",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Juno Antioxidant + Superfood Face Oil - 1.18 fl oz/35ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494010961.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011012",
+      "product_name": "Luna Sleeping Night Oil - 1.18 fl oz/35 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494011012.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Luna Sleeping Night Oil - 1.18 fl oz/35 ml",
+        "source_names": {
+          "brand_storefront": "Luna Sleeping Night Oil - 1.18 fl oz/35 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011012.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011012",
+        "ean13": "0817494011012",
+        "upc_a": "817494011012",
+        "ean8": null,
+        "primary_code": "817494011012",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011012"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011012",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011012",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011012",
+          "code": "817494011012",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Luna Sleeping Night Oil - 1.18 fl oz/35 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011012.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011029",
+      "product_name": "Blue Moon Clean Rinse Cleansing Balm - 3.5oz/100g",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/blue-moon-cleansing-balm-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494011029.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Blue Moon Clean Rinse Cleansing Balm - 3.5oz/100g",
+        "source_names": {
+          "brand_storefront": "Blue Moon Clean Rinse Cleansing Balm - 3.5oz/100g"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "cleanser"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/blue-moon-cleansing-balm-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/blue-moon-cleansing-balm-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/blue-moon-cleansing-balm-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011029.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011029",
+        "ean13": "0817494011029",
+        "upc_a": "817494011029",
+        "ean8": null,
+        "primary_code": "817494011029",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011029"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011029",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011029",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011029",
+          "code": "817494011029",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Blue Moon Clean Rinse Cleansing Balm - 3.5oz/100g",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/blue-moon-cleansing-balm-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011029.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011180",
+      "product_name": "Power Couple Globally Bestselling Duo",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-globally-bestselling-duo-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494011180.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Power Couple Globally Bestselling Duo",
+        "source_names": {
+          "brand_storefront": "Power Couple Globally Bestselling Duo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-globally-bestselling-duo-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-globally-bestselling-duo-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-globally-bestselling-duo-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011180.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011180",
+        "ean13": "0817494011180",
+        "upc_a": "817494011180",
+        "ean8": null,
+        "primary_code": "817494011180",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011180"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011180",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011180",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011180",
+          "code": "817494011180",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Power Couple Globally Bestselling Duo",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-globally-bestselling-duo-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011180.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011364",
+      "product_name": "U.F.O. Acne Treatment Face Oil - 1.18 fl oz/35 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil-gray-2026.png?v=1794267519",
+      "local_image_path": "images/sunday-riley/00817494011364.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "U.F.O. Acne Treatment Face Oil - 1.18 fl oz/35 ml",
+        "source_names": {
+          "brand_storefront": "U.F.O. Acne Treatment Face Oil - 1.18 fl oz/35 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil-gray-2026.png?v=1794267519",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil-gray-2026.png?v=1794267519",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil-gray-2026.png?v=1794267519"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011364.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011364",
+        "ean13": "0817494011364",
+        "upc_a": "817494011364",
+        "ean8": null,
+        "primary_code": "817494011364",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011364"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011364",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011364",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011364",
+          "code": "817494011364",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "U.F.O. Acne Treatment Face Oil - 1.18 fl oz/35 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil-gray-2026.png?v=1794267519"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011364.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011401",
+      "product_name": "Good Genes Lactic Acid Treatment - 1.7 fl oz/50 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--50ml-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494011401.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Good Genes Lactic Acid Treatment - 1.7 fl oz/50 ml",
+        "source_names": {
+          "brand_storefront": "Good Genes Lactic Acid Treatment - 1.7 fl oz/50 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--50ml-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--50ml-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--50ml-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011401.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011401",
+        "ean13": "0817494011401",
+        "upc_a": "817494011401",
+        "ean8": null,
+        "primary_code": "817494011401",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011401"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011401",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011401",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011401",
+          "code": "817494011401",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Good Genes Lactic Acid Treatment - 1.7 fl oz/50 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--50ml-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011401.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011456",
+      "product_name": "Auto Correct Brightening + Depuffing Eye Cream - .5 fl oz/15 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/autocorrect-brightening-eye-cream-beige-2026.png?v=1794254969",
+      "local_image_path": "images/sunday-riley/00817494011456.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Auto Correct Brightening + Depuffing Eye Cream - .5 fl oz/15 ml",
+        "source_names": {
+          "brand_storefront": "Auto Correct Brightening + Depuffing Eye Cream - .5 fl oz/15 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "treatment"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/autocorrect-brightening-eye-cream-beige-2026.png?v=1794254969",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/autocorrect-brightening-eye-cream-beige-2026.png?v=1794254969",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/autocorrect-brightening-eye-cream-beige-2026.png?v=1794254969"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011456.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011456",
+        "ean13": "0817494011456",
+        "upc_a": "817494011456",
+        "ean8": null,
+        "primary_code": "817494011456",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011456"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011456",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011456",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011456",
+          "code": "817494011456",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Auto Correct Brightening + Depuffing Eye Cream - .5 fl oz/15 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/autocorrect-brightening-eye-cream-beige-2026.png?v=1794254969"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011456.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011524",
+      "product_name": "U.F.O. Acne Treatment Face Oil - .5 fl oz/15 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil--15ml-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494011524.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "U.F.O. Acne Treatment Face Oil - .5 fl oz/15 ml",
+        "source_names": {
+          "brand_storefront": "U.F.O. Acne Treatment Face Oil - .5 fl oz/15 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil--15ml-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil--15ml-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil--15ml-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011524.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011524",
+        "ean13": "0817494011524",
+        "upc_a": "817494011524",
+        "ean8": null,
+        "primary_code": "817494011524",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011524"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011524",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011524",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011524",
+          "code": "817494011524",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "U.F.O. Acne Treatment Face Oil - .5 fl oz/15 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ufo-acne-treatment-face-oil--15ml-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011524.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011531",
+      "product_name": "Juno Antioxidant + Superfood Face Oil - .5 fl oz/15ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil--15ml-beige-2026.png?v=1794266704",
+      "local_image_path": "images/sunday-riley/00817494011531.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Juno Antioxidant + Superfood Face Oil - .5 fl oz/15ml",
+        "source_names": {
+          "brand_storefront": "Juno Antioxidant + Superfood Face Oil - .5 fl oz/15ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil--15ml-beige-2026.png?v=1794266704",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil--15ml-beige-2026.png?v=1794266704",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil--15ml-beige-2026.png?v=1794266704"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011531.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011531",
+        "ean13": "0817494011531",
+        "upc_a": "817494011531",
+        "ean8": null,
+        "primary_code": "817494011531",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011531"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011531",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011531",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011531",
+          "code": "817494011531",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Juno Antioxidant + Superfood Face Oil - .5 fl oz/15ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/juno-antioxidant-superfood-face-oil--15ml-beige-2026.png?v=1794266704"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011531.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011548",
+      "product_name": "Luna Sleeping Night Oil - .5 fl oz/15 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil--15ml-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00817494011548.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Luna Sleeping Night Oil - .5 fl oz/15 ml",
+        "source_names": {
+          "brand_storefront": "Luna Sleeping Night Oil - .5 fl oz/15 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil--15ml-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil--15ml-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil--15ml-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011548.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011548",
+        "ean13": "0817494011548",
+        "upc_a": "817494011548",
+        "ean8": null,
+        "primary_code": "817494011548",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011548"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011548",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011548",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011548",
+          "code": "817494011548",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Luna Sleeping Night Oil - .5 fl oz/15 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/luna-sleeping-night-oil--15ml-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011548.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011661",
+      "product_name": "C.E.O. 15% Vitamin C Brightening Serum - 1 fl oz/30 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum-beige-2026.png?v=1794255069",
+      "local_image_path": "images/sunday-riley/00817494011661.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. 15% Vitamin C Brightening Serum - 1 fl oz/30 ml",
+        "source_names": {
+          "brand_storefront": "C.E.O. 15% Vitamin C Brightening Serum - 1 fl oz/30 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum-beige-2026.png?v=1794255069",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum-beige-2026.png?v=1794255069",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum-beige-2026.png?v=1794255069"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011661.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011661",
+        "ean13": "0817494011661",
+        "upc_a": "817494011661",
+        "ean8": null,
+        "primary_code": "817494011661",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011661"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011661",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011661",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011661",
+          "code": "817494011661",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. 15% Vitamin C Brightening Serum - 1 fl oz/30 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum-beige-2026.png?v=1794255069"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011661.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011678",
+      "product_name": "C.E.O. 15% Vitamin C Brightening Serum - 0.5 fl oz/15 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--15ml-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494011678.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. 15% Vitamin C Brightening Serum - 0.5 fl oz/15 ml",
+        "source_names": {
+          "brand_storefront": "C.E.O. 15% Vitamin C Brightening Serum - 0.5 fl oz/15 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--15ml-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--15ml-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--15ml-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011678.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011678",
+        "ean13": "0817494011678",
+        "upc_a": "817494011678",
+        "ean8": null,
+        "primary_code": "817494011678",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011678"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011678",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011678",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011678",
+          "code": "817494011678",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. 15% Vitamin C Brightening Serum - 0.5 fl oz/15 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--15ml-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011678.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494011883",
+      "product_name": "C.E.O. Vitamin C Rich Hydration Cream - .5 fl oz/15g",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer--15g-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494011883.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Vitamin C Rich Hydration Cream - .5 fl oz/15g",
+        "source_names": {
+          "brand_storefront": "C.E.O. Vitamin C Rich Hydration Cream - .5 fl oz/15g"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer--15g-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer--15g-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer--15g-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494011883.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494011883",
+        "ean13": "0817494011883",
+        "upc_a": "817494011883",
+        "ean8": null,
+        "primary_code": "817494011883",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494011883"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494011883",
+        "qr_payload_text": "https://id.gs1.org/01/00817494011883",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494011883",
+          "code": "817494011883",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Vitamin C Rich Hydration Cream - .5 fl oz/15g",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer--15g-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494011883.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494012576",
+      "product_name": "Multivitamins C.E.O. Vitamin C Serum and Luna Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/multivitamin-kit-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494012576.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Multivitamins C.E.O. Vitamin C Serum and Luna Kit",
+        "source_names": {
+          "brand_storefront": "Multivitamins C.E.O. Vitamin C Serum and Luna Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/multivitamin-kit-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/multivitamin-kit-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/multivitamin-kit-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494012576.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494012576",
+        "ean13": "0817494012576",
+        "upc_a": "817494012576",
+        "ean8": null,
+        "primary_code": "817494012576",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494012576"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494012576",
+        "qr_payload_text": "https://id.gs1.org/01/00817494012576",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494012576",
+          "code": "817494012576",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Multivitamins C.E.O. Vitamin C Serum and Luna Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/multivitamin-kit-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494012576.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494012651",
+      "product_name": "Ceramic Slip Cleanser - 5.0 fl oz/150 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramic-slip-cleanser-beige-2026.png?v=1794254969",
+      "local_image_path": "images/sunday-riley/00817494012651.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Ceramic Slip Cleanser - 5.0 fl oz/150 ml",
+        "source_names": {
+          "brand_storefront": "Ceramic Slip Cleanser - 5.0 fl oz/150 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "cleanser"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramic-slip-cleanser-beige-2026.png?v=1794254969",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramic-slip-cleanser-beige-2026.png?v=1794254969",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramic-slip-cleanser-beige-2026.png?v=1794254969"
+        ],
+        "local_image_path": "images/sunday-riley/00817494012651.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494012651",
+        "ean13": "0817494012651",
+        "upc_a": "817494012651",
+        "ean8": null,
+        "primary_code": "817494012651",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494012651"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494012651",
+        "qr_payload_text": "https://id.gs1.org/01/00817494012651",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494012651",
+          "code": "817494012651",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Ceramic Slip Cleanser - 5.0 fl oz/150 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceramic-slip-cleanser-beige-2026.png?v=1794254969"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494012651.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494012712",
+      "product_name": "Flash Fix Good Genes and Ceramic Slip Kit (Glycolic Acid Version)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+      "local_image_path": "images/sunday-riley/00817494012712.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Flash Fix Good Genes and Ceramic Slip Kit (Glycolic Acid Version)",
+        "source_names": {
+          "brand_storefront": "Flash Fix Good Genes and Ceramic Slip Kit (Glycolic Acid Version)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-glycolic-acid-version-beige-2026.png?v=1794266702"
+        ],
+        "local_image_path": "images/sunday-riley/00817494012712.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494012712",
+        "ean13": "0817494012712",
+        "upc_a": "817494012712",
+        "ean8": null,
+        "primary_code": "817494012712",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494012712"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494012712",
+        "qr_payload_text": "https://id.gs1.org/01/00817494012712",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494012712",
+          "code": "817494012712",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Flash Fix Good Genes and Ceramic Slip Kit (Glycolic Acid Version)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-glycolic-acid-version-beige-2026.png?v=1794266702"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494012712.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494012873",
+      "product_name": "Good Genes Glycolic Acid Treatment - 1 fl oz/30 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-glycolic-acid-treatment-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494012873.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Good Genes Glycolic Acid Treatment - 1 fl oz/30 ml",
+        "source_names": {
+          "brand_storefront": "Good Genes Glycolic Acid Treatment - 1 fl oz/30 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-glycolic-acid-treatment-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-glycolic-acid-treatment-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-glycolic-acid-treatment-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494012873.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494012873",
+        "ean13": "0817494012873",
+        "upc_a": "817494012873",
+        "ean8": null,
+        "primary_code": "817494012873",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494012873"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494012873",
+        "qr_payload_text": "https://id.gs1.org/01/00817494012873",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494012873",
+          "code": "817494012873",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Good Genes Glycolic Acid Treatment - 1 fl oz/30 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-glycolic-acid-treatment-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494012873.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494012910",
+      "product_name": "Power Couple Total Transformation Kit- Glycolic Acid Version",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-total-transformation-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+      "local_image_path": "images/sunday-riley/00817494012910.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Power Couple Total Transformation Kit- Glycolic Acid Version",
+        "source_names": {
+          "brand_storefront": "Power Couple Total Transformation Kit- Glycolic Acid Version"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-total-transformation-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-total-transformation-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-total-transformation-kit-glycolic-acid-version-beige-2026.png?v=1794266702"
+        ],
+        "local_image_path": "images/sunday-riley/00817494012910.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494012910",
+        "ean13": "0817494012910",
+        "upc_a": "817494012910",
+        "ean8": null,
+        "primary_code": "817494012910",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494012910"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494012910",
+        "qr_payload_text": "https://id.gs1.org/01/00817494012910",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494012910",
+          "code": "817494012910",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Power Couple Total Transformation Kit- Glycolic Acid Version",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-couple-total-transformation-kit-glycolic-acid-version-beige-2026.png?v=1794266702"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494012910.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494012941",
+      "product_name": "Flash Fix Good Genes and Ceramic Slip Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-kit-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494012941.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Flash Fix Good Genes and Ceramic Slip Kit",
+        "source_names": {
+          "brand_storefront": "Flash Fix Good Genes and Ceramic Slip Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-kit-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-kit-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-kit-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494012941.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494012941",
+        "ean13": "0817494012941",
+        "upc_a": "817494012941",
+        "ean8": null,
+        "primary_code": "817494012941",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494012941"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494012941",
+        "qr_payload_text": "https://id.gs1.org/01/00817494012941",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494012941",
+          "code": "817494012941",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Flash Fix Good Genes and Ceramic Slip Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-kit-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494012941.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494012996",
+      "product_name": "C.E.O. Vitamin C Rich Hydration Cream - 1.7 fl oz/50g",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494012996.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Vitamin C Rich Hydration Cream - 1.7 fl oz/50g",
+        "source_names": {
+          "brand_storefront": "C.E.O. Vitamin C Rich Hydration Cream - 1.7 fl oz/50g"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494012996.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494012996",
+        "ean13": "0817494012996",
+        "upc_a": "817494012996",
+        "ean8": null,
+        "primary_code": "817494012996",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494012996"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494012996",
+        "qr_payload_text": "https://id.gs1.org/01/00817494012996",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494012996",
+          "code": "817494012996",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Vitamin C Rich Hydration Cream - 1.7 fl oz/50g",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-antioxidant-moisturizer-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494012996.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494013252",
+      "product_name": "A+ High-Dose Retinoid Serum - 1 fl oz/30 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum-beige-2026.png?v=1794266641",
+      "local_image_path": "images/sunday-riley/00817494013252.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "A+ High-Dose Retinoid Serum - 1 fl oz/30 ml",
+        "source_names": {
+          "brand_storefront": "A+ High-Dose Retinoid Serum - 1 fl oz/30 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum-beige-2026.png?v=1794266641",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum-beige-2026.png?v=1794266641",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum-beige-2026.png?v=1794266641"
+        ],
+        "local_image_path": "images/sunday-riley/00817494013252.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494013252",
+        "ean13": "0817494013252",
+        "upc_a": "817494013252",
+        "ean8": null,
+        "primary_code": "817494013252",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494013252"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494013252",
+        "qr_payload_text": "https://id.gs1.org/01/00817494013252",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494013252",
+          "code": "817494013252",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "A+ High-Dose Retinoid Serum - 1 fl oz/30 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum-beige-2026.png?v=1794266641"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494013252.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494013283",
+      "product_name": "C.E.O. Glow Vitamin C and Turmeric Face Oil - .5 fl oz/15 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow--15ml-beige-2026.png?v=1794266704",
+      "local_image_path": "images/sunday-riley/00817494013283.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Glow Vitamin C and Turmeric Face Oil - .5 fl oz/15 ml",
+        "source_names": {
+          "brand_storefront": "C.E.O. Glow Vitamin C and Turmeric Face Oil - .5 fl oz/15 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow--15ml-beige-2026.png?v=1794266704",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow--15ml-beige-2026.png?v=1794266704",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow--15ml-beige-2026.png?v=1794266704"
+        ],
+        "local_image_path": "images/sunday-riley/00817494013283.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494013283",
+        "ean13": "0817494013283",
+        "upc_a": "817494013283",
+        "ean8": null,
+        "primary_code": "817494013283",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494013283"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494013283",
+        "qr_payload_text": "https://id.gs1.org/01/00817494013283",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494013283",
+          "code": "817494013283",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Glow Vitamin C and Turmeric Face Oil - .5 fl oz/15 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow--15ml-beige-2026.png?v=1794266704"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494013283.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494013290",
+      "product_name": "C.E.O. Glow Vitamin C and Turmeric Face Oil - 1.18 fl oz/35 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow-gray-2026.png?v=1794267519",
+      "local_image_path": "images/sunday-riley/00817494013290.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Glow Vitamin C and Turmeric Face Oil - 1.18 fl oz/35 ml",
+        "source_names": {
+          "brand_storefront": "C.E.O. Glow Vitamin C and Turmeric Face Oil - 1.18 fl oz/35 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "OIL"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow-gray-2026.png?v=1794267519",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow-gray-2026.png?v=1794267519",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow-gray-2026.png?v=1794267519"
+        ],
+        "local_image_path": "images/sunday-riley/00817494013290.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494013290",
+        "ean13": "0817494013290",
+        "upc_a": "817494013290",
+        "ean8": null,
+        "primary_code": "817494013290",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494013290"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494013290",
+        "qr_payload_text": "https://id.gs1.org/01/00817494013290",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494013290",
+          "code": "817494013290",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Glow Vitamin C and Turmeric Face Oil - 1.18 fl oz/35 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-glow-gray-2026.png?v=1794267519"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494013290.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494013337",
+      "product_name": "A+ High-Dose Retinoid Serum - 1.7 fl oz/50 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--50ml-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494013337.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "A+ High-Dose Retinoid Serum - 1.7 fl oz/50 ml",
+        "source_names": {
+          "brand_storefront": "A+ High-Dose Retinoid Serum - 1.7 fl oz/50 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--50ml-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--50ml-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--50ml-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494013337.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494013337",
+        "ean13": "0817494013337",
+        "upc_a": "817494013337",
+        "ean8": null,
+        "primary_code": "817494013337",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494013337"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494013337",
+        "qr_payload_text": "https://id.gs1.org/01/00817494013337",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494013337",
+          "code": "817494013337",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "A+ High-Dose Retinoid Serum - 1.7 fl oz/50 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--50ml-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494013337.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494014846",
+      "product_name": "Pro Vitamins Kit Vitamin C Bestsellers",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pro-vitamins-kit-vitamin-c-bestsellers-beige-2026.png?v=1794266701",
+      "local_image_path": "images/sunday-riley/00817494014846.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Pro Vitamins Kit Vitamin C Bestsellers",
+        "source_names": {
+          "brand_storefront": "Pro Vitamins Kit Vitamin C Bestsellers"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pro-vitamins-kit-vitamin-c-bestsellers-beige-2026.png?v=1794266701",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pro-vitamins-kit-vitamin-c-bestsellers-beige-2026.png?v=1794266701",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/pro-vitamins-kit-vitamin-c-bestsellers-beige-2026.png?v=1794266701"
+        ],
+        "local_image_path": "images/sunday-riley/00817494014846.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494014846",
+        "ean13": "0817494014846",
+        "upc_a": "817494014846",
+        "ean8": null,
+        "primary_code": "817494014846",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494014846"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494014846",
+        "qr_payload_text": "https://id.gs1.org/01/00817494014846",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494014846",
+          "code": "817494014846",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Pro Vitamins Kit Vitamin C Bestsellers",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pro-vitamins-kit-vitamin-c-bestsellers-beige-2026.png?v=1794266701"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494014846.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494014938",
+      "product_name": "Superstars Vol.1 Best Sellers Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/superstars-vol-1-online-exclusive-best-sellers-kit-beige-2026.png?v=1794266701",
+      "local_image_path": "images/sunday-riley/00817494014938.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Superstars Vol.1 Best Sellers Kit",
+        "source_names": {
+          "brand_storefront": "Superstars Vol.1 Best Sellers Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/superstars-vol-1-online-exclusive-best-sellers-kit-beige-2026.png?v=1794266701",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/superstars-vol-1-online-exclusive-best-sellers-kit-beige-2026.png?v=1794266701",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/superstars-vol-1-online-exclusive-best-sellers-kit-beige-2026.png?v=1794266701"
+        ],
+        "local_image_path": "images/sunday-riley/00817494014938.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494014938",
+        "ean13": "0817494014938",
+        "upc_a": "817494014938",
+        "ean8": null,
+        "primary_code": "817494014938",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494014938"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494014938",
+        "qr_payload_text": "https://id.gs1.org/01/00817494014938",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494014938",
+          "code": "817494014938",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Superstars Vol.1 Best Sellers Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/superstars-vol-1-online-exclusive-best-sellers-kit-beige-2026.png?v=1794266701"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494014938.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494014945",
+      "product_name": "Mini Power Couple Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-beige-2026.png?v=1794266701",
+      "local_image_path": "images/sunday-riley/00817494014945.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Mini Power Couple Kit",
+        "source_names": {
+          "brand_storefront": "Mini Power Couple Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-beige-2026.png?v=1794266701",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-beige-2026.png?v=1794266701",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-beige-2026.png?v=1794266701"
+        ],
+        "local_image_path": "images/sunday-riley/00817494014945.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494014945",
+        "ean13": "0817494014945",
+        "upc_a": "817494014945",
+        "ean8": null,
+        "primary_code": "817494014945",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494014945"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494014945",
+        "qr_payload_text": "https://id.gs1.org/01/00817494014945",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494014945",
+          "code": "817494014945",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Mini Power Couple Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-beige-2026.png?v=1794266701"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494014945.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494015041",
+      "product_name": "Jewel Box",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/jewel-box-v1-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00817494015041.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Jewel Box",
+        "source_names": {
+          "brand_storefront": "Jewel Box"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/jewel-box-v1-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/jewel-box-v1-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/jewel-box-v1-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00817494015041.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494015041",
+        "ean13": "0817494015041",
+        "upc_a": "817494015041",
+        "ean8": null,
+        "primary_code": "817494015041",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494015041"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494015041",
+        "qr_payload_text": "https://id.gs1.org/01/00817494015041",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494015041",
+          "code": "817494015041",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Jewel Box",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/jewel-box-v1-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494015041.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494015201",
+      "product_name": "Mini Retinol + Repeat Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-retinol-repeat-kit-beige-2026.png?v=1794266701",
+      "local_image_path": "images/sunday-riley/00817494015201.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Mini Retinol + Repeat Kit",
+        "source_names": {
+          "brand_storefront": "Mini Retinol + Repeat Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-retinol-repeat-kit-beige-2026.png?v=1794266701",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-retinol-repeat-kit-beige-2026.png?v=1794266701",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-retinol-repeat-kit-beige-2026.png?v=1794266701"
+        ],
+        "local_image_path": "images/sunday-riley/00817494015201.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494015201",
+        "ean13": "0817494015201",
+        "upc_a": "817494015201",
+        "ean8": null,
+        "primary_code": "817494015201",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494015201"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494015201",
+        "qr_payload_text": "https://id.gs1.org/01/00817494015201",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494015201",
+          "code": "817494015201",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Mini Retinol + Repeat Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-retinol-repeat-kit-beige-2026.png?v=1794266701"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494015201.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494015270",
+      "product_name": "Mini Power Couple Kit- Glycolic Acid Version",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+      "local_image_path": "images/sunday-riley/00817494015270.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Mini Power Couple Kit- Glycolic Acid Version",
+        "source_names": {
+          "brand_storefront": "Mini Power Couple Kit- Glycolic Acid Version"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-glycolic-acid-version-beige-2026.png?v=1794266702",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-glycolic-acid-version-beige-2026.png?v=1794266702"
+        ],
+        "local_image_path": "images/sunday-riley/00817494015270.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494015270",
+        "ean13": "0817494015270",
+        "upc_a": "817494015270",
+        "ean8": null,
+        "primary_code": "817494015270",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494015270"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494015270",
+        "qr_payload_text": "https://id.gs1.org/01/00817494015270",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494015270",
+          "code": "817494015270",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Mini Power Couple Kit- Glycolic Acid Version",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/mini-power-couple-kit-glycolic-acid-version-beige-2026.png?v=1794266702"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494015270.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494015287",
+      "product_name": "Saturn Sulfur Spot Treatment Mask - 0.5 fl oz/15ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/saturn-sulfur-acne-treatment-mask-15ml-beige-2026.png?v=1794266702",
+      "local_image_path": "images/sunday-riley/00817494015287.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Saturn Sulfur Spot Treatment Mask - 0.5 fl oz/15ml",
+        "source_names": {
+          "brand_storefront": "Saturn Sulfur Spot Treatment Mask - 0.5 fl oz/15ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "treatment"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/saturn-sulfur-acne-treatment-mask-15ml-beige-2026.png?v=1794266702",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/saturn-sulfur-acne-treatment-mask-15ml-beige-2026.png?v=1794266702",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/saturn-sulfur-acne-treatment-mask-15ml-beige-2026.png?v=1794266702"
+        ],
+        "local_image_path": "images/sunday-riley/00817494015287.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494015287",
+        "ean13": "0817494015287",
+        "upc_a": "817494015287",
+        "ean8": null,
+        "primary_code": "817494015287",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494015287"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494015287",
+        "qr_payload_text": "https://id.gs1.org/01/00817494015287",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494015287",
+          "code": "817494015287",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Saturn Sulfur Spot Treatment Mask - 0.5 fl oz/15ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/saturn-sulfur-acne-treatment-mask-15ml-beige-2026.png?v=1794266702"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494015287.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494015331",
+      "product_name": "Pink Drink Firming Resurfacing Essence - 1.7 fl oz/ 50ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pink-drink-firming-resurfacing-essence-beige-2026.png?v=1794254969",
+      "local_image_path": "images/sunday-riley/00817494015331.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Pink Drink Firming Resurfacing Essence - 1.7 fl oz/ 50ml",
+        "source_names": {
+          "brand_storefront": "Pink Drink Firming Resurfacing Essence - 1.7 fl oz/ 50ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Skin Care"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pink-drink-firming-resurfacing-essence-beige-2026.png?v=1794254969",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pink-drink-firming-resurfacing-essence-beige-2026.png?v=1794254969",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/pink-drink-firming-resurfacing-essence-beige-2026.png?v=1794254969"
+        ],
+        "local_image_path": "images/sunday-riley/00817494015331.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494015331",
+        "ean13": "0817494015331",
+        "upc_a": "817494015331",
+        "ean8": null,
+        "primary_code": "817494015331",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494015331"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494015331",
+        "qr_payload_text": "https://id.gs1.org/01/00817494015331",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494015331",
+          "code": "817494015331",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Pink Drink Firming Resurfacing Essence - 1.7 fl oz/ 50ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/pink-drink-firming-resurfacing-essence-beige-2026.png?v=1794254969"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494015331.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494015447",
+      "product_name": "A+ High-Dose Retinoid Serum - 0.5 fl oz/15 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--15ml-gray-2026.png?v=1794267519",
+      "local_image_path": "images/sunday-riley/00817494015447.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "A+ High-Dose Retinoid Serum - 0.5 fl oz/15 ml",
+        "source_names": {
+          "brand_storefront": "A+ High-Dose Retinoid Serum - 0.5 fl oz/15 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--15ml-gray-2026.png?v=1794267519",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--15ml-gray-2026.png?v=1794267519",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--15ml-gray-2026.png?v=1794267519"
+        ],
+        "local_image_path": "images/sunday-riley/00817494015447.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494015447",
+        "ean13": "0817494015447",
+        "upc_a": "817494015447",
+        "ean8": null,
+        "primary_code": "817494015447",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494015447"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494015447",
+        "qr_payload_text": "https://id.gs1.org/01/00817494015447",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494015447",
+          "code": "817494015447",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "A+ High-Dose Retinoid Serum - 0.5 fl oz/15 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/a-high-dose-retinoid-serum--15ml-gray-2026.png?v=1794267519"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494015447.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494015744",
+      "product_name": "Power Of 3",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-of-3-beige-2026.png?v=1794266702",
+      "local_image_path": "images/sunday-riley/00817494015744.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Power Of 3",
+        "source_names": {
+          "brand_storefront": "Power Of 3"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-of-3-beige-2026.png?v=1794266702",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-of-3-beige-2026.png?v=1794266702",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/power-of-3-beige-2026.png?v=1794266702"
+        ],
+        "local_image_path": "images/sunday-riley/00817494015744.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494015744",
+        "ean13": "0817494015744",
+        "upc_a": "817494015744",
+        "ean8": null,
+        "primary_code": "817494015744",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494015744"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494015744",
+        "qr_payload_text": "https://id.gs1.org/01/00817494015744",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494015744",
+          "code": "817494015744",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Power Of 3",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/power-of-3-beige-2026.png?v=1794266702"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494015744.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494016000",
+      "product_name": "Flash Fix Bundle Full Size Good Genes and Ceramic Slip Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-beige-2026.png?v=1794266702",
+      "local_image_path": "images/sunday-riley/00817494016000.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Flash Fix Bundle Full Size Good Genes and Ceramic Slip Kit",
+        "source_names": {
+          "brand_storefront": "Flash Fix Bundle Full Size Good Genes and Ceramic Slip Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-beige-2026.png?v=1794266702",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-beige-2026.png?v=1794266702",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-beige-2026.png?v=1794266702"
+        ],
+        "local_image_path": "images/sunday-riley/00817494016000.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494016000",
+        "ean13": "0817494016000",
+        "upc_a": "817494016000",
+        "ean8": null,
+        "primary_code": "817494016000",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494016000"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494016000",
+        "qr_payload_text": "https://id.gs1.org/01/00817494016000",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494016000",
+          "code": "817494016000",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Flash Fix Bundle Full Size Good Genes and Ceramic Slip Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/flash-fix-good-genes-and-ceramic-slip-kit-beige-2026.png?v=1794266702"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494016000.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494016796",
+      "product_name": "Good Genes Lactic Acid Treatment - 0.5 fl oz/15 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--15ml-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494016796.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Good Genes Lactic Acid Treatment - 0.5 fl oz/15 ml",
+        "source_names": {
+          "brand_storefront": "Good Genes Lactic Acid Treatment - 0.5 fl oz/15 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--15ml-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--15ml-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--15ml-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494016796.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494016796",
+        "ean13": "0817494016796",
+        "upc_a": "817494016796",
+        "ean8": null,
+        "primary_code": "817494016796",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494016796"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494016796",
+        "qr_payload_text": "https://id.gs1.org/01/00817494016796",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494016796",
+          "code": "817494016796",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Good Genes Lactic Acid Treatment - 0.5 fl oz/15 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--15ml-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494016796.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494017113",
+      "product_name": "5 Stars Eye Serum",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/5-stars-retinol-niacinamide-eye-serum-beige-2026.png?v=1794266702",
+      "local_image_path": "images/sunday-riley/00817494017113.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "5 Stars Eye Serum",
+        "source_names": {
+          "brand_storefront": "5 Stars Eye Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/5-stars-retinol-niacinamide-eye-serum-beige-2026.png?v=1794266702",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/5-stars-retinol-niacinamide-eye-serum-beige-2026.png?v=1794266702",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/5-stars-retinol-niacinamide-eye-serum-beige-2026.png?v=1794266702"
+        ],
+        "local_image_path": "images/sunday-riley/00817494017113.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494017113",
+        "ean13": "0817494017113",
+        "upc_a": "817494017113",
+        "ean8": null,
+        "primary_code": "817494017113",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494017113"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494017113",
+        "qr_payload_text": "https://id.gs1.org/01/00817494017113",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494017113",
+          "code": "817494017113",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "5 Stars Eye Serum",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/5-stars-retinol-niacinamide-eye-serum-beige-2026.png?v=1794266702"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494017113.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494017502",
+      "product_name": "Peacekeeper Acne Treatment Serum",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/peacekeeper-acne-treatment-serum-beige-2026.png?v=1794255068",
+      "local_image_path": "images/sunday-riley/00817494017502.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Peacekeeper Acne Treatment Serum",
+        "source_names": {
+          "brand_storefront": "Peacekeeper Acne Treatment Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/peacekeeper-acne-treatment-serum-beige-2026.png?v=1794255068",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/peacekeeper-acne-treatment-serum-beige-2026.png?v=1794255068",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/peacekeeper-acne-treatment-serum-beige-2026.png?v=1794255068"
+        ],
+        "local_image_path": "images/sunday-riley/00817494017502.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494017502",
+        "ean13": "0817494017502",
+        "upc_a": "817494017502",
+        "ean8": null,
+        "primary_code": "817494017502",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494017502"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494017502",
+        "qr_payload_text": "https://id.gs1.org/01/00817494017502",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494017502",
+          "code": "817494017502",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Peacekeeper Acne Treatment Serum",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/peacekeeper-acne-treatment-serum-beige-2026.png?v=1794255068"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494017502.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494017632",
+      "product_name": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - 1.7 fl oz/50g",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00817494017632.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - 1.7 fl oz/50g",
+        "source_names": {
+          "brand_storefront": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - 1.7 fl oz/50g"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00817494017632.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494017632",
+        "ean13": "0817494017632",
+        "upc_a": "817494017632",
+        "ean8": null,
+        "primary_code": "817494017632",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494017632"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494017632",
+        "qr_payload_text": "https://id.gs1.org/01/00817494017632",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494017632",
+          "code": "817494017632",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - 1.7 fl oz/50g",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494017632.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494017823",
+      "product_name": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - .5 fl oz/15g",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream--15g-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494017823.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - .5 fl oz/15g",
+        "source_names": {
+          "brand_storefront": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - .5 fl oz/15g"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream--15g-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream--15g-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream--15g-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494017823.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494017823",
+        "ean13": "0817494017823",
+        "upc_a": "817494017823",
+        "ean8": null,
+        "primary_code": "817494017823",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494017823"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494017823",
+        "qr_payload_text": "https://id.gs1.org/01/00817494017823",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494017823",
+          "code": "817494017823",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. Afterglow Brightening Vitamin C Gel Cream - .5 fl oz/15g",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/c-e-o-afterglow-brightening-vitamin-c-gel-cream--15g-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494017823.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494018172",
+      "product_name": "Good Genes Lactic Acid Treatment - 3.4 fl oz/100 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--100ml-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494018172.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Good Genes Lactic Acid Treatment - 3.4 fl oz/100 ml",
+        "source_names": {
+          "brand_storefront": "Good Genes Lactic Acid Treatment - 3.4 fl oz/100 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--100ml-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--100ml-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--100ml-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494018172.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494018172",
+        "ean13": "0817494018172",
+        "upc_a": "817494018172",
+        "ean8": null,
+        "primary_code": "817494018172",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494018172"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494018172",
+        "qr_payload_text": "https://id.gs1.org/01/00817494018172",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494018172",
+          "code": "817494018172",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Good Genes Lactic Acid Treatment - 3.4 fl oz/100 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/good-genes-lactic-acid-treatment--100ml-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494018172.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494018707",
+      "product_name": "Wake Up With Me",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/wake-up-with-me-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00817494018707.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Wake Up With Me",
+        "source_names": {
+          "brand_storefront": "Wake Up With Me"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "KIT"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/wake-up-with-me-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/wake-up-with-me-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/wake-up-with-me-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00817494018707.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494018707",
+        "ean13": "0817494018707",
+        "upc_a": "817494018707",
+        "ean8": null,
+        "primary_code": "817494018707",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494018707"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494018707",
+        "qr_payload_text": "https://id.gs1.org/01/00817494018707",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494018707",
+          "code": "817494018707",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Wake Up With Me",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/wake-up-with-me-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494018707.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494019117",
+      "product_name": "B3 Nice 10% Niacinamide Serum",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/b3-nice-10-niacinamide-serum-beige-2026.png?v=1794266703",
+      "local_image_path": "images/sunday-riley/00817494019117.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "B3 Nice 10% Niacinamide Serum",
+        "source_names": {
+          "brand_storefront": "B3 Nice 10% Niacinamide Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/b3-nice-10-niacinamide-serum-beige-2026.png?v=1794266703",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/b3-nice-10-niacinamide-serum-beige-2026.png?v=1794266703",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/b3-nice-10-niacinamide-serum-beige-2026.png?v=1794266703"
+        ],
+        "local_image_path": "images/sunday-riley/00817494019117.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494019117",
+        "ean13": "0817494019117",
+        "upc_a": "817494019117",
+        "ean8": null,
+        "primary_code": "817494019117",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494019117"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494019117",
+        "qr_payload_text": "https://id.gs1.org/01/00817494019117",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494019117",
+          "code": "817494019117",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "B3 Nice 10% Niacinamide Serum",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/b3-nice-10-niacinamide-serum-beige-2026.png?v=1794266703"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494019117.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00817494019254",
+      "product_name": "C.E.O. 15% Vitamin C Brightening Serum - 3.4 fl oz/100 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--100ml-gray-2026.png?v=1794267518",
+      "local_image_path": "images/sunday-riley/00817494019254.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "C.E.O. 15% Vitamin C Brightening Serum - 3.4 fl oz/100 ml",
+        "source_names": {
+          "brand_storefront": "C.E.O. 15% Vitamin C Brightening Serum - 3.4 fl oz/100 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--100ml-gray-2026.png?v=1794267518",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--100ml-gray-2026.png?v=1794267518",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--100ml-gray-2026.png?v=1794267518"
+        ],
+        "local_image_path": "images/sunday-riley/00817494019254.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817494019254",
+        "ean13": "0817494019254",
+        "upc_a": "817494019254",
+        "ean8": null,
+        "primary_code": "817494019254",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "817494019254"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817494019254",
+        "qr_payload_text": "https://id.gs1.org/01/00817494019254",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817494019254",
+          "code": "817494019254",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "C.E.O. 15% Vitamin C Brightening Serum - 3.4 fl oz/100 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/ceo-vitamin-c-brightening-serum--100ml-gray-2026.png?v=1794267518"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00817494019254.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00897061002049",
+      "product_name": "Good Genes Lactic Acid Treatment - 1 fl oz/30 ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/GOOD_GENES_30_-_PPAGE_beige.png?v=1790562867",
+      "local_image_path": "images/sunday-riley/00897061002049.jpg",
+      "brand": {
+        "slug": "sunday-riley",
+        "display_name": "Sunday Riley",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sunday%20Riley",
+        "matched_raw_brands": [
+          "Sunday Riley"
+        ]
+      },
+      "product": {
+        "name": "Good Genes Lactic Acid Treatment - 1 fl oz/30 ml",
+        "source_names": {
+          "brand_storefront": "Good Genes Lactic Acid Treatment - 1 fl oz/30 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/GOOD_GENES_30_-_PPAGE_beige.png?v=1790562867",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/GOOD_GENES_30_-_PPAGE_beige.png?v=1790562867",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1681/2995/files/GOOD_GENES_30_-_PPAGE_beige.png?v=1790562867"
+        ],
+        "local_image_path": "images/sunday-riley/00897061002049.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00897061002049",
+        "ean13": "0897061002049",
+        "upc_a": "897061002049",
+        "ean8": null,
+        "primary_code": "897061002049",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "897061002049"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00897061002049",
+        "qr_payload_text": "https://id.gs1.org/01/00897061002049",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00897061002049",
+          "code": "897061002049",
+          "type": "UPC-A",
+          "brand": "Sunday Riley",
+          "name": "Good Genes Lactic Acid Treatment - 1 fl oz/30 ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/1681/2995/files/GOOD_GENES_30_-_PPAGE_beige.png?v=1790562867"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sunday-riley/00897061002049.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    }
+  ]
 }

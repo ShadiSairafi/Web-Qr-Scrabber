@@ -1,16 +1,16 @@
 {
-  "total_unique_products": 2767,
-  "verified_cross_source_count": 42,
+  "total_unique_products": 8205,
+  "verified_cross_source_count": 45,
   "verified_cross_source_subbrand_resolved_count": 1,
-  "verified_single_source_count": 2117,
+  "verified_single_source_count": 7552,
   "inferred_title_prefix_count": 607,
   "source_breakdown": {
-    "openbeautyfacts_raw_matched": 2840,
-    "openbeautyfacts_unique_valid": 2706,
-    "upcitemdb_raw_matched": 106,
-    "upcitemdb_unique_valid": 104,
-    "intra_source_duplicates_removed": 15,
-    "cross_source_exact_gtin_matches": 43
+    "openbeautyfacts_raw_matched": 8380,
+    "openbeautyfacts_unique_valid": 8141,
+    "upcitemdb_raw_matched": 115,
+    "upcitemdb_unique_valid": 113,
+    "intra_source_duplicates_removed": 120,
+    "cross_source_exact_gtin_matches": 46
   },
   "cross_source_matches": [
     {
@@ -254,6 +254,26 @@
       "verification_status": "verified_cross_source_subbrand_resolved"
     },
     {
+      "gtin14": "00810175610375",
+      "product_name": "Rhode Peptide Lip Treatment Rhode Vanilla",
+      "resolved_brand_slug": "rhode",
+      "resolved_brand_display_name": "rhode",
+      "openbeautyfacts_title": "Rhode Peptide Lip Treatment Rhode Vanilla",
+      "upcitemdb_title": "peptide lip treatment rhode vanilla",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00810175611136",
+      "product_name": "peptide lip tint scented pretzel",
+      "resolved_brand_slug": "rhode",
+      "resolved_brand_display_name": "rhode",
+      "openbeautyfacts_title": "Rhode Peptide Lip Tint Pretzel",
+      "upcitemdb_title": "peptide lip tint scented pretzel",
+      "title_similarity": 88.89,
+      "verification_status": "verified_cross_source"
+    },
+    {
       "gtin14": "00810763030585",
       "product_name": "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Color: Uncuffed Size: N/A",
       "resolved_brand_slug": "fenty-beauty",
@@ -281,6 +301,16 @@
       "openbeautyfacts_title": "Glossier Body Hero Daily Perfecting Cream",
       "upcitemdb_title": "Glossier Body Hero Daily Perfecting Cream_8.4 fl oz / 250 m (B07J6G2K61)",
       "title_similarity": 92.11,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00815402023355",
+      "product_name": "Curl Crème",
+      "resolved_brand_slug": "ouai",
+      "resolved_brand_display_name": "OUAI",
+      "openbeautyfacts_title": "Curl Crème",
+      "upcitemdb_title": "Curl Crème",
+      "title_similarity": 100.0,
       "verification_status": "verified_cross_source"
     },
     {
@@ -453,6 +483,16 @@
       "title_similarity": 14.04
     }
   ],
-  "brand_conflicts": [],
+  "brand_conflicts": [
+    {
+      "gtin14": "00810029480222",
+      "openbeautyfacts_brand_slug": "ilia",
+      "openbeautyfacts_title": "Slip Tint Tinted Moisturizer",
+      "upcitemdb_brand_slug": "saie",
+      "upcitemdb_title": "Slip Tint™ Tinted Moisturizer - Four: Light to Medium - Neutral-red",
+      "title_similarity": 90.2,
+      "resolution": "quarantined"
+    }
+  ],
   "duplicate_gtin14_count": 0
 }

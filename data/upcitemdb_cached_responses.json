@@ -12518,6 +12518,352 @@
         ]
       },
       "cached_at": "2026-11-19T07:35:45.406263Z"
+    },
+    "lookup?{\"upc\":\"3378872203827,3378872203964\"}": {
+      "endpoint": "lookup",
+      "params": {
+        "upc": "3378872203827,3378872203964"
+      },
+      "status_code": 200,
+      "payload": {
+        "code": "OK",
+        "total": 2,
+        "offset": 0,
+        "items": [
+          {
+            "ean": "3378872203827",
+            "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 17.5n",
+            "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish. Coverage: Full. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines. - Algae Extract: Rich in anti-oxidants to protect skin from daily pollution. What Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin. Size: 0.3 OZ. Color: 17.5n. Gender: unisex. Age Group: adult. Material: NONE.",
+            "brand": "SEPHORA COLLECTION",
+            "model": "570250",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "",
+            "currency": "",
+            "lowest_recorded_price": 4,
+            "highest_recorded_price": 16,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/18c9b06401777dd7d06bd5db162ecc218efaa1a3?wid=800&hei=800&op_sharpen=1&ver=3"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 17.5n",
+                "currency": "",
+                "list_price": 16,
+                "price": 4,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=13t243y23363b4b4w2&tid=1&seq=1795078409&plt=49056d4e152d1965cfe681bdc803943b",
+                "updated_t": 1759997759
+              }
+            ]
+          },
+          {
+            "ean": "3378872203964",
+            "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 26n",
+            "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish.Coverage: FullFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines- Algae Extract: Rich in anti-oxidants to protect skin from daily pollutionWhat Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin.Size:0.3 OZ Color: 26n. Gender: unisex. Age Group: adult.",
+            "brand": "SEPHORA COLLECTION",
+            "model": "570264",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "",
+            "currency": "",
+            "lowest_recorded_price": 4,
+            "highest_recorded_price": 16,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/5279203_26n?wid=800&hei=800&op_sharpen=1&ver=3"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 26n",
+                "currency": "",
+                "list_price": 16,
+                "price": 4,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=13t243y23363b4b4x2&tid=1&seq=1795078409&plt=3f4d389b6a43c06ac0d928cb2d60c163",
+                "updated_t": 1751191433
+              }
+            ]
+          }
+        ]
+      },
+      "cached_at": "2026-11-19T08:53:29.609696Z"
+    },
+    "lookup?{\"upc\":\"3378872203995,3378872204077\"}": {
+      "endpoint": "lookup",
+      "params": {
+        "upc": "3378872203995,3378872204077"
+      },
+      "status_code": 200,
+      "payload": {
+        "code": "OK",
+        "total": 2,
+        "offset": 0,
+        "items": [
+          {
+            "ean": "3378872203995",
+            "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 29y",
+            "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish. Coverage: Full. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines. - Algae Extract: Rich in anti-oxidants to protect skin from daily pollution. What Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin. Size: 0.3 OZ. Color: 29y. Gender: unisex. Age Group: adult. Material: NONE.",
+            "brand": "SEPHORA COLLECTION",
+            "model": "570267",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "",
+            "currency": "",
+            "lowest_recorded_price": 4,
+            "highest_recorded_price": 16,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/331a54bf2214b5839afc555c4e75edf3f66ea4a1?wid=800&hei=800&op_sharpen=1&ver=3"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 29y",
+                "currency": "",
+                "list_price": 16,
+                "price": 4,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=13t243y243x2f4a4r2&tid=1&seq=1795078420&plt=568c33e97b4641708e1f65ea02f38b42",
+                "updated_t": 1759995809
+              }
+            ]
+          },
+          {
+            "ean": "3378872204077",
+            "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 44y",
+            "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish. Coverage: Full. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines. - Algae Extract: Rich in anti-oxidants to protect skin from daily pollution. What Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin. Size: 0.3 OZ. Color: 44y. Gender: unisex. Age Group: adult. Material: NONE.",
+            "brand": "SEPHORA COLLECTION",
+            "model": "570275",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "",
+            "currency": "",
+            "lowest_recorded_price": 4,
+            "highest_recorded_price": 16,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/2cc40b1e02413e5001992691544121cb25734b60?wid=800&hei=800&op_sharpen=1&ver=2"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 44y",
+                "currency": "",
+                "list_price": 16,
+                "price": 4,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=13t243y243z27464u2&tid=1&seq=1795078420&plt=10f8b1953ed5d4b302854bcff9367243",
+                "updated_t": 1759996823
+              }
+            ]
+          }
+        ]
+      },
+      "cached_at": "2026-11-19T08:53:40.683373Z"
+    },
+    "search?{\"match_mode\":\"1\",\"s\":\"SEPHORA COLLECTION Best Skin Ever\",\"type\":\"product\"}": {
+      "endpoint": "search",
+      "params": {
+        "s": "SEPHORA COLLECTION Best Skin Ever",
+        "type": "product",
+        "match_mode": "1"
+      },
+      "status_code": 200,
+      "payload": {
+        "code": "OK",
+        "total": 263,
+        "offset": 5,
+        "items": [
+          {
+            "ean": "0880294800179",
+            "title": "Sephora Best Skin Ever Glow Full Coverage Hydrating Concealer 20 Cream 0.23 oz",
+            "description": "What it is: A new lightweight radiant Sephora Collection multi-purpose formula that corrects  conceals and instantly brightens under eyes for a glowing natural complexion that leaves skin luminous and hydrated for up to 12 hours. Coverage: Medium Finish: Radiant Formulation: Liquid Highlighted Ingredients: - Plant-Based Prebiotics: Maintains the balance of skin barrier. What Else You Need to Know: Available in 30 shades  Sephora Collection?s Best Skin Ever concealer is now available in a lightweight radiant glow version. This multiuse formula brightens shaded areas and helps conceal dark circles around the eyes as well as providing a boost of hydration for up to 12 hours of wear. Enriched with skin-loving plant-based prebiotics  Best Skin Ever Glow concealer is also noncomedogenic and unscented. Its ultrafine and lightweight texture melts into the skin and provides medium to buildable coverage for a radiant  glowing effect. Clinical Results: In a usage test performed on 22 volunteers for 28 days: -87% of w",
+            "upc": "880294800179",
+            "brand": "Sephora Collection",
+            "model": "Best Skin Ever Glow Full Coverage Hydrating Concealer",
+            "color": "Off-White",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "Apparel & Accessories > Jewelry > Necklaces",
+            "currency": "",
+            "lowest_recorded_price": 8.99,
+            "highest_recorded_price": 490,
+            "images": [
+              "https://i5.walmartimages.com/asr/a5abd438-eb5a-4d71-aa3d-7a86540f9959.38dcb0d8adaa319368c7e07c255dce33.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+            ],
+            "offers": [
+              {
+                "merchant": "Wal-Mart.com",
+                "domain": "walmart.com",
+                "title": "Sephora Best Skin Ever Glow Full Coverage Hydrating Concealer 20 Cream 0.23 oz",
+                "currency": "",
+                "list_price": 9.99,
+                "price": 8.99,
+                "shipping": "Free Shipping",
+                "condition": "New",
+                "availability": "Out of Stock",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=23x20303v2037484x2&tid=1&seq=1795078437&plt=22493127d90afa9c5455106ad1023e0e",
+                "updated_t": 1750659132
+              }
+            ],
+            "elid": "274135554697"
+          },
+          {
+            "ean": "3378872167686",
+            "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 4 N",
+            "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits.Coverage: MediumFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield.What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass.Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use- 100% felt their skin was smoother after 28 days of use- 96% of women said their complexion was perfect all day long after 21 days of ",
+            "brand": "SEPHORA COLLECTION",
+            "model": "502303",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "Health & Beauty",
+            "currency": "",
+            "lowest_recorded_price": 5.5,
+            "highest_recorded_price": 38,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/5099071_4_N?wid=800&hei=800&op_sharpen=1&ver=1"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 4 N",
+                "currency": "",
+                "list_price": 22,
+                "price": 5.5,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=z2s213t2034394a4z2&tid=1&seq=1795078437&plt=e6b5f0ca4e8b7fd656485c6cb4e88618",
+                "updated_t": 1747987618
+              }
+            ]
+          },
+          {
+            "ean": "3378872167693",
+            "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 08 Y",
+            "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits.Coverage: MediumFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield.What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass.Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use- 100% felt their skin was smoother after 28 days of use- 96% of women said their complexion was perfect all day long after 21 days of ",
+            "brand": "SEPHORA COLLECTION",
+            "model": "502304",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "Health & Beauty",
+            "currency": "",
+            "lowest_recorded_price": 5.5,
+            "highest_recorded_price": 38,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/5099071_08_Y?wid=800&hei=800&op_sharpen=1&ver=1"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 08 Y",
+                "currency": "",
+                "list_price": 22,
+                "price": 5.5,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=z2s213t2033374a4z2&tid=1&seq=1795078437&plt=a004845a5724ad20c0c4063c00a04ee0",
+                "updated_t": 1747989665
+              }
+            ]
+          },
+          {
+            "ean": "3378872167709",
+            "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 10 N",
+            "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits. Coverage: Medium. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield. What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass. Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use. - 100% felt their skin was smoother after 28 days of use. - 96% of women said their complexion was perfect all day long afte",
+            "brand": "SEPHORA COLLECTION",
+            "model": "502305",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "Health & Beauty",
+            "currency": "",
+            "lowest_recorded_price": 5.5,
+            "highest_recorded_price": 32.27,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/8dee4635c1e71717fc58c9c8d461b1239177c6b6?wid=800&hei=800&op_sharpen=1&ver=4"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 10 N",
+                "currency": "",
+                "list_price": 22,
+                "price": 5.5,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=z2s213t2033364a4y2&tid=1&seq=1795078437&plt=9028648ff8f67e5a45442a24dc2ba0be",
+                "updated_t": 1760343437
+              }
+            ]
+          },
+          {
+            "ean": "3378872167716",
+            "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 11.5 P",
+            "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits.Coverage: MediumFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield.What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass.Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use- 100% felt their skin was smoother after 28 days of use- 96% of women said their complexion was perfect all day long after 21 days of ",
+            "brand": "SEPHORA COLLECTION",
+            "model": "502306",
+            "color": "",
+            "size": "",
+            "dimension": "",
+            "weight": "",
+            "category": "Health & Beauty",
+            "currency": "",
+            "lowest_recorded_price": 5.5,
+            "highest_recorded_price": 33,
+            "images": [
+              "https://media.kohlsimg.com/is/image/kohls/5099071_115_P?wid=800&hei=800&op_sharpen=1&ver=2"
+            ],
+            "offers": [
+              {
+                "merchant": "Kohl's",
+                "domain": "kohls.com",
+                "title": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 11.5 P",
+                "currency": "",
+                "list_price": 22,
+                "price": 5.5,
+                "shipping": "",
+                "condition": "New",
+                "availability": "",
+                "link": "https://www.upcitemdb.com/norob/alink/?id=z2s213t20343b4d4u2&tid=1&seq=1795078437&plt=8f2991ffdd558c28d5d5baa266e8ab40",
+                "updated_t": 1747990673
+              }
+            ]
+          }
+        ]
+      },
+      "cached_at": "2026-11-19T08:53:57.387445Z"
     }
   }
 }

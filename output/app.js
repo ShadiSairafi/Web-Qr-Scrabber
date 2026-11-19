@@ -39,6 +39,11 @@
   let activeHighlightRe = null;
   let activeModalProduct = null;
   let searchDebounceTimer = null;
+  let hasLiveLookup = false;
+  let liveLookupTimer = null;
+  let liveLookupAbort = null;
+  let summaryBrandCount = 163;
+  let summaryCrossCount = 0;
 
   function escapeHtml(str) {
     return String(str ?? "")
@@ -116,6 +121,20 @@
       return { text: "Title-Matched", cls: "badge-inferred" };
     }
     return { text: "Verified", cls: "badge-single" };
+  }
+
+  function updateCatalogStatsText() {
+    const statsBits = [
+      `${summaryBrandCount} Brands`,
+      `${allProducts.length.toLocaleString()} Verified Products`,
+    ];
+    if (summaryCrossCount > 0) {
+      statsBits.push(`${summaryCrossCount.toLocaleString()} Cross-Verified`);
+    }
+    if (hasLiveLookup) {
+      statsBits.push("Live Lookup Ready");
+    }
+    els.catalogStats.textContent = statsBits.join(" · ");
   }
 
   function highlightText(text, regex) {
@@ -222,36 +241,40 @@
     return parts.filter(Boolean).join(" \n ");
   }
 
+  function indexSingleProduct(p) {
+    p._haystack = buildSearchHaystack(p);
+    p._haystackLower = p._haystack.toLowerCase();
+
+    const keys = new Set();
+    const addDigits = (val) => {
+      if (!val) return;
+      const d = String(val).replace(/\D/g, "");
+      if (d.length >= 8 && d.length <= 14) {
+        keys.add(d);
+        keys.add(d.padStart(14, "0"));
+      }
+    };
+    addDigits(p.gtin14);
+    addDigits(p.barcode?.primary_code);
+    addDigits(p.barcode?.ean13);
+    addDigits(p.barcode?.upc_a);
+    addDigits(p.barcode?.ean8);
+    if (Array.isArray(p.barcode?.raw_codes)) {
+      for (const rc of p.barcode.raw_codes) {
+        addDigits(rc);
+      }
+    }
+    for (const k of keys) {
+      if (!serialIndex.has(k)) {
+        serialIndex.set(k, p);
+      }
+    }
+  }
+
   function indexProducts(products) {
     serialIndex.clear();
     for (const p of products) {
-      p._haystack = buildSearchHaystack(p);
-      p._haystackLower = p._haystack.toLowerCase();
-
-      const keys = new Set();
-      const addDigits = (val) => {
-        if (!val) return;
-        const d = String(val).replace(/\D/g, "");
-        if (d.length >= 8 && d.length <= 14) {
-          keys.add(d);
-          keys.add(d.padStart(14, "0"));
-        }
-      };
-      addDigits(p.gtin14);
-      addDigits(p.barcode?.primary_code);
-      addDigits(p.barcode?.ean13);
-      addDigits(p.barcode?.upc_a);
-      addDigits(p.barcode?.ean8);
-      if (Array.isArray(p.barcode?.raw_codes)) {
-        for (const rc of p.barcode.raw_codes) {
-          addDigits(rc);
-        }
-      }
-      for (const k of keys) {
-        if (!serialIndex.has(k)) {
-          serialIndex.set(k, p);
-        }
-      }
+      indexSingleProduct(p);
     }
 
     // Default gallery order: prioritize cross-source verified & items with pictures
@@ -274,27 +297,42 @@
     });
   }
 
-  function extractExactSerialMatch(query) {
-    const trimmed = query.trim();
+  function addLiveProductToCatalog(product) {
+    if (!product || !product.gtin14) return;
+    if (!serialIndex.has(product.gtin14)) {
+      allProducts.push(product);
+      indexSingleProduct(product);
+      defaultOrder.unshift(product);
+      updateCatalogStatsText();
+    }
+  }
+
+  function extractSerialCandidateDigits(query) {
+    const trimmed = (query || "").trim();
     if (!trimmed) return null;
 
     const gs1Match = trimmed.match(GS1_LINK_RE);
     if (gs1Match) {
-      const digits = gs1Match[1];
-      return serialIndex.get(digits) || serialIndex.get(digits.padStart(14, "0")) || null;
+      return gs1Match[1];
     }
 
     if (SERIAL_CANDIDATE_RE.test(trimmed)) {
       const digits = trimmed.replace(/\D/g, "");
       if (digits.length >= 8 && digits.length <= 14) {
-        return serialIndex.get(digits) || serialIndex.get(digits.padStart(14, "0")) || null;
+        return digits;
       }
     }
 
     return null;
   }
 
-  function renderExactMatchCard(product) {
+  function extractExactSerialMatch(query) {
+    const digits = extractSerialCandidateDigits(query);
+    if (!digits) return null;
+    return serialIndex.get(digits) || serialIndex.get(digits.padStart(14, "0")) || null;
+  }
+
+  function renderExactMatchCard(product, opts = {}) {
     if (!product) {
       els.exactMatchCard.hidden = true;
       els.exactMatchCard.innerHTML = "";
@@ -306,6 +344,9 @@
     const barcodeType = product.barcode?.barcode_type || "GTIN-14";
     const qrSrc = getQrSrc(product);
     const sourcesText = (product.verification?.sources || []).join(" + ");
+    const livePill = opts.liveAdded
+      ? `<span class="mode-pill mode-live">Live Lookup · Saved to Catalog</span>`
+      : "";
 
     const serialTiles = [
       { label: `${barcodeType} Serial`, value: primaryCode },
@@ -329,6 +370,7 @@
         <div class="exact-details">
           <div class="exact-eyebrow">
             <span class="verification-badge ${badge.cls}">${escapeHtml(badge.text)}</span>
+            ${livePill}
             ${sourcesText ? `<span class="mode-pill mode-browse">${escapeHtml(sourcesText)}</span>` : ""}
             ${product.product?.quantity ? `<span class="mode-pill mode-browse">${escapeHtml(product.product.quantity)}</span>` : ""}
           </div>
@@ -450,7 +492,64 @@
     els.regexStatus.textContent = statusText;
   }
 
+  function cancelPendingLiveLookup() {
+    window.clearTimeout(liveLookupTimer);
+    liveLookupTimer = null;
+    if (liveLookupAbort) {
+      liveLookupAbort.abort();
+      liveLookupAbort = null;
+    }
+  }
+
+  function scheduleLiveLookup(digits, expectedQuery) {
+    cancelPendingLiveLookup();
+    setMode("Live Lookup", "mode-live", `Checking live barcode databases for ${digits}…`);
+    els.resultsCount.textContent = "Checking live databases…";
+    els.emptyState.hidden = true;
+    els.loadMoreBtn.hidden = true;
+
+    liveLookupTimer = window.setTimeout(async () => {
+      liveLookupAbort = new AbortController();
+      const signal = liveLookupAbort.signal;
+      try {
+        const resp = await fetch(`./api/lookup?code=${encodeURIComponent(digits)}`, { signal });
+        const data = await resp.json().catch(() => ({ found: false }));
+        if (signal.aborted || els.searchInput.value.trim() !== expectedQuery) {
+          return;
+        }
+        if (data && data.found && data.product) {
+          addLiveProductToCatalog(data.product);
+          renderExactMatchCard(data.product, {
+            liveAdded: Boolean(data.added),
+            liveSource: data.source,
+          });
+          const statusMsg = data.added
+            ? `Found via ${data.source} · Saved to catalog (GTIN-14 ${data.product.gtin14})`
+            : `Matched GTIN-14 ${data.product.gtin14}`;
+          setMode(data.added ? "Live Lookup Match" : "Exact Serial Match", "mode-exact", statusMsg);
+          els.resultsCount.textContent = "1 exact match";
+          els.emptyState.hidden = true;
+          return;
+        }
+        setMode(
+          "Not Found",
+          "mode-fallback",
+          data?.error || data?.message || `Barcode ${digits} not found in live databases`
+        );
+        els.resultsCount.textContent = "0 matching products";
+        els.emptyState.hidden = false;
+      } catch (err) {
+        if (err && err.name === "AbortError") return;
+        if (els.searchInput.value.trim() !== expectedQuery) return;
+        setMode("Live Lookup Error", "mode-fallback", "Live barcode lookup unavailable");
+        els.resultsCount.textContent = "0 matching products";
+        els.emptyState.hidden = false;
+      }
+    }, 250);
+  }
+
   function runSearch(rawQuery) {
+    cancelPendingLiveLookup();
     const query = (rawQuery || "").trim();
     els.searchClear.hidden = query.length === 0;
     els.resultsGrid.innerHTML = "";
@@ -497,6 +596,13 @@
       const needle = query.toLowerCase();
       currentMatches = defaultOrder.filter((p) => p._haystackLower.includes(needle));
       setMode("Literal Fallback", "mode-fallback", "Literal fallback (incomplete regex)");
+    }
+
+    // 3. Automatic live lookup when a valid-length barcode serial has 0 local hits
+    const serialDigits = extractSerialCandidateDigits(query);
+    if (currentMatches.length === 0 && serialDigits && hasLiveLookup) {
+      scheduleLiveLookup(serialDigits, query);
+      return;
     }
 
     els.resultsCount.textContent = `${currentMatches.length.toLocaleString()} matching product${currentMatches.length === 1 ? "" : "s"}`;
@@ -616,8 +722,12 @@
         try {
           const health = await healthResp.json();
           hasChunkedApi = Boolean(health && health.status === "ok");
+          const liveHeader = healthResp.headers.get("X-Live-Lookup");
+          hasLiveLookup =
+            hasChunkedApi && (liveHeader === null ? true : liveHeader === "1");
         } catch {
           hasChunkedApi = false;
+          hasLiveLookup = false;
         }
       }
 
@@ -633,16 +743,9 @@
 
       indexProducts(allProducts);
 
-      const brandCount = summary?.total_brands_in_directory ?? 163;
-      const crossCount = summary?.cross_source_verified_count ?? 0;
-      const statsBits = [
-        `${brandCount} Brands`,
-        `${allProducts.length.toLocaleString()} Verified Products`,
-      ];
-      if (crossCount > 0) {
-        statsBits.push(`${crossCount.toLocaleString()} Cross-Verified`);
-      }
-      els.catalogStats.textContent = statsBits.join(" · ");
+      summaryBrandCount = summary?.total_brands_in_directory ?? 163;
+      summaryCrossCount = summary?.cross_source_verified_count ?? 0;
+      updateCatalogStatsText();
 
       if (defaultOrder.length > 0 && els.sampleSerialChip) {
         const sample = defaultOrder[0];

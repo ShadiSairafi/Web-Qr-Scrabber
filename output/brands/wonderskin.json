@@ -6,8 +6,1942 @@
   "is_store_own_brand": false,
   "alias_of": null,
   "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
-  "product_count": 0,
-  "canonical_product_count": 0,
+  "product_count": 25,
+  "canonical_product_count": 25,
   "cross_source_verified_count": 0,
-  "products": []
+  "products": [
+    {
+      "gtin14": "00850007254247",
+      "product_name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Adore (peachy rose)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adoreShopify_wB.jpg?v=1743083002",
+      "local_image_path": "images/wonderskin/00850007254247.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Adore (peachy rose)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Peel & Reveal Lip Stain Kit - Adore (peachy rose)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adoreShopify_wB.jpg?v=1743083002",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adoreShopify_wB.jpg?v=1743083002",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/adoreShopify_wB.jpg?v=1743083002"
+        ],
+        "local_image_path": "images/wonderskin/00850007254247.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254247",
+        "ean13": "0850007254247",
+        "upc_a": "850007254247",
+        "ean8": null,
+        "primary_code": "850007254247",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254247"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254247",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254247",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254247",
+          "code": "850007254247",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Adore (peachy rose)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adoreShopify_wB.jpg?v=1743083002"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254247.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254339",
+      "product_name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Lovely (chestnut brown)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovelyShopify_wB.jpg?v=1743083002",
+      "local_image_path": "images/wonderskin/00850007254339.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Lovely (chestnut brown)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Peel & Reveal Lip Stain Kit - Lovely (chestnut brown)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovelyShopify_wB.jpg?v=1743083002",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovelyShopify_wB.jpg?v=1743083002",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/lovelyShopify_wB.jpg?v=1743083002"
+        ],
+        "local_image_path": "images/wonderskin/00850007254339.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254339",
+        "ean13": "0850007254339",
+        "upc_a": "850007254339",
+        "ean8": null,
+        "primary_code": "850007254339",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254339"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254339",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254339",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254339",
+          "code": "850007254339",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Lovely (chestnut brown)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovelyShopify_wB.jpg?v=1743083002"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254339.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254346",
+      "product_name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Whimsical (warm rose)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimiscalShopify_wB.jpg?v=1743083002",
+      "local_image_path": "images/wonderskin/00850007254346.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Whimsical (warm rose)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Peel & Reveal Lip Stain Kit - Whimsical (warm rose)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimiscalShopify_wB.jpg?v=1743083002",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimiscalShopify_wB.jpg?v=1743083002",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/whimiscalShopify_wB.jpg?v=1743083002"
+        ],
+        "local_image_path": "images/wonderskin/00850007254346.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254346",
+        "ean13": "0850007254346",
+        "upc_a": "850007254346",
+        "ean8": null,
+        "primary_code": "850007254346",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254346"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254346",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254346",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254346",
+          "code": "850007254346",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Whimsical (warm rose)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimiscalShopify_wB.jpg?v=1743083002"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254346.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254490",
+      "product_name": "WONDER BLADING Dream Brow Gel-Serum - Black",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+      "local_image_path": "images/wonderskin/00850007254490.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Dream Brow Gel-Serum - Black",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Dream Brow Gel-Serum - Black"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        ],
+        "local_image_path": "images/wonderskin/00850007254490.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254490",
+        "ean13": "0850007254490",
+        "upc_a": "850007254490",
+        "ean8": null,
+        "primary_code": "850007254490",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254490"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254490",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254490",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254490",
+          "code": "850007254490",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Dream Brow Gel-Serum - Black",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254490.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254520",
+      "product_name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Glamorous (classic red)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/glamourousShopify_wB.jpg?v=1743083002",
+      "local_image_path": "images/wonderskin/00850007254520.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Glamorous (classic red)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Peel & Reveal Lip Stain Kit - Glamorous (classic red)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/glamourousShopify_wB.jpg?v=1743083002",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/glamourousShopify_wB.jpg?v=1743083002",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/glamourousShopify_wB.jpg?v=1743083002"
+        ],
+        "local_image_path": "images/wonderskin/00850007254520.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254520",
+        "ean13": "0850007254520",
+        "upc_a": "850007254520",
+        "ean8": null,
+        "primary_code": "850007254520",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254520"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254520",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254520",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254520",
+          "code": "850007254520",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Glamorous (classic red)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/glamourousShopify_wB.jpg?v=1743083002"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254520.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254544",
+      "product_name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Divine (burgundy red)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/divineShopify_wB_8d77be04-d218-4f32-b93c-2f8205d23f77.jpg?v=1743083002",
+      "local_image_path": "images/wonderskin/00850007254544.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Divine (burgundy red)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Peel & Reveal Lip Stain Kit - Divine (burgundy red)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/divineShopify_wB_8d77be04-d218-4f32-b93c-2f8205d23f77.jpg?v=1743083002",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/divineShopify_wB_8d77be04-d218-4f32-b93c-2f8205d23f77.jpg?v=1743083002",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/divineShopify_wB_8d77be04-d218-4f32-b93c-2f8205d23f77.jpg?v=1743083002"
+        ],
+        "local_image_path": "images/wonderskin/00850007254544.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254544",
+        "ean13": "0850007254544",
+        "upc_a": "850007254544",
+        "ean8": null,
+        "primary_code": "850007254544",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254544"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254544",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254544",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254544",
+          "code": "850007254544",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Peel & Reveal Lip Stain Kit - Divine (burgundy red)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/divineShopify_wB_8d77be04-d218-4f32-b93c-2f8205d23f77.jpg?v=1743083002"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254544.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254575",
+      "product_name": "WONDER BLADING Dream Brow Gel-Serum - Blonde",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+      "local_image_path": "images/wonderskin/00850007254575.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Dream Brow Gel-Serum - Blonde",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Dream Brow Gel-Serum - Blonde"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        ],
+        "local_image_path": "images/wonderskin/00850007254575.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254575",
+        "ean13": "0850007254575",
+        "upc_a": "850007254575",
+        "ean8": null,
+        "primary_code": "850007254575",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254575"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254575",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254575",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254575",
+          "code": "850007254575",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Dream Brow Gel-Serum - Blonde",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254575.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254599",
+      "product_name": "WONDER BLADING Dream Brow Gel-Serum - Brunette",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+      "local_image_path": "images/wonderskin/00850007254599.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Dream Brow Gel-Serum - Brunette",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Dream Brow Gel-Serum - Brunette"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        ],
+        "local_image_path": "images/wonderskin/00850007254599.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254599",
+        "ean13": "0850007254599",
+        "upc_a": "850007254599",
+        "ean8": null,
+        "primary_code": "850007254599",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254599"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254599",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254599",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254599",
+          "code": "850007254599",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Dream Brow Gel-Serum - Brunette",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254599.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254605",
+      "product_name": "WONDER BLADING Dream Brow Gel-Serum - Dark Brunette",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+      "local_image_path": "images/wonderskin/00850007254605.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING Dream Brow Gel-Serum - Dark Brunette",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING Dream Brow Gel-Serum - Dark Brunette"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        ],
+        "local_image_path": "images/wonderskin/00850007254605.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254605",
+        "ean13": "0850007254605",
+        "upc_a": "850007254605",
+        "ean8": null,
+        "primary_code": "850007254605",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254605"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254605",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254605",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254605",
+          "code": "850007254605",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING Dream Brow Gel-Serum - Dark Brunette",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/DREAM_BROW_-_DARK_BRUNETTE.jpg?v=1762181924"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254605.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254780",
+      "product_name": "WONDER BLADING All-Day Lip Stain - Adore (peachy rose)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adore_10-09-2026--_9.jpg?v=1789057403",
+      "local_image_path": "images/wonderskin/00850007254780.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING All-Day Lip Stain - Adore (peachy rose)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING All-Day Lip Stain - Adore (peachy rose)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adore_10-09-2026--_9.jpg?v=1789057403",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adore_10-09-2026--_9.jpg?v=1789057403",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/adore_10-09-2026--_9.jpg?v=1789057403",
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/adoreSPFY_wLogo.jpg?v=1743081845"
+        ],
+        "local_image_path": "images/wonderskin/00850007254780.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254780",
+        "ean13": "0850007254780",
+        "upc_a": "850007254780",
+        "ean8": null,
+        "primary_code": "850007254780",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254780"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254780",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254780",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254780",
+          "code": "850007254780",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING All-Day Lip Stain - Adore (peachy rose)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/adore_10-09-2026--_9.jpg?v=1789057403"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254780.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254810",
+      "product_name": "WONDER BLADING All-Day Lip Stain - Lovely (chestnut brown)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovely_10-09-2026--_9.jpg?v=1789041493",
+      "local_image_path": "images/wonderskin/00850007254810.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING All-Day Lip Stain - Lovely (chestnut brown)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING All-Day Lip Stain - Lovely (chestnut brown)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovely_10-09-2026--_9.jpg?v=1789041493",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovely_10-09-2026--_9.jpg?v=1789041493",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/lovely_10-09-2026--_9.jpg?v=1789041493",
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/lovelySPFY_wLogo.jpg?v=1743081845"
+        ],
+        "local_image_path": "images/wonderskin/00850007254810.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254810",
+        "ean13": "0850007254810",
+        "upc_a": "850007254810",
+        "ean8": null,
+        "primary_code": "850007254810",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254810"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254810",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254810",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254810",
+          "code": "850007254810",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING All-Day Lip Stain - Lovely (chestnut brown)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/lovely_10-09-2026--_9.jpg?v=1789041493"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254810.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254827",
+      "product_name": "WONDER BLADING All-Day Lip Stain - Whimsical (Soft Berry Brown)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimsical_10-09-2026--_9.jpg?v=1789041502",
+      "local_image_path": "images/wonderskin/00850007254827.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "WONDER BLADING All-Day Lip Stain - Whimsical (Soft Berry Brown)",
+        "source_names": {
+          "brand_storefront": "WONDER BLADING All-Day Lip Stain - Whimsical (Soft Berry Brown)"
+        },
+        "alternate_names": [
+          "WONDER BLADING All-Day Lip Stain - Whimsical (warm rose)"
+        ],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimsical_10-09-2026--_9.jpg?v=1789041502",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimsical_10-09-2026--_9.jpg?v=1789041502",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/whimsical_10-09-2026--_9.jpg?v=1789041502",
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/whimiscalSPFY_wLogo.jpg?v=1743081845"
+        ],
+        "local_image_path": "images/wonderskin/00850007254827.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254827",
+        "ean13": "0850007254827",
+        "upc_a": "850007254827",
+        "ean8": null,
+        "primary_code": "850007254827",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254827"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254827",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254827",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254827",
+          "code": "850007254827",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "WONDER BLADING All-Day Lip Stain - Whimsical (Soft Berry Brown)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/whimsical_10-09-2026--_9.jpg?v=1789041502"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254827.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254919",
+      "product_name": "1440 Longwear Eyeliner - Icing (soft pink)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_ICING_216e346a-507f-44d2-b2f5-d7d049646054.jpg?v=1775646231",
+      "local_image_path": "images/wonderskin/00850007254919.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "1440 Longwear Eyeliner - Icing (soft pink)",
+        "source_names": {
+          "brand_storefront": "1440 Longwear Eyeliner - Icing (soft pink)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_ICING_216e346a-507f-44d2-b2f5-d7d049646054.jpg?v=1775646231",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_ICING_216e346a-507f-44d2-b2f5-d7d049646054.jpg?v=1775646231",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_ICING_216e346a-507f-44d2-b2f5-d7d049646054.jpg?v=1775646231"
+        ],
+        "local_image_path": "images/wonderskin/00850007254919.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254919",
+        "ean13": "0850007254919",
+        "upc_a": "850007254919",
+        "ean8": null,
+        "primary_code": "850007254919",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254919"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254919",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254919",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254919",
+          "code": "850007254919",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "1440 Longwear Eyeliner - Icing (soft pink)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_ICING_216e346a-507f-44d2-b2f5-d7d049646054.jpg?v=1775646231"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254919.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254926",
+      "product_name": "1440 Longwear Eyeliner - Kalamata (deep brown)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_KALAMATA_75f676f1-a91c-40a3-acbc-f033ea9a8408.jpg?v=1775646231",
+      "local_image_path": "images/wonderskin/00850007254926.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "1440 Longwear Eyeliner - Kalamata (deep brown)",
+        "source_names": {
+          "brand_storefront": "1440 Longwear Eyeliner - Kalamata (deep brown)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_KALAMATA_75f676f1-a91c-40a3-acbc-f033ea9a8408.jpg?v=1775646231",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_KALAMATA_75f676f1-a91c-40a3-acbc-f033ea9a8408.jpg?v=1775646231",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_KALAMATA_75f676f1-a91c-40a3-acbc-f033ea9a8408.jpg?v=1775646231"
+        ],
+        "local_image_path": "images/wonderskin/00850007254926.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254926",
+        "ean13": "0850007254926",
+        "upc_a": "850007254926",
+        "ean8": null,
+        "primary_code": "850007254926",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254926"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254926",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254926",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254926",
+          "code": "850007254926",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "1440 Longwear Eyeliner - Kalamata (deep brown)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_KALAMATA_75f676f1-a91c-40a3-acbc-f033ea9a8408.jpg?v=1775646231"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254926.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254933",
+      "product_name": "1440 Longwear Eyeliner - Oyster Blue (pearlescent slate)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_O_BLUE_448eab03-302b-4b39-bc72-7a347bee4e2e.jpg?v=1775646231",
+      "local_image_path": "images/wonderskin/00850007254933.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "1440 Longwear Eyeliner - Oyster Blue (pearlescent slate)",
+        "source_names": {
+          "brand_storefront": "1440 Longwear Eyeliner - Oyster Blue (pearlescent slate)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_O_BLUE_448eab03-302b-4b39-bc72-7a347bee4e2e.jpg?v=1775646231",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_O_BLUE_448eab03-302b-4b39-bc72-7a347bee4e2e.jpg?v=1775646231",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_O_BLUE_448eab03-302b-4b39-bc72-7a347bee4e2e.jpg?v=1775646231"
+        ],
+        "local_image_path": "images/wonderskin/00850007254933.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254933",
+        "ean13": "0850007254933",
+        "upc_a": "850007254933",
+        "ean8": null,
+        "primary_code": "850007254933",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254933"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254933",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254933",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254933",
+          "code": "850007254933",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "1440 Longwear Eyeliner - Oyster Blue (pearlescent slate)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_O_BLUE_448eab03-302b-4b39-bc72-7a347bee4e2e.jpg?v=1775646231"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254933.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254940",
+      "product_name": "1440 Longwear Eyeliner - Brown Sugar (dark terra cotta)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_B_SUGAR_18eb48b8-cefe-444e-b141-501d32319bee.jpg?v=1775646231",
+      "local_image_path": "images/wonderskin/00850007254940.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "1440 Longwear Eyeliner - Brown Sugar (dark terra cotta)",
+        "source_names": {
+          "brand_storefront": "1440 Longwear Eyeliner - Brown Sugar (dark terra cotta)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_B_SUGAR_18eb48b8-cefe-444e-b141-501d32319bee.jpg?v=1775646231",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_B_SUGAR_18eb48b8-cefe-444e-b141-501d32319bee.jpg?v=1775646231",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_B_SUGAR_18eb48b8-cefe-444e-b141-501d32319bee.jpg?v=1775646231"
+        ],
+        "local_image_path": "images/wonderskin/00850007254940.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254940",
+        "ean13": "0850007254940",
+        "upc_a": "850007254940",
+        "ean8": null,
+        "primary_code": "850007254940",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254940"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254940",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254940",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254940",
+          "code": "850007254940",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "1440 Longwear Eyeliner - Brown Sugar (dark terra cotta)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_B_SUGAR_18eb48b8-cefe-444e-b141-501d32319bee.jpg?v=1775646231"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254940.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254957",
+      "product_name": "1440 Longwear Eyeliner - Olive (green)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_OLIVE_b7d0bcf5-2055-48b0-af32-825af02e7db0.jpg?v=1775646231",
+      "local_image_path": "images/wonderskin/00850007254957.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "1440 Longwear Eyeliner - Olive (green)",
+        "source_names": {
+          "brand_storefront": "1440 Longwear Eyeliner - Olive (green)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_OLIVE_b7d0bcf5-2055-48b0-af32-825af02e7db0.jpg?v=1775646231",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_OLIVE_b7d0bcf5-2055-48b0-af32-825af02e7db0.jpg?v=1775646231",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_OLIVE_b7d0bcf5-2055-48b0-af32-825af02e7db0.jpg?v=1775646231"
+        ],
+        "local_image_path": "images/wonderskin/00850007254957.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254957",
+        "ean13": "0850007254957",
+        "upc_a": "850007254957",
+        "ean8": null,
+        "primary_code": "850007254957",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254957"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254957",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254957",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254957",
+          "code": "850007254957",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "1440 Longwear Eyeliner - Olive (green)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_OLIVE_b7d0bcf5-2055-48b0-af32-825af02e7db0.jpg?v=1775646231"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254957.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850007254971",
+      "product_name": "1440 Longwear Eyeliner - Liquorice (rich jet black)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_LIQUORICE_0a889a1d-41cc-4fcd-82a6-45d313d05d09.jpg?v=1760103529",
+      "local_image_path": "images/wonderskin/00850007254971.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "1440 Longwear Eyeliner - Liquorice (rich jet black)",
+        "source_names": {
+          "brand_storefront": "1440 Longwear Eyeliner - Liquorice (rich jet black)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_LIQUORICE_0a889a1d-41cc-4fcd-82a6-45d313d05d09.jpg?v=1760103529",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_LIQUORICE_0a889a1d-41cc-4fcd-82a6-45d313d05d09.jpg?v=1760103529",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_LIQUORICE_0a889a1d-41cc-4fcd-82a6-45d313d05d09.jpg?v=1760103529"
+        ],
+        "local_image_path": "images/wonderskin/00850007254971.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850007254971",
+        "ean13": "0850007254971",
+        "upc_a": "850007254971",
+        "ean8": null,
+        "primary_code": "850007254971",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850007254971"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850007254971",
+        "qr_payload_text": "https://id.gs1.org/01/00850007254971",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850007254971",
+          "code": "850007254971",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "1440 Longwear Eyeliner - Liquorice (rich jet black)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/1440_LIQUORICE_0a889a1d-41cc-4fcd-82a6-45d313d05d09.jpg?v=1760103529"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850007254971.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850050275688",
+      "product_name": "lip rehab serum oil - Honey (burgundy brown)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_HONEY_LIP_OIL_1_11a695d8-7d24-4873-b087-a3c0ffc2e986.jpg?v=1746192680",
+      "local_image_path": "images/wonderskin/00850050275688.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "lip rehab serum oil - Honey (burgundy brown)",
+        "source_names": {
+          "brand_storefront": "lip rehab serum oil - Honey (burgundy brown)"
+        },
+        "alternate_names": [
+          "Lip Rehab Serum Oil - Honey"
+        ],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_HONEY_LIP_OIL_1_11a695d8-7d24-4873-b087-a3c0ffc2e986.jpg?v=1746192680",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_HONEY_LIP_OIL_1_11a695d8-7d24-4873-b087-a3c0ffc2e986.jpg?v=1746192680",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_HONEY_LIP_OIL_1_11a695d8-7d24-4873-b087-a3c0ffc2e986.jpg?v=1746192680",
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_HONEY_LIP_OIL_v1_1.jpg?v=1753452524"
+        ],
+        "local_image_path": "images/wonderskin/00850050275688.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850050275688",
+        "ean13": "0850050275688",
+        "upc_a": "850050275688",
+        "ean8": null,
+        "primary_code": "850050275688",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850050275688"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850050275688",
+        "qr_payload_text": "https://id.gs1.org/01/00850050275688",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850050275688",
+          "code": "850050275688",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "lip rehab serum oil - Honey (burgundy brown)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_HONEY_LIP_OIL_1_11a695d8-7d24-4873-b087-a3c0ffc2e986.jpg?v=1746192680"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850050275688.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850050275695",
+      "product_name": "lip rehab serum oil - Flirt (peachy orange)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_FLIRT_LIP_OIL_56468349-1757-45bf-8795-35525f0e6ea6.jpg?v=1746192610",
+      "local_image_path": "images/wonderskin/00850050275695.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "lip rehab serum oil - Flirt (peachy orange)",
+        "source_names": {
+          "brand_storefront": "lip rehab serum oil - Flirt (peachy orange)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_FLIRT_LIP_OIL_56468349-1757-45bf-8795-35525f0e6ea6.jpg?v=1746192610",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_FLIRT_LIP_OIL_56468349-1757-45bf-8795-35525f0e6ea6.jpg?v=1746192610",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_FLIRT_LIP_OIL_56468349-1757-45bf-8795-35525f0e6ea6.jpg?v=1746192610"
+        ],
+        "local_image_path": "images/wonderskin/00850050275695.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850050275695",
+        "ean13": "0850050275695",
+        "upc_a": "850050275695",
+        "ean8": null,
+        "primary_code": "850050275695",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850050275695"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850050275695",
+        "qr_payload_text": "https://id.gs1.org/01/00850050275695",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850050275695",
+          "code": "850050275695",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "lip rehab serum oil - Flirt (peachy orange)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_FLIRT_LIP_OIL_56468349-1757-45bf-8795-35525f0e6ea6.jpg?v=1746192610"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850050275695.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850050275718",
+      "product_name": "lip rehab serum oil - Lover (strawberry rose)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_LOVER_LIP_OIL_1_404bf662-43ad-4d73-9869-eeefd0b2c674.jpg?v=1746192145",
+      "local_image_path": "images/wonderskin/00850050275718.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "lip rehab serum oil - Lover (strawberry rose)",
+        "source_names": {
+          "brand_storefront": "lip rehab serum oil - Lover (strawberry rose)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_LOVER_LIP_OIL_1_404bf662-43ad-4d73-9869-eeefd0b2c674.jpg?v=1746192145",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_LOVER_LIP_OIL_1_404bf662-43ad-4d73-9869-eeefd0b2c674.jpg?v=1746192145",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_LOVER_LIP_OIL_1_404bf662-43ad-4d73-9869-eeefd0b2c674.jpg?v=1746192145"
+        ],
+        "local_image_path": "images/wonderskin/00850050275718.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850050275718",
+        "ean13": "0850050275718",
+        "upc_a": "850050275718",
+        "ean8": null,
+        "primary_code": "850050275718",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850050275718"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850050275718",
+        "qr_payload_text": "https://id.gs1.org/01/00850050275718",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850050275718",
+          "code": "850050275718",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "lip rehab serum oil - Lover (strawberry rose)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_LOVER_LIP_OIL_1_404bf662-43ad-4d73-9869-eeefd0b2c674.jpg?v=1746192145"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850050275718.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850066488720",
+      "product_name": "Peel & Reveal Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/PeelReveal_1.jpg?v=1759479346",
+      "local_image_path": "images/wonderskin/00850066488720.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "Peel & Reveal Set",
+        "source_names": {
+          "brand_storefront": "Peel & Reveal Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/PeelReveal_1.jpg?v=1759479346",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/PeelReveal_1.jpg?v=1759479346",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/PeelReveal_1.jpg?v=1759479346"
+        ],
+        "local_image_path": "images/wonderskin/00850066488720.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850066488720",
+        "ean13": "0850066488720",
+        "upc_a": "850066488720",
+        "ean8": null,
+        "primary_code": "850066488720",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850066488720"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850066488720",
+        "qr_payload_text": "https://id.gs1.org/01/00850066488720",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850066488720",
+          "code": "850066488720",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "Peel & Reveal Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/PeelReveal_1.jpg?v=1759479346"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850066488720.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850066488737",
+      "product_name": "Brown is the New Black Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Uls_1.jpg?v=1759479981",
+      "local_image_path": "images/wonderskin/00850066488737.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "Brown is the New Black Set",
+        "source_names": {
+          "brand_storefront": "Brown is the New Black Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Uls_1.jpg?v=1759479981",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Uls_1.jpg?v=1759479981",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/Uls_1.jpg?v=1759479981"
+        ],
+        "local_image_path": "images/wonderskin/00850066488737.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850066488737",
+        "ean13": "0850066488737",
+        "upc_a": "850066488737",
+        "ean8": null,
+        "primary_code": "850066488737",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850066488737"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850066488737",
+        "qr_payload_text": "https://id.gs1.org/01/00850066488737",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850066488737",
+          "code": "850066488737",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "Brown is the New Black Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Uls_1.jpg?v=1759479981"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850066488737.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850073597026",
+      "product_name": "lip rehab serum oil - Amour (raspberry red)",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_AMOUR_LIP_OIL_1_91ad3975-a004-4e19-b7b4-d4706d6e5f33.jpg?v=1746192145",
+      "local_image_path": "images/wonderskin/00850073597026.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "lip rehab serum oil - Amour (raspberry red)",
+        "source_names": {
+          "brand_storefront": "lip rehab serum oil - Amour (raspberry red)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_AMOUR_LIP_OIL_1_91ad3975-a004-4e19-b7b4-d4706d6e5f33.jpg?v=1746192145",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_AMOUR_LIP_OIL_1_91ad3975-a004-4e19-b7b4-d4706d6e5f33.jpg?v=1746192145",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_AMOUR_LIP_OIL_1_91ad3975-a004-4e19-b7b4-d4706d6e5f33.jpg?v=1746192145"
+        ],
+        "local_image_path": "images/wonderskin/00850073597026.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850073597026",
+        "ean13": "0850073597026",
+        "upc_a": "850073597026",
+        "ean8": null,
+        "primary_code": "850073597026",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850073597026"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850073597026",
+        "qr_payload_text": "https://id.gs1.org/01/00850073597026",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850073597026",
+          "code": "850073597026",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "lip rehab serum oil - Amour (raspberry red)",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/Product_Page_-_AMOUR_LIP_OIL_1_91ad3975-a004-4e19-b7b4-d4706d6e5f33.jpg?v=1746192145"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850073597026.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850073597033",
+      "product_name": "Lip Relapse Plumping Gloss - Clear",
+      "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/ProductPage-LIPRELAPSEPLUMPINGGLOSS01_1.jpg?v=1762181989",
+      "local_image_path": "images/wonderskin/00850073597033.jpg",
+      "brand": {
+        "slug": "wonderskin",
+        "display_name": "Wonderskin",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Wonderskin",
+        "matched_raw_brands": [
+          "Wonderskin"
+        ]
+      },
+      "product": {
+        "name": "Lip Relapse Plumping Gloss - Clear",
+        "source_names": {
+          "brand_storefront": "Lip Relapse Plumping Gloss - Clear"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/ProductPage-LIPRELAPSEPLUMPINGGLOSS01_1.jpg?v=1762181989",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/ProductPage-LIPRELAPSEPLUMPINGGLOSS01_1.jpg?v=1762181989",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/1781/0571/files/ProductPage-LIPRELAPSEPLUMPINGGLOSS01_1.jpg?v=1762181989"
+        ],
+        "local_image_path": "images/wonderskin/00850073597033.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850073597033",
+        "ean13": "0850073597033",
+        "upc_a": "850073597033",
+        "ean8": null,
+        "primary_code": "850073597033",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850073597033"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850073597033",
+        "qr_payload_text": "https://id.gs1.org/01/00850073597033",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850073597033",
+          "code": "850073597033",
+          "type": "UPC-A",
+          "brand": "Wonderskin",
+          "name": "Lip Relapse Plumping Gloss - Clear",
+          "image_url": "https://cdn.shopify.com/s/files/1/1781/0571/files/ProductPage-LIPRELAPSEPLUMPINGGLOSS01_1.jpg?v=1762181989"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/wonderskin/00850073597033.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    }
+  ]
 }

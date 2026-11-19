@@ -25,6 +25,10 @@ from qr_scrabber.exporter import (
     verify_output_dir,
 )
 from qr_scrabber.harvesters.barcodelookup_probe import probe_sources
+from qr_scrabber.harvesters.brand_storefronts import (
+    DEFAULT_STOREFRONT_CACHE,
+    harvest_brand_storefronts,
+)
 from qr_scrabber.harvesters.cache import atomic_write_json, download_bulk_file
 from qr_scrabber.harvesters.images import ProductImageDownloader
 from qr_scrabber.harvesters.openbeautyfacts import (
@@ -159,6 +163,26 @@ def _add_pipeline_arguments(parser: argparse.ArgumentParser) -> None:
         action=argparse.BooleanOptionalAction,
         default=True,
         help="Render ISO 18004 SVG QR codes under <output-dir>/qr/<slug>/<gtin14>.svg.",
+    )
+    parser.add_argument(
+        "--brand-storefronts",
+        action=argparse.BooleanOptionalAction,
+        default=None,
+        help=(
+            "Include official brand Shopify storefront GS1 barcodes "
+            "(default: enabled unless custom --obf-jsonl/--obf-csv fixture is supplied)."
+        ),
+    )
+    parser.add_argument(
+        "--storefront-cache",
+        type=Path,
+        default=DEFAULT_STOREFRONT_CACHE,
+        help="Persistent cache path for official brand storefront harvests.",
+    )
+    parser.add_argument(
+        "--refresh-storefronts",
+        action="store_true",
+        help="Force a live refresh of official brand Shopify storefronts.",
     )
     parser.add_argument(
         "--render-qr-limit",
@@ -686,10 +710,27 @@ def _cmd_pipeline(args: argparse.Namespace, *, export: bool) -> int:
         replay_all_cached=True,
     )
 
+    # Optional official brand Shopify storefront harvest (cached for offline replay)
+    storefront_result: SourceHarvestResult | None = None
+    use_storefronts = (
+        args.brand_storefronts
+        if args.brand_storefronts is not None
+        else (not custom_obf_supplied)
+    )
+    if use_storefronts:
+        storefront_result = harvest_brand_storefronts(
+            registry=registry,
+            cache_path=args.storefront_cache,
+            offline=args.offline,
+            refresh=args.refresh_storefronts,
+        )
+
     if not export:
+        sf_count = len(storefront_result.candidates) if storefront_result is not None else 0
         print(
             f"Harvest complete: OBF candidates={len(obf_result.candidates)} "
             f"(quarantined={len(obf_result.quarantined)}), "
+            f"Storefront candidates={sf_count}, "
             f"UPCitemdb candidates={len(upc_out.harvest.candidates)} "
             f"(requests={upc_out.quota.requests_made_this_run}, "
             f"cache_hits={upc_out.quota.cache_hits})"
@@ -701,6 +742,7 @@ def _cmd_pipeline(args: argparse.Namespace, *, export: bool) -> int:
         obf_result=obf_result,
         upc_result=upc_out.harvest,
         opf_result=opf_result,
+        storefront_result=storefront_result,
     )
 
     should_probe_offline = args.offline or _is_local_url(args.upc_base_url) or custom_obf_supplied

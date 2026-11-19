@@ -6,8 +6,1395 @@
   "is_store_own_brand": false,
   "alias_of": null,
   "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
-  "product_count": 0,
-  "canonical_product_count": 0,
+  "product_count": 18,
+  "canonical_product_count": 18,
   "cross_source_verified_count": 0,
-  "products": []
+  "products": [
+    {
+      "gtin14": "00816652027926",
+      "product_name": "Unicorn Hair Full Coverage - Butterscotch",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_BUTTERSCOTCH-1_d2009e2a-57c4-4feb-b0dc-12e9beb5d5e0.jpg?v=1694105851",
+      "local_image_path": "images/lime-crime/00816652027926.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Butterscotch",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Butterscotch"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_BUTTERSCOTCH-1_d2009e2a-57c4-4feb-b0dc-12e9beb5d5e0.jpg?v=1694105851",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_BUTTERSCOTCH-1_d2009e2a-57c4-4feb-b0dc-12e9beb5d5e0.jpg?v=1694105851",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_BUTTERSCOTCH-1_d2009e2a-57c4-4feb-b0dc-12e9beb5d5e0.jpg?v=1694105851"
+        ],
+        "local_image_path": "images/lime-crime/00816652027926.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816652027926",
+        "ean13": "0816652027926",
+        "upc_a": "816652027926",
+        "ean8": null,
+        "primary_code": "816652027926",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "816652027926"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816652027926",
+        "qr_payload_text": "https://id.gs1.org/01/00816652027926",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816652027926",
+          "code": "816652027926",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Butterscotch",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_BUTTERSCOTCH-1_d2009e2a-57c4-4feb-b0dc-12e9beb5d5e0.jpg?v=1694105851"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00816652027926.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00816652028060",
+      "product_name": "Unicorn Hair Full Coverage - Peri Dust",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_PERI-DUST-1_c9adf98e-deb9-4ac1-94b4-a18be3d6120a.jpg?v=1694105851",
+      "local_image_path": "images/lime-crime/00816652028060.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Peri Dust",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Peri Dust"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_PERI-DUST-1_c9adf98e-deb9-4ac1-94b4-a18be3d6120a.jpg?v=1694105851",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_PERI-DUST-1_c9adf98e-deb9-4ac1-94b4-a18be3d6120a.jpg?v=1694105851",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_PERI-DUST-1_c9adf98e-deb9-4ac1-94b4-a18be3d6120a.jpg?v=1694105851"
+        ],
+        "local_image_path": "images/lime-crime/00816652028060.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816652028060",
+        "ean13": "0816652028060",
+        "upc_a": "816652028060",
+        "ean8": null,
+        "primary_code": "816652028060",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "816652028060"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816652028060",
+        "qr_payload_text": "https://id.gs1.org/01/00816652028060",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816652028060",
+          "code": "816652028060",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Peri Dust",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC-UNICORN-HAIR_PERI-DUST-1_c9adf98e-deb9-4ac1-94b4-a18be3d6120a.jpg?v=1694105851"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00816652028060.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00816652028367",
+      "product_name": "Unicorn Hair Color Prep Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/UH_ColorPrepKit_Carton_2.webp?v=1701813130",
+      "local_image_path": "images/lime-crime/00816652028367.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Color Prep Kit",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Color Prep Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Tool & Accessories"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/UH_ColorPrepKit_Carton_2.webp?v=1701813130",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/UH_ColorPrepKit_Carton_2.webp?v=1701813130",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/UH_ColorPrepKit_Carton_2.webp?v=1701813130"
+        ],
+        "local_image_path": "images/lime-crime/00816652028367.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816652028367",
+        "ean13": "0816652028367",
+        "upc_a": "816652028367",
+        "ean8": null,
+        "primary_code": "816652028367",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "816652028367"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816652028367",
+        "qr_payload_text": "https://id.gs1.org/01/00816652028367",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816652028367",
+          "code": "816652028367",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Color Prep Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/UH_ColorPrepKit_Carton_2.webp?v=1701813130"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00816652028367.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00816652029852",
+      "product_name": "Unicorn Hair Bleach Kits 20v/40v - 20 Volume Bleach Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LIM001_UnicornHairBleachKit_20vol_carton_front.png?v=1706731171",
+      "local_image_path": "images/lime-crime/00816652029852.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Bleach Kits 20v/40v - 20 Volume Bleach Kit",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Bleach Kits 20v/40v - 20 Volume Bleach Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Bleach Kit"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LIM001_UnicornHairBleachKit_20vol_carton_front.png?v=1706731171",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LIM001_UnicornHairBleachKit_20vol_carton_front.png?v=1706731171",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LIM001_UnicornHairBleachKit_20vol_carton_front.png?v=1706731171"
+        ],
+        "local_image_path": "images/lime-crime/00816652029852.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816652029852",
+        "ean13": "0816652029852",
+        "upc_a": "816652029852",
+        "ean8": null,
+        "primary_code": "816652029852",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "816652029852"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816652029852",
+        "qr_payload_text": "https://id.gs1.org/01/00816652029852",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816652029852",
+          "code": "816652029852",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Bleach Kits 20v/40v - 20 Volume Bleach Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LIM001_UnicornHairBleachKit_20vol_carton_front.png?v=1706731171"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00816652029852.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00816652029869",
+      "product_name": "Unicorn Hair Bleach Kits 20v/40v - 40 Volume Bleach Kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/lim001_unicornhairbleachkit_40vol_carton_front.jpg?v=1706731124",
+      "local_image_path": "images/lime-crime/00816652029869.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Bleach Kits 20v/40v - 40 Volume Bleach Kit",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Bleach Kits 20v/40v - 40 Volume Bleach Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Bleach Kit"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/lim001_unicornhairbleachkit_40vol_carton_front.jpg?v=1706731124",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/lim001_unicornhairbleachkit_40vol_carton_front.jpg?v=1706731124",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/lim001_unicornhairbleachkit_40vol_carton_front.jpg?v=1706731124"
+        ],
+        "local_image_path": "images/lime-crime/00816652029869.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816652029869",
+        "ean13": "0816652029869",
+        "upc_a": "816652029869",
+        "ean8": null,
+        "primary_code": "816652029869",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "816652029869"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816652029869",
+        "qr_payload_text": "https://id.gs1.org/01/00816652029869",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816652029869",
+          "code": "816652029869",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Bleach Kits 20v/40v - 40 Volume Bleach Kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/lim001_unicornhairbleachkit_40vol_carton_front.jpg?v=1706731124"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00816652029869.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652003",
+      "product_name": "Unicorn Hair Full Coverage - Anime",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Anime_1_2.jpg?v=1653598574",
+      "local_image_path": "images/lime-crime/00850085652003.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Anime",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Anime"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Anime_1_2.jpg?v=1653598574",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Anime_1_2.jpg?v=1653598574",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Anime_1_2.jpg?v=1653598574"
+        ],
+        "local_image_path": "images/lime-crime/00850085652003.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652003",
+        "ean13": "0850085652003",
+        "upc_a": "850085652003",
+        "ean8": null,
+        "primary_code": "850085652003",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652003"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652003",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652003",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652003",
+          "code": "850085652003",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Anime",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Anime_1_2.jpg?v=1653598574"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652003.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652010",
+      "product_name": "Unicorn Hair Full Coverage - Blue Smoke",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Blue-Smoke_1.jpg?v=1653600526",
+      "local_image_path": "images/lime-crime/00850085652010.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Blue Smoke",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Blue Smoke"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Blue-Smoke_1.jpg?v=1653600526",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Blue-Smoke_1.jpg?v=1653600526",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Blue-Smoke_1.jpg?v=1653600526"
+        ],
+        "local_image_path": "images/lime-crime/00850085652010.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652010",
+        "ean13": "0850085652010",
+        "upc_a": "850085652010",
+        "ean8": null,
+        "primary_code": "850085652010",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652010"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652010",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652010",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652010",
+          "code": "850085652010",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Blue Smoke",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Blue-Smoke_1.jpg?v=1653600526"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652010.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652027",
+      "product_name": "Unicorn Hair Full Coverage - Bubblegum Rose",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bubblegum-Rose_1.jpg?v=1653593485",
+      "local_image_path": "images/lime-crime/00850085652027.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Bubblegum Rose",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Bubblegum Rose"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bubblegum-Rose_1.jpg?v=1653593485",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bubblegum-Rose_1.jpg?v=1653593485",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bubblegum-Rose_1.jpg?v=1653593485"
+        ],
+        "local_image_path": "images/lime-crime/00850085652027.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652027",
+        "ean13": "0850085652027",
+        "upc_a": "850085652027",
+        "ean8": null,
+        "primary_code": "850085652027",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652027"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652027",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652027",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652027",
+          "code": "850085652027",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Bubblegum Rose",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bubblegum-Rose_1.jpg?v=1653593485"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652027.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652058",
+      "product_name": "Unicorn Hair Full Coverage - Genie",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Genie_1.jpg?v=1645550957",
+      "local_image_path": "images/lime-crime/00850085652058.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Genie",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Genie"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Genie_1.jpg?v=1645550957",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Genie_1.jpg?v=1645550957",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Genie_1.jpg?v=1645550957"
+        ],
+        "local_image_path": "images/lime-crime/00850085652058.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652058",
+        "ean13": "0850085652058",
+        "upc_a": "850085652058",
+        "ean8": null,
+        "primary_code": "850085652058",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652058"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652058",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652058",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652058",
+          "code": "850085652058",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Genie",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Genie_1.jpg?v=1645550957"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652058.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652065",
+      "product_name": "Unicorn Hair Full Coverage - Jello",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Jello_1.jpg?v=1653606599",
+      "local_image_path": "images/lime-crime/00850085652065.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Jello",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Jello"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Jello_1.jpg?v=1653606599",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Jello_1.jpg?v=1653606599",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Jello_1.jpg?v=1653606599"
+        ],
+        "local_image_path": "images/lime-crime/00850085652065.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652065",
+        "ean13": "0850085652065",
+        "upc_a": "850085652065",
+        "ean8": null,
+        "primary_code": "850085652065",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652065"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652065",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652065",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652065",
+          "code": "850085652065",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Jello",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Jello_1.jpg?v=1653606599"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652065.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652072",
+      "product_name": "Unicorn Hair Full Coverage - Juicy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Juicy_1.jpg?v=1645547898",
+      "local_image_path": "images/lime-crime/00850085652072.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Juicy",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Juicy"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Juicy_1.jpg?v=1645547898",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Juicy_1.jpg?v=1645547898",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Juicy_1.jpg?v=1645547898"
+        ],
+        "local_image_path": "images/lime-crime/00850085652072.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652072",
+        "ean13": "0850085652072",
+        "upc_a": "850085652072",
+        "ean8": null,
+        "primary_code": "850085652072",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652072"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652072",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652072",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652072",
+          "code": "850085652072",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Juicy",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Juicy_1.jpg?v=1645547898"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652072.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652089",
+      "product_name": "Unicorn Hair Full Coverage - Mochi",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mochi_1.jpg?v=1645547898",
+      "local_image_path": "images/lime-crime/00850085652089.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Mochi",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Mochi"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mochi_1.jpg?v=1645547898",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mochi_1.jpg?v=1645547898",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mochi_1.jpg?v=1645547898"
+        ],
+        "local_image_path": "images/lime-crime/00850085652089.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652089",
+        "ean13": "0850085652089",
+        "upc_a": "850085652089",
+        "ean8": null,
+        "primary_code": "850085652089",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652089"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652089",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652089",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652089",
+          "code": "850085652089",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Mochi",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mochi_1.jpg?v=1645547898"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652089.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652096",
+      "product_name": "Unicorn Hair Full Coverage - Mystic",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mystic_1.jpg?v=1653606745",
+      "local_image_path": "images/lime-crime/00850085652096.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Mystic",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Mystic"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mystic_1.jpg?v=1653606745",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mystic_1.jpg?v=1653606745",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mystic_1.jpg?v=1653606745"
+        ],
+        "local_image_path": "images/lime-crime/00850085652096.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652096",
+        "ean13": "0850085652096",
+        "upc_a": "850085652096",
+        "ean8": null,
+        "primary_code": "850085652096",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652096"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652096",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652096",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652096",
+          "code": "850085652096",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Mystic",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Mystic_1.jpg?v=1653606745"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652096.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652102",
+      "product_name": "Unicorn Hair Full Coverage - Pony",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Pony_1.jpg?v=1653586272",
+      "local_image_path": "images/lime-crime/00850085652102.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Pony",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Pony"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Pony_1.jpg?v=1653586272",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Pony_1.jpg?v=1653586272",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Pony_1.jpg?v=1653586272"
+        ],
+        "local_image_path": "images/lime-crime/00850085652102.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652102",
+        "ean13": "0850085652102",
+        "upc_a": "850085652102",
+        "ean8": null,
+        "primary_code": "850085652102",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652102"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652102",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652102",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652102",
+          "code": "850085652102",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Pony",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Pony_1.jpg?v=1653586272"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652102.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652119",
+      "product_name": "Unicorn Hair Full Coverage - Sea Witch",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sea-Witch_1.jpg?v=1645547898",
+      "local_image_path": "images/lime-crime/00850085652119.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Sea Witch",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Sea Witch"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sea-Witch_1.jpg?v=1645547898",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sea-Witch_1.jpg?v=1645547898",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sea-Witch_1.jpg?v=1645547898"
+        ],
+        "local_image_path": "images/lime-crime/00850085652119.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652119",
+        "ean13": "0850085652119",
+        "upc_a": "850085652119",
+        "ean8": null,
+        "primary_code": "850085652119",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652119"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652119",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652119",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652119",
+          "code": "850085652119",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Sea Witch",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sea-Witch_1.jpg?v=1645547898"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652119.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652126",
+      "product_name": "Unicorn Hair Full Coverage - Sour Candy",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sour-Candy_1.jpg?v=1645547898",
+      "local_image_path": "images/lime-crime/00850085652126.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Sour Candy",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Sour Candy"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sour-Candy_1.jpg?v=1645547898",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sour-Candy_1.jpg?v=1645547898",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sour-Candy_1.jpg?v=1645547898"
+        ],
+        "local_image_path": "images/lime-crime/00850085652126.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652126",
+        "ean13": "0850085652126",
+        "upc_a": "850085652126",
+        "ean8": null,
+        "primary_code": "850085652126",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652126"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652126",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652126",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652126",
+          "code": "850085652126",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Sour Candy",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Sour-Candy_1.jpg?v=1645547898"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652126.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652133",
+      "product_name": "Unicorn Hair Full Coverage - Valentine",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LC_Unicorn-Hair_Valentine_1copy_112ada8f-2c2b-41dc-bd1d-c7fa767648f9.jpg?v=1738103293",
+      "local_image_path": "images/lime-crime/00850085652133.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Full Coverage - Valentine",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Full Coverage - Valentine"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Full Coverage"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LC_Unicorn-Hair_Valentine_1copy_112ada8f-2c2b-41dc-bd1d-c7fa767648f9.jpg?v=1738103293",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LC_Unicorn-Hair_Valentine_1copy_112ada8f-2c2b-41dc-bd1d-c7fa767648f9.jpg?v=1738103293",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LC_Unicorn-Hair_Valentine_1copy_112ada8f-2c2b-41dc-bd1d-c7fa767648f9.jpg?v=1738103293"
+        ],
+        "local_image_path": "images/lime-crime/00850085652133.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652133",
+        "ean13": "0850085652133",
+        "upc_a": "850085652133",
+        "ean8": null,
+        "primary_code": "850085652133",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652133"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652133",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652133",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652133",
+          "code": "850085652133",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Full Coverage - Valentine",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/files/LC_Unicorn-Hair_Valentine_1copy_112ada8f-2c2b-41dc-bd1d-c7fa767648f9.jpg?v=1738103293"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652133.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00850085652140",
+      "product_name": "Unicorn Hair Tints - Bunny",
+      "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bunny_1.jpg?v=1750139401",
+      "local_image_path": "images/lime-crime/00850085652140.jpg",
+      "brand": {
+        "slug": "lime-crime",
+        "display_name": "Lime Crime",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lime%20Crime",
+        "matched_raw_brands": [
+          "Lime Crime"
+        ]
+      },
+      "product": {
+        "name": "Unicorn Hair Tints - Bunny",
+        "source_names": {
+          "brand_storefront": "Unicorn Hair Tints - Bunny"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Unicorn Hair Tints"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bunny_1.jpg?v=1750139401",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bunny_1.jpg?v=1750139401",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bunny_1.jpg?v=1750139401"
+        ],
+        "local_image_path": "images/lime-crime/00850085652140.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850085652140",
+        "ean13": "0850085652140",
+        "upc_a": "850085652140",
+        "ean8": null,
+        "primary_code": "850085652140",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "850085652140"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850085652140",
+        "qr_payload_text": "https://id.gs1.org/01/00850085652140",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850085652140",
+          "code": "850085652140",
+          "type": "UPC-A",
+          "brand": "Lime Crime",
+          "name": "Unicorn Hair Tints - Bunny",
+          "image_url": "https://cdn.shopify.com/s/files/1/0273/3562/2709/products/LC_Unicorn-Hair_Bunny_1.jpg?v=1750139401"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lime-crime/00850085652140.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    }
+  ]
 }

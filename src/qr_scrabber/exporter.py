@@ -297,7 +297,7 @@ def rewrite_catalog_products(
     output_dir: Path,
     products: list[ProductRecord],
 ) -> SummaryReport:
-    """Update `all_products.json`, `brands/*.json`, and `summary.json` after image/QR updates."""
+    """Update `all_products.json`, `brands/*.json`, `brands_manifest.json`, and `summary.json`."""
     out_root = Path(output_dir)
     products.sort(key=lambda r: (r.brand.slug, r.gtin14))
     by_brand: dict[str, list[ProductRecord]] = {}
@@ -311,27 +311,112 @@ def rewrite_catalog_products(
 
     manifest_raw = json.loads((out_root / "brands_manifest.json").read_text(encoding="utf-8"))
     manifest = BrandsManifest.model_validate(manifest_raw)
+
+    known_slugs: set[str] = set()
+    updated_manifest_entries: list[BrandManifestEntry] = []
+    canonical_counts: dict[str, int] = {slug: len(items) for slug, items in by_brand.items()}
+
     for b_entry in manifest.brands:
+        known_slugs.add(b_entry.slug)
         b_path = out_root / b_entry.file_path
-        if not b_path.is_file():
-            continue
-        bf = BrandFilePayload.model_validate(json.loads(b_path.read_text(encoding="utf-8")))
-        if bf.alias_of is None:
-            new_prods = by_brand.get(bf.brand_slug, [])
-            bf = bf.model_copy(
-                update={
-                    "product_count": len(new_prods),
-                    "canonical_product_count": len(new_prods),
-                    "products": new_prods,
-                }
+        if b_entry.alias_of is None:
+            new_prods = by_brand.get(b_entry.slug, [])
+            cross_count = sum(
+                1
+                for p in new_prods
+                if p.verification.status
+                in ("verified_cross_source", "verified_cross_source_subbrand_resolved")
             )
-            atomic_write_json(b_path, bf.model_dump(mode="json"))
+            if b_path.is_file():
+                bf = BrandFilePayload.model_validate(json.loads(b_path.read_text(encoding="utf-8")))
+                bf = bf.model_copy(
+                    update={
+                        "product_count": len(new_prods),
+                        "canonical_product_count": len(new_prods),
+                        "cross_source_verified_count": cross_count,
+                        "products": new_prods,
+                    }
+                )
+                atomic_write_json(b_path, bf.model_dump(mode="json"))
+            updated_manifest_entries.append(
+                b_entry.model_copy(
+                    update={
+                        "product_count": len(new_prods),
+                        "canonical_product_count": len(new_prods),
+                    }
+                )
+            )
+        else:
+            canon_count = canonical_counts.get(b_entry.alias_of, b_entry.canonical_product_count)
+            updated_manifest_entries.append(
+                b_entry.model_copy(update={"canonical_product_count": canon_count})
+            )
+
+    # Support newly persisted external brands discovered via on-demand live lookup
+    for slug, brand_prods in sorted(by_brand.items()):
+        if slug in known_slugs:
+            continue
+        sample = brand_prods[0]
+        rel_file = f"brands/{slug}.json"
+        first_char = (sample.brand.display_name or slug)[0].upper()
+        letter = first_char if "A" <= first_char <= "Z" else "#"
+        cross_count = sum(
+            1
+            for p in brand_prods
+            if p.verification.status
+            in ("verified_cross_source", "verified_cross_source_subbrand_resolved")
+        )
+        bf = BrandFilePayload(
+            brand_slug=slug,
+            display_name=sample.brand.display_name,
+            letter_section=letter,
+            is_most_loved=False,
+            is_store_own_brand=False,
+            alias_of=None,
+            glow_and_glare_vendor_url=sample.brand.glow_and_glare_vendor_url,
+            product_count=len(brand_prods),
+            canonical_product_count=len(brand_prods),
+            cross_source_verified_count=cross_count,
+            products=brand_prods,
+        )
+        atomic_write_json(out_root / rel_file, bf.model_dump(mode="json"))
+        updated_manifest_entries.append(
+            BrandManifestEntry(
+                slug=slug,
+                display_name=sample.brand.display_name,
+                letter_section=letter,
+                is_most_loved=False,
+                is_store_own_brand=False,
+                alias_of=None,
+                glow_and_glare_vendor_url=sample.brand.glow_and_glare_vendor_url,
+                product_count=len(brand_prods),
+                canonical_product_count=len(brand_prods),
+                file_path=rel_file,
+            )
+        )
+
+    brands_with_matches = sum(1 for e in updated_manifest_entries if e.product_count > 0)
+    brands_zero_matches = len(updated_manifest_entries) - brands_with_matches
+    updated_manifest = manifest.model_copy(
+        update={
+            "brands_with_matches": brands_with_matches,
+            "brands_zero_matches": brands_zero_matches,
+            "brands": updated_manifest_entries,
+        }
+    )
+    atomic_write_json(out_root / "brands_manifest.json", updated_manifest.model_dump(mode="json"))
 
     summary_raw = json.loads((out_root / "summary.json").read_text(encoding="utf-8"))
     summary = SummaryReport.model_validate(summary_raw)
     local_img_count = sum(1 for p in products if p.local_image_path is not None)
     qr_count = sum(
         1 for p in products if (p.qr.qr_svg_path or p.qr.qr_png_path) is not None
+    )
+    cross_total = sum(
+        1
+        for p in products
+        if p.verification.status
+        in ("verified_cross_source", "verified_cross_source_subbrand_resolved")
     )
     updated_files = dict(summary.output_files)
     if local_img_count > 0:
@@ -340,8 +425,11 @@ def rewrite_catalog_products(
         updated_files["qr_dir"] = "qr/"
     updated_summary = summary.model_copy(
         update={
+            "total_unique_verified_products": len(products),
+            "products_with_name_count": len(products),
             "products_with_remote_image_count": sum(1 for p in products if p.image_url is not None),
             "local_images_downloaded_count": local_img_count,
+            "cross_source_verified_count": cross_total,
             "qr_files_rendered_count": qr_count,
             "output_files": updated_files,
         }

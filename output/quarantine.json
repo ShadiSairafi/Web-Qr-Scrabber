@@ -1,12 +1,12 @@
 {
-  "total_quarantined": 168,
+  "total_quarantined": 350,
   "counts_by_reason": {
-    "NON_NUMERIC_OR_INVALID_LENGTH": 2,
+    "NON_NUMERIC_OR_INVALID_LENGTH": 137,
     "PLACEHOLDER_PATTERN": 0,
-    "INVALID_CHECK_DIGIT": 45,
+    "INVALID_CHECK_DIGIT": 91,
     "RESTRICTED_CIRCULATION_PREFIX": 18,
     "CATEGORY_MISMATCH_EXCLUDED": 33,
-    "CROSS_SOURCE_BRAND_CONFLICT": 0,
+    "CROSS_SOURCE_BRAND_CONFLICT": 1,
     "MISSING_PRODUCT_NAME": 70
   },
   "records": [
@@ -1339,6 +1339,14 @@
       "raw_title": "MORPHE BRUSHES Bam Lip Palette - 10LN"
     },
     {
+      "raw_code": "0400018236406",
+      "gtin14": "00400018236406",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "upcitemdb",
+      "raw_brand": "Sephora Collection",
+      "raw_title": "Sephora False Eye Lashes New In Box (Lashes Collection)"
+    },
+    {
       "raw_code": "0467463651093",
       "gtin14": "00467463651093",
       "reason": "CATEGORY_MISMATCH_EXCLUDED",
@@ -1347,12 +1355,1460 @@
       "raw_title": "Pre-Owned Nappy: Growing Up Black and Female in America Hardcover 086316322X 9780863163227 Aliona L. Gibson"
     },
     {
-      "raw_code": "0400018236406",
-      "gtin14": "00400018236406",
-      "reason": "RESTRICTED_CIRCULATION_PREFIX",
-      "source": "upcitemdb",
-      "raw_brand": "Sephora Collection",
-      "raw_title": "Sephora False Eye Lashes New In Box (Lashes Collection)"
+      "raw_code": "BUN-NOC-MIDNIGHT",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "MIDNIGHT GARDEN"
+    },
+    {
+      "raw_code": "BUN-NOC-VELVET",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "VELVET BLOOM"
+    },
+    {
+      "raw_code": "BUN-NOC-VENOM",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "VENOM"
+    },
+    {
+      "raw_code": "BUN-07-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "Best Sellers Eye Duo - Cloned + Kill The Lights"
+    },
+    {
+      "raw_code": "BUN-09-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "Best Sellers Eye Duo - Smell Before Rain + Chaos Theory"
+    },
+    {
+      "raw_code": "BUN-77-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 01 Blonde"
+    },
+    {
+      "raw_code": "BUN-78-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 02 Taupe"
+    },
+    {
+      "raw_code": "BUN-79-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 03 Auburn"
+    },
+    {
+      "raw_code": "BUN-80-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 04 Light Brown"
+    },
+    {
+      "raw_code": "BUN-81-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 05 Ash Brown"
+    },
+    {
+      "raw_code": "BUN-82-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 06 Chocolate Brown"
+    },
+    {
+      "raw_code": "BUN-83-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 07 Black Brown"
+    },
+    {
+      "raw_code": "BUN-84-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINER + BROW DUO - 08 Soft Black"
+    },
+    {
+      "raw_code": "ACS-08-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LIMITED EDITION AF KEYCHAIN"
+    },
+    {
+      "raw_code": "BUN-137-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "Neutral Territory"
+    },
+    {
+      "raw_code": "BUN-135-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "Punched-Up Pinks"
+    },
+    {
+      "raw_code": "BUN-138-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "On the Bright Side"
+    },
+    {
+      "raw_code": "BUN-86-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "SHADOWSTICK: THE BEST SELLERS"
+    },
+    {
+      "raw_code": "BUN-85-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "SHADOWSTICK: THE NEW NEUTRALS"
+    },
+    {
+      "raw_code": "STK-01-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "EYE F***ING STICKERS"
+    },
+    {
+      "raw_code": "BUN-74-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINE ARTIST: THE FULL LINEUP"
+    },
+    {
+      "raw_code": "BUN-76-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINE ARTIST: THE BRIGHTS"
+    },
+    {
+      "raw_code": "BUN-75-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "LINE ARTIST: THE NEUTRALS"
+    },
+    {
+      "raw_code": "BUN-57-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "Matte Fluid Eye Paint™: The Primaries Bundle"
+    },
+    {
+      "raw_code": "BUN-58-FG",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "About Face",
+      "raw_title": "Matte Fluid Eye Paint™: The Pastels Bundle"
+    },
+    {
+      "raw_code": "4324610162",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Grande Cosmetics",
+      "raw_title": "Travel Size GrandeHAIR - Travel Size"
+    },
+    {
+      "raw_code": "4324610164",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Grande Cosmetics",
+      "raw_title": "Travel Size GrandeHAIR"
+    },
+    {
+      "raw_code": "8432426101892",
+      "gtin14": "08432426101892",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Grande Cosmetics",
+      "raw_title": "Auburn Travel Size GrandeBROW 2-In-1 - Auburn"
+    },
+    {
+      "raw_code": "4324610160",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Grande Cosmetics",
+      "raw_title": "Travel Size GrandeHAIR"
+    },
+    {
+      "raw_code": "8432426101892",
+      "gtin14": "08432426101892",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Grande Cosmetics",
+      "raw_title": "Travel Size GrandeBROW 2-In-1 - Auburn"
+    },
+    {
+      "raw_code": "HG-CZMK912",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Gift Wrapping"
+    },
+    {
+      "raw_code": "HG-HG-DGC-50",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Digital Gift Cards - $50.00"
+    },
+    {
+      "raw_code": "HG-HG-DGC-100",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Digital Gift Cards - $100.00"
+    },
+    {
+      "raw_code": "HG-HG-DGC-250",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Digital Gift Cards - $250.00"
+    },
+    {
+      "raw_code": "HG-HG-DGC-500",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Digital Gift Cards - $500.00"
+    },
+    {
+      "raw_code": "HG-H277010001",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Unlocked Instant Extensions Mascara - Deluxe Gift"
+    },
+    {
+      "raw_code": "HG-H370010001",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Equilibrium Eye Balm + Unlocked Mascara Deluxe Gift"
+    },
+    {
+      "raw_code": "HG-H145020420",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Hourglass",
+      "raw_title": "Vegan Leather Makeup Clutch - Bronze"
+    },
+    {
+      "raw_code": "B0787GLBMV",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kitsch",
+      "raw_title": "AMZ-B0787GLBMV"
+    },
+    {
+      "raw_code": "B09MFMCTRK",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kitsch",
+      "raw_title": "AMZ-B09MFMCTRK"
+    },
+    {
+      "raw_code": "B00IGJ1XOO",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kitsch",
+      "raw_title": "AMZ-B00IGJ1XOO"
+    },
+    {
+      "raw_code": "BUN_100",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kosas",
+      "raw_title": "Easy Glaze Set"
+    },
+    {
+      "raw_code": "BUN_53",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kosas",
+      "raw_title": "Dream Skin Set"
+    },
+    {
+      "raw_code": "BUN_57",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kosas",
+      "raw_title": "Good Angles Set"
+    },
+    {
+      "raw_code": "BUN_62",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kosas",
+      "raw_title": "Full Effect Lip Set"
+    },
+    {
+      "raw_code": "BUN_98",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kosas",
+      "raw_title": "Lit-from-Within Set"
+    },
+    {
+      "raw_code": "GW",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Kosas",
+      "raw_title": "Gift Wrapping"
+    },
+    {
+      "raw_code": "15521751236850",
+      "gtin14": "15521751236850",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Kylie's Lacma Gala Look Bundle"
+    },
+    {
+      "raw_code": "15456438223090",
+      "gtin14": "15456438223090",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Winter Kissed Matte Lip Kit & Hybrid Blush Duo"
+    },
+    {
+      "raw_code": "15456438354162",
+      "gtin14": "15456438354162",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Winter Kissed Matte Lip Kit & Skin Tint Duo"
+    },
+    {
+      "raw_code": "15456438321394",
+      "gtin14": "15456438321394",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Winter Kissed Matte Lip Kit & Pressed Blush Powder Duo"
+    },
+    {
+      "raw_code": "15456438255858",
+      "gtin14": "15456438255858",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Winter Kissed Matte Lip Kit & Palette Duo"
+    },
+    {
+      "raw_code": "15416931746034",
+      "gtin14": "15416931746034",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Winter Kissed 4-Piece Collection Bundle"
+    },
+    {
+      "raw_code": "10169378537720",
+      "gtin14": "10169378537720",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Cashmere Muse & Pen Spray Duo"
+    },
+    {
+      "raw_code": "10169395020024",
+      "gtin14": "10169395020024",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Velvet Brew & Pen Spray Duo"
+    },
+    {
+      "raw_code": "9876653342968",
+      "gtin14": "09876653342968",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Brightening Powder & Brush Duo"
+    },
+    {
+      "raw_code": "9876649902328",
+      "gtin14": "09876649902328",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Complexion Essentials Trio"
+    },
+    {
+      "raw_code": "8968918466802",
+      "gtin14": "08968918466802",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Gift Bundle #1 Mini Cosmic Kylie Jenner & Drawstring pouch"
+    },
+    {
+      "raw_code": "8968920203506",
+      "gtin14": "08968920203506",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Gift Bundle #2 Cosmic Kylie Jenner Pouch & Pink Tray"
+    },
+    {
+      "raw_code": "8968919875826",
+      "gtin14": "08968919875826",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Gift Bundle #1 Cosmic Keychain & Silver Tray"
+    },
+    {
+      "raw_code": "8907946983666",
+      "gtin14": "08907946983666",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Cosmic Kylie Jenner Pen Spray Trio"
+    },
+    {
+      "raw_code": "8111661121778",
+      "gtin14": "08111661121778",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Cosmic Kylie Jenner 50ml & Pen Spray Duo"
+    },
+    {
+      "raw_code": "9412587520248",
+      "gtin14": "09412587520248",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Sculpted Lip Essentials Trio"
+    },
+    {
+      "raw_code": "9412566352120",
+      "gtin14": "09412566352120",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Precision Pout Lip Liner Cool Tones Bundle"
+    },
+    {
+      "raw_code": "8843376689394",
+      "gtin14": "08843376689394",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "King Kylie Palette + Matte Lip Kit Duo"
+    },
+    {
+      "raw_code": "8929327972594",
+      "gtin14": "08929327972594",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Cosmic Kylie Jenner & Intense 100ml Duo"
+    },
+    {
+      "raw_code": "8907946623218",
+      "gtin14": "08907946623218",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Cosmic Kylie Jenner 100ml Trio"
+    },
+    {
+      "raw_code": "8907946197234",
+      "gtin14": "08907946197234",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Cosmic Kylie Jenner Intense 100ml & Pen Spray Duo"
+    },
+    {
+      "raw_code": "8907945378034",
+      "gtin14": "08907945378034",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Cosmic Kylie Jenner Intense 30ml & Pen Spray Duo"
+    },
+    {
+      "raw_code": "8836186276082",
+      "gtin14": "08836186276082",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Pressed Blush Powder & Brush Duo"
+    },
+    {
+      "raw_code": "8648768585970",
+      "gtin14": "08648768585970",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Natural Blur Powder Foundation & Skin Tint Blurring Elixir Duo"
+    },
+    {
+      "raw_code": "8446804492530",
+      "gtin14": "08446804492530",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Skin Tint Blurring Elixir & Power Plush Concealer Duo"
+    },
+    {
+      "raw_code": "8783757934834",
+      "gtin14": "08783757934834",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Kylie's Peach Mango Look Bundle"
+    },
+    {
+      "raw_code": "8113424269554",
+      "gtin14": "08113424269554",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Lip Butter & Precision Pout Lip Liner Duo"
+    },
+    {
+      "raw_code": "8417303003384",
+      "gtin14": "08417303003384",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Glow Balm & Lip Butter Duo"
+    },
+    {
+      "raw_code": "8836186177778",
+      "gtin14": "08836186177778",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Kylie Cosmetics",
+      "raw_title": "Hybrid Blush & Brush Duo"
+    },
+    {
+      "raw_code": "850085652304",
+      "gtin14": "00850085652304",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Lime Crime",
+      "raw_title": "Unicorn Hair Full Coverage - Chocolate Cherry"
+    },
+    {
+      "raw_code": "693103351288",
+      "gtin14": "00693103351288",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Ofra",
+      "raw_title": "Highlighter - Bellisima"
+    },
+    {
+      "raw_code": "693102820158",
+      "gtin14": "00693102820158",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Ofra",
+      "raw_title": "Signature Palette - Love Always, Jess"
+    },
+    {
+      "raw_code": "693102041045",
+      "gtin14": "00693102041045",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Ofra",
+      "raw_title": "Foot Relief Cream"
+    },
+    {
+      "raw_code": "69310265741",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Ofra",
+      "raw_title": "Strawberry Mousse Lip Set"
+    },
+    {
+      "raw_code": "AEB204CB",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Patrick Ta",
+      "raw_title": "Major Brow Defining Pencil - Blonde"
+    },
+    {
+      "raw_code": "AEB203GA",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Patrick Ta",
+      "raw_title": "Major Brow Defining Pencil - Light Brown"
+    },
+    {
+      "raw_code": "AEB204JA",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Patrick Ta",
+      "raw_title": "Major Brow Defining Pencil - Medium Brown"
+    },
+    {
+      "raw_code": "AEB204KA",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Patrick Ta",
+      "raw_title": "Major Brow Defining Pencil - Dark Brown"
+    },
+    {
+      "raw_code": "AEB203EA",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Patrick Ta",
+      "raw_title": "Major Brow Defining Pencil - Soft Black"
+    },
+    {
+      "raw_code": "885190204710",
+      "gtin14": "00885190204710",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Pixi",
+      "raw_title": "Liquid Fairy Lights - SilverSky"
+    },
+    {
+      "raw_code": "0",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Rodial",
+      "raw_title": "Bee Venom Eye Cream - Unboxed"
+    },
+    {
+      "raw_code": "KW-X3-SAIE-BLK",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Saie",
+      "raw_title": "Saie x Karen Wazen Glasses"
+    },
+    {
+      "raw_code": "94800364189",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "FREE Mini Stay All Day® Liquid Eye Liner in Intense Black"
+    },
+    {
+      "raw_code": "94800363984",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Last Chance Shades - Cashmere (Light Gold Sheen)"
+    },
+    {
+      "raw_code": "94800364035",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Last Chance Shades - Silver Lining (Silver Metallic Shimmer)"
+    },
+    {
+      "raw_code": "94800364189",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Free Travel Stay All Day® Liquid Eye Liner in Intense Black (TikTok Shop)"
+    },
+    {
+      "raw_code": "94800364059",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Stingray Black (Jet Black)"
+    },
+    {
+      "raw_code": "94800363953",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Espresso (Matte Medium Brown)"
+    },
+    {
+      "raw_code": "94800363977",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Damsel Dark Brown (Blackish Brown)"
+    },
+    {
+      "raw_code": "94800363960",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Lionfish Bronze (Deep Bronze Sheen)"
+    },
+    {
+      "raw_code": "94800363984",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Cashmere (Light Gold Sheen)"
+    },
+    {
+      "raw_code": "94800364004",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Vivid Sapphire (Deep Blue)"
+    },
+    {
+      "raw_code": "94800364011",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Plumfull (Deep Purple)"
+    },
+    {
+      "raw_code": "94800364028",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Electric Lapis (Electric Blue Shimmer)"
+    },
+    {
+      "raw_code": "94800364035",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Silver Lining (Silver Metallic Shimmer)"
+    },
+    {
+      "raw_code": "94800364042",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Stila",
+      "raw_title": "Stay All Day® Smudge & Set Waterproof Gel Eye Liner - Cypress (Dark Metallic Green)"
+    },
+    {
+      "raw_code": "BND335900",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "limited-edition peppermint lip plump duo + FREE gift bag & charm - multi"
+    },
+    {
+      "raw_code": "BND335400",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "smolderEYES™ shadow liner duo - multi"
+    },
+    {
+      "raw_code": "BND334400",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "maracuja juicy blush & bronzer multi-stick + brush - multi"
+    },
+    {
+      "raw_code": "BND333800",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "double take clay pot shadow liner + brush - multi"
+    },
+    {
+      "raw_code": "BND330900",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "key largo GLOW body stick & smoothing body brush duo - multi"
+    },
+    {
+      "raw_code": "BND332700",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x FINNSUL CC undereye + FREE XL tubing mascara - multi"
+    },
+    {
+      "raw_code": "BND332600",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x FINNSUL CC undereye + FREE tubing mascara - multi"
+    },
+    {
+      "raw_code": "BND331700",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "shape tape™ creamy eye lift effect trio - multi"
+    },
+    {
+      "raw_code": "BND331600",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "rethink natural™ juicy lips & skin - multi"
+    },
+    {
+      "raw_code": "BND331400",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "#trippinwithtarte shape & bake duo - multi"
+    },
+    {
+      "raw_code": "BND330600",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "glow pot eyeshadow & brush - multi"
+    },
+    {
+      "raw_code": "BND328900",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Key Largo GLOW body oil & kabuki body brush duo - multi"
+    },
+    {
+      "raw_code": "BND321800",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Big Stick Energy™ duo - multi"
+    },
+    {
+      "raw_code": "BND320700",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte locked in duo - multi"
+    },
+    {
+      "raw_code": "BND235400",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "face tape™ all stars bundle - multi"
+    },
+    {
+      "raw_code": "BND334500",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "the essential skin duo - multi"
+    },
+    {
+      "raw_code": "BND334300",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "#1 tubing mascara & liquid eyeliner duo - multi"
+    },
+    {
+      "raw_code": "BND334100",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "maneater™ foundation stick & brush bundle - multi"
+    },
+    {
+      "raw_code": "BND333600",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "timeless™ hydrating foundation & brush duo - multi"
+    },
+    {
+      "raw_code": "BND332500",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x FINNSUL tubing mascara + FREE juicy gloss - multi"
+    },
+    {
+      "raw_code": "BND332200",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "macaron sculpt & bronze duo + brush - multi"
+    },
+    {
+      "raw_code": "BND332800",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "@itsmaureenkelly highlight reel cheek wardrobe + brush bundle - multi"
+    },
+    {
+      "raw_code": "BND332000",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "shape tape™ blur & blush duo - multi"
+    },
+    {
+      "raw_code": "BND331900",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "shape & bake shape tape™ & creaseless powder duo - multi"
+    },
+    {
+      "raw_code": "BND331800",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "line & define XL tubing mascara & double take eyeliner duo + FREE charm - multi"
+    },
+    {
+      "raw_code": "BND331500",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "@itsmaureenkelly #trippin must haves - multi"
+    },
+    {
+      "raw_code": "BND331300",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "vinyl drip lip gloss & plump liner + FREE mystery charms - multi"
+    },
+    {
+      "raw_code": "BND331200",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte™ x Tana lip kit + free maneater™ mascara - multi"
+    },
+    {
+      "raw_code": "BND331000",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "macaron blush & glow™ duo + brush - multi"
+    },
+    {
+      "raw_code": "BND330300",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte™ x Amber Massey glow pot & brush - multi"
+    },
+    {
+      "raw_code": "BND330100",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "stay spray setting spray duo - multi"
+    },
+    {
+      "raw_code": "BND328800",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "CC undereye & dark circle defense™ corrector brush duo - multi"
+    },
+    {
+      "raw_code": "BND328700",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "maracuja tinted moisturizer & angled complexion brush duo - multi"
+    },
+    {
+      "raw_code": "BND306600",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "creaseless creamy full-coverage concealer & paw brush duo - multi"
+    },
+    {
+      "raw_code": "BND322500",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "@itsmaureenkelly lash cocktail - multi"
+    },
+    {
+      "raw_code": "BND270100",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "sculpt tape™ & brush duo - mutli"
+    },
+    {
+      "raw_code": "BND321500",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "stain & plump lip and liner duo - multi"
+    },
+    {
+      "raw_code": "BND228400",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "full coverage favorites bundle - multi"
+    },
+    {
+      "raw_code": "BND320800",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte perfect & set kit - multi"
+    },
+    {
+      "raw_code": "BND302900",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "plumped up lashes & lips bundle - multi"
+    },
+    {
+      "raw_code": "BND320600",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "#tarte trending trio - multi"
+    },
+    {
+      "raw_code": "BND322000",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "day to night lip kit - multi"
+    },
+    {
+      "raw_code": "BND335300",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x Roller Rabbit lash & stamp duo - multi"
+    },
+    {
+      "raw_code": "BND335100",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x Roller Rabbit tartelette™ tubing mascara, lip vinyl & freckle stamp - multi"
+    },
+    {
+      "raw_code": "BND335200",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x Roller Rabbit mascara & vinyl set - multi"
+    },
+    {
+      "raw_code": "BND335000",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x Roller Rabbit #1 mascara set - multi"
+    },
+    {
+      "raw_code": "BND334900",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "tarte x Roller Rabbit best-sellers set - multi"
+    },
+    {
+      "raw_code": "BND334800",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "SPOTTED: main character must-have's set - multi"
+    },
+    {
+      "raw_code": "900000000145",
+      "gtin14": "00900000000145",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "limited-edition park ave princess™ face & body bronzer - rich-mahogany"
+    },
+    {
+      "raw_code": "900000000146",
+      "gtin14": "00900000000146",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "limited-edition park ave princess™ face & body bronzer - espresso"
+    },
+    {
+      "raw_code": "90010000",
+      "gtin14": "00000090010000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $1"
+    },
+    {
+      "raw_code": "90020000",
+      "gtin14": "00000090020000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $2"
+    },
+    {
+      "raw_code": "90040000",
+      "gtin14": "00000090040000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $10"
+    },
+    {
+      "raw_code": "90090000",
+      "gtin14": "00000090090000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $15"
+    },
+    {
+      "raw_code": "90050000",
+      "gtin14": "00000090050000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $25"
+    },
+    {
+      "raw_code": "90060000",
+      "gtin14": "00000090060000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $50"
+    },
+    {
+      "raw_code": "90070000",
+      "gtin14": "00000090070000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $75"
+    },
+    {
+      "raw_code": "90080000",
+      "gtin14": "00000090080000",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "brand_storefront",
+      "raw_brand": "Tarte",
+      "raw_title": "Heart To Tarte Donation - $100"
+    },
+    {
+      "raw_code": "1",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Tower28",
+      "raw_title": "Swipe Serum Concealer® - 1.0 BH"
+    },
+    {
+      "raw_code": "360warm",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "360 Contour Lipliner - Saddle - Saddle (warm tan)"
+    },
+    {
+      "raw_code": "WS-1660-WHI",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "Cosmetic Pencil Sharpener"
+    },
+    {
+      "raw_code": "WS-SCRBUS-GWP",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "wonder blading 3-in-1 lip scrub"
+    },
+    {
+      "raw_code": "LIP0235",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "lip rehab serum oil - Clear"
+    },
+    {
+      "raw_code": "WBPMASC-GWPUS",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "POWER’FULL Mascara"
+    },
+    {
+      "raw_code": "360toffe",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "360 Contour Lip Liner - Rosewood - Rosewood (toffee rose)"
+    },
+    {
+      "raw_code": "360cool",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "360 Contour Lip Liner - Blush - Blush (cool rose)"
+    },
+    {
+      "raw_code": "LIP0235",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "Lip Rehab Serum Oil - Clear"
+    },
+    {
+      "raw_code": "360warm",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "360 Contour Lipliner - Saddle (warm tan)"
+    },
+    {
+      "raw_code": "360toffe",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "360 Contour Lipliner - Rosewood (toffee rose)"
+    },
+    {
+      "raw_code": "360cool",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "360 Contour Lipliner - Blush (cool rose)"
+    },
+    {
+      "raw_code": "SYNDWBB-STYLER",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "Brow Styler Gel"
+    },
+    {
+      "raw_code": "78451",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "Wonder Blading Brow Stain & Go Masque - Blonde"
+    },
+    {
+      "raw_code": "78451",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "Wonder Blading Brow Stain & Go Masque - Brunette"
+    },
+    {
+      "raw_code": "78451",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "Wonder Blading Brow Stain & Go Masque - Dark Brunette"
+    },
+    {
+      "raw_code": "WS-1660-WHI",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "Cosmetic Pencil Sharpener"
+    },
+    {
+      "raw_code": "WS-TP-HGPUS",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "WONDER BLADING Top Gloss - Holographic"
+    },
+    {
+      "raw_code": "WBPMASC-GWPUS",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "POWER’FULL Mascara - Black"
+    },
+    {
+      "raw_code": "WS-SCRBUS-GWP",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "brand_storefront",
+      "raw_brand": "Wonderskin",
+      "raw_title": "WONDER BLADING 3-in-1 Lip Scrub"
+    },
+    {
+      "raw_code": "0810029480222",
+      "gtin14": "00810029480222",
+      "reason": "CROSS_SOURCE_BRAND_CONFLICT",
+      "source": "openbeautyfacts+brand_storefront",
+      "raw_brand": "xx:ILIA vs Saie",
+      "raw_title": "Slip Tint Tinted Moisturizer | Slip Tint™ Tinted Moisturizer - Four: Light to Medium - Neutral-red"
     }
   ]
 }

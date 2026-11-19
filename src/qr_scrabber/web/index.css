@@ -275,6 +275,12 @@ body {
   border-color: var(--amber-border);
 }
 
+.mode-live {
+  background: hsl(204, 52%, 93%);
+  color: hsl(206, 52%, 28%);
+  border-color: hsl(204, 36%, 80%);
+}
+
 .regex-status {
   color: var(--ink-secondary);
   font-family: var(--font-mono);

@@ -16,7 +16,8 @@ from urllib.parse import parse_qs, unquote, urlsplit
 
 import segno
 
-from qr_scrabber.gs1 import verify_gs1_check_digit
+from qr_scrabber.gs1 import normalize_barcode, verify_gs1_check_digit
+from qr_scrabber.live_lookup import LiveBarcodeLookupService, _extract_digits
 
 _API_QR_RE = re.compile(r"^/api/qr/(\d{14})\.svg$")
 _COMPRESSIBLE_EXTS = frozenset({".json", ".html", ".css", ".js", ".svg"})
@@ -75,6 +76,11 @@ class _CatalogCache:
         self._lock = threading.Lock()
         self._mtime_ns: int = -1
         self._items: list[dict[str, Any]] = []
+        self._by_gtin14: dict[str, dict[str, Any]] = {}
+
+    def invalidate(self) -> None:
+        with self._lock:
+            self._mtime_ns = -1
 
     def get_items(self) -> list[dict[str, Any]]:
         all_path = self._output_dir / "all_products.json"
@@ -91,8 +97,16 @@ class _CatalogCache:
                     self._items = [_slim_product_for_ui(p) for p in raw if isinstance(p, dict)]
                 else:
                     self._items = []
+                self._by_gtin14 = {
+                    str(item["gtin14"]): item for item in self._items if item.get("gtin14")
+                }
                 self._mtime_ns = stat.st_mtime_ns
             return self._items
+
+    def find_by_gtin14(self, gtin14: str) -> dict[str, Any] | None:
+        self.get_items()
+        with self._lock:
+            return self._by_gtin14.get(gtin14)
 
 
 def _load_total_products(output_dir: Path, cache: _CatalogCache | None = None) -> int:
@@ -138,7 +152,7 @@ def _render_qr_svg_bytes(gtin14: str) -> bytes:
 
 
 class CatalogRequestHandler(SimpleHTTPRequestHandler):
-    """Serves static catalog files with gzip plus `/api/health`, `/api/catalog`, and `/api/qr`."""
+    """Serves static catalog assets with gzip plus `/api/{health,catalog,lookup,qr}`."""
 
     protocol_version = "HTTP/1.1"
 
@@ -160,10 +174,12 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
         *args: Any,
         directory: str | None = None,
         catalog_cache: _CatalogCache | None = None,
+        live_lookup: LiveBarcodeLookupService | None = None,
         **kwargs: Any,
     ) -> None:
         self._output_dir = Path(directory or ".").resolve()
         self._catalog_cache = catalog_cache
+        self._live_lookup = live_lookup
         super().__init__(*args, directory=str(self._output_dir), **kwargs)
 
     def log_message(self, format: str, *args: Any) -> None:  # noqa: A002
@@ -183,6 +199,7 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
         cache_control: str = "no-cache",
         head_only: bool = False,
         allow_gzip: bool = True,
+        extra_headers: dict[str, str] | None = None,
     ) -> None:
         use_gzip = allow_gzip and len(body) >= 512 and self._accepts_gzip()
         payload = gzip.compress(body, compresslevel=6) if use_gzip else body
@@ -193,6 +210,9 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
         self.send_header("Cache-Control", cache_control)
         self.send_header("X-Content-Type-Options", "nosniff")
         self.send_header("X-QR-Server", "1")
+        if extra_headers:
+            for k, v in extra_headers.items():
+                self.send_header(k, v)
         if use_gzip:
             self.send_header("Content-Encoding", "gzip")
             self.send_header("Vary", "Accept-Encoding")
@@ -200,23 +220,42 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
         if not head_only:
             self.wfile.write(payload)
 
+    def _send_json(
+        self,
+        payload: dict[str, Any],
+        *,
+        status: int = HTTPStatus.OK,
+        cache_control: str = "no-store",
+        head_only: bool = False,
+        allow_gzip: bool = False,
+        extra_headers: dict[str, str] | None = None,
+    ) -> None:
+        body = json.dumps(payload, separators=(",", ":"), ensure_ascii=False).encode("utf-8")
+        self._send_bytes(
+            body,
+            status=status,
+            content_type="application/json; charset=utf-8",
+            cache_control=cache_control,
+            head_only=head_only,
+            allow_gzip=allow_gzip,
+            extra_headers=extra_headers,
+        )
+
     def _handle_api(self, *, head_only: bool = False) -> bool:
         parsed = urlsplit(self.path)
         path = unquote(parsed.path)
 
         if path == "/api/health":
-            payload = {
-                "status": "ok",
-                "total_products": _load_total_products(self._output_dir, self._catalog_cache),
-            }
-            encoded = json.dumps(payload).encode("utf-8")
-            self._send_bytes(
-                encoded,
+            self._send_json(
+                {
+                    "status": "ok",
+                    "total_products": _load_total_products(self._output_dir, self._catalog_cache),
+                },
                 status=HTTPStatus.OK,
-                content_type="application/json; charset=utf-8",
                 cache_control="no-store",
                 head_only=head_only,
                 allow_gzip=False,
+                extra_headers={"X-Live-Lookup": "1" if self._live_lookup is not None else "0"},
             )
             return True
 
@@ -227,53 +266,110 @@ class CatalogRequestHandler(SimpleHTTPRequestHandler):
                 limit = int((qs.get("limit") or ["700"])[0])
                 limit = max(1, min(limit, 1000))
             except ValueError:
-                err = json.dumps({"error": "Invalid offset or limit parameter."}).encode("utf-8")
-                self._send_bytes(
-                    err,
+                self._send_json(
+                    {"error": "Invalid offset or limit parameter."},
                     status=HTTPStatus.BAD_REQUEST,
-                    content_type="application/json; charset=utf-8",
-                    cache_control="no-store",
                     head_only=head_only,
-                    allow_gzip=False,
                 )
                 return True
 
             items = self._catalog_cache.get_items() if self._catalog_cache is not None else []
             page_items = items[offset : offset + limit]
-            body = json.dumps(
+            self._send_json(
                 {
                     "total": len(items),
                     "offset": offset,
                     "limit": limit,
                     "items": page_items,
                 },
-                separators=(",", ":"),
-                ensure_ascii=False,
-            ).encode("utf-8")
-            self._send_bytes(
-                body,
                 status=HTTPStatus.OK,
-                content_type="application/json; charset=utf-8",
                 cache_control="no-cache",
                 head_only=head_only,
                 allow_gzip=True,
             )
             return True
 
+        if path == "/api/lookup":
+            qs = parse_qs(parsed.query)
+            raw_code = (qs.get("code") or [""])[0].strip()
+            if not raw_code:
+                self._send_json(
+                    {"found": False, "error": "Missing required `code` query parameter."},
+                    status=HTTPStatus.BAD_REQUEST,
+                    head_only=head_only,
+                )
+                return True
+
+            digits = _extract_digits(raw_code)
+            norm = normalize_barcode(digits)
+            if not norm.is_valid:
+                reason = norm.quarantine_reason or "invalid_format"
+                self._send_json(
+                    {
+                        "found": False,
+                        "code": digits or raw_code,
+                        "error": f"Invalid GS1 barcode ({reason}).",
+                    },
+                    status=HTTPStatus.BAD_REQUEST,
+                    head_only=head_only,
+                )
+                return True
+
+            if self._catalog_cache is not None:
+                existing = self._catalog_cache.find_by_gtin14(norm.gtin14)
+                if existing is not None:
+                    self._send_json(
+                        {
+                            "found": True,
+                            "added": False,
+                            "source": "local_catalog",
+                            "product": existing,
+                        },
+                        status=HTTPStatus.OK,
+                        head_only=head_only,
+                    )
+                    return True
+
+            if self._live_lookup is None:
+                self._send_json(
+                    {
+                        "found": False,
+                        "code": norm.primary_code,
+                        "gtin14": norm.gtin14,
+                        "message": "Live barcode lookup is disabled on this server.",
+                    },
+                    status=HTTPStatus.OK,
+                    head_only=head_only,
+                )
+                return True
+
+            result = self._live_lookup.lookup_and_persist(raw_code)
+            if result.get("found") and isinstance(result.get("product"), dict):
+                if self._catalog_cache is not None:
+                    self._catalog_cache.invalidate()
+                self._send_json(
+                    {
+                        "found": True,
+                        "added": bool(result.get("added", True)),
+                        "source": result.get("source", "live_lookup"),
+                        "product": _slim_product_for_ui(result["product"]),
+                    },
+                    status=HTTPStatus.OK,
+                    head_only=head_only,
+                )
+                return True
+
+            self._send_json(result, status=HTTPStatus.OK, head_only=head_only)
+            return True
+
         qr_match = _API_QR_RE.match(path)
         if qr_match:
             gtin14 = qr_match.group(1)
             if not verify_gs1_check_digit(gtin14):
-                err = json.dumps({"error": f"Invalid GS1 GTIN-14 check digit: {gtin14}"}).encode(
-                    "utf-8"
-                )
-                self._send_bytes(
-                    err,
+                self._send_json(
+                    {"error": f"Invalid GS1 GTIN-14 check digit: {gtin14}"},
                     status=HTTPStatus.BAD_REQUEST,
-                    content_type="application/json; charset=utf-8",
-                    cache_control="no-store",
                     head_only=head_only,
-                    allow_gzip=False,
                 )
                 return True
 
@@ -376,6 +472,9 @@ def create_server(
     output_dir: Path,
     host: str = "127.0.0.1",
     port: int = 8765,
+    *,
+    live_lookup: LiveBarcodeLookupService | None = None,
+    enable_live_lookup: bool = True,
 ) -> ReusableThreadingHTTPServer:
     """Create a configured multi-threaded HTTP server bound to `(host, port)`."""
     root = Path(output_dir).resolve()
@@ -383,9 +482,20 @@ def create_server(
         raise FileNotFoundError(f"Output directory does not exist: {root}")
 
     cache = _CatalogCache(root)
+    lookup_service = (
+        live_lookup
+        if live_lookup is not None
+        else (LiveBarcodeLookupService(output_dir=root) if enable_live_lookup else None)
+    )
 
     def _handler(*args: Any, **kwargs: Any) -> CatalogRequestHandler:
-        return CatalogRequestHandler(*args, directory=str(root), catalog_cache=cache, **kwargs)
+        return CatalogRequestHandler(
+            *args,
+            directory=str(root),
+            catalog_cache=cache,
+            live_lookup=lookup_service,
+            **kwargs,
+        )
 
     return ReusableThreadingHTTPServer((host, port), _handler)
 

@@ -6,8 +6,8 @@
   "is_store_own_brand": false,
   "alias_of": null,
   "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
-  "product_count": 91,
-  "canonical_product_count": 91,
+  "product_count": 100,
+  "canonical_product_count": 100,
   "cross_source_verified_count": 0,
   "products": [
     {
@@ -86,7 +86,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840147804372",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -165,7 +165,87 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850155008532",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00880294800179",
+      "product_name": "Sephora Best Skin Ever Glow Full Coverage Hydrating Concealer 20 Cream 0.23 oz",
+      "image_url": "https://i5.walmartimages.com/asr/a5abd438-eb5a-4d71-aa3d-7a86540f9959.38dcb0d8adaa319368c7e07c255dce33.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/sephora/00880294800179.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "Sephora Collection"
+        ]
+      },
+      "product": {
+        "name": "Sephora Best Skin Ever Glow Full Coverage Hydrating Concealer 20 Cream 0.23 oz",
+        "source_names": {
+          "upcitemdb": "Sephora Best Skin Ever Glow Full Coverage Hydrating Concealer 20 Cream 0.23 oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Apparel & Accessories",
+          "Jewelry",
+          "Necklaces"
+        ],
+        "description": "What it is: A new lightweight radiant Sephora Collection multi-purpose formula that corrects conceals and instantly brightens under eyes for a glowing natural complexion that leaves skin luminous and hydrated for up to 12 hours. Coverage: Medium Finish: Radiant Formulation: Liquid Highlighted Ingredients: - Plant-Based Prebiotics: Maintains the balance of skin barrier. What Else You Need to Know: Available in 30 shades Sephora Collection?s Best Skin Ever concealer is now available in a lightweight radiant glow version. This multiuse formula brightens shaded areas and helps conceal dark circles around the eyes as well as providing a boost of hydration for up to 12 hours of wear. Enriched with skin-loving plant-based prebiotics Best Skin Ever Glow concealer is also noncomedogenic and unscented. Its ultrafine and lightweight texture melts into the skin and provides medium to buildable coverage for a radiant glowing effect. Clinical Results: In a usage test performed on 22 volunteers for 28 days: -87% of w",
+        "primary_image_url": "https://i5.walmartimages.com/asr/a5abd438-eb5a-4d71-aa3d-7a86540f9959.38dcb0d8adaa319368c7e07c255dce33.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/a5abd438-eb5a-4d71-aa3d-7a86540f9959.38dcb0d8adaa319368c7e07c255dce33.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/a5abd438-eb5a-4d71-aa3d-7a86540f9959.38dcb0d8adaa319368c7e07c255dce33.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/sephora/00880294800179.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00880294800179",
+        "ean13": "0880294800179",
+        "upc_a": "880294800179",
+        "ean8": null,
+        "primary_code": "880294800179",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0880294800179",
+          "880294800179"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00880294800179",
+        "qr_payload_text": "https://id.gs1.org/01/00880294800179",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00880294800179",
+          "code": "880294800179",
+          "type": "UPC-A",
+          "brand": "Sephora",
+          "name": "Sephora Best Skin Ever Glow Full Coverage Hydrating Concealer 20 Cream 0.23 oz",
+          "image_url": "https://i5.walmartimages.com/asr/a5abd438-eb5a-4d71-aa3d-7a86540f9959.38dcb0d8adaa319368c7e07c255dce33.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/00880294800179.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0880294800179",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -241,7 +321,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3301221472308",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -320,7 +400,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3301455373877",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -396,7 +476,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378870207131",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -478,7 +558,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872050919",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -560,7 +640,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872050933",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -642,7 +722,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872050940",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -724,7 +804,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872056225",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -804,7 +884,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872057529",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -880,7 +960,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872059882",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -961,7 +1041,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872061717",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1044,7 +1124,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872066927",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1126,7 +1206,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872067566",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1205,7 +1285,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872069003",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1287,7 +1367,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872073369",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1369,7 +1449,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872073673",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1451,7 +1531,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872073697",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1533,7 +1613,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872073703",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1613,7 +1693,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872083023",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1695,7 +1775,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872083498",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1777,7 +1857,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872085201",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1852,7 +1932,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872086444",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -1932,7 +2012,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872088813",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2008,7 +2088,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872089681",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2084,7 +2164,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872092803",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2168,7 +2248,7 @@
       "provenance": {
         "openbeautyfacts_url": null,
         "upcitemdb_ean": "3378872095057",
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2244,7 +2324,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872095811",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2320,7 +2400,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872096030",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2399,7 +2479,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872096047",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2475,7 +2555,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872096061",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2552,7 +2632,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872096078",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2628,7 +2708,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872096337",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2704,7 +2784,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872097716",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2783,7 +2863,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872098157",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2861,7 +2941,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872098195",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -2937,7 +3017,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872099994",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3016,7 +3096,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872100072",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3092,7 +3172,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872102007",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3168,7 +3248,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872102113",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3241,7 +3321,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872103547",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3320,7 +3400,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872103578",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3407,7 +3487,7 @@
       "provenance": {
         "openbeautyfacts_url": null,
         "upcitemdb_ean": "3378872103929",
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3491,7 +3571,7 @@
       "provenance": {
         "openbeautyfacts_url": null,
         "upcitemdb_ean": "3378872104636",
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3571,7 +3651,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872105329",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3647,7 +3727,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872105435",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3723,7 +3803,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872105442",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3799,7 +3879,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872105992",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3875,7 +3955,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872106005",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -3951,7 +4031,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872112600",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4027,7 +4107,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872112792",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4103,7 +4183,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872113560",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4179,7 +4259,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872114321",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4252,7 +4332,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872116165",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4325,7 +4405,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872116189",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4401,7 +4481,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872116479",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4479,7 +4559,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872116790",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4558,7 +4638,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872116974",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4634,7 +4714,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872118664",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4720,7 +4800,7 @@
       "provenance": {
         "openbeautyfacts_url": null,
         "upcitemdb_ean": "3378872124542",
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4796,7 +4876,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872125419",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4876,7 +4956,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872127871",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -4952,7 +5032,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872129318",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5027,7 +5107,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872134824",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5103,7 +5183,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872135012",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5183,7 +5263,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141587",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5258,7 +5338,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141877",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5333,7 +5413,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141884",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5408,7 +5488,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141891",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5483,7 +5563,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141907",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5558,7 +5638,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141914",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5634,7 +5714,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141938",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5709,7 +5789,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872141969",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5784,7 +5864,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872142478",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5860,7 +5940,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872143468",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -5939,7 +6019,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872152385",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6015,7 +6095,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872154129",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6091,7 +6171,315 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872159650",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872167686",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 4 N",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_4_N?wid=800&hei=800&op_sharpen=1&ver=1",
+      "local_image_path": "images/sephora/03378872167686.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 4 N",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 4 N"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits.Coverage: MediumFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield.What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass.Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use- 100% felt their skin was smoother after 28 days of use- 96% of women said their complexion was perfect all day long after 21 days of",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_4_N?wid=800&hei=800&op_sharpen=1&ver=1",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/5099071_4_N?wid=800&hei=800&op_sharpen=1&ver=1",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/5099071_4_N?wid=800&hei=800&op_sharpen=1&ver=1"
+        ],
+        "local_image_path": "images/sephora/03378872167686.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872167686",
+        "ean13": "3378872167686",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872167686",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872167686"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872167686",
+        "qr_payload_text": "https://id.gs1.org/01/03378872167686",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872167686",
+          "code": "3378872167686",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 4 N",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_4_N?wid=800&hei=800&op_sharpen=1&ver=1"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872167686.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872167686",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872167693",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 08 Y",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_08_Y?wid=800&hei=800&op_sharpen=1&ver=1",
+      "local_image_path": "images/sephora/03378872167693.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 08 Y",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 08 Y"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits.Coverage: MediumFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield.What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass.Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use- 100% felt their skin was smoother after 28 days of use- 96% of women said their complexion was perfect all day long after 21 days of",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_08_Y?wid=800&hei=800&op_sharpen=1&ver=1",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/5099071_08_Y?wid=800&hei=800&op_sharpen=1&ver=1",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/5099071_08_Y?wid=800&hei=800&op_sharpen=1&ver=1"
+        ],
+        "local_image_path": "images/sephora/03378872167693.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872167693",
+        "ean13": "3378872167693",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872167693",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872167693"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872167693",
+        "qr_payload_text": "https://id.gs1.org/01/03378872167693",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872167693",
+          "code": "3378872167693",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 08 Y",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_08_Y?wid=800&hei=800&op_sharpen=1&ver=1"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872167693.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872167693",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872167709",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 10 N",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/8dee4635c1e71717fc58c9c8d461b1239177c6b6?wid=800&hei=800&op_sharpen=1&ver=4",
+      "local_image_path": "images/sephora/03378872167709.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 10 N",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 10 N"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits. Coverage: Medium. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield. What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass. Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use. - 100% felt their skin was smoother after 28 days of use. - 96% of women said their complexion was perfect all day long afte",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/8dee4635c1e71717fc58c9c8d461b1239177c6b6?wid=800&hei=800&op_sharpen=1&ver=4",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/8dee4635c1e71717fc58c9c8d461b1239177c6b6?wid=800&hei=800&op_sharpen=1&ver=4",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/8dee4635c1e71717fc58c9c8d461b1239177c6b6?wid=800&hei=800&op_sharpen=1&ver=4"
+        ],
+        "local_image_path": "images/sephora/03378872167709.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872167709",
+        "ean13": "3378872167709",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872167709",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872167709"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872167709",
+        "qr_payload_text": "https://id.gs1.org/01/03378872167709",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872167709",
+          "code": "3378872167709",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 10 N",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/8dee4635c1e71717fc58c9c8d461b1239177c6b6?wid=800&hei=800&op_sharpen=1&ver=4"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872167709.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872167709",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872167716",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 11.5 P",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_115_P?wid=800&hei=800&op_sharpen=1&ver=2",
+      "local_image_path": "images/sephora/03378872167716.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 11.5 P",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 11.5 P"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "What it is: A medium-coverage, natural-finish foundation with a long-wearing, anti-pollution formula that hydrates skin for up to 12 hours and is infused with skincare benefits.Coverage: MediumFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Hydrates. - Red Algae Extract: Hydrates. - Brown Algae Extract: Provides an anti-pollution protective shield.What Else You Need to Know: Best Skin Ever Liquid Foundation delivers a second-skin effect and provides lasting hydration, while covering imperfections. Its formula is clinically shown to reduce signs of stress/fatigue, and usage over time is proven to make skin smoother, more even, and more radiant. The bottle is made from 30 percent recycled glass.Clinical Results: In a satisfaction test performed on 21 volunteers, results included: - 95% of women felt the result was ultra-natural after 28 days of use- 100% felt their skin was smoother after 28 days of use- 96% of women said their complexion was perfect all day long after 21 days of",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_115_P?wid=800&hei=800&op_sharpen=1&ver=2",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/5099071_115_P?wid=800&hei=800&op_sharpen=1&ver=2",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/5099071_115_P?wid=800&hei=800&op_sharpen=1&ver=2"
+        ],
+        "local_image_path": "images/sephora/03378872167716.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872167716",
+        "ean13": "3378872167716",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872167716",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872167716"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872167716",
+        "qr_payload_text": "https://id.gs1.org/01/03378872167716",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872167716",
+          "code": "3378872167716",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Liquid Foundation, Size: 0.84 FL Oz, 11.5 P",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/5099071_115_P?wid=800&hei=800&op_sharpen=1&ver=2"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872167716.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872167716",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6167,7 +6555,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872181828",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6243,7 +6631,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872183129",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6319,7 +6707,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872187981",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6395,7 +6783,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872193524",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6471,7 +6859,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872200215",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6547,7 +6935,307 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872201793",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872203827",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 17.5n",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/18c9b06401777dd7d06bd5db162ecc218efaa1a3?wid=800&hei=800&op_sharpen=1&ver=3",
+      "local_image_path": "images/sephora/03378872203827.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 17.5n",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 17.5n"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish. Coverage: Full. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines. - Algae Extract: Rich in anti-oxidants to protect skin from daily pollution. What Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin. Size: 0.3 OZ. Color: 17.5n. Gender: unisex. Age Group: adult. Material: NONE.",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/18c9b06401777dd7d06bd5db162ecc218efaa1a3?wid=800&hei=800&op_sharpen=1&ver=3",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/18c9b06401777dd7d06bd5db162ecc218efaa1a3?wid=800&hei=800&op_sharpen=1&ver=3",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/18c9b06401777dd7d06bd5db162ecc218efaa1a3?wid=800&hei=800&op_sharpen=1&ver=3"
+        ],
+        "local_image_path": "images/sephora/03378872203827.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872203827",
+        "ean13": "3378872203827",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872203827",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872203827"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872203827",
+        "qr_payload_text": "https://id.gs1.org/01/03378872203827",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872203827",
+          "code": "3378872203827",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 17.5n",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/18c9b06401777dd7d06bd5db162ecc218efaa1a3?wid=800&hei=800&op_sharpen=1&ver=3"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872203827.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872203827",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872203964",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 26n",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/5279203_26n?wid=800&hei=800&op_sharpen=1&ver=3",
+      "local_image_path": "images/sephora/03378872203964.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 26n",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 26n"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish.Coverage: FullFinish: NaturalFormulation: LiquidHighlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines- Algae Extract: Rich in anti-oxidants to protect skin from daily pollutionWhat Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin.Size:0.3 OZ Color: 26n. Gender: unisex. Age Group: adult.",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/5279203_26n?wid=800&hei=800&op_sharpen=1&ver=3",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/5279203_26n?wid=800&hei=800&op_sharpen=1&ver=3",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/5279203_26n?wid=800&hei=800&op_sharpen=1&ver=3"
+        ],
+        "local_image_path": "images/sephora/03378872203964.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872203964",
+        "ean13": "3378872203964",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872203964",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872203964"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872203964",
+        "qr_payload_text": "https://id.gs1.org/01/03378872203964",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872203964",
+          "code": "3378872203964",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 26n",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/5279203_26n?wid=800&hei=800&op_sharpen=1&ver=3"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872203964.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872203964",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872203995",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 29y",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/331a54bf2214b5839afc555c4e75edf3f66ea4a1?wid=800&hei=800&op_sharpen=1&ver=3",
+      "local_image_path": "images/sephora/03378872203995.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 29y",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 29y"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish. Coverage: Full. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines. - Algae Extract: Rich in anti-oxidants to protect skin from daily pollution. What Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin. Size: 0.3 OZ. Color: 29y. Gender: unisex. Age Group: adult. Material: NONE.",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/331a54bf2214b5839afc555c4e75edf3f66ea4a1?wid=800&hei=800&op_sharpen=1&ver=3",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/331a54bf2214b5839afc555c4e75edf3f66ea4a1?wid=800&hei=800&op_sharpen=1&ver=3",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/331a54bf2214b5839afc555c4e75edf3f66ea4a1?wid=800&hei=800&op_sharpen=1&ver=3"
+        ],
+        "local_image_path": "images/sephora/03378872203995.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872203995",
+        "ean13": "3378872203995",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872203995",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872203995"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872203995",
+        "qr_payload_text": "https://id.gs1.org/01/03378872203995",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872203995",
+          "code": "3378872203995",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 29y",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/331a54bf2214b5839afc555c4e75edf3f66ea4a1?wid=800&hei=800&op_sharpen=1&ver=3"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872203995.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872203995",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "03378872204077",
+      "product_name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 44y",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/2cc40b1e02413e5001992691544121cb25734b60?wid=800&hei=800&op_sharpen=1&ver=2",
+      "local_image_path": "images/sephora/03378872204077.jpg",
+      "brand": {
+        "slug": "sephora",
+        "display_name": "Sephora",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sephora",
+        "matched_raw_brands": [
+          "SEPHORA COLLECTION"
+        ]
+      },
+      "product": {
+        "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 44y",
+        "source_names": {
+          "upcitemdb": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 44y"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": "What it is: A full-coverage, longwearing, and hydrating concealer to instantly cover, conceal and correct all over the face with a natural finish. Coverage: Full. Finish: Natural. Formulation: Liquid. Highlighted Ingredients: - Hyaluronic Acid: Locks in moisture to hydrate your skin and visibly smooth fine lines. - Algae Extract: Rich in anti-oxidants to protect skin from daily pollution. What Else You Need to Know: This weightless longwearing formula instantly evens out the appearance of skin without caking or drying. Enriched with algae extract and hyaluronic acid, this skin-enhancing concealer provides anti-pollution effects and up to 12-hour hydration. It's also without ingredients from animal origin. Size: 0.3 OZ. Color: 44y. Gender: unisex. Age Group: adult. Material: NONE.",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/2cc40b1e02413e5001992691544121cb25734b60?wid=800&hei=800&op_sharpen=1&ver=2",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/2cc40b1e02413e5001992691544121cb25734b60?wid=800&hei=800&op_sharpen=1&ver=2",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/2cc40b1e02413e5001992691544121cb25734b60?wid=800&hei=800&op_sharpen=1&ver=2"
+        ],
+        "local_image_path": "images/sephora/03378872204077.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872204077",
+        "ean13": "3378872204077",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872204077",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872204077"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872204077",
+        "qr_payload_text": "https://id.gs1.org/01/03378872204077",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872204077",
+          "code": "3378872204077",
+          "type": "EAN-13",
+          "brand": "Sephora",
+          "name": "SEPHORA COLLECTION Best Skin Ever Full Coverage Multi-Use Hydrating Concealer, Size: 0.3 Oz, 44y",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/2cc40b1e02413e5001992691544121cb25734b60?wid=800&hei=800&op_sharpen=1&ver=2"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sephora/03378872204077.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3378872204077",
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6627,7 +7315,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872217763",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6703,7 +7391,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872218234",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6786,7 +7474,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872234500",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6862,7 +7550,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872247548",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -6940,7 +7628,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872248620",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -7016,7 +7704,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5056379590616",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     },
     {
@@ -7092,7 +7780,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8001841556925",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     }
   ]

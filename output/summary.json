@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-11-19T07:37:09.174182Z",
+  "generated_at": "2026-11-19T08:55:27.558017Z",
   "pipeline_version": "0.1.0",
   "total_brands_in_directory": 163,
   "distinct_brand_entities": 161,
-  "total_unique_verified_products": 2767,
-  "products_with_name_count": 2767,
-  "products_with_remote_image_count": 2314,
-  "local_images_downloaded_count": 2307,
-  "cross_source_verified_count": 43,
-  "quarantined_count": 168,
+  "total_unique_verified_products": 8205,
+  "products_with_name_count": 8205,
+  "products_with_remote_image_count": 7751,
+  "local_images_downloaded_count": 7744,
+  "cross_source_verified_count": 46,
+  "quarantined_count": 350,
   "duplicate_gtin14_count": 0,
-  "qr_files_rendered_count": 2767,
+  "qr_files_rendered_count": 8205,
   "source_status": {
     "openbeautyfacts": {
-      "status": "available",
-      "http_status": 200,
-      "mode": "bulk_dump_jsonl_gz",
-      "detail": "Content-Length=106612751"
+      "status": "offline_cached",
+      "http_status": null,
+      "mode": "bulk_dump_local",
+      "detail": "Offline mode active; reads local/cached Open Beauty Facts dump."
     },
     "openproductsfacts": {
-      "status": "available",
-      "http_status": 200,
-      "mode": "bulk_dump_csv_gz",
-      "detail": "Content-Length=6512973"
+      "status": "offline_cached",
+      "http_status": null,
+      "mode": "bulk_dump_local",
+      "detail": "Offline mode active; optional local Open Products Facts dump."
     },
     "upcitemdb": {
-      "status": "available",
-      "http_status": 200,
-      "mode": "trial_batch_lookup_and_search",
-      "detail": "Zero daily API quota consumed during reachability probe."
+      "status": "offline_cached",
+      "http_status": null,
+      "mode": "persistent_cache_replay",
+      "detail": "Offline mode active; replays persistent local UPCitemdb response cache."
     },
     "barcodelookup": {
       "status": "blocked_cloudflare_challenge",
       "http_status": 403,
       "mode": "not_bypassed",
-      "detail": "Detected Cloudflare Managed Challenge (cf-mitigated: challenge); site is not bypassed."
+      "detail": "barcodelookup.com brand/search URLs return HTTP 403 Cloudflare Managed Challenge (cf-mitigated: challenge); not bypassed."
     }
   },
   "upcitemdb_quota": {
     "requests_made_this_run": 0,
-    "cache_hits": 39,
+    "cache_hits": 42,
     "rate_limit_remaining": null
   },
   "output_files": {

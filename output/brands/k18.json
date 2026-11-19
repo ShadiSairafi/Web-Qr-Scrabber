@@ -6,10 +6,2708 @@
   "is_store_own_brand": false,
   "alias_of": null,
   "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
-  "product_count": 1,
-  "canonical_product_count": 1,
+  "product_count": 36,
+  "canonical_product_count": 36,
   "cross_source_verified_count": 0,
   "products": [
+    {
+      "gtin14": "00858511000701",
+      "product_name": "DAMAGE SHIELD protective conditioner 8.5oz - 8.5oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DamageShields_conditioner_8.5oz.jpg?v=1703338899",
+      "local_image_path": "images/k18/00858511000701.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "DAMAGE SHIELD protective conditioner 8.5oz - 8.5oz",
+        "source_names": {
+          "brand_storefront": "DAMAGE SHIELD protective conditioner 8.5oz - 8.5oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo and Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DamageShields_conditioner_8.5oz.jpg?v=1703338899",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DamageShields_conditioner_8.5oz.jpg?v=1703338899",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DamageShields_conditioner_8.5oz.jpg?v=1703338899"
+        ],
+        "local_image_path": "images/k18/00858511000701.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000701",
+        "ean13": "0858511000701",
+        "upc_a": "858511000701",
+        "ean8": null,
+        "primary_code": "858511000701",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000701"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000701",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000701",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000701",
+          "code": "858511000701",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "DAMAGE SHIELD protective conditioner 8.5oz - 8.5oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DamageShields_conditioner_8.5oz.jpg?v=1703338899"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000701.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511000725",
+      "product_name": "mini DAMAGE SHIELD protective conditioner 1.8oz - 1.8oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner.001.jpg?v=1709836724",
+      "local_image_path": "images/k18/00858511000725.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "mini DAMAGE SHIELD protective conditioner 1.8oz - 1.8oz",
+        "source_names": {
+          "brand_storefront": "mini DAMAGE SHIELD protective conditioner 1.8oz - 1.8oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo and Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner.001.jpg?v=1709836724",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner.001.jpg?v=1709836724",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner.001.jpg?v=1709836724"
+        ],
+        "local_image_path": "images/k18/00858511000725.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000725",
+        "ean13": "0858511000725",
+        "upc_a": "858511000725",
+        "ean8": null,
+        "primary_code": "858511000725",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000725"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000725",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000725",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000725",
+          "code": "858511000725",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "mini DAMAGE SHIELD protective conditioner 1.8oz - 1.8oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner.001.jpg?v=1709836724"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000725.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511000749",
+      "product_name": "DAMAGE SHIELD protective shampoo 8.5oz - 8.5oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_51.png?v=1743538438",
+      "local_image_path": "images/k18/00858511000749.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "DAMAGE SHIELD protective shampoo 8.5oz - 8.5oz",
+        "source_names": {
+          "brand_storefront": "DAMAGE SHIELD protective shampoo 8.5oz - 8.5oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo and Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_51.png?v=1743538438",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_51.png?v=1743538438",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_51.png?v=1743538438"
+        ],
+        "local_image_path": "images/k18/00858511000749.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000749",
+        "ean13": "0858511000749",
+        "upc_a": "858511000749",
+        "ean8": null,
+        "primary_code": "858511000749",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000749"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000749",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000749",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000749",
+          "code": "858511000749",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "DAMAGE SHIELD protective shampoo 8.5oz - 8.5oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_51.png?v=1743538438"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000749.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511000763",
+      "product_name": "mini DAMAGE SHIELD protective shampoo 1.8oz - 1.8oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo.001.jpg?v=1709836828",
+      "local_image_path": "images/k18/00858511000763.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "mini DAMAGE SHIELD protective shampoo 1.8oz - 1.8oz",
+        "source_names": {
+          "brand_storefront": "mini DAMAGE SHIELD protective shampoo 1.8oz - 1.8oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo and Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo.001.jpg?v=1709836828",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo.001.jpg?v=1709836828",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo.001.jpg?v=1709836828"
+        ],
+        "local_image_path": "images/k18/00858511000763.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000763",
+        "ean13": "0858511000763",
+        "upc_a": "858511000763",
+        "ean8": null,
+        "primary_code": "858511000763",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000763"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000763",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000763",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000763",
+          "code": "858511000763",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "mini DAMAGE SHIELD protective shampoo 1.8oz - 1.8oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo.001.jpg?v=1709836828"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000763.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511000817",
+      "product_name": "AirWash™ dry shampoo 4oz - 4oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Airwash_altimages_1650x2259_MAIN.jpg?v=1710849567",
+      "local_image_path": "images/k18/00858511000817.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "AirWash™ dry shampoo 4oz - 4oz",
+        "source_names": {
+          "brand_storefront": "AirWash™ dry shampoo 4oz - 4oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Dry Shampoo"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Airwash_altimages_1650x2259_MAIN.jpg?v=1710849567",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Airwash_altimages_1650x2259_MAIN.jpg?v=1710849567",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Airwash_altimages_1650x2259_MAIN.jpg?v=1710849567"
+        ],
+        "local_image_path": "images/k18/00858511000817.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000817",
+        "ean13": "0858511000817",
+        "upc_a": "858511000817",
+        "ean8": null,
+        "primary_code": "858511000817",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000817"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000817",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000817",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000817",
+          "code": "858511000817",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "AirWash™ dry shampoo 4oz - 4oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Airwash_altimages_1650x2259_MAIN.jpg?v=1710849567"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000817.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511000824",
+      "product_name": "Mini AirWash™ dry shampoo - 1.6oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Airwash_altimages_1650x2259_f807de51-6755-4d06-918f-0fb6324df1f4.jpg?v=1731364111",
+      "local_image_path": "images/k18/00858511000824.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Mini AirWash™ dry shampoo - 1.6oz",
+        "source_names": {
+          "brand_storefront": "Mini AirWash™ dry shampoo - 1.6oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Dry Shampoo"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Airwash_altimages_1650x2259_f807de51-6755-4d06-918f-0fb6324df1f4.jpg?v=1731364111",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Airwash_altimages_1650x2259_f807de51-6755-4d06-918f-0fb6324df1f4.jpg?v=1731364111",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Airwash_altimages_1650x2259_f807de51-6755-4d06-918f-0fb6324df1f4.jpg?v=1731364111"
+        ],
+        "local_image_path": "images/k18/00858511000824.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000824",
+        "ean13": "0858511000824",
+        "upc_a": "858511000824",
+        "ean8": null,
+        "primary_code": "858511000824",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000824"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000824",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000824",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000824",
+          "code": "858511000824",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Mini AirWash™ dry shampoo - 1.6oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Airwash_altimages_1650x2259_f807de51-6755-4d06-918f-0fb6324df1f4.jpg?v=1731364111"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000824.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511000923",
+      "product_name": "Jumbo Leave-In Molecular Repair Hair Mask 100mL - 100mL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/100ml_greenbckground.jpg?v=1736280651",
+      "local_image_path": "images/k18/00858511000923.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Jumbo Leave-In Molecular Repair Hair Mask 100mL - 100mL",
+        "source_names": {
+          "brand_storefront": "Jumbo Leave-In Molecular Repair Hair Mask 100mL - 100mL"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Mask"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/100ml_greenbckground.jpg?v=1736280651",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/100ml_greenbckground.jpg?v=1736280651",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/100ml_greenbckground.jpg?v=1736280651"
+        ],
+        "local_image_path": "images/k18/00858511000923.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000923",
+        "ean13": "0858511000923",
+        "upc_a": "858511000923",
+        "ean8": null,
+        "primary_code": "858511000923",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000923"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000923",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000923",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000923",
+          "code": "858511000923",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Jumbo Leave-In Molecular Repair Hair Mask 100mL - 100mL",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/100ml_greenbckground.jpg?v=1736280651"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000923.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511000954",
+      "product_name": "AstroLift™ reparative volume spray 4oz - 4oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_63.png?v=1746031451",
+      "local_image_path": "images/k18/00858511000954.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "AstroLift™ reparative volume spray 4oz - 4oz",
+        "source_names": {
+          "brand_storefront": "AstroLift™ reparative volume spray 4oz - 4oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Volume Spray"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_63.png?v=1746031451",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_63.png?v=1746031451",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_63.png?v=1746031451"
+        ],
+        "local_image_path": "images/k18/00858511000954.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511000954",
+        "ean13": "0858511000954",
+        "upc_a": "858511000954",
+        "ean8": null,
+        "primary_code": "858511000954",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511000954"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511000954",
+        "qr_payload_text": "https://id.gs1.org/01/00858511000954",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511000954",
+          "code": "858511000954",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "AstroLift™ reparative volume spray 4oz - 4oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_63.png?v=1746031451"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511000954.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001128",
+      "product_name": "Full-Size Leave-In Molecular Repair Hair Mask 50mL - 50mL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Mask.jpg?v=1726613673",
+      "local_image_path": "images/k18/00858511001128.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Full-Size Leave-In Molecular Repair Hair Mask 50mL - 50mL",
+        "source_names": {
+          "brand_storefront": "Full-Size Leave-In Molecular Repair Hair Mask 50mL - 50mL"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Mask"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Mask.jpg?v=1726613673",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Mask.jpg?v=1726613673",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Mask.jpg?v=1726613673"
+        ],
+        "local_image_path": "images/k18/00858511001128.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001128",
+        "ean13": "0858511001128",
+        "upc_a": "858511001128",
+        "ean8": null,
+        "primary_code": "858511001128",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001128"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001128",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001128",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001128",
+          "code": "858511001128",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Full-Size Leave-In Molecular Repair Hair Mask 50mL - 50mL",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/00_Mask.jpg?v=1726613673"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001128.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001166",
+      "product_name": "PEPTIDE PREP™ detox shampoo 8.5oz - 8.5oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/PP_detox_bottle.jpg?v=1723761270",
+      "local_image_path": "images/k18/00858511001166.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "PEPTIDE PREP™ detox shampoo 8.5oz - 8.5oz",
+        "source_names": {
+          "brand_storefront": "PEPTIDE PREP™ detox shampoo 8.5oz - 8.5oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo and Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/PP_detox_bottle.jpg?v=1723761270",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/PP_detox_bottle.jpg?v=1723761270",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/PP_detox_bottle.jpg?v=1723761270"
+        ],
+        "local_image_path": "images/k18/00858511001166.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001166",
+        "ean13": "0858511001166",
+        "upc_a": "858511001166",
+        "ean8": null,
+        "primary_code": "858511001166",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001166"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001166",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001166",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001166",
+          "code": "858511001166",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "PEPTIDE PREP™ detox shampoo 8.5oz - 8.5oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/PP_detox_bottle.jpg?v=1723761270"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001166.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001289",
+      "product_name": "Mini Leave-In Molecular Repair Hair Mask 15 mL - 15mL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_Mask_15ML_1249a477-37fc-4c79-a644-ac4e255f7057.jpg?v=1659977466",
+      "local_image_path": "images/k18/00858511001289.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Mini Leave-In Molecular Repair Hair Mask 15 mL - 15mL",
+        "source_names": {
+          "brand_storefront": "Mini Leave-In Molecular Repair Hair Mask 15 mL - 15mL"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Mask"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_Mask_15ML_1249a477-37fc-4c79-a644-ac4e255f7057.jpg?v=1659977466",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_Mask_15ML_1249a477-37fc-4c79-a644-ac4e255f7057.jpg?v=1659977466",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_Mask_15ML_1249a477-37fc-4c79-a644-ac4e255f7057.jpg?v=1659977466"
+        ],
+        "local_image_path": "images/k18/00858511001289.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001289",
+        "ean13": "0858511001289",
+        "upc_a": "858511001289",
+        "ean8": null,
+        "primary_code": "858511001289",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001289"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001289",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001289",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001289",
+          "code": "858511001289",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Mini Leave-In Molecular Repair Hair Mask 15 mL - 15mL",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_Mask_15ML_1249a477-37fc-4c79-a644-ac4e255f7057.jpg?v=1659977466"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001289.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001401",
+      "product_name": "Free Gift - mini PEPTIDE PREP™ detox shampoo - 1.8 fl oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Detox_mini_c9ae7dc5-65e5-435b-9c90-94d883c6be65.jpg?v=1699918312",
+      "local_image_path": "images/k18/00858511001401.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Free Gift - mini PEPTIDE PREP™ detox shampoo - 1.8 fl oz",
+        "source_names": {
+          "brand_storefront": "Free Gift - mini PEPTIDE PREP™ detox shampoo - 1.8 fl oz"
+        },
+        "alternate_names": [
+          "mini PEPTIDE PREP™ detox shampoo 1.8oz - 1.8oz"
+        ],
+        "quantity": null,
+        "categories": [
+          "Free Gift",
+          "Shampoo and Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Detox_mini_c9ae7dc5-65e5-435b-9c90-94d883c6be65.jpg?v=1699918312",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Detox_mini_c9ae7dc5-65e5-435b-9c90-94d883c6be65.jpg?v=1699918312",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Detox_mini_c9ae7dc5-65e5-435b-9c90-94d883c6be65.jpg?v=1699918312"
+        ],
+        "local_image_path": "images/k18/00858511001401.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001401",
+        "ean13": "0858511001401",
+        "upc_a": "858511001401",
+        "ean8": null,
+        "primary_code": "858511001401",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001401"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001401",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001401",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001401",
+          "code": "858511001401",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Free Gift - mini PEPTIDE PREP™ detox shampoo - 1.8 fl oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Detox_mini_c9ae7dc5-65e5-435b-9c90-94d883c6be65.jpg?v=1699918312"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001401.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001432",
+      "product_name": "Leave-In Molecular Repair Hair Mask Deluxe Sample - 5 mL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_ConsumerLeaveIn_5ML_1650x2259_01.jpg?v=1637625224",
+      "local_image_path": "images/k18/00858511001432.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Leave-In Molecular Repair Hair Mask Deluxe Sample - 5 mL",
+        "source_names": {
+          "brand_storefront": "Leave-In Molecular Repair Hair Mask Deluxe Sample - 5 mL"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_ConsumerLeaveIn_5ML_1650x2259_01.jpg?v=1637625224",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_ConsumerLeaveIn_5ML_1650x2259_01.jpg?v=1637625224",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_ConsumerLeaveIn_5ML_1650x2259_01.jpg?v=1637625224"
+        ],
+        "local_image_path": "images/k18/00858511001432.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001432",
+        "ean13": "0858511001432",
+        "upc_a": "858511001432",
+        "ean8": null,
+        "primary_code": "858511001432",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001432"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001432",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001432",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001432",
+          "code": "858511001432",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Leave-In Molecular Repair Hair Mask Deluxe Sample - 5 mL",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/K18_ConsumerLeaveIn_5ML_1650x2259_01.jpg?v=1637625224"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001432.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001500",
+      "product_name": "Molecular Repair Hair Oil - 30mL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/Oil_pdp_StudioProduct.jpg?v=1678315949",
+      "local_image_path": "images/k18/00858511001500.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Molecular Repair Hair Oil - 30mL",
+        "source_names": {
+          "brand_storefront": "Molecular Repair Hair Oil - 30mL"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Oil"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/Oil_pdp_StudioProduct.jpg?v=1678315949",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/Oil_pdp_StudioProduct.jpg?v=1678315949",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/Oil_pdp_StudioProduct.jpg?v=1678315949"
+        ],
+        "local_image_path": "images/k18/00858511001500.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001500",
+        "ean13": "0858511001500",
+        "upc_a": "858511001500",
+        "ean8": null,
+        "primary_code": "858511001500",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001500"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001500",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001500",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001500",
+          "code": "858511001500",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Molecular Repair Hair Oil - 30mL",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/products/Oil_pdp_StudioProduct.jpg?v=1678315949"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001500.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001517",
+      "product_name": "Mini molecular repair hair oil - 10mL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_oil_10ml_01.jpg?v=1685561235",
+      "local_image_path": "images/k18/00858511001517.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Mini molecular repair hair oil - 10mL",
+        "source_names": {
+          "brand_storefront": "Mini molecular repair hair oil - 10mL"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Oil"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_oil_10ml_01.jpg?v=1685561235",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_oil_10ml_01.jpg?v=1685561235",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_oil_10ml_01.jpg?v=1685561235"
+        ],
+        "local_image_path": "images/k18/00858511001517.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001517",
+        "ean13": "0858511001517",
+        "upc_a": "858511001517",
+        "ean8": null,
+        "primary_code": "858511001517",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001517"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001517",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001517",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001517",
+          "code": "858511001517",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Mini molecular repair hair oil - 10mL",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_oil_10ml_01.jpg?v=1685561235"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001517.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00858511001753",
+      "product_name": "hair oil deluxe sample",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HairOil_4ml.png?v=1692215263",
+      "local_image_path": "images/k18/00858511001753.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "hair oil deluxe sample",
+        "source_names": {
+          "brand_storefront": "hair oil deluxe sample"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HairOil_4ml.png?v=1692215263",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HairOil_4ml.png?v=1692215263",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HairOil_4ml.png?v=1692215263"
+        ],
+        "local_image_path": "images/k18/00858511001753.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00858511001753",
+        "ean13": "0858511001753",
+        "upc_a": "858511001753",
+        "ean8": null,
+        "primary_code": "858511001753",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "858511001753"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00858511001753",
+        "qr_payload_text": "https://id.gs1.org/01/00858511001753",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00858511001753",
+          "code": "858511001753",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "hair oil deluxe sample",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HairOil_4ml.png?v=1692215263"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00858511001753.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400011",
+      "product_name": "AstroLift™ reparative volume spray 1.6oz - 1.6oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_47ml_1650x2259_451e92ea-53a8-4851-8fcd-5a63ab3d2497.jpg?v=1753297567",
+      "local_image_path": "images/k18/00990022400011.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "AstroLift™ reparative volume spray 1.6oz - 1.6oz",
+        "source_names": {
+          "brand_storefront": "AstroLift™ reparative volume spray 1.6oz - 1.6oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Volume Spray"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_47ml_1650x2259_451e92ea-53a8-4851-8fcd-5a63ab3d2497.jpg?v=1753297567",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_47ml_1650x2259_451e92ea-53a8-4851-8fcd-5a63ab3d2497.jpg?v=1753297567",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_47ml_1650x2259_451e92ea-53a8-4851-8fcd-5a63ab3d2497.jpg?v=1753297567"
+        ],
+        "local_image_path": "images/k18/00990022400011.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400011",
+        "ean13": "0990022400011",
+        "upc_a": "990022400011",
+        "ean8": null,
+        "primary_code": "990022400011",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400011"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400011",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400011",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400011",
+          "code": "990022400011",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "AstroLift™ reparative volume spray 1.6oz - 1.6oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_47ml_1650x2259_451e92ea-53a8-4851-8fcd-5a63ab3d2497.jpg?v=1753297567"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400011.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400028",
+      "product_name": "AstroLift™ reparative volume spray deluxe sample - .5 oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_sample.jpg?v=1740765253",
+      "local_image_path": "images/k18/00990022400028.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "AstroLift™ reparative volume spray deluxe sample - .5 oz",
+        "source_names": {
+          "brand_storefront": "AstroLift™ reparative volume spray deluxe sample - .5 oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_sample.jpg?v=1740765253",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_sample.jpg?v=1740765253",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_sample.jpg?v=1740765253"
+        ],
+        "local_image_path": "images/k18/00990022400028.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400028",
+        "ean13": "0990022400028",
+        "upc_a": "990022400028",
+        "ean8": null,
+        "primary_code": "990022400028",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400028"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400028",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400028",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400028",
+          "code": "990022400028",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "AstroLift™ reparative volume spray deluxe sample - .5 oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Astrolift_sample.jpg?v=1740765253"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400028.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400042",
+      "product_name": "HeatBounce conditioning heat protectant 4oz - 4oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HeatBounce.jpg?v=1751309628",
+      "local_image_path": "images/k18/00990022400042.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "HeatBounce conditioning heat protectant 4oz - 4oz",
+        "source_names": {
+          "brand_storefront": "HeatBounce conditioning heat protectant 4oz - 4oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Heat Protectant"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HeatBounce.jpg?v=1751309628",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HeatBounce.jpg?v=1751309628",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HeatBounce.jpg?v=1751309628"
+        ],
+        "local_image_path": "images/k18/00990022400042.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400042",
+        "ean13": "0990022400042",
+        "upc_a": "990022400042",
+        "ean8": null,
+        "primary_code": "990022400042",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400042"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400042",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400042",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400042",
+          "code": "990022400042",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "HeatBounce conditioning heat protectant 4oz - 4oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/HeatBounce.jpg?v=1751309628"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400042.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400059",
+      "product_name": "HeatBounce 1.6 oz - 1.6oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_Digital_AltImages_Heatbounce_TravelSize.jpg?v=1766078582",
+      "local_image_path": "images/k18/00990022400059.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "HeatBounce 1.6 oz - 1.6oz",
+        "source_names": {
+          "brand_storefront": "HeatBounce 1.6 oz - 1.6oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Heat Protectant"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_Digital_AltImages_Heatbounce_TravelSize.jpg?v=1766078582",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_Digital_AltImages_Heatbounce_TravelSize.jpg?v=1766078582",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_Digital_AltImages_Heatbounce_TravelSize.jpg?v=1766078582"
+        ],
+        "local_image_path": "images/k18/00990022400059.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400059",
+        "ean13": "0990022400059",
+        "upc_a": "990022400059",
+        "ean8": null,
+        "primary_code": "990022400059",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400059"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400059",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400059",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400059",
+          "code": "990022400059",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "HeatBounce 1.6 oz - 1.6oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/K18_Digital_AltImages_Heatbounce_TravelSize.jpg?v=1766078582"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400059.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400066",
+      "product_name": "HeatBounce Deluxe sample",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_68.png?v=1753977659",
+      "local_image_path": "images/k18/00990022400066.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "HeatBounce Deluxe sample",
+        "source_names": {
+          "brand_storefront": "HeatBounce Deluxe sample"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_68.png?v=1753977659",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_68.png?v=1753977659",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_68.png?v=1753977659"
+        ],
+        "local_image_path": "images/k18/00990022400066.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400066",
+        "ean13": "0990022400066",
+        "upc_a": "990022400066",
+        "ean8": null,
+        "primary_code": "990022400066",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400066"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400066",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400066",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400066",
+          "code": "990022400066",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "HeatBounce Deluxe sample",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_68.png?v=1753977659"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400066.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400080",
+      "product_name": "K18 x Future Society Limited Edition Scent Mask - 50 mL",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/FTS_Mask.jpg?v=1758049576",
+      "local_image_path": "images/k18/00990022400080.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "K18 x Future Society Limited Edition Scent Mask - 50 mL",
+        "source_names": {
+          "brand_storefront": "K18 x Future Society Limited Edition Scent Mask - 50 mL"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Mask"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/FTS_Mask.jpg?v=1758049576",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/FTS_Mask.jpg?v=1758049576",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/FTS_Mask.jpg?v=1758049576"
+        ],
+        "local_image_path": "images/k18/00990022400080.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400080",
+        "ean13": "0990022400080",
+        "upc_a": "990022400080",
+        "ean8": null,
+        "primary_code": "990022400080",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400080"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400080",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400080",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400080",
+          "code": "990022400080",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "K18 x Future Society Limited Edition Scent Mask - 50 mL",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/FTS_Mask.jpg?v=1758049576"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400080.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400141",
+      "product_name": "PEPTIDE PREP™ Detox Shampoo Deluxe Sample",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_94.png?v=1774981850",
+      "local_image_path": "images/k18/00990022400141.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "PEPTIDE PREP™ Detox Shampoo Deluxe Sample",
+        "source_names": {
+          "brand_storefront": "PEPTIDE PREP™ Detox Shampoo Deluxe Sample"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_94.png?v=1774981850",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_94.png?v=1774981850",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_94.png?v=1774981850"
+        ],
+        "local_image_path": "images/k18/00990022400141.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400141",
+        "ean13": "0990022400141",
+        "upc_a": "990022400141",
+        "ean8": null,
+        "primary_code": "990022400141",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400141"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400141",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400141",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400141",
+          "code": "990022400141",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "PEPTIDE PREP™ Detox Shampoo Deluxe Sample",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_94.png?v=1774981850"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400141.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400158",
+      "product_name": "DAMAGE SHIELD Protective Conditioner Deluxe Sample",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_92.png?v=1774981678",
+      "local_image_path": "images/k18/00990022400158.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "DAMAGE SHIELD Protective Conditioner Deluxe Sample",
+        "source_names": {
+          "brand_storefront": "DAMAGE SHIELD Protective Conditioner Deluxe Sample"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_92.png?v=1774981678",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_92.png?v=1774981678",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_92.png?v=1774981678"
+        ],
+        "local_image_path": "images/k18/00990022400158.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400158",
+        "ean13": "0990022400158",
+        "upc_a": "990022400158",
+        "ean8": null,
+        "primary_code": "990022400158",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400158"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400158",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400158",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400158",
+          "code": "990022400158",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "DAMAGE SHIELD Protective Conditioner Deluxe Sample",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_92.png?v=1774981678"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400158.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400233",
+      "product_name": "Jumbo PEPTIDE PREP™ detox shampoo - 16oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSDetox_Consumer.jpg?v=1762197268",
+      "local_image_path": "images/k18/00990022400233.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Jumbo PEPTIDE PREP™ detox shampoo - 16oz",
+        "source_names": {
+          "brand_storefront": "Jumbo PEPTIDE PREP™ detox shampoo - 16oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSDetox_Consumer.jpg?v=1762197268",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSDetox_Consumer.jpg?v=1762197268",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSDetox_Consumer.jpg?v=1762197268"
+        ],
+        "local_image_path": "images/k18/00990022400233.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400233",
+        "ean13": "0990022400233",
+        "upc_a": "990022400233",
+        "ean8": null,
+        "primary_code": "990022400233",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400233"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400233",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400233",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400233",
+          "code": "990022400233",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Jumbo PEPTIDE PREP™ detox shampoo - 16oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSDetox_Consumer.jpg?v=1762197268"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400233.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400240",
+      "product_name": "Jumbo DAMAGE SHIELD protective conditioner - 16oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner_Consumer.jpg?v=1762197132",
+      "local_image_path": "images/k18/00990022400240.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Jumbo DAMAGE SHIELD protective conditioner - 16oz",
+        "source_names": {
+          "brand_storefront": "Jumbo DAMAGE SHIELD protective conditioner - 16oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner_Consumer.jpg?v=1762197132",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner_Consumer.jpg?v=1762197132",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner_Consumer.jpg?v=1762197132"
+        ],
+        "local_image_path": "images/k18/00990022400240.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400240",
+        "ean13": "0990022400240",
+        "upc_a": "990022400240",
+        "ean8": null,
+        "primary_code": "990022400240",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400240"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400240",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400240",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400240",
+          "code": "990022400240",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Jumbo DAMAGE SHIELD protective conditioner - 16oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSConditioner_Consumer.jpg?v=1762197132"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400240.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400257",
+      "product_name": "Jumbo DAMAGE SHIELD protective shampoo - 16oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo_Consumer.jpg?v=1762196698",
+      "local_image_path": "images/k18/00990022400257.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Jumbo DAMAGE SHIELD protective shampoo - 16oz",
+        "source_names": {
+          "brand_storefront": "Jumbo DAMAGE SHIELD protective shampoo - 16oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo_Consumer.jpg?v=1762196698",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo_Consumer.jpg?v=1762196698",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo_Consumer.jpg?v=1762196698"
+        ],
+        "local_image_path": "images/k18/00990022400257.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400257",
+        "ean13": "0990022400257",
+        "upc_a": "990022400257",
+        "ean8": null,
+        "primary_code": "990022400257",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400257"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400257",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400257",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400257",
+          "code": "990022400257",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Jumbo DAMAGE SHIELD protective shampoo - 16oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/DSShampoo_Consumer.jpg?v=1762196698"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400257.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400288",
+      "product_name": "TripleBright oxidation defense purple shampoo",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/01_PackShot_consumer_1.jpg?v=1773327045",
+      "local_image_path": "images/k18/00990022400288.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "TripleBright oxidation defense purple shampoo",
+        "source_names": {
+          "brand_storefront": "TripleBright oxidation defense purple shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/01_PackShot_consumer_1.jpg?v=1773327045",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/01_PackShot_consumer_1.jpg?v=1773327045",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/01_PackShot_consumer_1.jpg?v=1773327045"
+        ],
+        "local_image_path": "images/k18/00990022400288.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400288",
+        "ean13": "0990022400288",
+        "upc_a": "990022400288",
+        "ean8": null,
+        "primary_code": "990022400288",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400288"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400288",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400288",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400288",
+          "code": "990022400288",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "TripleBright oxidation defense purple shampoo",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/01_PackShot_consumer_1.jpg?v=1773327045"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400288.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400370",
+      "product_name": "Damage Shield Wash Care Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_2.png?v=1788987672",
+      "local_image_path": "images/k18/00990022400370.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "Damage Shield Wash Care Set",
+        "source_names": {
+          "brand_storefront": "Damage Shield Wash Care Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Kit"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_2.png?v=1788987672",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_2.png?v=1788987672",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_2.png?v=1788987672"
+        ],
+        "local_image_path": "images/k18/00990022400370.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400370",
+        "ean13": "0990022400370",
+        "upc_a": "990022400370",
+        "ean8": null,
+        "primary_code": "990022400370",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400370"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400370",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400370",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400370",
+          "code": "990022400370",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "Damage Shield Wash Care Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_2.png?v=1788987672"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400370.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400387",
+      "product_name": "salon blowout at home",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/SalonBlowoutAtHome_02_2decca6c-3324-49cc-996e-9bce90d41ca7.jpg?v=1778786841",
+      "local_image_path": "images/k18/00990022400387.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "salon blowout at home",
+        "source_names": {
+          "brand_storefront": "salon blowout at home"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Kit"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/SalonBlowoutAtHome_02_2decca6c-3324-49cc-996e-9bce90d41ca7.jpg?v=1778786841",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/SalonBlowoutAtHome_02_2decca6c-3324-49cc-996e-9bce90d41ca7.jpg?v=1778786841",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/SalonBlowoutAtHome_02_2decca6c-3324-49cc-996e-9bce90d41ca7.jpg?v=1778786841"
+        ],
+        "local_image_path": "images/k18/00990022400387.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400387",
+        "ean13": "0990022400387",
+        "upc_a": "990022400387",
+        "ean8": null,
+        "primary_code": "990022400387",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400387"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400387",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400387",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400387",
+          "code": "990022400387",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "salon blowout at home",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/SalonBlowoutAtHome_02_2decca6c-3324-49cc-996e-9bce90d41ca7.jpg?v=1778786841"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400387.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400455",
+      "product_name": "detox + repair kit",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Detox_Repair_0.jpg?v=1787768914",
+      "local_image_path": "images/k18/00990022400455.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "detox + repair kit",
+        "source_names": {
+          "brand_storefront": "detox + repair kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Kit"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Detox_Repair_0.jpg?v=1787768914",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Detox_Repair_0.jpg?v=1787768914",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Detox_Repair_0.jpg?v=1787768914"
+        ],
+        "local_image_path": "images/k18/00990022400455.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400455",
+        "ean13": "0990022400455",
+        "upc_a": "990022400455",
+        "ean8": null,
+        "primary_code": "990022400455",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400455"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400455",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400455",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400455",
+          "code": "990022400455",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "detox + repair kit",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Detox_Repair_0.jpg?v=1787768914"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400455.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400462",
+      "product_name": "repair + protect set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Repair_Protect_0.jpg?v=1787769546",
+      "local_image_path": "images/k18/00990022400462.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "repair + protect set",
+        "source_names": {
+          "brand_storefront": "repair + protect set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Kit"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Repair_Protect_0.jpg?v=1787769546",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Repair_Protect_0.jpg?v=1787769546",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Repair_Protect_0.jpg?v=1787769546"
+        ],
+        "local_image_path": "images/k18/00990022400462.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400462",
+        "ean13": "0990022400462",
+        "upc_a": "990022400462",
+        "ean8": null,
+        "primary_code": "990022400462",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400462"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400462",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400462",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400462",
+          "code": "990022400462",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "repair + protect set",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_Repair_Protect_0.jpg?v=1787769546"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400462.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400479",
+      "product_name": "fresh hair on the go",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_freshhaironthego_1.jpg?v=1789139576",
+      "local_image_path": "images/k18/00990022400479.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "fresh hair on the go",
+        "source_names": {
+          "brand_storefront": "fresh hair on the go"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Kit"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_freshhaironthego_1.jpg?v=1789139576",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_freshhaironthego_1.jpg?v=1789139576",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_freshhaironthego_1.jpg?v=1789139576"
+        ],
+        "local_image_path": "images/k18/00990022400479.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400479",
+        "ean13": "0990022400479",
+        "upc_a": "990022400479",
+        "ean8": null,
+        "primary_code": "990022400479",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400479"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400479",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400479",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400479",
+          "code": "990022400479",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "fresh hair on the go",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/2H26_Consumer_Kit_freshhaironthego_1.jpg?v=1789139576"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400479.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400509",
+      "product_name": "FutureIQ™ biomimetic hair longevity serum",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_8.png?v=1794244751",
+      "local_image_path": "images/k18/00990022400509.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "FutureIQ™ biomimetic hair longevity serum",
+        "source_names": {
+          "brand_storefront": "FutureIQ™ biomimetic hair longevity serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair treatment"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_8.png?v=1794244751",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_8.png?v=1794244751",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_8.png?v=1794244751"
+        ],
+        "local_image_path": "images/k18/00990022400509.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400509",
+        "ean13": "0990022400509",
+        "upc_a": "990022400509",
+        "ean8": null,
+        "primary_code": "990022400509",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400509"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400509",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400509",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400509",
+          "code": "990022400509",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "FutureIQ™ biomimetic hair longevity serum",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitled_design_8.png?v=1794244751"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400509.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00990022400721",
+      "product_name": "DAMAGE SHIELD pH Protective Shampoo Deluxe Sample",
+      "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitleddesign_93_131e24c1-8aa4-486a-8ae3-e83174471d58.png?v=1774981878",
+      "local_image_path": "images/k18/00990022400721.jpg",
+      "brand": {
+        "slug": "k18",
+        "display_name": "K18",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=K18",
+        "matched_raw_brands": [
+          "K18"
+        ]
+      },
+      "product": {
+        "name": "DAMAGE SHIELD pH Protective Shampoo Deluxe Sample",
+        "source_names": {
+          "brand_storefront": "DAMAGE SHIELD pH Protective Shampoo Deluxe Sample"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitleddesign_93_131e24c1-8aa4-486a-8ae3-e83174471d58.png?v=1774981878",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitleddesign_93_131e24c1-8aa4-486a-8ae3-e83174471d58.png?v=1774981878",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitleddesign_93_131e24c1-8aa4-486a-8ae3-e83174471d58.png?v=1774981878"
+        ],
+        "local_image_path": "images/k18/00990022400721.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00990022400721",
+        "ean13": "0990022400721",
+        "upc_a": "990022400721",
+        "ean8": null,
+        "primary_code": "990022400721",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "990022400721"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00990022400721",
+        "qr_payload_text": "https://id.gs1.org/01/00990022400721",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00990022400721",
+          "code": "990022400721",
+          "type": "UPC-A",
+          "brand": "K18",
+          "name": "DAMAGE SHIELD pH Protective Shampoo Deluxe Sample",
+          "image_url": "https://cdn.shopify.com/s/files/1/0094/8384/5679/files/Untitleddesign_93_131e24c1-8aa4-486a-8ae3-e83174471d58.png?v=1774981878"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/k18/00990022400721.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
     {
       "gtin14": "08585110011280",
       "product_name": "biomimetic hairscience",
@@ -83,7 +2781,7 @@
       "provenance": {
         "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8585110011280",
         "upcitemdb_ean": null,
-        "harvested_at": "2026-11-19T07:36:47.452158Z"
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
       }
     }
   ]

@@ -6,8 +6,3320 @@
   "is_store_own_brand": false,
   "alias_of": null,
   "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
-  "product_count": 0,
-  "canonical_product_count": 0,
+  "product_count": 43,
+  "canonical_product_count": 43,
   "cross_source_verified_count": 0,
-  "products": []
+  "products": [
+    {
+      "gtin14": "00810036350013",
+      "product_name": "HoliRoots™ Shampoo & Conditioner Duo Sachets",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ShampooandConditionerSachets_35f31769-93ab-4c12-8b62-3289613f5a97.png?v=1762461330",
+      "local_image_path": "images/fable-and-mane/00810036350013.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "HoliRoots™ Shampoo & Conditioner Duo Sachets",
+        "source_names": {
+          "brand_storefront": "HoliRoots™ Shampoo & Conditioner Duo Sachets"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ShampooandConditionerSachets_35f31769-93ab-4c12-8b62-3289613f5a97.png?v=1762461330",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ShampooandConditionerSachets_35f31769-93ab-4c12-8b62-3289613f5a97.png?v=1762461330",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ShampooandConditionerSachets_35f31769-93ab-4c12-8b62-3289613f5a97.png?v=1762461330"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036350013.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036350013",
+        "ean13": "0810036350013",
+        "upc_a": "810036350013",
+        "ean8": null,
+        "primary_code": "810036350013",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036350013"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036350013",
+        "qr_payload_text": "https://id.gs1.org/01/00810036350013",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036350013",
+          "code": "810036350013",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "HoliRoots™ Shampoo & Conditioner Duo Sachets",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ShampooandConditionerSachets_35f31769-93ab-4c12-8b62-3289613f5a97.png?v=1762461330"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036350013.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036350228",
+      "product_name": "Hair Yoga Mat",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_yoga_mat.png?v=1762459142",
+      "local_image_path": "images/fable-and-mane/00810036350228.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Hair Yoga Mat",
+        "source_names": {
+          "brand_storefront": "Hair Yoga Mat"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_yoga_mat.png?v=1762459142",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_yoga_mat.png?v=1762459142",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_yoga_mat.png?v=1762459142"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036350228.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036350228",
+        "ean13": "0810036350228",
+        "upc_a": "810036350228",
+        "ean8": null,
+        "primary_code": "810036350228",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036350228"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036350228",
+        "qr_payload_text": "https://id.gs1.org/01/00810036350228",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036350228",
+          "code": "810036350228",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Hair Yoga Mat",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_yoga_mat.png?v=1762459142"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036350228.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036350716",
+      "product_name": "No Crease Red Hair Clips",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/REDCLIP_563e9c95-43cf-489f-b194-0cbe5ee466b8.png?v=1758277396",
+      "local_image_path": "images/fable-and-mane/00810036350716.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "No Crease Red Hair Clips",
+        "source_names": {
+          "brand_storefront": "No Crease Red Hair Clips"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/REDCLIP_563e9c95-43cf-489f-b194-0cbe5ee466b8.png?v=1758277396",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/REDCLIP_563e9c95-43cf-489f-b194-0cbe5ee466b8.png?v=1758277396",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/REDCLIP_563e9c95-43cf-489f-b194-0cbe5ee466b8.png?v=1758277396"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036350716.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036350716",
+        "ean13": "0810036350716",
+        "upc_a": "810036350716",
+        "ean8": null,
+        "primary_code": "810036350716",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036350716"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036350716",
+        "qr_payload_text": "https://id.gs1.org/01/00810036350716",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036350716",
+          "code": "810036350716",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "No Crease Red Hair Clips",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/REDCLIP_563e9c95-43cf-489f-b194-0cbe5ee466b8.png?v=1758277396"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036350716.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351003",
+      "product_name": "Hydrating Shampoo",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Shampoo.png?v=1793300503",
+      "local_image_path": "images/fable-and-mane/00810036351003.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Hydrating Shampoo",
+        "source_names": {
+          "brand_storefront": "Hydrating Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Shampoo.png?v=1793300503",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Shampoo.png?v=1793300503",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Shampoo.png?v=1793300503"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351003.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351003",
+        "ean13": "0810036351003",
+        "upc_a": "810036351003",
+        "ean8": null,
+        "primary_code": "810036351003",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351003"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351003",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351003",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351003",
+          "code": "810036351003",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Hydrating Shampoo",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Shampoo.png?v=1793300503"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351003.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351027",
+      "product_name": "Mini Hydrating Shampoo",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_Spoo50ml.png?v=1762466657",
+      "local_image_path": "images/fable-and-mane/00810036351027.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Mini Hydrating Shampoo",
+        "source_names": {
+          "brand_storefront": "Mini Hydrating Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_Spoo50ml.png?v=1762466657",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_Spoo50ml.png?v=1762466657",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_Spoo50ml.png?v=1762466657"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351027.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351027",
+        "ean13": "0810036351027",
+        "upc_a": "810036351027",
+        "ean8": null,
+        "primary_code": "810036351027",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351027"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351027",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351027",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351027",
+          "code": "810036351027",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Mini Hydrating Shampoo",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_Spoo50ml.png?v=1762466657"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351027.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351065",
+      "product_name": "Volumizing Shampoo",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VS_5ec1c583-12ee-4180-abcc-3939bb4f8191.png?v=1758033473",
+      "local_image_path": "images/fable-and-mane/00810036351065.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Volumizing Shampoo",
+        "source_names": {
+          "brand_storefront": "Volumizing Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VS_5ec1c583-12ee-4180-abcc-3939bb4f8191.png?v=1758033473",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VS_5ec1c583-12ee-4180-abcc-3939bb4f8191.png?v=1758033473",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VS_5ec1c583-12ee-4180-abcc-3939bb4f8191.png?v=1758033473"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351065.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351065",
+        "ean13": "0810036351065",
+        "upc_a": "810036351065",
+        "ean8": null,
+        "primary_code": "810036351065",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351065"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351065",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351065",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351065",
+          "code": "810036351065",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Volumizing Shampoo",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VS_5ec1c583-12ee-4180-abcc-3939bb4f8191.png?v=1758033473"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351065.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351072",
+      "product_name": "Mini Volumizing Shampoo",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVS_a99423cb-8171-4eb3-9534-ae314fe2ee1d.png?v=1758112486",
+      "local_image_path": "images/fable-and-mane/00810036351072.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Mini Volumizing Shampoo",
+        "source_names": {
+          "brand_storefront": "Mini Volumizing Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVS_a99423cb-8171-4eb3-9534-ae314fe2ee1d.png?v=1758112486",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVS_a99423cb-8171-4eb3-9534-ae314fe2ee1d.png?v=1758112486",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVS_a99423cb-8171-4eb3-9534-ae314fe2ee1d.png?v=1758112486"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351072.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351072",
+        "ean13": "0810036351072",
+        "upc_a": "810036351072",
+        "ean8": null,
+        "primary_code": "810036351072",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351072"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351072",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351072",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351072",
+          "code": "810036351072",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Mini Volumizing Shampoo",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVS_a99423cb-8171-4eb3-9534-ae314fe2ee1d.png?v=1758112486"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351072.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351096",
+      "product_name": "Madurai Jasmine Hair & Body Fragrance Mist",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MaduraiJasmine.png?v=1773562724",
+      "local_image_path": "images/fable-and-mane/00810036351096.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Madurai Jasmine Hair & Body Fragrance Mist",
+        "source_names": {
+          "brand_storefront": "Madurai Jasmine Hair & Body Fragrance Mist"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "product"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MaduraiJasmine.png?v=1773562724",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MaduraiJasmine.png?v=1773562724",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MaduraiJasmine.png?v=1773562724"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351096.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351096",
+        "ean13": "0810036351096",
+        "upc_a": "810036351096",
+        "ean8": null,
+        "primary_code": "810036351096",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351096"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351096",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351096",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351096",
+          "code": "810036351096",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Madurai Jasmine Hair & Body Fragrance Mist",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MaduraiJasmine.png?v=1773562724"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351096.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351102",
+      "product_name": "Jaipur Rose Hair & Body Fragrance Mist",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/JaipurRose.png?v=1773563711",
+      "local_image_path": "images/fable-and-mane/00810036351102.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Jaipur Rose Hair & Body Fragrance Mist",
+        "source_names": {
+          "brand_storefront": "Jaipur Rose Hair & Body Fragrance Mist"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "product"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/JaipurRose.png?v=1773563711",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/JaipurRose.png?v=1773563711",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/JaipurRose.png?v=1773563711"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351102.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351102",
+        "ean13": "0810036351102",
+        "upc_a": "810036351102",
+        "ean8": null,
+        "primary_code": "810036351102",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351102"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351102",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351102",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351102",
+          "code": "810036351102",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Jaipur Rose Hair & Body Fragrance Mist",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/JaipurRose.png?v=1773563711"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351102.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351119",
+      "product_name": "Kerala Coconut Hair & Body Fragrance Mist",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/KeralaCoconut.png?v=1773563977",
+      "local_image_path": "images/fable-and-mane/00810036351119.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Kerala Coconut Hair & Body Fragrance Mist",
+        "source_names": {
+          "brand_storefront": "Kerala Coconut Hair & Body Fragrance Mist"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "product"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/KeralaCoconut.png?v=1773563977",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/KeralaCoconut.png?v=1773563977",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/KeralaCoconut.png?v=1773563977"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351119.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351119",
+        "ean13": "0810036351119",
+        "upc_a": "810036351119",
+        "ean8": null,
+        "primary_code": "810036351119",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351119"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351119",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351119",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351119",
+          "code": "810036351119",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Kerala Coconut Hair & Body Fragrance Mist",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/KeralaCoconut.png?v=1773563977"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351119.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351874",
+      "product_name": "Glossy Styling Hair Oil",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Copy_of_F_M_GlossyStylingHairOil_Cap_9f6940d3-fd4c-4da3-96df-cea6dad69a90.png?v=1784582826",
+      "local_image_path": "images/fable-and-mane/00810036351874.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Glossy Styling Hair Oil",
+        "source_names": {
+          "brand_storefront": "Glossy Styling Hair Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "product"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Copy_of_F_M_GlossyStylingHairOil_Cap_9f6940d3-fd4c-4da3-96df-cea6dad69a90.png?v=1784582826",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Copy_of_F_M_GlossyStylingHairOil_Cap_9f6940d3-fd4c-4da3-96df-cea6dad69a90.png?v=1784582826",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Copy_of_F_M_GlossyStylingHairOil_Cap_9f6940d3-fd4c-4da3-96df-cea6dad69a90.png?v=1784582826"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351874.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351874",
+        "ean13": "0810036351874",
+        "upc_a": "810036351874",
+        "ean8": null,
+        "primary_code": "810036351874",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351874"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351874",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351874",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351874",
+          "code": "810036351874",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Glossy Styling Hair Oil",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Copy_of_F_M_GlossyStylingHairOil_Cap_9f6940d3-fd4c-4da3-96df-cea6dad69a90.png?v=1784582826"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351874.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036351881",
+      "product_name": "Glossy Styling Hair Oil 1.5ml Sample",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/F_M_VOC_GSHO.png?v=1784049432",
+      "local_image_path": "images/fable-and-mane/00810036351881.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Glossy Styling Hair Oil 1.5ml Sample",
+        "source_names": {
+          "brand_storefront": "Glossy Styling Hair Oil 1.5ml Sample"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/F_M_VOC_GSHO.png?v=1784049432",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/F_M_VOC_GSHO.png?v=1784049432",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/F_M_VOC_GSHO.png?v=1784049432"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036351881.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036351881",
+        "ean13": "0810036351881",
+        "upc_a": "810036351881",
+        "ean8": null,
+        "primary_code": "810036351881",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036351881"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036351881",
+        "qr_payload_text": "https://id.gs1.org/01/00810036351881",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036351881",
+          "code": "810036351881",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Glossy Styling Hair Oil 1.5ml Sample",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/F_M_VOC_GSHO.png?v=1784049432"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036351881.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036352000",
+      "product_name": "Hydrating Conditioner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Conditioner.png?v=1793300129",
+      "local_image_path": "images/fable-and-mane/00810036352000.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Hydrating Conditioner",
+        "source_names": {
+          "brand_storefront": "Hydrating Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Conditioner.png?v=1793300129",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Conditioner.png?v=1793300129",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Conditioner.png?v=1793300129"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036352000.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036352000",
+        "ean13": "0810036352000",
+        "upc_a": "810036352000",
+        "ean8": null,
+        "primary_code": "810036352000",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036352000"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036352000",
+        "qr_payload_text": "https://id.gs1.org/01/00810036352000",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036352000",
+          "code": "810036352000",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Hydrating Conditioner",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Conditioner.png?v=1793300129"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036352000.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036352055",
+      "product_name": "Volumizing Conditioner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VC_d44e51fc-9655-48c3-aac1-533235287a34.png?v=1758033559",
+      "local_image_path": "images/fable-and-mane/00810036352055.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Volumizing Conditioner",
+        "source_names": {
+          "brand_storefront": "Volumizing Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VC_d44e51fc-9655-48c3-aac1-533235287a34.png?v=1758033559",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VC_d44e51fc-9655-48c3-aac1-533235287a34.png?v=1758033559",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VC_d44e51fc-9655-48c3-aac1-533235287a34.png?v=1758033559"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036352055.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036352055",
+        "ean13": "0810036352055",
+        "upc_a": "810036352055",
+        "ean8": null,
+        "primary_code": "810036352055",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036352055"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036352055",
+        "qr_payload_text": "https://id.gs1.org/01/00810036352055",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036352055",
+          "code": "810036352055",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Volumizing Conditioner",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/VC_d44e51fc-9655-48c3-aac1-533235287a34.png?v=1758033559"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036352055.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036352062",
+      "product_name": "Mini Volumizing Conditioner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVC.png?v=1758112297",
+      "local_image_path": "images/fable-and-mane/00810036352062.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Mini Volumizing Conditioner",
+        "source_names": {
+          "brand_storefront": "Mini Volumizing Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVC.png?v=1758112297",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVC.png?v=1758112297",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVC.png?v=1758112297"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036352062.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036352062",
+        "ean13": "0810036352062",
+        "upc_a": "810036352062",
+        "ean8": null,
+        "primary_code": "810036352062",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036352062"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036352062",
+        "qr_payload_text": "https://id.gs1.org/01/00810036352062",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036352062",
+          "code": "810036352062",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Mini Volumizing Conditioner",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIVC.png?v=1758112297"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036352062.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036352208",
+      "product_name": "Crease-less Cream Acetate Marbled Clips",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/004_Clips.png?v=1786954794",
+      "local_image_path": "images/fable-and-mane/00810036352208.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Crease-less Cream Acetate Marbled Clips",
+        "source_names": {
+          "brand_storefront": "Crease-less Cream Acetate Marbled Clips"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/004_Clips.png?v=1786954794",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/004_Clips.png?v=1786954794",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/004_Clips.png?v=1786954794"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036352208.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036352208",
+        "ean13": "0810036352208",
+        "upc_a": "810036352208",
+        "ean8": null,
+        "primary_code": "810036352208",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036352208"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036352208",
+        "qr_payload_text": "https://id.gs1.org/01/00810036352208",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036352208",
+          "code": "810036352208",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Crease-less Cream Acetate Marbled Clips",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/004_Clips.png?v=1786954794"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036352208.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036352253",
+      "product_name": "3 Pack Scrunchie",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/002_Scrunchies_Square_lowres.png?v=1784219585",
+      "local_image_path": "images/fable-and-mane/00810036352253.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "3 Pack Scrunchie",
+        "source_names": {
+          "brand_storefront": "3 Pack Scrunchie"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "product"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/002_Scrunchies_Square_lowres.png?v=1784219585",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/002_Scrunchies_Square_lowres.png?v=1784219585",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/002_Scrunchies_Square_lowres.png?v=1784219585"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036352253.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036352253",
+        "ean13": "0810036352253",
+        "upc_a": "810036352253",
+        "ean8": null,
+        "primary_code": "810036352253",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036352253"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036352253",
+        "qr_payload_text": "https://id.gs1.org/01/00810036352253",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036352253",
+          "code": "810036352253",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "3 Pack Scrunchie",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/002_Scrunchies_Square_lowres.png?v=1784219585"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036352253.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036352338",
+      "product_name": "Hair Oiling Ritual Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HolidaySet_HeroImage1.png?v=1789570460",
+      "local_image_path": "images/fable-and-mane/00810036352338.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Hair Oiling Ritual Set",
+        "source_names": {
+          "brand_storefront": "Hair Oiling Ritual Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Sets"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HolidaySet_HeroImage1.png?v=1789570460",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HolidaySet_HeroImage1.png?v=1789570460",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HolidaySet_HeroImage1.png?v=1789570460"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036352338.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036352338",
+        "ean13": "0810036352338",
+        "upc_a": "810036352338",
+        "ean8": null,
+        "primary_code": "810036352338",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036352338"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036352338",
+        "qr_payload_text": "https://id.gs1.org/01/00810036352338",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036352338",
+          "code": "810036352338",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Hair Oiling Ritual Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HolidaySet_HeroImage1.png?v=1789570460"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036352338.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036352581",
+      "product_name": "HoliRoots™ Exfoliating & Clarifying Shampoo Sachet",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/PDPimageryNEWExfoliating_ClarifyingShampooSachet_2704f537-8797-45d3-b3ae-7da129029458.png?v=1794974161",
+      "local_image_path": "images/fable-and-mane/00810036352581.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "HoliRoots™ Exfoliating & Clarifying Shampoo Sachet",
+        "source_names": {
+          "brand_storefront": "HoliRoots™ Exfoliating & Clarifying Shampoo Sachet"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/PDPimageryNEWExfoliating_ClarifyingShampooSachet_2704f537-8797-45d3-b3ae-7da129029458.png?v=1794974161",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/PDPimageryNEWExfoliating_ClarifyingShampooSachet_2704f537-8797-45d3-b3ae-7da129029458.png?v=1794974161",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/PDPimageryNEWExfoliating_ClarifyingShampooSachet_2704f537-8797-45d3-b3ae-7da129029458.png?v=1794974161"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036352581.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036352581",
+        "ean13": "0810036352581",
+        "upc_a": "810036352581",
+        "ean8": null,
+        "primary_code": "810036352581",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036352581"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036352581",
+        "qr_payload_text": "https://id.gs1.org/01/00810036352581",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036352581",
+          "code": "810036352581",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "HoliRoots™ Exfoliating & Clarifying Shampoo Sachet",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/PDPimageryNEWExfoliating_ClarifyingShampooSachet_2704f537-8797-45d3-b3ae-7da129029458.png?v=1794974161"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036352581.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036353021",
+      "product_name": "Root Refresh Dry Shampoo",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/RR_131fd0b6-1a89-4406-b3b3-5e4f0b3ed47e.png?v=1758033191",
+      "local_image_path": "images/fable-and-mane/00810036353021.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Root Refresh Dry Shampoo",
+        "source_names": {
+          "brand_storefront": "Root Refresh Dry Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/RR_131fd0b6-1a89-4406-b3b3-5e4f0b3ed47e.png?v=1758033191",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/RR_131fd0b6-1a89-4406-b3b3-5e4f0b3ed47e.png?v=1758033191",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/RR_131fd0b6-1a89-4406-b3b3-5e4f0b3ed47e.png?v=1758033191"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036353021.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036353021",
+        "ean13": "0810036353021",
+        "upc_a": "810036353021",
+        "ean8": null,
+        "primary_code": "810036353021",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036353021"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036353021",
+        "qr_payload_text": "https://id.gs1.org/01/00810036353021",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036353021",
+          "code": "810036353021",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Root Refresh Dry Shampoo",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/RR_131fd0b6-1a89-4406-b3b3-5e4f0b3ed47e.png?v=1758033191"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036353021.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036353076",
+      "product_name": "Detangling Leave-In Conditioner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/LIC_01ea58c6-d01b-48a6-87bc-a81ea388713f.png?v=1758033437",
+      "local_image_path": "images/fable-and-mane/00810036353076.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Detangling Leave-In Conditioner",
+        "source_names": {
+          "brand_storefront": "Detangling Leave-In Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/LIC_01ea58c6-d01b-48a6-87bc-a81ea388713f.png?v=1758033437",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/LIC_01ea58c6-d01b-48a6-87bc-a81ea388713f.png?v=1758033437",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/LIC_01ea58c6-d01b-48a6-87bc-a81ea388713f.png?v=1758033437"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036353076.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036353076",
+        "ean13": "0810036353076",
+        "upc_a": "810036353076",
+        "ean8": null,
+        "primary_code": "810036353076",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036353076"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036353076",
+        "qr_payload_text": "https://id.gs1.org/01/00810036353076",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036353076",
+          "code": "810036353076",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Detangling Leave-In Conditioner",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/LIC_01ea58c6-d01b-48a6-87bc-a81ea388713f.png?v=1758033437"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036353076.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036353083",
+      "product_name": "Mini Detangling Leave-in Conditioner",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINILIC.png?v=1758111441",
+      "local_image_path": "images/fable-and-mane/00810036353083.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Mini Detangling Leave-in Conditioner",
+        "source_names": {
+          "brand_storefront": "Mini Detangling Leave-in Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINILIC.png?v=1758111441",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINILIC.png?v=1758111441",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINILIC.png?v=1758111441"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036353083.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036353083",
+        "ean13": "0810036353083",
+        "upc_a": "810036353083",
+        "ean8": null,
+        "primary_code": "810036353083",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036353083"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036353083",
+        "qr_payload_text": "https://id.gs1.org/01/00810036353083",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036353083",
+          "code": "810036353083",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Mini Detangling Leave-in Conditioner",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINILIC.png?v=1758111441"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036353083.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036353137",
+      "product_name": "MahaMane Smooth & Shine Hair Oil 5ml",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SmoothAndShineHairOil5ml.jpg?v=1762460848",
+      "local_image_path": "images/fable-and-mane/00810036353137.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "MahaMane Smooth & Shine Hair Oil 5ml",
+        "source_names": {
+          "brand_storefront": "MahaMane Smooth & Shine Hair Oil 5ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SmoothAndShineHairOil5ml.jpg?v=1762460848",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SmoothAndShineHairOil5ml.jpg?v=1762460848",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SmoothAndShineHairOil5ml.jpg?v=1762460848"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036353137.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036353137",
+        "ean13": "0810036353137",
+        "upc_a": "810036353137",
+        "ean8": null,
+        "primary_code": "810036353137",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036353137"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036353137",
+        "qr_payload_text": "https://id.gs1.org/01/00810036353137",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036353137",
+          "code": "810036353137",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "MahaMane Smooth & Shine Hair Oil 5ml",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SmoothAndShineHairOil5ml.jpg?v=1762460848"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036353137.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036353144",
+      "product_name": "Moisturizing Volume Spray",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MVS_65c764fd-6577-4723-8209-61cb28cd07ab.png?v=1758033514",
+      "local_image_path": "images/fable-and-mane/00810036353144.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Moisturizing Volume Spray",
+        "source_names": {
+          "brand_storefront": "Moisturizing Volume Spray"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MVS_65c764fd-6577-4723-8209-61cb28cd07ab.png?v=1758033514",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MVS_65c764fd-6577-4723-8209-61cb28cd07ab.png?v=1758033514",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MVS_65c764fd-6577-4723-8209-61cb28cd07ab.png?v=1758033514"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036353144.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036353144",
+        "ean13": "0810036353144",
+        "upc_a": "810036353144",
+        "ean8": null,
+        "primary_code": "810036353144",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036353144"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036353144",
+        "qr_payload_text": "https://id.gs1.org/01/00810036353144",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036353144",
+          "code": "810036353144",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Moisturizing Volume Spray",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MVS_65c764fd-6577-4723-8209-61cb28cd07ab.png?v=1758033514"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036353144.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354004",
+      "product_name": "HoliRoots™ Hair Oil - Original: 55ml / 1.8 FL oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/FABLE_MANEHOLIROOTSHAIROIL_55ML_137AED_ProductShot_9b25399e-b2bf-41a2-9842-b29a09ab9463.png?v=1791385677",
+      "local_image_path": "images/fable-and-mane/00810036354004.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "HoliRoots™ Hair Oil - Original: 55ml / 1.8 FL oz",
+        "source_names": {
+          "brand_storefront": "HoliRoots™ Hair Oil - Original: 55ml / 1.8 FL oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/FABLE_MANEHOLIROOTSHAIROIL_55ML_137AED_ProductShot_9b25399e-b2bf-41a2-9842-b29a09ab9463.png?v=1791385677",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/FABLE_MANEHOLIROOTSHAIROIL_55ML_137AED_ProductShot_9b25399e-b2bf-41a2-9842-b29a09ab9463.png?v=1791385677",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/FABLE_MANEHOLIROOTSHAIROIL_55ML_137AED_ProductShot_9b25399e-b2bf-41a2-9842-b29a09ab9463.png?v=1791385677"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354004.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354004",
+        "ean13": "0810036354004",
+        "upc_a": "810036354004",
+        "ean8": null,
+        "primary_code": "810036354004",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354004"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354004",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354004",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354004",
+          "code": "810036354004",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "HoliRoots™ Hair Oil - Original: 55ml / 1.8 FL oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/FABLE_MANEHOLIROOTSHAIROIL_55ML_137AED_ProductShot_9b25399e-b2bf-41a2-9842-b29a09ab9463.png?v=1791385677"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354004.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354028",
+      "product_name": "HoliRoots Hair Oil 5ml Deluxe Sample",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairOilDeluxeSample5ml600x700.png?v=1762459891",
+      "local_image_path": "images/fable-and-mane/00810036354028.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "HoliRoots Hair Oil 5ml Deluxe Sample",
+        "source_names": {
+          "brand_storefront": "HoliRoots Hair Oil 5ml Deluxe Sample"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairOilDeluxeSample5ml600x700.png?v=1762459891",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairOilDeluxeSample5ml600x700.png?v=1762459891",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairOilDeluxeSample5ml600x700.png?v=1762459891"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354028.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354028",
+        "ean13": "0810036354028",
+        "upc_a": "810036354028",
+        "ean8": null,
+        "primary_code": "810036354028",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354028"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354028",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354028",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354028",
+          "code": "810036354028",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "HoliRoots Hair Oil 5ml Deluxe Sample",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairOilDeluxeSample5ml600x700.png?v=1762459891"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354028.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354035",
+      "product_name": "Shine Hair Mask",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SMASK_af8954af-5403-49c4-93a8-1d85d8f3d638.png?v=1758034359",
+      "local_image_path": "images/fable-and-mane/00810036354035.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Shine Hair Mask",
+        "source_names": {
+          "brand_storefront": "Shine Hair Mask"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SMASK_af8954af-5403-49c4-93a8-1d85d8f3d638.png?v=1758034359",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SMASK_af8954af-5403-49c4-93a8-1d85d8f3d638.png?v=1758034359",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SMASK_af8954af-5403-49c4-93a8-1d85d8f3d638.png?v=1758034359"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354035.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354035",
+        "ean13": "0810036354035",
+        "upc_a": "810036354035",
+        "ean8": null,
+        "primary_code": "810036354035",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354035"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354035",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354035",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354035",
+          "code": "810036354035",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Shine Hair Mask",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/SMASK_af8954af-5403-49c4-93a8-1d85d8f3d638.png?v=1758034359"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354035.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354103",
+      "product_name": "Mini SahaScalp™ Amla Soothing Serum",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIAMLA_fd8d8fbf-7202-4125-86fb-621867ef5bd8.png?v=1758111177",
+      "local_image_path": "images/fable-and-mane/00810036354103.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Mini SahaScalp™ Amla Soothing Serum",
+        "source_names": {
+          "brand_storefront": "Mini SahaScalp™ Amla Soothing Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIAMLA_fd8d8fbf-7202-4125-86fb-621867ef5bd8.png?v=1758111177",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIAMLA_fd8d8fbf-7202-4125-86fb-621867ef5bd8.png?v=1758111177",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIAMLA_fd8d8fbf-7202-4125-86fb-621867ef5bd8.png?v=1758111177"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354103.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354103",
+        "ean13": "0810036354103",
+        "upc_a": "810036354103",
+        "ean8": null,
+        "primary_code": "810036354103",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354103"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354103",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354103",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354103",
+          "code": "810036354103",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Mini SahaScalp™ Amla Soothing Serum",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/MINIAMLA_fd8d8fbf-7202-4125-86fb-621867ef5bd8.png?v=1758111177"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354103.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354134",
+      "product_name": "HoliRoots™ Hair Oil - Jumbo: 100ml / 3.4 FL oz",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HROJumbo.png?v=1791386004",
+      "local_image_path": "images/fable-and-mane/00810036354134.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "HoliRoots™ Hair Oil - Jumbo: 100ml / 3.4 FL oz",
+        "source_names": {
+          "brand_storefront": "HoliRoots™ Hair Oil - Jumbo: 100ml / 3.4 FL oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HROJumbo.png?v=1791386004",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HROJumbo.png?v=1791386004",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HROJumbo.png?v=1791386004"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354134.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354134",
+        "ean13": "0810036354134",
+        "upc_a": "810036354134",
+        "ean8": null,
+        "primary_code": "810036354134",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354134"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354134",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354134",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354134",
+          "code": "810036354134",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "HoliRoots™ Hair Oil - Jumbo: 100ml / 3.4 FL oz",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HROJumbo.png?v=1791386004"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354134.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354141",
+      "product_name": "SahaScalp™ Wild Ginger Purifying Scrub",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/scrub_2316db46-4d6e-487d-a57f-bd8b1ca5bf03.png?v=1758034229",
+      "local_image_path": "images/fable-and-mane/00810036354141.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "SahaScalp™ Wild Ginger Purifying Scrub",
+        "source_names": {
+          "brand_storefront": "SahaScalp™ Wild Ginger Purifying Scrub"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/scrub_2316db46-4d6e-487d-a57f-bd8b1ca5bf03.png?v=1758034229",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/scrub_2316db46-4d6e-487d-a57f-bd8b1ca5bf03.png?v=1758034229",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/scrub_2316db46-4d6e-487d-a57f-bd8b1ca5bf03.png?v=1758034229"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354141.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354141",
+        "ean13": "0810036354141",
+        "upc_a": "810036354141",
+        "ean8": null,
+        "primary_code": "810036354141",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354141"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354141",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354141",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354141",
+          "code": "810036354141",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "SahaScalp™ Wild Ginger Purifying Scrub",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/scrub_2316db46-4d6e-487d-a57f-bd8b1ca5bf03.png?v=1758034229"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354141.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354271",
+      "product_name": "Mini HoliRoots™ Hair Oil",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HoliRootsHairOil15ml.png?v=1791386149",
+      "local_image_path": "images/fable-and-mane/00810036354271.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Mini HoliRoots™ Hair Oil",
+        "source_names": {
+          "brand_storefront": "Mini HoliRoots™ Hair Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HoliRootsHairOil15ml.png?v=1791386149",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HoliRootsHairOil15ml.png?v=1791386149",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HoliRootsHairOil15ml.png?v=1791386149"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354271.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354271",
+        "ean13": "0810036354271",
+        "upc_a": "810036354271",
+        "ean8": null,
+        "primary_code": "810036354271",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354271"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354271",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354271",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354271",
+          "code": "810036354271",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Mini HoliRoots™ Hair Oil",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/HoliRootsHairOil15ml.png?v=1791386149"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354271.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036354356",
+      "product_name": "Hydrating Hair Mask",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Mask_1.png?v=1793636670",
+      "local_image_path": "images/fable-and-mane/00810036354356.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Hydrating Hair Mask",
+        "source_names": {
+          "brand_storefront": "Hydrating Hair Mask"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Mask_1.png?v=1793636670",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Mask_1.png?v=1793636670",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Mask_1.png?v=1793636670"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036354356.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036354356",
+        "ean13": "0810036354356",
+        "upc_a": "810036354356",
+        "ean8": null,
+        "primary_code": "810036354356",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036354356"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036354356",
+        "qr_payload_text": "https://id.gs1.org/01/00810036354356",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036354356",
+          "code": "810036354356",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Hydrating Hair Mask",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Hydrating_Mask_1.png?v=1793636670"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036354356.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036356022",
+      "product_name": "Embroidered Hair Spa Headband",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_headband.png?v=1762459146",
+      "local_image_path": "images/fable-and-mane/00810036356022.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Embroidered Hair Spa Headband",
+        "source_names": {
+          "brand_storefront": "Embroidered Hair Spa Headband"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_headband.png?v=1762459146",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_headband.png?v=1762459146",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_headband.png?v=1762459146"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036356022.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036356022",
+        "ean13": "0810036356022",
+        "upc_a": "810036356022",
+        "ean8": null,
+        "primary_code": "810036356022",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036356022"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036356022",
+        "qr_payload_text": "https://id.gs1.org/01/00810036356022",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036356022",
+          "code": "810036356022",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Embroidered Hair Spa Headband",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_headband.png?v=1762459146"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036356022.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036356145",
+      "product_name": "Scalp Massager Comb",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/COMB_20c69bfb-b041-45a5-a294-86350e7b8b4c.png?v=1758036362",
+      "local_image_path": "images/fable-and-mane/00810036356145.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Scalp Massager Comb",
+        "source_names": {
+          "brand_storefront": "Scalp Massager Comb"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/COMB_20c69bfb-b041-45a5-a294-86350e7b8b4c.png?v=1758036362",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/COMB_20c69bfb-b041-45a5-a294-86350e7b8b4c.png?v=1758036362",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/COMB_20c69bfb-b041-45a5-a294-86350e7b8b4c.png?v=1758036362"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036356145.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036356145",
+        "ean13": "0810036356145",
+        "upc_a": "810036356145",
+        "ean8": null,
+        "primary_code": "810036356145",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810036356145"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036356145",
+        "qr_payload_text": "https://id.gs1.org/01/00810036356145",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036356145",
+          "code": "810036356145",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Scalp Massager Comb",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/COMB_20c69bfb-b041-45a5-a294-86350e7b8b4c.png?v=1758036362"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036356145.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036356176",
+      "product_name": "Pamper Hair Wrap",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairTurban600x700.png?v=1762459672",
+      "local_image_path": "images/fable-and-mane/00810036356176.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Pamper Hair Wrap",
+        "source_names": {
+          "brand_storefront": "Pamper Hair Wrap"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Free Gift"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairTurban600x700.png?v=1762459672",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairTurban600x700.png?v=1762459672",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairTurban600x700.png?v=1762459672"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036356176.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036356176",
+        "ean13": "0810036356176",
+        "upc_a": "810036356176",
+        "ean8": null,
+        "primary_code": "810036356176",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036356176"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036356176",
+        "qr_payload_text": "https://id.gs1.org/01/00810036356176",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036356176",
+          "code": "810036356176",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Pamper Hair Wrap",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/products/HairTurban600x700.png?v=1762459672"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036356176.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036356190",
+      "product_name": "Good Karma Hair Scarf",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Untitled-12_2547ee64-8677-409b-b9df-7f564410002b.png?v=1756289678",
+      "local_image_path": "images/fable-and-mane/00810036356190.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Good Karma Hair Scarf",
+        "source_names": {
+          "brand_storefront": "Good Karma Hair Scarf"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Untitled-12_2547ee64-8677-409b-b9df-7f564410002b.png?v=1756289678",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Untitled-12_2547ee64-8677-409b-b9df-7f564410002b.png?v=1756289678",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Untitled-12_2547ee64-8677-409b-b9df-7f564410002b.png?v=1756289678"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036356190.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036356190",
+        "ean13": "0810036356190",
+        "upc_a": "810036356190",
+        "ean8": null,
+        "primary_code": "810036356190",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036356190"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036356190",
+        "qr_payload_text": "https://id.gs1.org/01/00810036356190",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036356190",
+          "code": "810036356190",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Good Karma Hair Scarf",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/Untitled-12_2547ee64-8677-409b-b9df-7f564410002b.png?v=1756289678"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036356190.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036356329",
+      "product_name": "2-in-1 Stimulating Scalp Massager",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ScalpMassager4.png?v=1765192497",
+      "local_image_path": "images/fable-and-mane/00810036356329.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "2-in-1 Stimulating Scalp Massager",
+        "source_names": {
+          "brand_storefront": "2-in-1 Stimulating Scalp Massager"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "product"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ScalpMassager4.png?v=1765192497",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ScalpMassager4.png?v=1765192497",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ScalpMassager4.png?v=1765192497"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036356329.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036356329",
+        "ean13": "0810036356329",
+        "upc_a": "810036356329",
+        "ean8": null,
+        "primary_code": "810036356329",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036356329"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036356329",
+        "qr_payload_text": "https://id.gs1.org/01/00810036356329",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036356329",
+          "code": "810036356329",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "2-in-1 Stimulating Scalp Massager",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/ScalpMassager4.png?v=1765192497"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036356329.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036358392",
+      "product_name": "HoliRoots™ Good Karma Hair Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_good_karma.png?v=1762459531",
+      "local_image_path": "images/fable-and-mane/00810036358392.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "HoliRoots™ Good Karma Hair Set",
+        "source_names": {
+          "brand_storefront": "HoliRoots™ Good Karma Hair Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Sets"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_good_karma.png?v=1762459531",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_good_karma.png?v=1762459531",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_good_karma.png?v=1762459531"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036358392.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036358392",
+        "ean13": "0810036358392",
+        "upc_a": "810036358392",
+        "ean8": null,
+        "primary_code": "810036358392",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036358392"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036358392",
+        "qr_payload_text": "https://id.gs1.org/01/00810036358392",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036358392",
+          "code": "810036358392",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "HoliRoots™ Good Karma Hair Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_good_karma.png?v=1762459531"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036358392.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036358613",
+      "product_name": "Healthy Hair Heroes",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_0008_Layer-9.png?v=1762461253",
+      "local_image_path": "images/fable-and-mane/00810036358613.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Healthy Hair Heroes",
+        "source_names": {
+          "brand_storefront": "Healthy Hair Heroes"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Sets"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_0008_Layer-9.png?v=1762461253",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_0008_Layer-9.png?v=1762461253",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_0008_Layer-9.png?v=1762461253"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036358613.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036358613",
+        "ean13": "0810036358613",
+        "upc_a": "810036358613",
+        "ean8": null,
+        "primary_code": "810036358613",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036358613"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036358613",
+        "qr_payload_text": "https://id.gs1.org/01/00810036358613",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036358613",
+          "code": "810036358613",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Healthy Hair Heroes",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/pdp_0008_Layer-9.png?v=1762461253"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036358613.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036358651",
+      "product_name": "Where Hair Roars Tote Bag",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/AVI5743-DS_eaa8b6ff-2e2a-408d-8879-442c8e97ad73.jpg?v=1771771726",
+      "local_image_path": "images/fable-and-mane/00810036358651.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Where Hair Roars Tote Bag",
+        "source_names": {
+          "brand_storefront": "Where Hair Roars Tote Bag"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "product"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/AVI5743-DS_eaa8b6ff-2e2a-408d-8879-442c8e97ad73.jpg?v=1771771726",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/AVI5743-DS_eaa8b6ff-2e2a-408d-8879-442c8e97ad73.jpg?v=1771771726",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/AVI5743-DS_eaa8b6ff-2e2a-408d-8879-442c8e97ad73.jpg?v=1771771726"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036358651.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036358651",
+        "ean13": "0810036358651",
+        "upc_a": "810036358651",
+        "ean8": null,
+        "primary_code": "810036358651",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036358651"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036358651",
+        "qr_payload_text": "https://id.gs1.org/01/00810036358651",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036358651",
+          "code": "810036358651",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Where Hair Roars Tote Bag",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/AVI5743-DS_eaa8b6ff-2e2a-408d-8879-442c8e97ad73.jpg?v=1771771726"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036358651.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036358767",
+      "product_name": "Where Hair Roars",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WHR.png?v=1758539063",
+      "local_image_path": "images/fable-and-mane/00810036358767.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Where Hair Roars",
+        "source_names": {
+          "brand_storefront": "Where Hair Roars"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WHR.png?v=1758539063",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WHR.png?v=1758539063",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WHR.png?v=1758539063"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036358767.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036358767",
+        "ean13": "0810036358767",
+        "upc_a": "810036358767",
+        "ean8": null,
+        "primary_code": "810036358767",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036358767"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036358767",
+        "qr_payload_text": "https://id.gs1.org/01/00810036358767",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036358767",
+          "code": "810036358767",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Where Hair Roars",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WHR.png?v=1758539063"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036358767.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036358781",
+      "product_name": "Wild About Hydration Travel Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDH.png?v=1758796978",
+      "local_image_path": "images/fable-and-mane/00810036358781.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Wild About Hydration Travel Set",
+        "source_names": {
+          "brand_storefront": "Wild About Hydration Travel Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Sets"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDH.png?v=1758796978",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDH.png?v=1758796978",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDH.png?v=1758796978"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036358781.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036358781",
+        "ean13": "0810036358781",
+        "upc_a": "810036358781",
+        "ean8": null,
+        "primary_code": "810036358781",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036358781"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036358781",
+        "qr_payload_text": "https://id.gs1.org/01/00810036358781",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036358781",
+          "code": "810036358781",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Wild About Hydration Travel Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDH.png?v=1758796978"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036358781.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    },
+    {
+      "gtin14": "00810036358798",
+      "product_name": "Wild About Volume Travel Set",
+      "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDV_aef61c1f-7332-408c-a730-9dfacb24720c.png?v=1758789677",
+      "local_image_path": "images/fable-and-mane/00810036358798.jpg",
+      "brand": {
+        "slug": "fable-and-mane",
+        "display_name": "Fable & Mane",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fable%20%26%20Mane",
+        "matched_raw_brands": [
+          "Fable & Mane"
+        ]
+      },
+      "product": {
+        "name": "Wild About Volume Travel Set",
+        "source_names": {
+          "brand_storefront": "Wild About Volume Travel Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Sets"
+        ],
+        "description": null,
+        "primary_image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDV_aef61c1f-7332-408c-a730-9dfacb24720c.png?v=1758789677",
+        "thumbnail_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDV_aef61c1f-7332-408c-a730-9dfacb24720c.png?v=1758789677",
+        "image_urls": [
+          "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDV_aef61c1f-7332-408c-a730-9dfacb24720c.png?v=1758789677"
+        ],
+        "local_image_path": "images/fable-and-mane/00810036358798.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810036358798",
+        "ean13": "0810036358798",
+        "upc_a": "810036358798",
+        "ean8": null,
+        "primary_code": "810036358798",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "810036358798"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810036358798",
+        "qr_payload_text": "https://id.gs1.org/01/00810036358798",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810036358798",
+          "code": "810036358798",
+          "type": "UPC-A",
+          "brand": "Fable & Mane",
+          "name": "Wild About Volume Travel Set",
+          "image_url": "https://cdn.shopify.com/s/files/1/0587/3801/6450/files/WILDV_aef61c1f-7332-408c-a730-9dfacb24720c.png?v=1758789677"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fable-and-mane/00810036358798.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.98,
+        "sources": [
+          "brand_storefront"
+        ],
+        "match_methods": {
+          "brand_storefront": "official_brand_storefront"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T08:54:49.533017Z"
+      }
+    }
+  ]
 }
