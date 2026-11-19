@@ -7,6 +7,7 @@ import io
 import json
 import mimetypes
 import re
+import socket
 import threading
 from http import HTTPStatus
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
@@ -500,15 +501,54 @@ def create_server(
     return ReusableThreadingHTTPServer((host, port), _handler)
 
 
+def detect_lan_ips() -> list[str]:
+    """Return non-loopback IPv4 addresses reachable on the local network (LAN/Wi-Fi)."""
+    ips: list[str] = []
+
+    # 1. Primary outbound interface IP (no packets sent for UDP connect)
+    for probe_ip in ("10.255.255.255", "192.168.1.1", "8.8.8.8"):
+        sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        try:
+            sock.connect((probe_ip, 80))
+            ip = sock.getsockname()[0]
+            if ip and not ip.startswith("127.") and ip not in ips:
+                ips.append(ip)
+        except OSError:
+            pass
+        finally:
+            sock.close()
+
+    # 2. Fallback via hostname resolution
+    try:
+        hostname = socket.gethostname()
+        for info in socket.getaddrinfo(hostname, None, socket.AF_INET):
+            ip = str(info[4][0])
+            if ip and not ip.startswith("127.") and ip not in ips:
+                ips.append(ip)
+    except OSError:
+        pass
+
+    return ips
+
+
 def run_server(
     output_dir: Path,
     host: str = "127.0.0.1",
     port: int = 8765,
 ) -> None:
-    """Run the catalog HTTP server until interrupted, printing the bound URL immediately."""
+    """Run the catalog HTTP server until interrupted, printing local & LAN URLs immediately."""
     server = create_server(output_dir=output_dir, host=host, port=port)
     bound_host, bound_port = server.server_address[:2]
-    print(f"Listening on http://{bound_host}:{bound_port}/", flush=True)
+    if bound_host in ("0.0.0.0", "::", ""):
+        print(f"Local:   http://127.0.0.1:{bound_port}/", flush=True)
+        lan_ips = detect_lan_ips()
+        if lan_ips:
+            for ip in lan_ips:
+                print(f"Network: http://{ip}:{bound_port}/  (share on same Wi-Fi/LAN)", flush=True)
+        else:
+            print(f"Listening on http://{bound_host}:{bound_port}/", flush=True)
+    else:
+        print(f"Listening on http://{bound_host}:{bound_port}/", flush=True)
     try:
         server.serve_forever()
     except KeyboardInterrupt:
@@ -521,5 +561,6 @@ __all__ = [
     "CatalogRequestHandler",
     "ReusableThreadingHTTPServer",
     "create_server",
+    "detect_lan_ips",
     "run_server",
 ]

@@ -273,3 +273,19 @@ def test_live_lookup_playwright_ui_auto_fetch(tmp_path: Path) -> None:
             os.environ["TMPDIR"] = prev_tmpdir
         srv.shutdown()
         srv.server_close()
+
+
+def test_serve_lan_flag_and_detect_lan_ips() -> None:
+    from qr_scrabber.cli import build_parser
+    from qr_scrabber.server import detect_lan_ips
+
+    parser = build_parser()
+    parsed = parser.parse_args(["serve", "--lan", "--port", "9000"])
+    assert parsed.lan is True
+    assert parsed.port == 9000
+
+    ips = detect_lan_ips()
+    assert isinstance(ips, list)
+    for ip in ips:
+        assert not ip.startswith("127.")
+

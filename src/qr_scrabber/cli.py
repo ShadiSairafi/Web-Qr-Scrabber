@@ -374,6 +374,11 @@ def build_parser() -> argparse.ArgumentParser:
         default=8765,
         help="Bind TCP port (default: 8765; 0 selects an ephemeral free port).",
     )
+    serve_parser.add_argument(
+        "--lan",
+        action="store_true",
+        help="Expose on your local network (shortcut for --host 0.0.0.0) and print your LAN URL.",
+    )
 
     verify_parser = subparsers.add_parser(
         "verify",
@@ -844,7 +849,8 @@ def _cmd_serve(args: argparse.Namespace) -> int:
         raise QRScrabberError(f"Output directory does not exist: {out_dir}")
     if not (out_dir / "index.html").is_file() and (out_dir / "all_products.json").is_file():
         export_web_assets(out_dir)
-    run_server(output_dir=out_dir, host=args.host, port=args.port)
+    bind_host = "0.0.0.0" if getattr(args, "lan", False) else args.host
+    run_server(output_dir=out_dir, host=bind_host, port=args.port)
     return 0
 
 
