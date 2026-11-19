@@ -1,0 +1,182 @@
+{
+  "brand_slug": "dr-jart-plus",
+  "display_name": "Dr. Jart+",
+  "letter_section": "D",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dr.%20Jart%2B",
+  "product_count": 2,
+  "canonical_product_count": 2,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "08809380649814",
+      "product_name": "[dr.jart+] Dermaclear Micro Foam - 120ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/938/064/9814/front_fr.3.400.jpg",
+      "local_image_path": "images/dr-jart-plus/08809380649814.jpg",
+      "brand": {
+        "slug": "dr-jart-plus",
+        "display_name": "Dr. Jart+",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dr.%20Jart%2B",
+        "matched_raw_brands": [
+          "xx:Dr.Jart+",
+          "Dr. Jart+"
+        ]
+      },
+      "product": {
+        "name": "[dr.jart+] Dermaclear Micro Foam - 120ml",
+        "source_names": {
+          "openbeautyfacts": "Dermaclear micro farm",
+          "upcitemdb": "[dr.jart+] Dermaclear Micro Foam - 120ml"
+        },
+        "alternate_names": [
+          "Dermaclear micro farm"
+        ],
+        "quantity": "120ml",
+        "categories": [
+          "Nettoyant Fine Bulle",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care",
+          "Toners & Astringents"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/938/064/9814/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/938/064/9814/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/938/064/9814/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/938/064/9814/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dr-jart-plus/08809380649814.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809380649814",
+        "ean13": "8809380649814",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809380649814",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809380649814"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809380649814",
+        "qr_payload_text": "https://id.gs1.org/01/08809380649814",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809380649814",
+          "code": "8809380649814",
+          "type": "EAN-13",
+          "brand": "Dr. Jart+",
+          "name": "[dr.jart+] Dermaclear Micro Foam - 120ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/938/064/9814/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dr-jart-plus/08809380649814.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 86.49
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809380649814",
+        "upcitemdb_ean": "8809380649814",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809844997604",
+      "product_name": "Skin Barrier Moisturizing Milky Lotion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/984/499/7604/front_en.3.400.jpg",
+      "local_image_path": "images/dr-jart-plus/08809844997604.jpg",
+      "brand": {
+        "slug": "dr-jart-plus",
+        "display_name": "Dr. Jart+",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dr.%20Jart%2B",
+        "matched_raw_brands": [
+          "xx:dr-jart"
+        ]
+      },
+      "product": {
+        "name": "Skin Barrier Moisturizing Milky Lotion",
+        "source_names": {
+          "openbeautyfacts": "Skin Barrier Moisturizing Milky Lotion"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Face",
+          "Face Lotions"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/984/499/7604/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/984/499/7604/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/984/499/7604/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/984/499/7604/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/dr-jart-plus/08809844997604.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809844997604",
+        "ean13": "8809844997604",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809844997604",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809844997604"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809844997604",
+        "qr_payload_text": "https://id.gs1.org/01/08809844997604",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809844997604",
+          "code": "8809844997604",
+          "type": "EAN-13",
+          "brand": "Dr. Jart+",
+          "name": "Skin Barrier Moisturizing Milky Lotion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/984/499/7604/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dr-jart-plus/08809844997604.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809844997604",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4776 @@
+{
+  "brand_slug": "crest",
+  "display_name": "Crest",
+  "letter_section": "C",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+  "product_count": 61,
+  "canonical_product_count": 61,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00030772012871",
+      "product_name": "Crest Kids Toothpaste with Fluoride Disney s Frozen Bubblegum Flavor 4.2oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/201/2871/front_en.5.400.jpg",
+      "local_image_path": "images/crest/00030772012871.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest",
+          "Crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Kids Toothpaste with Fluoride Disney s Frozen Bubblegum Flavor 4.2oz",
+        "source_names": {
+          "openbeautyfacts": "Fluoride Anticavity Toothpaste",
+          "upcitemdb": "Crest Kids Toothpaste with Fluoride Disney s Frozen Bubblegum Flavor 4.2oz"
+        },
+        "alternate_names": [
+          "Fluoride Anticavity Toothpaste",
+          "Crest Kids Toothpaste with Fluoride Bubblegum - 4.2 oz"
+        ],
+        "quantity": "119 g",
+        "categories": [
+          "Toothpaste",
+          "Health & Beauty",
+          "Personal Care",
+          "Oral Care"
+        ],
+        "description": "A Winning Formula for Memorable Smiles. The Crest Kids Bubblegum Toothpaste featuring Disney s Frozen is the perfect kid s toothpaste for your own little Olaf. As their oral health evolves kids need effective cavity protection as they lose baby teeth and their permanent teeth start to grow. This Crest toothpaste protects against cavities with a mild paste formula. Best of all this toothpaste is compatible with the interactive Disney Magic Timer App from Oral-B to help your kids brush for a dentist-recommended 2 minutes.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/201/2871/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/201/2871/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/201/2871/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/201/2871/front_en.5.200.jpg",
+          "https://pics.walgreens.com/prodimg/666294/450.jpg",
+          "https://i5.walmartimages.com/asr/e599f158-49f1-42ef-8753-5fbbcc6c486c.ded5e56426dc89396e6db7bf35de3331.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/crest/00030772012871.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772012871",
+        "ean13": "0030772012871",
+        "upc_a": "030772012871",
+        "ean8": null,
+        "primary_code": "030772012871",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772012871",
+          "030772012871"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772012871",
+        "qr_payload_text": "https://id.gs1.org/01/00030772012871",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772012871",
+          "code": "030772012871",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Kids Toothpaste with Fluoride Disney s Frozen Bubblegum Flavor 4.2oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/201/2871/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772012871.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 77.55
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772012871",
+        "upcitemdb_ean": "0030772012871",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772037089",
+      "product_name": "Pro-Health Advanced Whitening Intensive Clean",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/203/7089/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00030772037089.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Pro-Health Advanced Whitening Intensive Clean",
+        "source_names": {
+          "openbeautyfacts": "Pro-Health Advanced Whitening Intensive Clean"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/203/7089/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/203/7089/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/203/7089/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/203/7089/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772037089.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772037089",
+        "ean13": "0030772037089",
+        "upc_a": "030772037089",
+        "ean8": null,
+        "primary_code": "030772037089",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772037089"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772037089",
+        "qr_payload_text": "https://id.gs1.org/01/00030772037089",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772037089",
+          "code": "030772037089",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Pro-Health Advanced Whitening Intensive Clean",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/203/7089/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772037089.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772037089",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772046869",
+      "product_name": "Complete",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/204/6869/front_es.3.400.jpg",
+      "local_image_path": "images/crest/00030772046869.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Complete",
+        "source_names": {
+          "openbeautyfacts": "Complete"
+        },
+        "alternate_names": [
+          "Crest+scope complete"
+        ],
+        "quantity": "178 g",
+        "categories": [
+          "Toothpaste"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/204/6869/front_es.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/204/6869/front_es.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/204/6869/front_es.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/204/6869/front_es.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772046869.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772046869",
+        "ean13": "0030772046869",
+        "upc_a": "030772046869",
+        "ean8": null,
+        "primary_code": "030772046869",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772046869"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772046869",
+        "qr_payload_text": "https://id.gs1.org/01/00030772046869",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772046869",
+          "code": "030772046869",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Complete",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/204/6869/front_es.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772046869.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772046869",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772048573",
+      "product_name": "+ Scope Long Lasting Ultra Fresh Breath",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/204/8573/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00030772048573.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "+ Scope Long Lasting Ultra Fresh Breath",
+        "source_names": {
+          "openbeautyfacts": "+ Scope Long Lasting Ultra Fresh Breath"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/204/8573/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/204/8573/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/204/8573/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/204/8573/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772048573.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772048573",
+        "ean13": "0030772048573",
+        "upc_a": "030772048573",
+        "ean8": null,
+        "primary_code": "030772048573",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772048573"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772048573",
+        "qr_payload_text": "https://id.gs1.org/01/00030772048573",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772048573",
+          "code": "030772048573",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "+ Scope Long Lasting Ultra Fresh Breath",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/204/8573/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772048573.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772048573",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772053805",
+      "product_name": "Advanced Teeth Whitening Toothpaste, Radiant Mint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/205/3805/front_en.6.400.jpg",
+      "local_image_path": "images/crest/00030772053805.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest-3d-white"
+        ]
+      },
+      "product": {
+        "name": "Advanced Teeth Whitening Toothpaste, Radiant Mint",
+        "source_names": {
+          "openbeautyfacts": "Advanced Teeth Whitening Toothpaste, Radiant Mint"
+        },
+        "alternate_names": [],
+        "quantity": "135 mL",
+        "categories": [
+          "Hygiene",
+          "Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/205/3805/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/205/3805/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/205/3805/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/205/3805/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772053805.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772053805",
+        "ean13": "0030772053805",
+        "upc_a": "030772053805",
+        "ean8": null,
+        "primary_code": "030772053805",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772053805"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772053805",
+        "qr_payload_text": "https://id.gs1.org/01/00030772053805",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772053805",
+          "code": "030772053805",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Advanced Teeth Whitening Toothpaste, Radiant Mint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/205/3805/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772053805.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772053805",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772061831",
+      "product_name": "crest pro health toothpaste",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "crest pro health toothpaste",
+        "source_names": {
+          "openbeautyfacts": "crest pro health toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": "130ml",
+        "categories": [
+          "Dentifrice"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00030772061831",
+        "ean13": "0030772061831",
+        "upc_a": "030772061831",
+        "ean8": null,
+        "primary_code": "030772061831",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772061831"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772061831",
+        "qr_payload_text": "https://id.gs1.org/01/00030772061831",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772061831",
+          "code": "030772061831",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "crest pro health toothpaste",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772061831.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772061831",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772112526",
+      "product_name": "Crest 3D White Brilliance",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2526/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00030772112526.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Crest 3D White Brilliance",
+        "source_names": {
+          "openbeautyfacts": "Crest 3D White Brilliance"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2526/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2526/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2526/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2526/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772112526.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772112526",
+        "ean13": "0030772112526",
+        "upc_a": "030772112526",
+        "ean8": null,
+        "primary_code": "030772112526",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772112526"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772112526",
+        "qr_payload_text": "https://id.gs1.org/01/00030772112526",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772112526",
+          "code": "030772112526",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest 3D White Brilliance",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2526/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772112526.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772112526",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772112533",
+      "product_name": "Crest 3D white 4% hydrogen peroxide",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2533/front_en.4.400.jpg",
+      "local_image_path": "images/crest/00030772112533.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Crest 3D white 4% hydrogen peroxide",
+        "source_names": {
+          "openbeautyfacts": "Crest 3D white 4% hydrogen peroxide"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Personal Care"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2533/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2533/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2533/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2533/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772112533.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772112533",
+        "ean13": "0030772112533",
+        "upc_a": "030772112533",
+        "ean8": null,
+        "primary_code": "030772112533",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772112533"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772112533",
+        "qr_payload_text": "https://id.gs1.org/01/00030772112533",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772112533",
+          "code": "030772112533",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest 3D white 4% hydrogen peroxide",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2533/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772112533.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772112533",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772112571",
+      "product_name": "Crest Toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2571/1.400.jpg",
+      "local_image_path": "images/crest/00030772112571.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "Crest Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2571/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2571/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2571/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2571/1.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772112571.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772112571",
+        "ean13": "0030772112571",
+        "upc_a": "030772112571",
+        "ean8": null,
+        "primary_code": "030772112571",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772112571"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772112571",
+        "qr_payload_text": "https://id.gs1.org/01/00030772112571",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772112571",
+          "code": "030772112571",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2571/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772112571.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772112571",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772112632",
+      "product_name": "3D White Whitening Therapy",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2632/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00030772112632.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "3D White Whitening Therapy",
+        "source_names": {
+          "openbeautyfacts": "3D White Whitening Therapy"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2632/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2632/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2632/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2632/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772112632.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772112632",
+        "ean13": "0030772112632",
+        "upc_a": "030772112632",
+        "ean8": null,
+        "primary_code": "030772112632",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772112632"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772112632",
+        "qr_payload_text": "https://id.gs1.org/01/00030772112632",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772112632",
+          "code": "030772112632",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White Whitening Therapy",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2632/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772112632.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772112632",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772112700",
+      "product_name": "Crest Pro-Health Enamel Repair and Gum Toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2700/1.400.jpg",
+      "local_image_path": "images/crest/00030772112700.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Pro-Health Enamel Repair and Gum Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "Crest Pro-Health Enamel Repair and Gum Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2700/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2700/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2700/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/211/2700/1.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772112700.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772112700",
+        "ean13": "0030772112700",
+        "upc_a": "030772112700",
+        "ean8": null,
+        "primary_code": "030772112700",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772112700"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772112700",
+        "qr_payload_text": "https://id.gs1.org/01/00030772112700",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772112700",
+          "code": "030772112700",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Pro-Health Enamel Repair and Gum Toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/2700/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772112700.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772112700",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772116272",
+      "product_name": "Crest 3D White vibrant Peppermint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/6272/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00030772116272.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Crest 3D White vibrant Peppermint",
+        "source_names": {
+          "openbeautyfacts": "Crest 3D White vibrant Peppermint"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/6272/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/211/6272/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/211/6272/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/211/6272/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772116272.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772116272",
+        "ean13": "0030772116272",
+        "upc_a": "030772116272",
+        "ean8": null,
+        "primary_code": "030772116272",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772116272"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772116272",
+        "qr_payload_text": "https://id.gs1.org/01/00030772116272",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772116272",
+          "code": "030772116272",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest 3D White vibrant Peppermint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/211/6272/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772116272.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772116272",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772160558",
+      "product_name": "Toothpastes",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/216/0558/front_en.8.400.jpg",
+      "local_image_path": "images/crest/00030772160558.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Toothpastes",
+        "source_names": {
+          "openbeautyfacts": "Toothpastes"
+        },
+        "alternate_names": [],
+        "quantity": "167g",
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Tartar Control Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/216/0558/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/216/0558/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/216/0558/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/216/0558/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772160558.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772160558",
+        "ean13": "0030772160558",
+        "upc_a": "030772160558",
+        "ean8": null,
+        "primary_code": "030772160558",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772160558"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772160558",
+        "qr_payload_text": "https://id.gs1.org/01/00030772160558",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772160558",
+          "code": "030772160558",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Toothpastes",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/216/0558/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772160558.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772160558",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772233016",
+      "product_name": "3D White Whitening",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/077/223/3016/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00030772233016.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "3D White Whitening",
+        "source_names": {
+          "openbeautyfacts": "3D White Whitening"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/077/223/3016/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/077/223/3016/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/077/223/3016/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/077/223/3016/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00030772233016.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00030772233016",
+        "ean13": "0030772233016",
+        "upc_a": "030772233016",
+        "ean8": null,
+        "primary_code": "030772233016",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772233016"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772233016",
+        "qr_payload_text": "https://id.gs1.org/01/00030772233016",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772233016",
+          "code": "030772233016",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White Whitening",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/077/223/3016/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772233016.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772233016",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00030772242759",
+      "product_name": "crest",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "crest",
+        "source_names": {
+          "openbeautyfacts": "crest"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00030772242759",
+        "ean13": "0030772242759",
+        "upc_a": "030772242759",
+        "ean8": null,
+        "primary_code": "030772242759",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0030772242759"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00030772242759",
+        "qr_payload_text": "https://id.gs1.org/01/00030772242759",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00030772242759",
+          "code": "030772242759",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "crest",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00030772242759.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0030772242759",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000089872",
+      "product_name": "3D White Glamorous White Mouthwash",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "3D White Glamorous White Mouthwash",
+        "source_names": {
+          "openbeautyfacts": "3D White Glamorous White Mouthwash"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Open Products Facts"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00037000089872",
+        "ean13": "0037000089872",
+        "upc_a": "037000089872",
+        "ean8": null,
+        "primary_code": "037000089872",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000089872"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000089872",
+        "qr_payload_text": "https://id.gs1.org/01/00037000089872",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000089872",
+          "code": "037000089872",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White Glamorous White Mouthwash",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000089872.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000089872",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000122203",
+      "product_name": "crest toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/012/2203/1.400.jpg",
+      "local_image_path": "images/crest/00037000122203.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "crest toothpaste",
+        "source_names": {
+          "openbeautyfacts": "crest toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/012/2203/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/012/2203/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/012/2203/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/012/2203/1.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000122203.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000122203",
+        "ean13": "0037000122203",
+        "upc_a": "037000122203",
+        "ean8": null,
+        "primary_code": "037000122203",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000122203"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000122203",
+        "qr_payload_text": "https://id.gs1.org/01/00037000122203",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000122203",
+          "code": "037000122203",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "crest toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/012/2203/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000122203.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000122203",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000228813",
+      "product_name": "Complete Whitening+",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/022/8813/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00037000228813.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Complete Whitening+",
+        "source_names": {
+          "openbeautyfacts": "Complete Whitening+"
+        },
+        "alternate_names": [],
+        "quantity": "24 g",
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/022/8813/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/022/8813/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/022/8813/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/022/8813/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000228813.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000228813",
+        "ean13": "0037000228813",
+        "upc_a": "037000228813",
+        "ean8": null,
+        "primary_code": "037000228813",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000228813"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000228813",
+        "qr_payload_text": "https://id.gs1.org/01/00037000228813",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000228813",
+          "code": "037000228813",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Complete Whitening+",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/022/8813/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000228813.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000228813",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000401285",
+      "product_name": "Glamorous White Toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/040/1285/front_en.7.400.jpg",
+      "local_image_path": "images/crest/00037000401285.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Glamorous White Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "Glamorous White Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/040/1285/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/040/1285/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/040/1285/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/040/1285/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000401285.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000401285",
+        "ean13": "0037000401285",
+        "upc_a": "037000401285",
+        "ean8": null,
+        "primary_code": "037000401285",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000401285"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000401285",
+        "qr_payload_text": "https://id.gs1.org/01/00037000401285",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000401285",
+          "code": "037000401285",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Glamorous White Toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/040/1285/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000401285.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000401285",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000449829",
+      "product_name": "Crest Pro-Health Clean Mint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/044/9829/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00037000449829.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Pro-Health Clean Mint",
+        "source_names": {
+          "openbeautyfacts": "Crest Pro-Health Clean Mint"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/044/9829/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/044/9829/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/044/9829/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/044/9829/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000449829.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000449829",
+        "ean13": "0037000449829",
+        "upc_a": "037000449829",
+        "ean8": null,
+        "primary_code": "037000449829",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000449829"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000449829",
+        "qr_payload_text": "https://id.gs1.org/01/00037000449829",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000449829",
+          "code": "037000449829",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Pro-Health Clean Mint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/044/9829/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000449829.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000449829",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000479802",
+      "product_name": "Crest 3D White Charcoal",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Crest 3D White Charcoal",
+        "source_names": {
+          "openproductsfacts": "Crest 3D White Charcoal"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00037000479802",
+        "ean13": "0037000479802",
+        "upc_a": "037000479802",
+        "ean8": null,
+        "primary_code": "037000479802",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000479802"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000479802",
+        "qr_payload_text": "https://id.gs1.org/01/00037000479802",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000479802",
+          "code": "037000479802",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest 3D White Charcoal",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000479802.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.9,
+        "sources": [
+          "openproductsfacts"
+        ],
+        "match_methods": {
+          "openproductsfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z",
+        "openproductsfacts_url": "http://world-en.openproductsfacts.org/product/0037000479802/crest-3d-white-charcoal"
+      }
+    },
+    {
+      "gtin14": "00037000512066",
+      "product_name": "Toothpaste",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00037000512066",
+        "ean13": "0037000512066",
+        "upc_a": "037000512066",
+        "ean8": null,
+        "primary_code": "037000512066",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000512066"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000512066",
+        "qr_payload_text": "https://id.gs1.org/01/00037000512066",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000512066",
+          "code": "037000512066",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Toothpaste",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000512066.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000512066",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000772521",
+      "product_name": "3D White",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/077/2521/front_en.11.400.jpg",
+      "local_image_path": "images/crest/00037000772521.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "3D White",
+        "source_names": {
+          "openbeautyfacts": "3D White"
+        },
+        "alternate_names": [],
+        "quantity": "170 g",
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/077/2521/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/077/2521/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/077/2521/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/077/2521/front_en.11.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000772521.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000772521",
+        "ean13": "0037000772521",
+        "upc_a": "037000772521",
+        "ean8": null,
+        "primary_code": "037000772521",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000772521"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000772521",
+        "qr_payload_text": "https://id.gs1.org/01/00037000772521",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000772521",
+          "code": "037000772521",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/077/2521/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000772521.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000772521",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000806608",
+      "product_name": "3D White Flouride Anticavity Toothpaste Icy Clean Mint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/080/6608/front_en.4.400.jpg",
+      "local_image_path": "images/crest/00037000806608.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "3D White Flouride Anticavity Toothpaste Icy Clean Mint",
+        "source_names": {
+          "openbeautyfacts": "3D White Flouride Anticavity Toothpaste Icy Clean Mint"
+        },
+        "alternate_names": [],
+        "quantity": "2 x 87g",
+        "categories": [
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/080/6608/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/080/6608/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/080/6608/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/080/6608/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000806608.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000806608",
+        "ean13": "0037000806608",
+        "upc_a": "037000806608",
+        "ean8": null,
+        "primary_code": "037000806608",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000806608"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000806608",
+        "qr_payload_text": "https://id.gs1.org/01/00037000806608",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000806608",
+          "code": "037000806608",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White Flouride Anticavity Toothpaste Icy Clean Mint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/080/6608/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000806608.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000806608",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000820246",
+      "product_name": "3D White toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/082/0246/front_en.7.400.jpg",
+      "local_image_path": "images/crest/00037000820246.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "3D White toothpaste",
+        "source_names": {
+          "openbeautyfacts": "3D White toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/082/0246/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/082/0246/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/082/0246/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/082/0246/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000820246.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000820246",
+        "ean13": "0037000820246",
+        "upc_a": "037000820246",
+        "ean8": null,
+        "primary_code": "037000820246",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000820246"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000820246",
+        "qr_payload_text": "https://id.gs1.org/01/00037000820246",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000820246",
+          "code": "037000820246",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/082/0246/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000820246.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000820246",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000851936",
+      "product_name": "Plus scope",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/1936/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00037000851936.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Plus scope",
+        "source_names": {
+          "openbeautyfacts": "Plus scope"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/1936/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/085/1936/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/085/1936/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/085/1936/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000851936.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000851936",
+        "ean13": "0037000851936",
+        "upc_a": "037000851936",
+        "ean8": null,
+        "primary_code": "037000851936",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000851936"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000851936",
+        "qr_payload_text": "https://id.gs1.org/01/00037000851936",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000851936",
+          "code": "037000851936",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Plus scope",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/1936/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000851936.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000851936",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000852261",
+      "product_name": "Complete Plus",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/2261/front_en.11.400.jpg",
+      "local_image_path": "images/crest/00037000852261.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Complete Plus",
+        "source_names": {
+          "openbeautyfacts": "Complete Plus"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/2261/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/085/2261/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/085/2261/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/085/2261/front_en.11.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000852261.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000852261",
+        "ean13": "0037000852261",
+        "upc_a": "037000852261",
+        "ean8": null,
+        "primary_code": "037000852261",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000852261"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000852261",
+        "qr_payload_text": "https://id.gs1.org/01/00037000852261",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000852261",
+          "code": "037000852261",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Complete Plus",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/2261/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000852261.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000852261",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000856146",
+      "product_name": "Crest pro health whitening",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/6146/1.400.jpg",
+      "local_image_path": "images/crest/00037000856146.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest pro health whitening",
+        "source_names": {
+          "openbeautyfacts": "Crest pro health whitening"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/6146/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/085/6146/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/085/6146/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/085/6146/1.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000856146.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000856146",
+        "ean13": "0037000856146",
+        "upc_a": "037000856146",
+        "ean8": null,
+        "primary_code": "037000856146",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000856146"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000856146",
+        "qr_payload_text": "https://id.gs1.org/01/00037000856146",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000856146",
+          "code": "037000856146",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest pro health whitening",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/085/6146/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000856146.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000856146",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000873372",
+      "product_name": "Crest Complete + Scope",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/087/3372/front_en.5.400.jpg",
+      "local_image_path": "images/crest/00037000873372.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Complete + Scope",
+        "source_names": {
+          "openbeautyfacts": "Crest Complete + Scope"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/087/3372/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/087/3372/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/087/3372/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/087/3372/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000873372.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000873372",
+        "ean13": "0037000873372",
+        "upc_a": "037000873372",
+        "ean8": null,
+        "primary_code": "037000873372",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000873372"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000873372",
+        "qr_payload_text": "https://id.gs1.org/01/00037000873372",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000873372",
+          "code": "037000873372",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Complete + Scope",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/087/3372/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000873372.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000873372",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000885863",
+      "product_name": "3D White Luxe Alcohol Free Multi-Care Whitening Oral Rinse",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/088/5863/front_en.4.400.jpg",
+      "local_image_path": "images/crest/00037000885863.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "3D White Luxe Alcohol Free Multi-Care Whitening Oral Rinse",
+        "source_names": {
+          "openbeautyfacts": "3D White Luxe Alcohol Free Multi-Care Whitening Oral Rinse"
+        },
+        "alternate_names": [],
+        "quantity": "237 mL",
+        "categories": [
+          "Mouthwashes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/088/5863/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/088/5863/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/088/5863/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/088/5863/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000885863.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000885863",
+        "ean13": "0037000885863",
+        "upc_a": "037000885863",
+        "ean8": null,
+        "primary_code": "037000885863",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000885863"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000885863",
+        "qr_payload_text": "https://id.gs1.org/01/00037000885863",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000885863",
+          "code": "037000885863",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White Luxe Alcohol Free Multi-Care Whitening Oral Rinse",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/088/5863/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000885863.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000885863",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000903994",
+      "product_name": "Sensitive & Gum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/090/3994/front_en.11.400.jpg",
+      "local_image_path": "images/crest/00037000903994.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Sensitive & Gum",
+        "source_names": {
+          "openbeautyfacts": "Sensitive & Gum"
+        },
+        "alternate_names": [],
+        "quantity": "24 g",
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Sensitivity Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/090/3994/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/090/3994/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/090/3994/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/090/3994/front_en.11.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000903994.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000903994",
+        "ean13": "0037000903994",
+        "upc_a": "037000903994",
+        "ean8": null,
+        "primary_code": "037000903994",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000903994"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000903994",
+        "qr_payload_text": "https://id.gs1.org/01/00037000903994",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000903994",
+          "code": "037000903994",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Sensitive & Gum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/090/3994/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000903994.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000903994",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000907855",
+      "product_name": "Crest Complete Plus Scope",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/090/7855/front_en.9.400.jpg",
+      "local_image_path": "images/crest/00037000907855.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Complete Plus Scope",
+        "source_names": {
+          "openbeautyfacts": "Crest Complete Plus Scope"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Open Products Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/090/7855/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/090/7855/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/090/7855/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/090/7855/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000907855.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000907855",
+        "ean13": "0037000907855",
+        "upc_a": "037000907855",
+        "ean8": null,
+        "primary_code": "037000907855",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000907855"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000907855",
+        "qr_payload_text": "https://id.gs1.org/01/00037000907855",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000907855",
+          "code": "037000907855",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Complete Plus Scope",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/090/7855/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000907855.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000907855",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000925576",
+      "product_name": "crest 3D white",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/092/5576/front_fr.3.400.jpg",
+      "local_image_path": "images/crest/00037000925576.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "crest 3D white",
+        "source_names": {
+          "openbeautyfacts": "crest 3D white"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/092/5576/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/092/5576/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/092/5576/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/092/5576/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000925576.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000925576",
+        "ean13": "0037000925576",
+        "upc_a": "037000925576",
+        "ean8": null,
+        "primary_code": "037000925576",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000925576"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000925576",
+        "qr_payload_text": "https://id.gs1.org/01/00037000925576",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000925576",
+          "code": "037000925576",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "crest 3D white",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/092/5576/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000925576.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000925576",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000943228",
+      "product_name": "Pro-health Advanced Anticavity fluoride rinse extra whitening",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/094/3228/front_en.5.400.jpg",
+      "local_image_path": "images/crest/00037000943228.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Pro-health Advanced Anticavity fluoride rinse extra whitening",
+        "source_names": {
+          "openbeautyfacts": "Pro-health Advanced Anticavity fluoride rinse extra whitening"
+        },
+        "alternate_names": [],
+        "quantity": "946 mL",
+        "categories": [
+          "Hygiene",
+          "Mouthwash"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/094/3228/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/094/3228/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/094/3228/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/094/3228/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000943228.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000943228",
+        "ean13": "0037000943228",
+        "upc_a": "037000943228",
+        "ean8": null,
+        "primary_code": "037000943228",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000943228"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000943228",
+        "qr_payload_text": "https://id.gs1.org/01/00037000943228",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000943228",
+          "code": "037000943228",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Pro-health Advanced Anticavity fluoride rinse extra whitening",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/094/3228/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000943228.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000943228",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000953302",
+      "product_name": "kids crest cavity protection sparkle fun",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/095/3302/front_en.13.400.jpg",
+      "local_image_path": "images/crest/00037000953302.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "kids crest cavity protection sparkle fun",
+        "source_names": {
+          "openbeautyfacts": "kids crest cavity protection sparkle fun"
+        },
+        "alternate_names": [],
+        "quantity": "2.2oz",
+        "categories": [
+          "Non Open Products Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/095/3302/front_en.13.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/095/3302/front_en.13.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/095/3302/front_en.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/095/3302/front_en.13.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000953302.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000953302",
+        "ean13": "0037000953302",
+        "upc_a": "037000953302",
+        "ean8": null,
+        "primary_code": "037000953302",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000953302"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000953302",
+        "qr_payload_text": "https://id.gs1.org/01/00037000953302",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000953302",
+          "code": "037000953302",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "kids crest cavity protection sparkle fun",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/095/3302/front_en.13.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000953302.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000953302",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000974871",
+      "product_name": "Advanced Enamel Care",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/4871/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00037000974871.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Advanced Enamel Care",
+        "source_names": {
+          "openbeautyfacts": "Advanced Enamel Care"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Mouthwash"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/4871/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/097/4871/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/097/4871/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/097/4871/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000974871.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000974871",
+        "ean13": "0037000974871",
+        "upc_a": "037000974871",
+        "ean8": null,
+        "primary_code": "037000974871",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000974871"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000974871",
+        "qr_payload_text": "https://id.gs1.org/01/00037000974871",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000974871",
+          "code": "037000974871",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Advanced Enamel Care",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/4871/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000974871.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000974871",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000976592",
+      "product_name": "Toothpaste",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00037000976592",
+        "ean13": "0037000976592",
+        "upc_a": "037000976592",
+        "ean8": null,
+        "primary_code": "037000976592",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000976592"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000976592",
+        "qr_payload_text": "https://id.gs1.org/01/00037000976592",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000976592",
+          "code": "037000976592",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Toothpaste",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000976592.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000976592",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000976677",
+      "product_name": "Toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6677/front_en.11.400.jpg",
+      "local_image_path": "images/crest/00037000976677.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6677/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6677/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/097/6677/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/097/6677/front_en.11.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000976677.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000976677",
+        "ean13": "0037000976677",
+        "upc_a": "037000976677",
+        "ean8": null,
+        "primary_code": "037000976677",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000976677"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000976677",
+        "qr_payload_text": "https://id.gs1.org/01/00037000976677",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000976677",
+          "code": "037000976677",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6677/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000976677.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000976677",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000976714",
+      "product_name": "Pro-Health Advanced Sensitive Releif",
+      "image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6714/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00037000976714.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Pro-Health Advanced Sensitive Releif",
+        "source_names": {
+          "openbeautyfacts": "Pro-Health Advanced Sensitive Releif"
+        },
+        "alternate_names": [],
+        "quantity": "5.1oz 144g",
+        "categories": [
+          "Dental",
+          "Toothpaste",
+          "Dentifrice"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6714/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6714/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/003/700/097/6714/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/003/700/097/6714/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00037000976714.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00037000976714",
+        "ean13": "0037000976714",
+        "upc_a": "037000976714",
+        "ean8": null,
+        "primary_code": "037000976714",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000976714"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000976714",
+        "qr_payload_text": "https://id.gs1.org/01/00037000976714",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000976714",
+          "code": "037000976714",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Pro-Health Advanced Sensitive Releif",
+          "image_url": "https://images.openbeautyfacts.org/images/products/003/700/097/6714/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000976714.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000976714",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00037000976783",
+      "product_name": "Whitening Gel",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Whitening Gel",
+        "source_names": {
+          "openbeautyfacts": "Whitening Gel"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00037000976783",
+        "ean13": "0037000976783",
+        "upc_a": "037000976783",
+        "ean8": null,
+        "primary_code": "037000976783",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0037000976783"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00037000976783",
+        "qr_payload_text": "https://id.gs1.org/01/00037000976783",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00037000976783",
+          "code": "037000976783",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Whitening Gel",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00037000976783.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0037000976783",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100044871",
+      "product_name": "Pro-Health Clean Mint Mouthwash",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_en.11.400.jpg",
+      "local_image_path": "images/crest/00056100044871.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Pro-Health Clean Mint Mouthwash",
+        "source_names": {
+          "openbeautyfacts": "Pro-Health Clean Mint Mouthwash"
+        },
+        "alternate_names": [
+          "Rince-bouche au chlorure de cétylpyridinium 0,07 % p/p"
+        ],
+        "quantity": "1.5 L",
+        "categories": [
+          "Mouthwashes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_en.11.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100044871.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100044871",
+        "ean13": "0056100044871",
+        "upc_a": "056100044871",
+        "ean8": null,
+        "primary_code": "056100044871",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100044871"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100044871",
+        "qr_payload_text": "https://id.gs1.org/01/00056100044871",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100044871",
+          "code": "056100044871",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Pro-Health Clean Mint Mouthwash",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/004/4871/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100044871.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100044871",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100047742",
+      "product_name": "Regular Paste Toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/004/7742/front_en.10.400.jpg",
+      "local_image_path": "images/crest/00056100047742.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Regular Paste Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "Regular Paste Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": "100 mL",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts",
+          "Toothpaste"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/004/7742/front_en.10.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/004/7742/front_en.10.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/004/7742/front_en.10.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/004/7742/front_en.10.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100047742.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100047742",
+        "ean13": "0056100047742",
+        "upc_a": "056100047742",
+        "ean8": null,
+        "primary_code": "056100047742",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100047742"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100047742",
+        "qr_payload_text": "https://id.gs1.org/01/00056100047742",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100047742",
+          "code": "056100047742",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Regular Paste Toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/004/7742/front_en.10.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100047742.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100047742",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100060574",
+      "product_name": "Crest 3D radiant mint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/006/0574/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00056100060574.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest 3D radiant mint",
+        "source_names": {
+          "openbeautyfacts": "Crest 3D radiant mint"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/006/0574/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/006/0574/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/006/0574/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/006/0574/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100060574.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100060574",
+        "ean13": "0056100060574",
+        "upc_a": "056100060574",
+        "ean8": null,
+        "primary_code": "056100060574",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100060574"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100060574",
+        "qr_payload_text": "https://id.gs1.org/01/00056100060574",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100060574",
+          "code": "056100060574",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest 3D radiant mint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/006/0574/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100060574.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100060574",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100074427",
+      "product_name": "3D White Luxe Diamond Strong Brilliant Mint Fluoride Toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/007/4427/front_en.11.400.jpg",
+      "local_image_path": "images/crest/00056100074427.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "3D White Luxe Diamond Strong Brilliant Mint Fluoride Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "3D White Luxe Diamond Strong Brilliant Mint Fluoride Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": "85 mL",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts",
+          "Toothpaste",
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/007/4427/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/007/4427/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/007/4427/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/007/4427/front_en.11.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100074427.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100074427",
+        "ean13": "0056100074427",
+        "upc_a": "056100074427",
+        "ean8": null,
+        "primary_code": "056100074427",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100074427"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100074427",
+        "qr_payload_text": "https://id.gs1.org/01/00056100074427",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100074427",
+          "code": "056100074427",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White Luxe Diamond Strong Brilliant Mint Fluoride Toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/007/4427/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100074427.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100074427",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100078135",
+      "product_name": "Plus Extra Whitening",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/007/8135/front_en.15.400.jpg",
+      "local_image_path": "images/crest/00056100078135.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:Crest"
+        ]
+      },
+      "product": {
+        "name": "Plus Extra Whitening",
+        "source_names": {
+          "openbeautyfacts": "Plus Extra Whitening"
+        },
+        "alternate_names": [],
+        "quantity": "50 mL",
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/007/8135/front_en.15.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/007/8135/front_en.15.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/007/8135/front_en.15.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/007/8135/front_en.15.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100078135.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100078135",
+        "ean13": "0056100078135",
+        "upc_a": "056100078135",
+        "ean8": null,
+        "primary_code": "056100078135",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100078135"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100078135",
+        "qr_payload_text": "https://id.gs1.org/01/00056100078135",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100078135",
+          "code": "056100078135",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Plus Extra Whitening",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/007/8135/front_en.15.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100078135.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100078135",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100080282",
+      "product_name": "Crest Pro-Health",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/0282/front_en.5.400.jpg",
+      "local_image_path": "images/crest/00056100080282.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Pro-Health",
+        "source_names": {
+          "openbeautyfacts": "Crest Pro-Health"
+        },
+        "alternate_names": [],
+        "quantity": "20ml",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/0282/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/008/0282/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/008/0282/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/008/0282/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100080282.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100080282",
+        "ean13": "0056100080282",
+        "upc_a": "056100080282",
+        "ean8": null,
+        "primary_code": "056100080282",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100080282"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100080282",
+        "qr_payload_text": "https://id.gs1.org/01/00056100080282",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100080282",
+          "code": "056100080282",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Pro-Health",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/0282/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100080282.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100080282",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100081425",
+      "product_name": "crest sensitive",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1425/1.400.jpg",
+      "local_image_path": "images/crest/00056100081425.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "crest sensitive",
+        "source_names": {
+          "openbeautyfacts": "crest sensitive"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1425/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1425/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/008/1425/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/008/1425/1.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100081425.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100081425",
+        "ean13": "0056100081425",
+        "upc_a": "056100081425",
+        "ean8": null,
+        "primary_code": "056100081425",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100081425"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100081425",
+        "qr_payload_text": "https://id.gs1.org/01/00056100081425",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100081425",
+          "code": "056100081425",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "crest sensitive",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1425/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100081425.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100081425",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100081845",
+      "product_name": "3D White Fluoride Toothpaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1845/front_en.4.400.jpg",
+      "local_image_path": "images/crest/00056100081845.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "3D White Fluoride Toothpaste",
+        "source_names": {
+          "openbeautyfacts": "3D White Fluoride Toothpaste"
+        },
+        "alternate_names": [],
+        "quantity": "65 mL",
+        "categories": [
+          "Hygiene",
+          "Toothpastes",
+          "Whitening Toothpastes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1845/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1845/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/008/1845/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/008/1845/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100081845.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100081845",
+        "ean13": "0056100081845",
+        "upc_a": "056100081845",
+        "ean8": null,
+        "primary_code": "056100081845",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100081845"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100081845",
+        "qr_payload_text": "https://id.gs1.org/01/00056100081845",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100081845",
+          "code": "056100081845",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "3D White Fluoride Toothpaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/1845/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100081845.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100081845",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100082217",
+      "product_name": "Regular Paste Cavity Protection Dentifrice with Flouristat",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_en.13.400.jpg",
+      "local_image_path": "images/crest/00056100082217.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Regular Paste Cavity Protection Dentifrice with Flouristat",
+        "source_names": {
+          "openbeautyfacts": "Regular Paste Cavity Protection Dentifrice with Flouristat"
+        },
+        "alternate_names": [],
+        "quantity": "125 mL",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts",
+          "Toothpaste"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_en.13.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_en.13.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_en.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_en.13.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_fr.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_fr.12.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100082217.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100082217",
+        "ean13": "0056100082217",
+        "upc_a": "056100082217",
+        "ean8": null,
+        "primary_code": "056100082217",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100082217"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100082217",
+        "qr_payload_text": "https://id.gs1.org/01/00056100082217",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100082217",
+          "code": "056100082217",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Regular Paste Cavity Protection Dentifrice with Flouristat",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/2217/front_en.13.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100082217.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100082217",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00056100083054",
+      "product_name": "Crest Whitening Emulsions",
+      "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/3054/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00056100083054.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest Whitening Emulsions",
+        "source_names": {
+          "openbeautyfacts": "Crest Whitening Emulsions"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/3054/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/005/610/008/3054/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/005/610/008/3054/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/005/610/008/3054/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00056100083054.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00056100083054",
+        "ean13": "0056100083054",
+        "upc_a": "056100083054",
+        "ean8": null,
+        "primary_code": "056100083054",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0056100083054"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00056100083054",
+        "qr_payload_text": "https://id.gs1.org/01/00056100083054",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00056100083054",
+          "code": "056100083054",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Crest Whitening Emulsions",
+          "image_url": "https://images.openbeautyfacts.org/images/products/005/610/008/3054/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00056100083054.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0056100083054",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00728947000067",
+      "product_name": "Breath Drops - Long Lasting Peppermint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/072/894/700/0067/front_en.3.400.jpg",
+      "local_image_path": "images/crest/00728947000067.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Breath Drops - Long Lasting Peppermint",
+        "source_names": {
+          "openbeautyfacts": "Breath Drops - Long Lasting Peppermint"
+        },
+        "alternate_names": [],
+        "quantity": "9.6 mL",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/072/894/700/0067/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/072/894/700/0067/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/072/894/700/0067/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/072/894/700/0067/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/00728947000067.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00728947000067",
+        "ean13": "0728947000067",
+        "upc_a": "728947000067",
+        "ean8": null,
+        "primary_code": "728947000067",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0728947000067"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00728947000067",
+        "qr_payload_text": "https://id.gs1.org/01/00728947000067",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00728947000067",
+          "code": "728947000067",
+          "type": "UPC-A",
+          "brand": "Crest",
+          "name": "Breath Drops - Long Lasting Peppermint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/072/894/700/0067/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/00728947000067.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0728947000067",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015400572961",
+      "product_name": "Crest",
+      "image_url": "https://images.openbeautyfacts.org/images/products/401/540/057/2961/front_fr.4.400.jpg",
+      "local_image_path": "images/crest/04015400572961.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest",
+        "source_names": {
+          "openbeautyfacts": "Crest"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/401/540/057/2961/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/401/540/057/2961/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/401/540/057/2961/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/401/540/057/2961/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/crest/04015400572961.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04015400572961",
+        "ean13": "4015400572961",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015400572961",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015400572961"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015400572961",
+        "qr_payload_text": "https://id.gs1.org/01/04015400572961",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015400572961",
+          "code": "4015400572961",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "Crest",
+          "image_url": "https://images.openbeautyfacts.org/images/products/401/540/057/2961/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/04015400572961.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015400572961",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05013965896613",
+      "product_name": "CREST SALT POWER",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/396/589/6613/front_en.6.400.jpg",
+      "local_image_path": "images/crest/05013965896613.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "CREST SALT POWER",
+        "source_names": {
+          "openbeautyfacts": "CREST SALT POWER"
+        },
+        "alternate_names": [],
+        "quantity": "125ml",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/396/589/6613/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/396/589/6613/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/396/589/6613/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/396/589/6613/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/crest/05013965896613.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05013965896613",
+        "ean13": "5013965896613",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5013965896613",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5013965896613"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05013965896613",
+        "qr_payload_text": "https://id.gs1.org/01/05013965896613",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05013965896613",
+          "code": "5013965896613",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "CREST SALT POWER",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/396/589/6613/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/05013965896613.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5013965896613",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08001090125620",
+      "product_name": "Crest",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/109/012/5620/front_en.4.400.jpg",
+      "local_image_path": "images/crest/08001090125620.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest",
+        "source_names": {
+          "openbeautyfacts": "Crest"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/109/012/5620/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/109/012/5620/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/109/012/5620/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/109/012/5620/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/crest/08001090125620.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08001090125620",
+        "ean13": "8001090125620",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8001090125620",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8001090125620"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08001090125620",
+        "qr_payload_text": "https://id.gs1.org/01/08001090125620",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08001090125620",
+          "code": "8001090125620",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "Crest",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/109/012/5620/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08001090125620.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8001090125620",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08001090797582",
+      "product_name": "anti cavity",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/109/079/7582/front_fr.11.400.jpg",
+      "local_image_path": "images/crest/08001090797582.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "anti cavity",
+        "source_names": {
+          "openbeautyfacts": "anti cavity"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Open Products Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/109/079/7582/front_fr.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/109/079/7582/front_fr.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/109/079/7582/front_fr.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/109/079/7582/front_fr.11.200.jpg"
+        ],
+        "local_image_path": "images/crest/08001090797582.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08001090797582",
+        "ean13": "8001090797582",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8001090797582",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8001090797582"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08001090797582",
+        "qr_payload_text": "https://id.gs1.org/01/08001090797582",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08001090797582",
+          "code": "8001090797582",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "anti cavity",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/109/079/7582/front_fr.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08001090797582.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8001090797582",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08001841273174",
+      "product_name": "Crest 3d white",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/184/127/3174/front_en.11.400.jpg",
+      "local_image_path": "images/crest/08001841273174.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest 3d white"
+        ]
+      },
+      "product": {
+        "name": "Crest 3d white",
+        "source_names": {
+          "openbeautyfacts": "Crest 3d white"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/184/127/3174/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/184/127/3174/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/184/127/3174/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/184/127/3174/front_en.11.200.jpg"
+        ],
+        "local_image_path": "images/crest/08001841273174.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08001841273174",
+        "ean13": "8001841273174",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8001841273174",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8001841273174"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08001841273174",
+        "qr_payload_text": "https://id.gs1.org/01/08001841273174",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08001841273174",
+          "code": "8001841273174",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "Crest 3d white",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/184/127/3174/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08001841273174.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8001841273174",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08001841430768",
+      "product_name": "Crest",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/184/143/0768/front_en.3.400.jpg",
+      "local_image_path": "images/crest/08001841430768.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest",
+        "source_names": {
+          "openbeautyfacts": "Crest"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/184/143/0768/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/184/143/0768/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/184/143/0768/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/184/143/0768/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/08001841430768.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08001841430768",
+        "ean13": "8001841430768",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8001841430768",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8001841430768"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08001841430768",
+        "qr_payload_text": "https://id.gs1.org/01/08001841430768",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08001841430768",
+          "code": "8001841430768",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "Crest",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/184/143/0768/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08001841430768.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8001841430768",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08001841937243",
+      "product_name": "Crest",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/184/193/7243/front_en.13.400.jpg",
+      "local_image_path": "images/crest/08001841937243.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "Crest",
+        "source_names": {
+          "openbeautyfacts": "Crest"
+        },
+        "alternate_names": [
+          "crest 3D brillance"
+        ],
+        "quantity": null,
+        "categories": [
+          "Non Open Products Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/184/193/7243/front_en.13.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/184/193/7243/front_en.13.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/184/193/7243/front_en.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/184/193/7243/front_en.13.200.jpg"
+        ],
+        "local_image_path": "images/crest/08001841937243.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08001841937243",
+        "ean13": "8001841937243",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8001841937243",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8001841937243"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08001841937243",
+        "qr_payload_text": "https://id.gs1.org/01/08001841937243",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08001841937243",
+          "code": "8001841937243",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "Crest",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/184/193/7243/front_en.13.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08001841937243.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8001841937243",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08006540408025",
+      "product_name": "Crest",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/654/040/8025/front_en.3.400.jpg",
+      "local_image_path": "images/crest/08006540408025.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest"
+        ]
+      },
+      "product": {
+        "name": "Crest",
+        "source_names": {
+          "openbeautyfacts": "Crest"
+        },
+        "alternate_names": [],
+        "quantity": "2",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/654/040/8025/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/654/040/8025/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/654/040/8025/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/654/040/8025/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/08006540408025.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08006540408025",
+        "ean13": "8006540408025",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8006540408025",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8006540408025"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08006540408025",
+        "qr_payload_text": "https://id.gs1.org/01/08006540408025",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08006540408025",
+          "code": "8006540408025",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "Crest",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/654/040/8025/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08006540408025.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8006540408025",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08006540497258",
+      "product_name": "Crest 3d white 7258",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/654/049/7258/front_en.3.400.jpg",
+      "local_image_path": "images/crest/08006540497258.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "crest 3d white"
+        ]
+      },
+      "product": {
+        "name": "Crest 3d white 7258",
+        "source_names": {
+          "openbeautyfacts": "Crest 3d white 7258"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/654/049/7258/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/654/049/7258/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/654/049/7258/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/654/049/7258/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/08006540497258.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08006540497258",
+        "ean13": "8006540497258",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8006540497258",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8006540497258"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08006540497258",
+        "qr_payload_text": "https://id.gs1.org/01/08006540497258",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08006540497258",
+          "code": "8006540497258",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "Crest 3d white 7258",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/654/049/7258/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08006540497258.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8006540497258",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08006540702383",
+      "product_name": "3d white block toothoaste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/654/070/2383/front_en.3.400.jpg",
+      "local_image_path": "images/crest/08006540702383.jpg",
+      "brand": {
+        "slug": "crest",
+        "display_name": "Crest",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Crest",
+        "matched_raw_brands": [
+          "xx:crest"
+        ]
+      },
+      "product": {
+        "name": "3d white block toothoaste",
+        "source_names": {
+          "openbeautyfacts": "3d white block toothoaste"
+        },
+        "alternate_names": [],
+        "quantity": "88 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/654/070/2383/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/654/070/2383/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/654/070/2383/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/654/070/2383/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/crest/08006540702383.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08006540702383",
+        "ean13": "8006540702383",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8006540702383",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8006540702383"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08006540702383",
+        "qr_payload_text": "https://id.gs1.org/01/08006540702383",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08006540702383",
+          "code": "8006540702383",
+          "type": "EAN-13",
+          "brand": "Crest",
+          "name": "3d white block toothoaste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/654/070/2383/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/crest/08006540702383.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8006540702383",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

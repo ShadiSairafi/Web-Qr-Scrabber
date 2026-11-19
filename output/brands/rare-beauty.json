@@ -1,0 +1,166 @@
+{
+  "brand_slug": "rare-beauty",
+  "display_name": "Rare Beauty",
+  "letter_section": "R",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Rare%20Beauty",
+  "product_count": 2,
+  "canonical_product_count": 2,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00840122905162",
+      "product_name": "Always an Optimist 4-in-1 Brume",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/012/290/5162/front_en.3.400.jpg",
+      "local_image_path": "images/rare-beauty/00840122905162.jpg",
+      "brand": {
+        "slug": "rare-beauty",
+        "display_name": "Rare Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Rare%20Beauty",
+        "matched_raw_brands": [
+          "xx:Rare Beauty"
+        ]
+      },
+      "product": {
+        "name": "Always an Optimist 4-in-1 Brume",
+        "source_names": {
+          "openbeautyfacts": "Always an Optimist 4-in-1 Brume"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/012/290/5162/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/012/290/5162/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/012/290/5162/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/012/290/5162/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rare-beauty/00840122905162.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840122905162",
+        "ean13": "0840122905162",
+        "upc_a": "840122905162",
+        "ean8": null,
+        "primary_code": "840122905162",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840122905162"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840122905162",
+        "qr_payload_text": "https://id.gs1.org/01/00840122905162",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840122905162",
+          "code": "840122905162",
+          "type": "UPC-A",
+          "brand": "Rare Beauty",
+          "name": "Always an Optimist 4-in-1 Brume",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/012/290/5162/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rare-beauty/00840122905162.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840122905162",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840122910357",
+      "product_name": "Hope Faves Set",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/012/291/0357/front_en.3.400.jpg",
+      "local_image_path": "images/rare-beauty/00840122910357.jpg",
+      "brand": {
+        "slug": "rare-beauty",
+        "display_name": "Rare Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Rare%20Beauty",
+        "matched_raw_brands": [
+          "xx:Rare Beauty"
+        ]
+      },
+      "product": {
+        "name": "Hope Faves Set",
+        "source_names": {
+          "openbeautyfacts": "Hope Faves Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/012/291/0357/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/012/291/0357/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/012/291/0357/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/012/291/0357/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rare-beauty/00840122910357.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840122910357",
+        "ean13": "0840122910357",
+        "upc_a": "840122910357",
+        "ean8": null,
+        "primary_code": "840122910357",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840122910357"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840122910357",
+        "qr_payload_text": "https://id.gs1.org/01/00840122910357",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840122910357",
+          "code": "840122910357",
+          "type": "UPC-A",
+          "brand": "Rare Beauty",
+          "name": "Hope Faves Set",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/012/291/0357/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rare-beauty/00840122910357.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840122910357",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

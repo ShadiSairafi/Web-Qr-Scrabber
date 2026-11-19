@@ -1,0 +1,1753 @@
+{
+  "brand_slug": "biotherm",
+  "display_name": "Biotherm",
+  "letter_section": "B",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+  "product_count": 22,
+  "canonical_product_count": 22,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "03367729018943",
+      "product_name": "Deo Pure Antiperspirant Cream 2.53oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8943/front_fr.7.400.jpg",
+      "local_image_path": "images/biotherm/03367729018943.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm",
+          "Biotherm"
+        ]
+      },
+      "product": {
+        "name": "Deo Pure Antiperspirant Cream 2.53oz",
+        "source_names": {
+          "openbeautyfacts": "DEO PURE",
+          "upcitemdb": "Deo Pure Antiperspirant Cream 2.53oz"
+        },
+        "alternate_names": [
+          "DEO PURE",
+          "BiothermDeo Pure Antiperspirant Cream 75ml/2.53oz",
+          "Deo Pure Antiperspirant Cream by Biotherm - 4343576703",
+          "Biotherm by BIOTHERM Deo Pure Antiperspirant Cream--75ml/2.53oz",
+          "BIOTHERM Déo Douceur - NO COLOUR - 75 ml",
+          "Biotherm Deo Pure Antiperspirant Cream - 75ml-2.53oz"
+        ],
+        "quantity": "75 ml",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care"
+        ],
+        "description": "Deo Pure Antiperspirant Cream 2.53oz",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8943/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8943/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/772/901/8943/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/772/901/8943/front_fr.7.200.jpg",
+          "https://s.cdnsbn.com/images/products/04343576703.jpg",
+          "http://c.shld.net/rpx/i/s/pi/mp/27294/53251014?src=http%3A%2F%2Fimg2.strawberrynetmedia.com%2Fimages%2Fproducts%2F04343576703.jpg&d=e3577c685d7c31d2333743d154e32901557add09",
+          "https://i5.walmartimages.com/asr/b2814158-3a6a-4cde-bd87-3f861166152a_1.32950ced53b7a859796560b3c5e4d53d.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://images10.newegg.com/ProductImageCompressAll200/ACK0_1_20180805525576051.jpg",
+          "http://site.unbeatablesale.com/img2008/fn142918.jpg",
+          "http://s7d9.scene7.com/is/image/TheBay/3367729018943_main?$PDPLARGE$",
+          "https://tshop.r10s.com/689/3e3/b229/3236/0016/b4d7/b567/1165e982740242ac110004.jpg?_ex=512x512",
+          "https://cdn3.ykso.co/images/2021/05/26/00/60add1838f3fa1443f16177a-transformed.jpeg",
+          "https://img.shop.com/Image/260000/262100/262191/products/1896955438__300x300__.jpg",
+          "http://images10.newegg.com/ProductImageCompressAll200/A29K_1_20130525143414136.jpg"
+        ],
+        "local_image_path": "images/biotherm/03367729018943.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03367729018943",
+        "ean13": "3367729018943",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3367729018943",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3367729018943"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03367729018943",
+        "qr_payload_text": "https://id.gs1.org/01/03367729018943",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03367729018943",
+          "code": "3367729018943",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Deo Pure Antiperspirant Cream 2.53oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8943/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03367729018943.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3367729018943",
+        "upcitemdb_ean": "3367729018943",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03367729018981",
+      "product_name": "Deo pure",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8981/front_fr.3.400.jpg",
+      "local_image_path": "images/biotherm/03367729018981.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Deo pure",
+        "source_names": {
+          "openbeautyfacts": "Deo pure"
+        },
+        "alternate_names": [
+          "Roll-on anti-transpirant"
+        ],
+        "quantity": "75 ml",
+        "categories": [
+          "Hygiene",
+          "Deodorants",
+          "Anti Perspirants",
+          "Roll On Deodorants"
+        ],
+        "description": "Roll-on anti-transpirant",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8981/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8981/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/772/901/8981/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/772/901/8981/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03367729018981.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03367729018981",
+        "ean13": "3367729018981",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3367729018981",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3367729018981"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03367729018981",
+        "qr_payload_text": "https://id.gs1.org/01/03367729018981",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03367729018981",
+          "code": "3367729018981",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Deo pure",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/772/901/8981/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03367729018981.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3367729018981",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03367729117264",
+      "product_name": "Lait corporel l'Original",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/772/911/7264/front_fr.3.400.jpg",
+      "local_image_path": "images/biotherm/03367729117264.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Lait corporel l'Original",
+        "source_names": {
+          "openbeautyfacts": "Lait corporel l'Original"
+        },
+        "alternate_names": [],
+        "quantity": "400ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/772/911/7264/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/772/911/7264/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/772/911/7264/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/772/911/7264/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03367729117264.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03367729117264",
+        "ean13": "3367729117264",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3367729117264",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3367729117264"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03367729117264",
+        "qr_payload_text": "https://id.gs1.org/01/03367729117264",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03367729117264",
+          "code": "3367729117264",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Lait corporel l'Original",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/772/911/7264/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03367729117264.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3367729117264",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03367729181142",
+      "product_name": "Biomass hand and nail treatment",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/772/918/1142/front_fr.6.400.jpg",
+      "local_image_path": "images/biotherm/03367729181142.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Biomass hand and nail treatment",
+        "source_names": {
+          "openbeautyfacts": "Biomass hand and nail treatment"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/772/918/1142/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/772/918/1142/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/772/918/1142/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/772/918/1142/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03367729181142.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03367729181142",
+        "ean13": "3367729181142",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3367729181142",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3367729181142"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03367729181142",
+        "qr_payload_text": "https://id.gs1.org/01/03367729181142",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03367729181142",
+          "code": "3367729181142",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Biomass hand and nail treatment",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/772/918/1142/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03367729181142.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3367729181142",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03367729575248",
+      "product_name": "Biotherm oil therapy",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/772/957/5248/front_fr.5.400.jpg",
+      "local_image_path": "images/biotherm/03367729575248.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Biotherm oil therapy",
+        "source_names": {
+          "openbeautyfacts": "Biotherm oil therapy"
+        },
+        "alternate_names": [
+          "Boom corps"
+        ],
+        "quantity": "400 ml",
+        "categories": [
+          "Baume Corps"
+        ],
+        "description": "Boom corps",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/772/957/5248/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/772/957/5248/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/772/957/5248/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/772/957/5248/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03367729575248.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03367729575248",
+        "ean13": "3367729575248",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3367729575248",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3367729575248"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03367729575248",
+        "qr_payload_text": "https://id.gs1.org/01/03367729575248",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03367729575248",
+          "code": "3367729575248",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Biotherm oil therapy",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/772/957/5248/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03367729575248.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3367729575248",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605540418420",
+      "product_name": "Eau Pure",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/554/041/8420/front_en.9.400.jpg",
+      "local_image_path": "images/biotherm/03605540418420.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Eau Pure",
+        "source_names": {
+          "openbeautyfacts": "Eau Pure"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/554/041/8420/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/554/041/8420/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/554/041/8420/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/554/041/8420/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03605540418420.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605540418420",
+        "ean13": "3605540418420",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605540418420",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605540418420"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605540418420",
+        "qr_payload_text": "https://id.gs1.org/01/03605540418420",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605540418420",
+          "code": "3605540418420",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Eau Pure",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/554/041/8420/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03605540418420.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605540418420",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605540563441",
+      "product_name": "Lait de Douche",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/554/056/3441/front_de.3.400.jpg",
+      "local_image_path": "images/biotherm/03605540563441.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Lait de Douche",
+        "source_names": {
+          "openbeautyfacts": "Lait de Douche"
+        },
+        "alternate_names": [],
+        "quantity": "400ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/554/056/3441/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/554/056/3441/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/554/056/3441/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/554/056/3441/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03605540563441.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605540563441",
+        "ean13": "3605540563441",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605540563441",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605540563441"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605540563441",
+        "qr_payload_text": "https://id.gs1.org/01/03605540563441",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605540563441",
+          "code": "3605540563441",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Lait de Douche",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/554/056/3441/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03605540563441.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605540563441",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605540854600",
+      "product_name": "Aquasource",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/554/085/4600/front_fr.3.400.jpg",
+      "local_image_path": "images/biotherm/03605540854600.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Aquasource",
+        "source_names": {
+          "openbeautyfacts": "Aquasource"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/554/085/4600/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/554/085/4600/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/554/085/4600/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/554/085/4600/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03605540854600.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605540854600",
+        "ean13": "3605540854600",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605540854600",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605540854600"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605540854600",
+        "qr_payload_text": "https://id.gs1.org/01/03605540854600",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605540854600",
+          "code": "3605540854600",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Aquasource",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/554/085/4600/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03605540854600.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605540854600",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605540873502",
+      "product_name": "Aquafitness Shower Gel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3502/front_en.9.400.jpg",
+      "local_image_path": "images/biotherm/03605540873502.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Aquafitness Shower Gel",
+        "source_names": {
+          "openbeautyfacts": "Aquafitness Shower Gel"
+        },
+        "alternate_names": [],
+        "quantity": "200ml",
+        "categories": [
+          "Hygiene",
+          "Showers And Baths",
+          "Shower Gels"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3502/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3502/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/554/087/3502/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/554/087/3502/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03605540873502.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605540873502",
+        "ean13": "3605540873502",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605540873502",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605540873502"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605540873502",
+        "qr_payload_text": "https://id.gs1.org/01/03605540873502",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605540873502",
+          "code": "3605540873502",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Aquafitness Shower Gel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3502/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03605540873502.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605540873502",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605540873717",
+      "product_name": "AQUAFITNESS",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3717/front_de.4.400.jpg",
+      "local_image_path": "images/biotherm/03605540873717.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "AQUAFITNESS",
+        "source_names": {
+          "openbeautyfacts": "AQUAFITNESS"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Hygiene",
+          "Deodorants"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3717/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3717/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/554/087/3717/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/554/087/3717/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03605540873717.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605540873717",
+        "ean13": "3605540873717",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605540873717",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605540873717"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605540873717",
+        "qr_payload_text": "https://id.gs1.org/01/03605540873717",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605540873717",
+          "code": "3605540873717",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "AQUAFITNESS",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/554/087/3717/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03605540873717.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605540873717",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605540918012",
+      "product_name": "biotherm - biosource - lotion tonifiante hydratation instantanée",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/554/091/8012/front_en.3.400.jpg",
+      "local_image_path": "images/biotherm/03605540918012.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "biotherm"
+        ]
+      },
+      "product": {
+        "name": "biotherm - biosource - lotion tonifiante hydratation instantanée",
+        "source_names": {
+          "openbeautyfacts": "biotherm - biosource - lotion tonifiante hydratation instantanée"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/554/091/8012/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/554/091/8012/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/554/091/8012/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/554/091/8012/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03605540918012.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605540918012",
+        "ean13": "3605540918012",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605540918012",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605540918012"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605540918012",
+        "qr_payload_text": "https://id.gs1.org/01/03605540918012",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605540918012",
+          "code": "3605540918012",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "biotherm - biosource - lotion tonifiante hydratation instantanée",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/554/091/8012/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03605540918012.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605540918012",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614270303944",
+      "product_name": "Homme force supreme cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/030/3944/front_es.9.400.jpg",
+      "local_image_path": "images/biotherm/03614270303944.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Homme force supreme cream",
+        "source_names": {
+          "openbeautyfacts": "Homme force supreme cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/030/3944/front_es.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/030/3944/front_es.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/030/3944/front_es.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/030/3944/front_es.9.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614270303944.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614270303944",
+        "ean13": "3614270303944",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614270303944",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614270303944"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614270303944",
+        "qr_payload_text": "https://id.gs1.org/01/03614270303944",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614270303944",
+          "code": "3614270303944",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Homme force supreme cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/030/3944/front_es.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614270303944.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614270303944",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614270429835",
+      "product_name": "Biotherm Anti-wrinkles sun cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/042/9835/front_en.4.400.jpg",
+      "local_image_path": "images/biotherm/03614270429835.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Biotherm Anti-wrinkles sun cream",
+        "source_names": {
+          "openbeautyfacts": "Biotherm Anti-wrinkles sun cream"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Suncare",
+          "Anti Aging Face Care Products",
+          "Anti Wrinkles Creams",
+          "In Sun Protections",
+          "Sunscreen"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/042/9835/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/042/9835/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/042/9835/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/042/9835/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614270429835.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614270429835",
+        "ean13": "3614270429835",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614270429835",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614270429835"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614270429835",
+        "qr_payload_text": "https://id.gs1.org/01/03614270429835",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614270429835",
+          "code": "3614270429835",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Biotherm Anti-wrinkles sun cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/042/9835/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614270429835.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614270429835",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271302830",
+      "product_name": "Waterlover Hydrating Sun Milk LSF30",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/130/2830/front_de.4.400.jpg",
+      "local_image_path": "images/biotherm/03614271302830.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Waterlover Hydrating Sun Milk LSF30",
+        "source_names": {
+          "openbeautyfacts": "Waterlover Hydrating Sun Milk LSF30"
+        },
+        "alternate_names": [],
+        "quantity": "40 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/130/2830/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/130/2830/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/130/2830/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/130/2830/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614271302830.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271302830",
+        "ean13": "3614271302830",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271302830",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271302830"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271302830",
+        "qr_payload_text": "https://id.gs1.org/01/03614271302830",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271302830",
+          "code": "3614271302830",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Waterlover Hydrating Sun Milk LSF30",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/130/2830/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614271302830.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271302830",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271426024",
+      "product_name": "Aquapower eye de-puffer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/142/6024/front_fr.4.400.jpg",
+      "local_image_path": "images/biotherm/03614271426024.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Aquapower eye de-puffer",
+        "source_names": {
+          "openbeautyfacts": "Aquapower eye de-puffer"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/142/6024/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/142/6024/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/142/6024/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/142/6024/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614271426024.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271426024",
+        "ean13": "3614271426024",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271426024",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271426024"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271426024",
+        "qr_payload_text": "https://id.gs1.org/01/03614271426024",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271426024",
+          "code": "3614271426024",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Aquapower eye de-puffer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/142/6024/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614271426024.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271426024",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271608932",
+      "product_name": "Life Plankton",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/160/8932/front_de.4.400.jpg",
+      "local_image_path": "images/biotherm/03614271608932.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Life Plankton",
+        "source_names": {
+          "openbeautyfacts": "Life Plankton"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/160/8932/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/160/8932/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/160/8932/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/160/8932/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614271608932.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271608932",
+        "ean13": "3614271608932",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271608932",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271608932"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271608932",
+        "qr_payload_text": "https://id.gs1.org/01/03614271608932",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271608932",
+          "code": "3614271608932",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Life Plankton",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/160/8932/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614271608932.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271608932",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271665119",
+      "product_name": "aquasource",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/166/5119/front_fr.4.400.jpg",
+      "local_image_path": "images/biotherm/03614271665119.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "aquasource",
+        "source_names": {
+          "openbeautyfacts": "aquasource"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/166/5119/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/166/5119/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/166/5119/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/166/5119/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614271665119.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271665119",
+        "ean13": "3614271665119",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271665119",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271665119"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271665119",
+        "qr_payload_text": "https://id.gs1.org/01/03614271665119",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271665119",
+          "code": "3614271665119",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "aquasource",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/166/5119/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614271665119.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271665119",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271701510",
+      "product_name": "LAIT SOLAIRE WATERLOVER SPF 50",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/170/1510/front_fr.15.400.jpg",
+      "local_image_path": "images/biotherm/03614271701510.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "LAIT SOLAIRE WATERLOVER SPF 50",
+        "source_names": {
+          "openbeautyfacts": "LAIT SOLAIRE WATERLOVER SPF 50"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [
+          "Suncare",
+          "In Sun Protections"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/170/1510/front_fr.15.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/170/1510/front_fr.15.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/170/1510/front_fr.15.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/170/1510/front_fr.15.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614271701510.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271701510",
+        "ean13": "3614271701510",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271701510",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271701510"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271701510",
+        "qr_payload_text": "https://id.gs1.org/01/03614271701510",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271701510",
+          "code": "3614271701510",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "LAIT SOLAIRE WATERLOVER SPF 50",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/170/1510/front_fr.15.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614271701510.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271701510",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272080416",
+      "product_name": "Bath therapy - delighting blend",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/208/0416/front_fr.4.400.jpg",
+      "local_image_path": "images/biotherm/03614272080416.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Bath therapy - delighting blend",
+        "source_names": {
+          "openbeautyfacts": "Bath therapy - delighting blend"
+        },
+        "alternate_names": [],
+        "quantity": "200 mL",
+        "categories": [
+          "Soin Corporel Douche"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/208/0416/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/208/0416/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/208/0416/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/208/0416/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614272080416.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272080416",
+        "ean13": "3614272080416",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272080416",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272080416"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272080416",
+        "qr_payload_text": "https://id.gs1.org/01/03614272080416",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272080416",
+          "code": "3614272080416",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Bath therapy - delighting blend",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/208/0416/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614272080416.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272080416",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272400467",
+      "product_name": "Life plankton elixir",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/240/0467/front_fr.13.400.jpg",
+      "local_image_path": "images/biotherm/03614272400467.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Life plankton elixir",
+        "source_names": {
+          "openbeautyfacts": "Life plankton elixir"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Anti Aging Face Care Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/240/0467/front_fr.13.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/240/0467/front_fr.13.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/240/0467/front_fr.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/240/0467/front_fr.13.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614272400467.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272400467",
+        "ean13": "3614272400467",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272400467",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272400467"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272400467",
+        "qr_payload_text": "https://id.gs1.org/01/03614272400467",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272400467",
+          "code": "3614272400467",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Life plankton elixir",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/240/0467/front_fr.13.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614272400467.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272400467",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272688339",
+      "product_name": "Blue Therapie",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/268/8339/front_fr.4.400.jpg",
+      "local_image_path": "images/biotherm/03614272688339.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Blue Therapie",
+        "source_names": {
+          "openbeautyfacts": "Blue Therapie"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/268/8339/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/268/8339/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/268/8339/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/268/8339/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614272688339.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272688339",
+        "ean13": "3614272688339",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272688339",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272688339"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272688339",
+        "qr_payload_text": "https://id.gs1.org/01/03614272688339",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272688339",
+          "code": "3614272688339",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Blue Therapie",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/268/8339/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614272688339.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272688339",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273490559",
+      "product_name": "Waterlover Hydrating Sun Milk",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/349/0559/front_de.4.400.jpg",
+      "local_image_path": "images/biotherm/03614273490559.jpg",
+      "brand": {
+        "slug": "biotherm",
+        "display_name": "Biotherm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biotherm",
+        "matched_raw_brands": [
+          "xx:biotherm"
+        ]
+      },
+      "product": {
+        "name": "Waterlover Hydrating Sun Milk",
+        "source_names": {
+          "openbeautyfacts": "Waterlover Hydrating Sun Milk"
+        },
+        "alternate_names": [],
+        "quantity": "200ml",
+        "categories": [
+          "In Sun Protections",
+          "Suncare",
+          "Sunscreen"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/349/0559/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/349/0559/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/349/0559/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/349/0559/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/biotherm/03614273490559.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614273490559",
+        "ean13": "3614273490559",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273490559",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273490559"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273490559",
+        "qr_payload_text": "https://id.gs1.org/01/03614273490559",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273490559",
+          "code": "3614273490559",
+          "type": "EAN-13",
+          "brand": "Biotherm",
+          "name": "Waterlover Hydrating Sun Milk",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/349/0559/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biotherm/03614273490559.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273490559",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

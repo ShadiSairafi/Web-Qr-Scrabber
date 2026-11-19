@@ -1,0 +1,328 @@
+{
+  "brand_slug": "kitsch",
+  "display_name": "Kitsch",
+  "letter_section": "K",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kitsch",
+  "product_count": 4,
+  "canonical_product_count": 4,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00000011207887",
+      "product_name": "Rosemary and Biotin volumizing solid conditioner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/000/001/120/7887/front_en.4.400.jpg",
+      "local_image_path": "images/kitsch/00000011207887.jpg",
+      "brand": {
+        "slug": "kitsch",
+        "display_name": "Kitsch",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kitsch",
+        "matched_raw_brands": [
+          "xx:kitsch"
+        ]
+      },
+      "product": {
+        "name": "Rosemary and Biotin volumizing solid conditioner",
+        "source_names": {
+          "openbeautyfacts": "Rosemary and Biotin volumizing solid conditioner"
+        },
+        "alternate_names": [],
+        "quantity": "2.7 oz",
+        "categories": [
+          "Hair",
+          "Hair Conditioners"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/000/001/120/7887/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/000/001/120/7887/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/000/001/120/7887/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/000/001/120/7887/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/kitsch/00000011207887.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00000011207887",
+        "ean13": null,
+        "upc_a": null,
+        "ean8": "11207887",
+        "primary_code": "11207887",
+        "barcode_type": "EAN-8",
+        "raw_codes": [
+          "11207887"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00000011207887",
+        "qr_payload_text": "https://id.gs1.org/01/00000011207887",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00000011207887",
+          "code": "11207887",
+          "type": "EAN-8",
+          "brand": "Kitsch",
+          "name": "Rosemary and Biotin volumizing solid conditioner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/000/001/120/7887/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kitsch/00000011207887.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/11207887",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00343165985646",
+      "product_name": "Strengthening Solid Shampoo Rice Water Protein",
+      "image_url": "https://images.openbeautyfacts.org/images/products/034/316/598/5646/front_en.3.400.jpg",
+      "local_image_path": "images/kitsch/00343165985646.jpg",
+      "brand": {
+        "slug": "kitsch",
+        "display_name": "Kitsch",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kitsch",
+        "matched_raw_brands": [
+          "xx:kit-sch"
+        ]
+      },
+      "product": {
+        "name": "Strengthening Solid Shampoo Rice Water Protein",
+        "source_names": {
+          "openbeautyfacts": "Strengthening Solid Shampoo Rice Water Protein"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo",
+          "Shampoos"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/034/316/598/5646/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/034/316/598/5646/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/034/316/598/5646/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/034/316/598/5646/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kitsch/00343165985646.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00343165985646",
+        "ean13": "0343165985646",
+        "upc_a": "343165985646",
+        "ean8": null,
+        "primary_code": "343165985646",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0343165985646"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00343165985646",
+        "qr_payload_text": "https://id.gs1.org/01/00343165985646",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00343165985646",
+          "code": "343165985646",
+          "type": "UPC-A",
+          "brand": "Kitsch",
+          "name": "Strengthening Solid Shampoo Rice Water Protein",
+          "image_url": "https://images.openbeautyfacts.org/images/products/034/316/598/5646/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kitsch/00343165985646.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0343165985646",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810112569162",
+      "product_name": "Hair Perfume for Women – Hair Spray & Body Mist – Tart Cherry, 50mL",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/011/256/9162/front_en.9.400.jpg",
+      "local_image_path": "images/kitsch/00810112569162.jpg",
+      "brand": {
+        "slug": "kitsch",
+        "display_name": "Kitsch",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kitsch",
+        "matched_raw_brands": [
+          "xx:Kitsch"
+        ]
+      },
+      "product": {
+        "name": "Hair Perfume for Women – Hair Spray & Body Mist – Tart Cherry, 50mL",
+        "source_names": {
+          "openbeautyfacts": "Hair Perfume for Women – Hair Spray & Body Mist – Tart Cherry, 50mL"
+        },
+        "alternate_names": [],
+        "quantity": "50 mL",
+        "categories": [
+          "Non Open Products Facts",
+          "Cosmetics",
+          "Perfume Cologne"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/011/256/9162/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/011/256/9162/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/011/256/9162/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/011/256/9162/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/kitsch/00810112569162.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810112569162",
+        "ean13": "0810112569162",
+        "upc_a": "810112569162",
+        "ean8": null,
+        "primary_code": "810112569162",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810112569162"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810112569162",
+        "qr_payload_text": "https://id.gs1.org/01/00810112569162",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810112569162",
+          "code": "810112569162",
+          "type": "UPC-A",
+          "brand": "Kitsch",
+          "name": "Hair Perfume for Women – Hair Spray & Body Mist – Tart Cherry, 50mL",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/011/256/9162/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kitsch/00810112569162.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810112569162",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840455505923",
+      "product_name": "Argan Oil Shampoo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/045/550/5923/front_en.3.400.jpg",
+      "local_image_path": "images/kitsch/00840455505923.jpg",
+      "brand": {
+        "slug": "kitsch",
+        "display_name": "Kitsch",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kitsch",
+        "matched_raw_brands": [
+          "xx:/kitsch/"
+        ]
+      },
+      "product": {
+        "name": "Argan Oil Shampoo",
+        "source_names": {
+          "openbeautyfacts": "Argan Oil Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/045/550/5923/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/045/550/5923/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/045/550/5923/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/045/550/5923/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kitsch/00840455505923.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840455505923",
+        "ean13": "0840455505923",
+        "upc_a": "840455505923",
+        "ean8": null,
+        "primary_code": "840455505923",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840455505923"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840455505923",
+        "qr_payload_text": "https://id.gs1.org/01/00840455505923",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840455505923",
+          "code": "840455505923",
+          "type": "UPC-A",
+          "brand": "Kitsch",
+          "name": "Argan Oil Shampoo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/045/550/5923/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kitsch/00840455505923.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840455505923",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

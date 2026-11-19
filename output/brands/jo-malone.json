@@ -1,0 +1,254 @@
+{
+  "brand_slug": "jo-malone",
+  "display_name": "Jo Malone",
+  "letter_section": "J",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Jo%20Malone",
+  "product_count": 3,
+  "canonical_product_count": 3,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "08720964842219",
+      "product_name": "Jo Malone London Orange Blossom Eau de Cologne",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2219/front_nl.3.400.jpg",
+      "local_image_path": "images/jo-malone/08720964842219.jpg",
+      "brand": {
+        "slug": "jo-malone",
+        "display_name": "Jo Malone",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Jo%20Malone",
+        "matched_raw_brands": [
+          "jo malone london"
+        ]
+      },
+      "product": {
+        "name": "Jo Malone London Orange Blossom Eau de Cologne",
+        "source_names": {
+          "openbeautyfacts": "Jo Malone London Orange Blossom Eau de Cologne"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2219/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2219/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/096/484/2219/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/096/484/2219/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/jo-malone/08720964842219.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720964842219",
+        "ean13": "8720964842219",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720964842219",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720964842219"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720964842219",
+        "qr_payload_text": "https://id.gs1.org/01/08720964842219",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720964842219",
+          "code": "8720964842219",
+          "type": "EAN-13",
+          "brand": "Jo Malone",
+          "name": "Jo Malone London Orange Blossom Eau de Cologne",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2219/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/jo-malone/08720964842219.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720964842219",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720964842233",
+      "product_name": "Jo Malone London Peony & Blush Suede Eau de Cologne",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2233/front_nl.3.400.jpg",
+      "local_image_path": "images/jo-malone/08720964842233.jpg",
+      "brand": {
+        "slug": "jo-malone",
+        "display_name": "Jo Malone",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Jo%20Malone",
+        "matched_raw_brands": [
+          "jo malone london"
+        ]
+      },
+      "product": {
+        "name": "Jo Malone London Peony & Blush Suede Eau de Cologne",
+        "source_names": {
+          "openbeautyfacts": "Jo Malone London Peony & Blush Suede Eau de Cologne"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2233/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2233/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/096/484/2233/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/096/484/2233/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/jo-malone/08720964842233.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720964842233",
+        "ean13": "8720964842233",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720964842233",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720964842233"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720964842233",
+        "qr_payload_text": "https://id.gs1.org/01/08720964842233",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720964842233",
+          "code": "8720964842233",
+          "type": "EAN-13",
+          "brand": "Jo Malone",
+          "name": "Jo Malone London Peony & Blush Suede Eau de Cologne",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2233/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/jo-malone/08720964842233.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720964842233",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720964842257",
+      "product_name": "Jo Malone London Poppy & Barley Eau de Cologne",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2257/front_nl.3.400.jpg",
+      "local_image_path": "images/jo-malone/08720964842257.jpg",
+      "brand": {
+        "slug": "jo-malone",
+        "display_name": "Jo Malone",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Jo%20Malone",
+        "matched_raw_brands": [
+          "jo malone london"
+        ]
+      },
+      "product": {
+        "name": "Jo Malone London Poppy & Barley Eau de Cologne",
+        "source_names": {
+          "openbeautyfacts": "Jo Malone London Poppy & Barley Eau de Cologne"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2257/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2257/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/096/484/2257/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/096/484/2257/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/jo-malone/08720964842257.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720964842257",
+        "ean13": "8720964842257",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720964842257",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720964842257"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720964842257",
+        "qr_payload_text": "https://id.gs1.org/01/08720964842257",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720964842257",
+          "code": "8720964842257",
+          "type": "EAN-13",
+          "brand": "Jo Malone",
+          "name": "Jo Malone London Poppy & Barley Eau de Cologne",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/096/484/2257/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/jo-malone/08720964842257.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720964842257",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

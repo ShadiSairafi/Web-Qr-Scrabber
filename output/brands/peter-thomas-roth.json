@@ -1,0 +1,242 @@
+{
+  "brand_slug": "peter-thomas-roth",
+  "display_name": "Peter Thomas Roth",
+  "letter_section": "P",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Peter%20Thomas%20Roth",
+  "product_count": 3,
+  "canonical_product_count": 3,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00670367003749",
+      "product_name": "Cucumber de-tox",
+      "image_url": "https://images.openbeautyfacts.org/images/products/067/036/700/3749/front_en.3.400.jpg",
+      "local_image_path": "images/peter-thomas-roth/00670367003749.jpg",
+      "brand": {
+        "slug": "peter-thomas-roth",
+        "display_name": "Peter Thomas Roth",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Peter%20Thomas%20Roth",
+        "matched_raw_brands": [
+          "xx:peterthomasroth"
+        ]
+      },
+      "product": {
+        "name": "Cucumber de-tox",
+        "source_names": {
+          "openbeautyfacts": "Cucumber de-tox"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/067/036/700/3749/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/067/036/700/3749/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/067/036/700/3749/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/067/036/700/3749/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/peter-thomas-roth/00670367003749.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00670367003749",
+        "ean13": "0670367003749",
+        "upc_a": "670367003749",
+        "ean8": null,
+        "primary_code": "670367003749",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0670367003749"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00670367003749",
+        "qr_payload_text": "https://id.gs1.org/01/00670367003749",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00670367003749",
+          "code": "670367003749",
+          "type": "UPC-A",
+          "brand": "Peter Thomas Roth",
+          "name": "Cucumber de-tox",
+          "image_url": "https://images.openbeautyfacts.org/images/products/067/036/700/3749/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/peter-thomas-roth/00670367003749.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0670367003749",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00670367815083",
+      "product_name": "Anti-Aging Cleansing Gel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/067/036/781/5083/front_en.3.400.jpg",
+      "local_image_path": "images/peter-thomas-roth/00670367815083.jpg",
+      "brand": {
+        "slug": "peter-thomas-roth",
+        "display_name": "Peter Thomas Roth",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Peter%20Thomas%20Roth",
+        "matched_raw_brands": [
+          "xx:peter-thomas-roth"
+        ]
+      },
+      "product": {
+        "name": "Anti-Aging Cleansing Gel",
+        "source_names": {
+          "openbeautyfacts": "Anti-Aging Cleansing Gel"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/067/036/781/5083/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/067/036/781/5083/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/067/036/781/5083/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/067/036/781/5083/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/peter-thomas-roth/00670367815083.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00670367815083",
+        "ean13": "0670367815083",
+        "upc_a": "670367815083",
+        "ean8": null,
+        "primary_code": "670367815083",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0670367815083"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00670367815083",
+        "qr_payload_text": "https://id.gs1.org/01/00670367815083",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00670367815083",
+          "code": "670367815083",
+          "type": "UPC-A",
+          "brand": "Peter Thomas Roth",
+          "name": "Anti-Aging Cleansing Gel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/067/036/781/5083/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/peter-thomas-roth/00670367815083.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0670367815083",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00670367935507",
+      "product_name": "Anti-Aging Cleansing Oil Makeup Remover",
+      "image_url": "https://images.openbeautyfacts.org/images/products/067/036/793/5507/front_en.3.400.jpg",
+      "local_image_path": "images/peter-thomas-roth/00670367935507.jpg",
+      "brand": {
+        "slug": "peter-thomas-roth",
+        "display_name": "Peter Thomas Roth",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Peter%20Thomas%20Roth",
+        "matched_raw_brands": [
+          "xx:peter-thomas-roth"
+        ]
+      },
+      "product": {
+        "name": "Anti-Aging Cleansing Oil Makeup Remover",
+        "source_names": {
+          "openbeautyfacts": "Anti-Aging Cleansing Oil Makeup Remover"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/067/036/793/5507/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/067/036/793/5507/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/067/036/793/5507/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/067/036/793/5507/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/peter-thomas-roth/00670367935507.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00670367935507",
+        "ean13": "0670367935507",
+        "upc_a": "670367935507",
+        "ean8": null,
+        "primary_code": "670367935507",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0670367935507"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00670367935507",
+        "qr_payload_text": "https://id.gs1.org/01/00670367935507",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00670367935507",
+          "code": "670367935507",
+          "type": "UPC-A",
+          "brand": "Peter Thomas Roth",
+          "name": "Anti-Aging Cleansing Oil Makeup Remover",
+          "image_url": "https://images.openbeautyfacts.org/images/products/067/036/793/5507/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/peter-thomas-roth/00670367935507.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0670367935507",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

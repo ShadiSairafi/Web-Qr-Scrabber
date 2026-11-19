@@ -1,0 +1,318 @@
+{
+  "brand_slug": "murad",
+  "display_name": "Murad",
+  "letter_section": "M",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Murad",
+  "product_count": 4,
+  "canonical_product_count": 4,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00767332100531",
+      "product_name": "Acne Control Clarifying Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/0531/front_en.3.400.jpg",
+      "local_image_path": "images/murad/00767332100531.jpg",
+      "brand": {
+        "slug": "murad",
+        "display_name": "Murad",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Murad",
+        "matched_raw_brands": [
+          "xx:murad"
+        ]
+      },
+      "product": {
+        "name": "Acne Control Clarifying Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Acne Control Clarifying Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/0531/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/733/210/0531/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/733/210/0531/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/733/210/0531/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/murad/00767332100531.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00767332100531",
+        "ean13": "0767332100531",
+        "upc_a": "767332100531",
+        "ean8": null,
+        "primary_code": "767332100531",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0767332100531"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00767332100531",
+        "qr_payload_text": "https://id.gs1.org/01/00767332100531",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00767332100531",
+          "code": "767332100531",
+          "type": "UPC-A",
+          "brand": "Murad",
+          "name": "Acne Control Clarifying Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/0531/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/murad/00767332100531.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0767332100531",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00767332108902",
+      "product_name": "Prebiotic 4-In-1 MultiCleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/8902/front_en.3.400.jpg",
+      "local_image_path": "images/murad/00767332108902.jpg",
+      "brand": {
+        "slug": "murad",
+        "display_name": "Murad",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Murad",
+        "matched_raw_brands": [
+          "xx:murad"
+        ]
+      },
+      "product": {
+        "name": "Prebiotic 4-In-1 MultiCleanser",
+        "source_names": {
+          "openbeautyfacts": "Prebiotic 4-In-1 MultiCleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/8902/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/733/210/8902/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/733/210/8902/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/733/210/8902/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/murad/00767332108902.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00767332108902",
+        "ean13": "0767332108902",
+        "upc_a": "767332108902",
+        "ean8": null,
+        "primary_code": "767332108902",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0767332108902"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00767332108902",
+        "qr_payload_text": "https://id.gs1.org/01/00767332108902",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00767332108902",
+          "code": "767332108902",
+          "type": "UPC-A",
+          "brand": "Murad",
+          "name": "Prebiotic 4-In-1 MultiCleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/8902/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/murad/00767332108902.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0767332108902",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00767332109459",
+      "product_name": "Murad",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/9459/front_en.10.400.jpg",
+      "local_image_path": "images/murad/00767332109459.jpg",
+      "brand": {
+        "slug": "murad",
+        "display_name": "Murad",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Murad",
+        "matched_raw_brands": [
+          "murad"
+        ]
+      },
+      "product": {
+        "name": "Murad",
+        "source_names": {
+          "openbeautyfacts": "Murad"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/9459/front_en.10.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/733/210/9459/front_en.10.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/733/210/9459/front_en.10.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/733/210/9459/front_en.10.200.jpg"
+        ],
+        "local_image_path": "images/murad/00767332109459.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00767332109459",
+        "ean13": "0767332109459",
+        "upc_a": "767332109459",
+        "ean8": null,
+        "primary_code": "767332109459",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0767332109459"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00767332109459",
+        "qr_payload_text": "https://id.gs1.org/01/00767332109459",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00767332109459",
+          "code": "767332109459",
+          "type": "UPC-A",
+          "brand": "Murad",
+          "name": "Murad",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/733/210/9459/front_en.10.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/murad/00767332109459.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0767332109459",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00767332601243",
+      "product_name": "Resurgence Renewing Cleansing Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/733/260/1243/front_en.3.400.jpg",
+      "local_image_path": "images/murad/00767332601243.jpg",
+      "brand": {
+        "slug": "murad",
+        "display_name": "Murad",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Murad",
+        "matched_raw_brands": [
+          "xx:murad"
+        ]
+      },
+      "product": {
+        "name": "Resurgence Renewing Cleansing Cream",
+        "source_names": {
+          "openbeautyfacts": "Resurgence Renewing Cleansing Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/733/260/1243/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/733/260/1243/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/733/260/1243/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/733/260/1243/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/murad/00767332601243.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00767332601243",
+        "ean13": "0767332601243",
+        "upc_a": "767332601243",
+        "ean8": null,
+        "primary_code": "767332601243",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0767332601243"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00767332601243",
+        "qr_payload_text": "https://id.gs1.org/01/00767332601243",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00767332601243",
+          "code": "767332601243",
+          "type": "UPC-A",
+          "brand": "Murad",
+          "name": "Resurgence Renewing Cleansing Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/733/260/1243/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/murad/00767332601243.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0767332601243",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

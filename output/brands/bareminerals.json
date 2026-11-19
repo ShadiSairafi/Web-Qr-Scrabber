@@ -1,0 +1,501 @@
+{
+  "brand_slug": "bareminerals",
+  "display_name": "BareMinerals",
+  "letter_section": "B",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=BareMinerals",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00098132400034",
+      "product_name": "bare Minerals Complexion Rescue Tinted Moisturizer SPF 30 Sienna 10",
+      "image_url": "https://images.openbeautyfacts.org/images/products/009/813/240/0034/front_en.3.400.jpg",
+      "local_image_path": "images/bareminerals/00098132400034.jpg",
+      "brand": {
+        "slug": "bareminerals",
+        "display_name": "BareMinerals",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=BareMinerals",
+        "matched_raw_brands": [
+          "xx:bareminerals",
+          "bareMinerals"
+        ]
+      },
+      "product": {
+        "name": "bare Minerals Complexion Rescue Tinted Moisturizer SPF 30 Sienna 10",
+        "source_names": {
+          "openbeautyfacts": "Complexion Rescue Tinted Hydrating Gel Cream Broad Spectrum SPF 30",
+          "upcitemdb": "bare Minerals Complexion Rescue Tinted Moisturizer SPF 30 Sienna 10"
+        },
+        "alternate_names": [
+          "Complexion Rescue Tinted Hydrating Gel Cream Broad Spectrum SPF 30",
+          "bareMinerals Complexion Rescue Tinted Moisturizer SPF 30 (1.18 fl, oz.) - Sienna",
+          "bareMinerals COMPLEXION RESCUE Tinted Moisturizer with Hyaluronic Acid and Mineral SPF 30, Size: 1.18Oz, Sienna",
+          "BARECRCRG16 1.18 oz Complexion Rescue Tinted Hydrating Cream Gel SPF30&#44; Sienna 10",
+          "bareMinerals Complexion Rescue SPF 30 Tinted Cream with Brush",
+          "Bare Escentuals Complexion Rescue Tinted Hydrating Gel Cream Sienna 1.18 oz"
+        ],
+        "quantity": "Full Size",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Face Makeup",
+          "Foundations & Concealers"
+        ],
+        "description": "The #1 tinted moisturizer in the U.S*. This 3-in-1 multi-tasker is a moisturizer skin tint and SPF 30 with Hyaluronic Acid to boost hydration for a dewy healthy-looking glow. Perfect for dry and combo skin. *Source: Circana/U.S. Prestige Beauty Total Department/Specialty Makeup Product Sales January - December 2023 combined",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/009/813/240/0034/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/009/813/240/0034/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/009/813/240/0034/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/009/813/240/0034/front_en.3.200.jpg",
+          "http://scene7.samsclub.com/is/image/samsclub/0009813240003_A?$img_size_211x208$",
+          "https://media.kohlsimg.com/is/image/kohls/5075043_Sienna?wid=800&hei=800&op_sharpen=1&ver=1",
+          "https://images.qvc.com/is/image/a/55/a274255.001?$uslarge$",
+          "http://c.shld.net/rpx/i/s/pi/mp/10143530/11461544419?src=http%3A%2F%2Fd3d71ba2asa5oz.cloudfront.net%2F12012945%2Fimages%2Fbecmpxrscusiennast.jpg&d=992c1acc6ceb051635a34cffacb53852af7c2ca5",
+          "https://n.nordstrommedia.com/id/sr3/fa262509-d06d-4d8c-abaf-fd08ee58a4bd.jpeg?w=500",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/1/optimized/14863883_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/2546649_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/1c93c938-31ac-40d5-8577-a31b9b555eaf.87f24205c1a100027e9acd6ffe35568a.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://s7d9.scene7.com/is/image/JCPenney/DP0817201517021387M?wid=800&hei=800&op_sharpen=1",
+          "https://target.scene7.com/is/image/Target/GUEST_e97413ae-7749-4357-b186-c244c1d9eb0c?wid=1000&hei=1000"
+        ],
+        "local_image_path": "images/bareminerals/00098132400034.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00098132400034",
+        "ean13": "0098132400034",
+        "upc_a": "098132400034",
+        "ean8": null,
+        "primary_code": "098132400034",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0098132400034",
+          "098132400034"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00098132400034",
+        "qr_payload_text": "https://id.gs1.org/01/00098132400034",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00098132400034",
+          "code": "098132400034",
+          "type": "UPC-A",
+          "brand": "BareMinerals",
+          "name": "bare Minerals Complexion Rescue Tinted Moisturizer SPF 30 Sienna 10",
+          "image_url": "https://images.openbeautyfacts.org/images/products/009/813/240/0034/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/bareminerals/00098132400034.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 67.67
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0098132400034",
+        "upcitemdb_ean": "0098132400034",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00098132562954",
+      "product_name": "Performance Wear Liquid Foundation",
+      "image_url": "https://images.openbeautyfacts.org/images/products/009/813/256/2954/front_en.3.400.jpg",
+      "local_image_path": "images/bareminerals/00098132562954.jpg",
+      "brand": {
+        "slug": "bareminerals",
+        "display_name": "BareMinerals",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=BareMinerals",
+        "matched_raw_brands": [
+          "xx:bareminerals"
+        ]
+      },
+      "product": {
+        "name": "Performance Wear Liquid Foundation",
+        "source_names": {
+          "openbeautyfacts": "Performance Wear Liquid Foundation"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/009/813/256/2954/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/009/813/256/2954/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/009/813/256/2954/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/009/813/256/2954/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/bareminerals/00098132562954.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00098132562954",
+        "ean13": "0098132562954",
+        "upc_a": "098132562954",
+        "ean8": null,
+        "primary_code": "098132562954",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0098132562954"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00098132562954",
+        "qr_payload_text": "https://id.gs1.org/01/00098132562954",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00098132562954",
+          "code": "098132562954",
+          "type": "UPC-A",
+          "brand": "BareMinerals",
+          "name": "Performance Wear Liquid Foundation",
+          "image_url": "https://images.openbeautyfacts.org/images/products/009/813/256/2954/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/bareminerals/00098132562954.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0098132562954",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00098132573882",
+      "product_name": "Hydra-Smoothing Lipstick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/009/813/257/3882/front_en.9.400.jpg",
+      "local_image_path": "images/bareminerals/00098132573882.jpg",
+      "brand": {
+        "slug": "bareminerals",
+        "display_name": "BareMinerals",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=BareMinerals",
+        "matched_raw_brands": [
+          "xx:bareminerals"
+        ]
+      },
+      "product": {
+        "name": "Hydra-Smoothing Lipstick",
+        "source_names": {
+          "openbeautyfacts": "Hydra-Smoothing Lipstick"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Lipstick"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/009/813/257/3882/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/009/813/257/3882/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/009/813/257/3882/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/009/813/257/3882/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/bareminerals/00098132573882.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00098132573882",
+        "ean13": "0098132573882",
+        "upc_a": "098132573882",
+        "ean8": null,
+        "primary_code": "098132573882",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0098132573882"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00098132573882",
+        "qr_payload_text": "https://id.gs1.org/01/00098132573882",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00098132573882",
+          "code": "098132573882",
+          "type": "UPC-A",
+          "brand": "BareMinerals",
+          "name": "Hydra-Smoothing Lipstick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/009/813/257/3882/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/bareminerals/00098132573882.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0098132573882",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00098132574032",
+      "product_name": "Pureness Gel Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/009/813/257/4032/front_en.3.400.jpg",
+      "local_image_path": "images/bareminerals/00098132574032.jpg",
+      "brand": {
+        "slug": "bareminerals",
+        "display_name": "BareMinerals",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=BareMinerals",
+        "matched_raw_brands": [
+          "xx:bareminerals"
+        ]
+      },
+      "product": {
+        "name": "Pureness Gel Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Pureness Gel Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/009/813/257/4032/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/009/813/257/4032/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/009/813/257/4032/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/009/813/257/4032/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/bareminerals/00098132574032.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00098132574032",
+        "ean13": "0098132574032",
+        "upc_a": "098132574032",
+        "ean8": null,
+        "primary_code": "098132574032",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0098132574032"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00098132574032",
+        "qr_payload_text": "https://id.gs1.org/01/00098132574032",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00098132574032",
+          "code": "098132574032",
+          "type": "UPC-A",
+          "brand": "BareMinerals",
+          "name": "Pureness Gel Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/009/813/257/4032/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/bareminerals/00098132574032.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0098132574032",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00098132583539",
+      "product_name": "SMOOTHNESS Hydrating Cleansing Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/009/813/258/3539/front_en.3.400.jpg",
+      "local_image_path": "images/bareminerals/00098132583539.jpg",
+      "brand": {
+        "slug": "bareminerals",
+        "display_name": "BareMinerals",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=BareMinerals",
+        "matched_raw_brands": [
+          "xx:bareminerals"
+        ]
+      },
+      "product": {
+        "name": "SMOOTHNESS Hydrating Cleansing Oil",
+        "source_names": {
+          "openbeautyfacts": "SMOOTHNESS Hydrating Cleansing Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/009/813/258/3539/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/009/813/258/3539/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/009/813/258/3539/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/009/813/258/3539/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/bareminerals/00098132583539.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00098132583539",
+        "ean13": "0098132583539",
+        "upc_a": "098132583539",
+        "ean8": null,
+        "primary_code": "098132583539",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0098132583539"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00098132583539",
+        "qr_payload_text": "https://id.gs1.org/01/00098132583539",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00098132583539",
+          "code": "098132583539",
+          "type": "UPC-A",
+          "brand": "BareMinerals",
+          "name": "SMOOTHNESS Hydrating Cleansing Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/009/813/258/3539/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/bareminerals/00098132583539.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0098132583539",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00098132589357",
+      "product_name": "Poreless Clay Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/009/813/258/9357/front_en.3.400.jpg",
+      "local_image_path": "images/bareminerals/00098132589357.jpg",
+      "brand": {
+        "slug": "bareminerals",
+        "display_name": "BareMinerals",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=BareMinerals",
+        "matched_raw_brands": [
+          "xx:bareminerals"
+        ]
+      },
+      "product": {
+        "name": "Poreless Clay Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Poreless Clay Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/009/813/258/9357/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/009/813/258/9357/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/009/813/258/9357/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/009/813/258/9357/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/bareminerals/00098132589357.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00098132589357",
+        "ean13": "0098132589357",
+        "upc_a": "098132589357",
+        "ean8": null,
+        "primary_code": "098132589357",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0098132589357"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00098132589357",
+        "qr_payload_text": "https://id.gs1.org/01/00098132589357",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00098132589357",
+          "code": "098132589357",
+          "type": "UPC-A",
+          "brand": "BareMinerals",
+          "name": "Poreless Clay Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/009/813/258/9357/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/bareminerals/00098132589357.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0098132589357",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

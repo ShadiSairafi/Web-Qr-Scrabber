@@ -1,0 +1,958 @@
+{
+  "brand_slug": "mac-cosmetics",
+  "display_name": "MAC Cosmetics",
+  "letter_section": "M",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+  "product_count": 12,
+  "canonical_product_count": 12,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00773602040605",
+      "product_name": "MAC Retro Matte Lipstick - Ruby Woo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/204/0605/front_en.8.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602040605.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:MAC Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "MAC Retro Matte Lipstick - Ruby Woo",
+        "source_names": {
+          "openbeautyfacts": "MAC Retro Matte Lipstick - Ruby Woo"
+        },
+        "alternate_names": [
+          "Matte Lipstick"
+        ],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Lipstick",
+          "Makeup",
+          "Matte Lipstick",
+          "Retro Matte Lipstick"
+        ],
+        "description": "Matte Lipstick",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/204/0605/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/204/0605/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/204/0605/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/204/0605/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602040605.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602040605",
+        "ean13": "0773602040605",
+        "upc_a": "773602040605",
+        "ean8": null,
+        "primary_code": "773602040605",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602040605"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602040605",
+        "qr_payload_text": "https://id.gs1.org/01/00773602040605",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602040605",
+          "code": "773602040605",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "MAC Retro Matte Lipstick - Ruby Woo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/204/0605/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602040605.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602040605",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602044467",
+      "product_name": "Powder Blush",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Powder Blush",
+        "source_names": {
+          "openbeautyfacts": "Powder Blush"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00773602044467",
+        "ean13": "0773602044467",
+        "upc_a": "773602044467",
+        "ean8": null,
+        "primary_code": "773602044467",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602044467"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602044467",
+        "qr_payload_text": "https://id.gs1.org/01/00773602044467",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602044467",
+          "code": "773602044467",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Powder Blush",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602044467.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602044467",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602103515",
+      "product_name": "NC35 Studio Fix Fluid SPF 15",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/210/3515/front_en.9.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602103515.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "NC35 Studio Fix Fluid SPF 15",
+        "source_names": {
+          "openbeautyfacts": "NC35 Studio Fix Fluid SPF 15"
+        },
+        "alternate_names": [
+          "foundation met factor.",
+          "base de maquillaje."
+        ],
+        "quantity": "1 oz (30 ml)",
+        "categories": [
+          "Makeup",
+          "Face Makeup"
+        ],
+        "description": "foundation met factor.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/210/3515/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/210/3515/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/210/3515/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/210/3515/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602103515.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602103515",
+        "ean13": "0773602103515",
+        "upc_a": "773602103515",
+        "ean8": null,
+        "primary_code": "773602103515",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602103515"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602103515",
+        "qr_payload_text": "https://id.gs1.org/01/00773602103515",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602103515",
+          "code": "773602103515",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "NC35 Studio Fix Fluid SPF 15",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/210/3515/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602103515.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602103515",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602317684",
+      "product_name": "Just My Type Velvetease Lip Pencil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/231/7684/front_en.4.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602317684.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Just My Type Velvetease Lip Pencil",
+        "source_names": {
+          "openbeautyfacts": "Just My Type Velvetease Lip Pencil"
+        },
+        "alternate_names": [
+          "Rouge à lèvres"
+        ],
+        "quantity": "1.5 g, 0.05 us oz",
+        "categories": [
+          "Lip Pencils"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/231/7684/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/231/7684/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/231/7684/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/231/7684/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602317684.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602317684",
+        "ean13": "0773602317684",
+        "upc_a": "773602317684",
+        "ean8": null,
+        "primary_code": "773602317684",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602317684"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602317684",
+        "qr_payload_text": "https://id.gs1.org/01/00773602317684",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602317684",
+          "code": "773602317684",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Just My Type Velvetease Lip Pencil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/231/7684/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602317684.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602317684",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602403936",
+      "product_name": "Mascara recourbant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/240/3936/front_fr.3.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602403936.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Mascara recourbant",
+        "source_names": {
+          "openbeautyfacts": "Mascara recourbant"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/240/3936/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/240/3936/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/240/3936/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/240/3936/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602403936.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602403936",
+        "ean13": "0773602403936",
+        "upc_a": "773602403936",
+        "ean8": null,
+        "primary_code": "773602403936",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602403936"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602403936",
+        "qr_payload_text": "https://id.gs1.org/01/00773602403936",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602403936",
+          "code": "773602403936",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Mascara recourbant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/240/3936/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602403936.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602403936",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602421732",
+      "product_name": "Studio Finish Concealer NW10",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/242/1732/front_en.7.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602421732.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Studio Finish Concealer NW10",
+        "source_names": {
+          "openbeautyfacts": "Studio Finish Concealer NW10"
+        },
+        "alternate_names": [],
+        "quantity": "7 g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/242/1732/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/242/1732/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/242/1732/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/242/1732/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602421732.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602421732",
+        "ean13": "0773602421732",
+        "upc_a": "773602421732",
+        "ean8": null,
+        "primary_code": "773602421732",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602421732"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602421732",
+        "qr_payload_text": "https://id.gs1.org/01/00773602421732",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602421732",
+          "code": "773602421732",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Studio Finish Concealer NW10",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/242/1732/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602421732.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602421732",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602544172",
+      "product_name": "Matte Lipstick 650 Soar",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/254/4172/front_en.8.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602544172.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Matte Lipstick 650 Soar",
+        "source_names": {
+          "openbeautyfacts": "Matte Lipstick 650 Soar"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Lipstick"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/254/4172/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/254/4172/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/254/4172/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/254/4172/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602544172.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602544172",
+        "ean13": "0773602544172",
+        "upc_a": "773602544172",
+        "ean8": null,
+        "primary_code": "773602544172",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602544172"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602544172",
+        "qr_payload_text": "https://id.gs1.org/01/00773602544172",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602544172",
+          "code": "773602544172",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Matte Lipstick 650 Soar",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/254/4172/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602544172.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602544172",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602603084",
+      "product_name": "Skin Care",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/260/3084/front_en.4.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602603084.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Skin Care",
+        "source_names": {
+          "openbeautyfacts": "Skin Care"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [
+          "Skin"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/260/3084/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/260/3084/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/260/3084/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/260/3084/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602603084.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602603084",
+        "ean13": "0773602603084",
+        "upc_a": "773602603084",
+        "ean8": null,
+        "primary_code": "773602603084",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602603084"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602603084",
+        "qr_payload_text": "https://id.gs1.org/01/00773602603084",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602603084",
+          "code": "773602603084",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Skin Care",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/260/3084/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602603084.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602603084",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602657070",
+      "product_name": "Studio Radiance 24HR Luminous Lift Concealer NC11",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/265/7070/front_en.5.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602657070.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Studio Radiance 24HR Luminous Lift Concealer NC11",
+        "source_names": {
+          "openbeautyfacts": "Studio Radiance 24HR Luminous Lift Concealer NC11"
+        },
+        "alternate_names": [],
+        "quantity": "11ml",
+        "categories": [
+          "Makeup",
+          "Concealer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/265/7070/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/265/7070/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/265/7070/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/265/7070/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602657070.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602657070",
+        "ean13": "0773602657070",
+        "upc_a": "773602657070",
+        "ean8": null,
+        "primary_code": "773602657070",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602657070"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602657070",
+        "qr_payload_text": "https://id.gs1.org/01/00773602657070",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602657070",
+          "code": "773602657070",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Studio Radiance 24HR Luminous Lift Concealer NC11",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/265/7070/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602657070.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602657070",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602678716",
+      "product_name": "M.A.C. STACK",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/267/8716/front_en.3.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602678716.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "M.A.C. STACK",
+        "source_names": {
+          "openbeautyfacts": "M.A.C. STACK"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/267/8716/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/267/8716/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/267/8716/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/267/8716/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602678716.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602678716",
+        "ean13": "0773602678716",
+        "upc_a": "773602678716",
+        "ean8": null,
+        "primary_code": "773602678716",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602678716"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602678716",
+        "qr_payload_text": "https://id.gs1.org/01/00773602678716",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602678716",
+          "code": "773602678716",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "M.A.C. STACK",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/267/8716/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602678716.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602678716",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602690183",
+      "product_name": "Skinfinisher Sunstruck Matte Bronzer STJR-06",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/269/0183/front_en.3.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602690183.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Skinfinisher Sunstruck Matte Bronzer STJR-06",
+        "source_names": {
+          "openbeautyfacts": "Skinfinisher Sunstruck Matte Bronzer STJR-06"
+        },
+        "alternate_names": [],
+        "quantity": "8 g",
+        "categories": [
+          "Makeup",
+          "Face Makeup",
+          "Blush",
+          "Bronzer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/269/0183/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/269/0183/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/269/0183/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/269/0183/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602690183.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602690183",
+        "ean13": "0773602690183",
+        "upc_a": "773602690183",
+        "ean8": null,
+        "primary_code": "773602690183",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602690183"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602690183",
+        "qr_payload_text": "https://id.gs1.org/01/00773602690183",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602690183",
+          "code": "773602690183",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Skinfinisher Sunstruck Matte Bronzer STJR-06",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/269/0183/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602690183.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602690183",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00773602736850",
+      "product_name": "Studio Fix Powder Plus Foundation NC13",
+      "image_url": "https://images.openbeautyfacts.org/images/products/077/360/273/6850/front_en.3.400.jpg",
+      "local_image_path": "images/mac-cosmetics/00773602736850.jpg",
+      "brand": {
+        "slug": "mac-cosmetics",
+        "display_name": "MAC Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=MAC%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:mac"
+        ]
+      },
+      "product": {
+        "name": "Studio Fix Powder Plus Foundation NC13",
+        "source_names": {
+          "openbeautyfacts": "Studio Fix Powder Plus Foundation NC13"
+        },
+        "alternate_names": [],
+        "quantity": "12 g",
+        "categories": [
+          "Makeup",
+          "Face Powder",
+          "Foundation",
+          "Powder Foundation"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/077/360/273/6850/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/077/360/273/6850/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/077/360/273/6850/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/077/360/273/6850/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/mac-cosmetics/00773602736850.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00773602736850",
+        "ean13": "0773602736850",
+        "upc_a": "773602736850",
+        "ean8": null,
+        "primary_code": "773602736850",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0773602736850"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00773602736850",
+        "qr_payload_text": "https://id.gs1.org/01/00773602736850",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00773602736850",
+          "code": "773602736850",
+          "type": "UPC-A",
+          "brand": "MAC Cosmetics",
+          "name": "Studio Fix Powder Plus Foundation NC13",
+          "image_url": "https://images.openbeautyfacts.org/images/products/077/360/273/6850/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/mac-cosmetics/00773602736850.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0773602736850",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

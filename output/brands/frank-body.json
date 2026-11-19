@@ -1,0 +1,180 @@
+{
+  "brand_slug": "frank-body",
+  "display_name": "Frank Body",
+  "letter_section": "F",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Frank%20Body",
+  "product_count": 2,
+  "canonical_product_count": 2,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "09351134000222",
+      "product_name": "Frank Body Sweet Cheeks Kit, 300ml. Shipping Is Free",
+      "image_url": "https://images.openbeautyfacts.org/images/products/935/113/400/0222/front_en.3.400.jpg",
+      "local_image_path": "images/frank-body/09351134000222.jpg",
+      "brand": {
+        "slug": "frank-body",
+        "display_name": "Frank Body",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Frank%20Body",
+        "matched_raw_brands": [
+          "xx:frank-body",
+          "Frank Body"
+        ]
+      },
+      "product": {
+        "name": "Frank Body Sweet Cheeks Kit, 300ml. Shipping Is Free",
+        "source_names": {
+          "openbeautyfacts": "Sweet Cheeks Kit",
+          "upcitemdb": "Frank Body Sweet Cheeks Kit, 300ml. Shipping Is Free"
+        },
+        "alternate_names": [
+          "Sweet Cheeks Kit"
+        ],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care",
+          "Lip Balms & Treatments"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/935/113/400/0222/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/935/113/400/0222/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/935/113/400/0222/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/935/113/400/0222/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/frank-body/09351134000222.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "09351134000222",
+        "ean13": "9351134000222",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "9351134000222",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "9351134000222"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/09351134000222",
+        "qr_payload_text": "https://id.gs1.org/01/09351134000222",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "09351134000222",
+          "code": "9351134000222",
+          "type": "EAN-13",
+          "brand": "Frank Body",
+          "name": "Frank Body Sweet Cheeks Kit, 300ml. Shipping Is Free",
+          "image_url": "https://images.openbeautyfacts.org/images/products/935/113/400/0222/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/frank-body/09351134000222.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 85.71
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/9351134000222",
+        "upcitemdb_ean": "9351134000222",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "09351134001793",
+      "product_name": "Coconut Coffee Scrub",
+      "image_url": "https://images.openbeautyfacts.org/images/products/935/113/400/1793/front_en.3.400.jpg",
+      "local_image_path": "images/frank-body/09351134001793.jpg",
+      "brand": {
+        "slug": "frank-body",
+        "display_name": "Frank Body",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Frank%20Body",
+        "matched_raw_brands": [
+          "xx:frank-body"
+        ]
+      },
+      "product": {
+        "name": "Coconut Coffee Scrub",
+        "source_names": {
+          "openbeautyfacts": "Coconut Coffee Scrub"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/935/113/400/1793/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/935/113/400/1793/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/935/113/400/1793/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/935/113/400/1793/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/frank-body/09351134001793.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "09351134001793",
+        "ean13": "9351134001793",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "9351134001793",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "9351134001793"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/09351134001793",
+        "qr_payload_text": "https://id.gs1.org/01/09351134001793",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "09351134001793",
+          "code": "9351134001793",
+          "type": "EAN-13",
+          "brand": "Frank Body",
+          "name": "Coconut Coffee Scrub",
+          "image_url": "https://images.openbeautyfacts.org/images/products/935/113/400/1793/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/frank-body/09351134001793.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/9351134001793",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

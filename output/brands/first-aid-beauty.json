@@ -1,0 +1,504 @@
+{
+  "brand_slug": "first-aid-beauty",
+  "display_name": "First Aid Beauty",
+  "letter_section": "F",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=First%20Aid%20Beauty",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00815517026746",
+      "product_name": "First Aid Beauty Pure Skin Deep Cleanser with Red Clay 4.7 oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/551/702/6746/front_en.3.400.jpg",
+      "local_image_path": "images/first-aid-beauty/00815517026746.jpg",
+      "brand": {
+        "slug": "first-aid-beauty",
+        "display_name": "First Aid Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=First%20Aid%20Beauty",
+        "matched_raw_brands": [
+          "xx:first-aid-beauty",
+          "First Aid Beauty"
+        ]
+      },
+      "product": {
+        "name": "First Aid Beauty Pure Skin Deep Cleanser with Red Clay 4.7 oz",
+        "source_names": {
+          "openbeautyfacts": "Pure Skin Deep Cleanser with Red Clay",
+          "upcitemdb": "First Aid Beauty Pure Skin Deep Cleanser with Red Clay 4.7 oz"
+        },
+        "alternate_names": [
+          "Pure Skin Deep Cleanser with Red Clay",
+          "First Aid Beauty Deep Cleanser with Red Clay, Size: 4.7 Oz, None",
+          "First Aid BeautyDeep Cleanser With Red Clay 134g",
+          "First Aid Beauty Pure Skin Deep Cleanser with Red Clay at Nordstrom, Size 4.7 Oz",
+          "First Aid Beauty Pure Skin Deep Cleanser with Red Clay 4.7 oz.",
+          "First Aid Beauty Pure Skin Deep Cleanser With Red Clay"
+        ],
+        "quantity": "440 g",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care",
+          "Facial Cleansers"
+        ],
+        "description": "Wake up to pure supple skin with the First Aid Beauty Pure Skin Deep Cleanser with Red Clay. This jewel-red cleanser is a must-have for anyone looking for a deep cleanse that will leave their complexion balanced and luminous. Thanks to the powerful red clay formula this cleanser draws out impurities reduces excess oil and unclogs pores for a fresh and clean complexion. But that s not all - it also features rosemary leaf oil to help balance sebum production and keep oil in check. Say goodbye to shiny T-zones and hello to a smooth matte finish.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/551/702/6746/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/551/702/6746/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/551/702/6746/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/551/702/6746/front_en.3.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/5079462?wid=800&hei=800&op_sharpen=1&ver=4",
+          "https://s.cdnsbn.com/images/products/35662333601.jpg",
+          "https://n.nordstrommedia.com/id/sr3/97d6f183-487b-4dc8-9c1f-478590112849.jpeg?w=500",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/6/optimized/11545476_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/20278893_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/dd3eb073-bb2e-45a5-876a-67f3e1035ece.1c617c33456fa9e8744ea3f1dfdc5d4f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://target.scene7.com/is/image/Target/GUEST_42ea770b-f87d-48d6-ba23-8fd337bdc2c1?wid=1000&hei=1000",
+          "https://ii.beautybrands.com/fcgi-bin/iipsrv.fcgi?FIF=/images/beautybrands/source/23528_default.tif&wid=350&cvt=jpeg",
+          "https://cdn11.bigcommerce.com/s-65cfp7jfhx/products/410/images/3033/_Pure_Skin_Deep_Cleanser_with_Red_Clay_Lead__83326.1624931090.386.513.jpg?c=1"
+        ],
+        "local_image_path": "images/first-aid-beauty/00815517026746.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00815517026746",
+        "ean13": "0815517026746",
+        "upc_a": "815517026746",
+        "ean8": null,
+        "primary_code": "815517026746",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0815517026746",
+          "815517026746"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00815517026746",
+        "qr_payload_text": "https://id.gs1.org/01/00815517026746",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00815517026746",
+          "code": "815517026746",
+          "type": "UPC-A",
+          "brand": "First Aid Beauty",
+          "name": "First Aid Beauty Pure Skin Deep Cleanser with Red Clay 4.7 oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/551/702/6746/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/first-aid-beauty/00815517026746.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0815517026746",
+        "upcitemdb_ean": "0815517026746",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00815517028641",
+      "product_name": "Facial Radiance Pads",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/551/702/8641/front_en.3.400.jpg",
+      "local_image_path": "images/first-aid-beauty/00815517028641.jpg",
+      "brand": {
+        "slug": "first-aid-beauty",
+        "display_name": "First Aid Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=First%20Aid%20Beauty",
+        "matched_raw_brands": [
+          "xx:First Aid Beauty"
+        ]
+      },
+      "product": {
+        "name": "Facial Radiance Pads",
+        "source_names": {
+          "openbeautyfacts": "Facial Radiance Pads"
+        },
+        "alternate_names": [],
+        "quantity": "28 pcs",
+        "categories": [
+          "Non Open Products Facts",
+          "Cosmetics",
+          "Cosmetic Tools",
+          "Skin Care",
+          "Skin Care Tools",
+          "Facial Cleansers"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/551/702/8641/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/551/702/8641/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/551/702/8641/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/551/702/8641/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/first-aid-beauty/00815517028641.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00815517028641",
+        "ean13": "0815517028641",
+        "upc_a": "815517028641",
+        "ean8": null,
+        "primary_code": "815517028641",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0815517028641"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00815517028641",
+        "qr_payload_text": "https://id.gs1.org/01/00815517028641",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00815517028641",
+          "code": "815517028641",
+          "type": "UPC-A",
+          "brand": "First Aid Beauty",
+          "name": "Facial Radiance Pads",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/551/702/8641/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/first-aid-beauty/00815517028641.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0815517028641",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00851939002067",
+      "product_name": "Ultra Repair Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2067/front_en.3.400.jpg",
+      "local_image_path": "images/first-aid-beauty/00851939002067.jpg",
+      "brand": {
+        "slug": "first-aid-beauty",
+        "display_name": "First Aid Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=First%20Aid%20Beauty",
+        "matched_raw_brands": [
+          "xx:First Aid Beauty"
+        ]
+      },
+      "product": {
+        "name": "Ultra Repair Cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra Repair Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2067/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2067/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/193/900/2067/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/193/900/2067/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/first-aid-beauty/00851939002067.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00851939002067",
+        "ean13": "0851939002067",
+        "upc_a": "851939002067",
+        "ean8": null,
+        "primary_code": "851939002067",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0851939002067"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00851939002067",
+        "qr_payload_text": "https://id.gs1.org/01/00851939002067",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00851939002067",
+          "code": "851939002067",
+          "type": "UPC-A",
+          "brand": "First Aid Beauty",
+          "name": "Ultra Repair Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2067/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/first-aid-beauty/00851939002067.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0851939002067",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00851939002586",
+      "product_name": "Ultra Repair Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2586/front_en.5.400.jpg",
+      "local_image_path": "images/first-aid-beauty/00851939002586.jpg",
+      "brand": {
+        "slug": "first-aid-beauty",
+        "display_name": "First Aid Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=First%20Aid%20Beauty",
+        "matched_raw_brands": [
+          "xx:first-aid-beauty"
+        ]
+      },
+      "product": {
+        "name": "Ultra Repair Cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra Repair Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2586/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2586/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/193/900/2586/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/193/900/2586/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/first-aid-beauty/00851939002586.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00851939002586",
+        "ean13": "0851939002586",
+        "upc_a": "851939002586",
+        "ean8": null,
+        "primary_code": "851939002586",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0851939002586"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00851939002586",
+        "qr_payload_text": "https://id.gs1.org/01/00851939002586",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00851939002586",
+          "code": "851939002586",
+          "type": "UPC-A",
+          "brand": "First Aid Beauty",
+          "name": "Ultra Repair Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2586/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/first-aid-beauty/00851939002586.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0851939002586",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00851939002791",
+      "product_name": "Ultra Repair Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2791/front_en.3.400.jpg",
+      "local_image_path": "images/first-aid-beauty/00851939002791.jpg",
+      "brand": {
+        "slug": "first-aid-beauty",
+        "display_name": "First Aid Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=First%20Aid%20Beauty",
+        "matched_raw_brands": [
+          "xx:first-aid-beauty"
+        ]
+      },
+      "product": {
+        "name": "Ultra Repair Cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra Repair Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2791/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2791/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/193/900/2791/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/193/900/2791/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/first-aid-beauty/00851939002791.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00851939002791",
+        "ean13": "0851939002791",
+        "upc_a": "851939002791",
+        "ean8": null,
+        "primary_code": "851939002791",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0851939002791"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00851939002791",
+        "qr_payload_text": "https://id.gs1.org/01/00851939002791",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00851939002791",
+          "code": "851939002791",
+          "type": "UPC-A",
+          "brand": "First Aid Beauty",
+          "name": "Ultra Repair Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/193/900/2791/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/first-aid-beauty/00851939002791.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0851939002791",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00852575005849",
+      "product_name": "Ultra Repair Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/257/500/5849/front_fr.3.400.jpg",
+      "local_image_path": "images/first-aid-beauty/00852575005849.jpg",
+      "brand": {
+        "slug": "first-aid-beauty",
+        "display_name": "First Aid Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=First%20Aid%20Beauty",
+        "matched_raw_brands": [
+          "xx:first-aid-beauty"
+        ]
+      },
+      "product": {
+        "name": "Ultra Repair Cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra Repair Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/257/500/5849/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/257/500/5849/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/257/500/5849/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/257/500/5849/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/first-aid-beauty/00852575005849.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00852575005849",
+        "ean13": "0852575005849",
+        "upc_a": "852575005849",
+        "ean8": null,
+        "primary_code": "852575005849",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0852575005849"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00852575005849",
+        "qr_payload_text": "https://id.gs1.org/01/00852575005849",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00852575005849",
+          "code": "852575005849",
+          "type": "UPC-A",
+          "brand": "First Aid Beauty",
+          "name": "Ultra Repair Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/257/500/5849/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/first-aid-beauty/00852575005849.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0852575005849",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

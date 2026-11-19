@@ -1,0 +1,5096 @@
+{
+  "brand_slug": "clinique",
+  "display_name": "Clinique",
+  "letter_section": "C",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+  "product_count": 65,
+  "canonical_product_count": 65,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00020714001100",
+      "product_name": "Clinique Non-Streak Bronzer for Men 2 oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/400/1100/front_fr.3.400.jpg",
+      "local_image_path": "images/clinique/00020714001100.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique",
+          "Clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Non-Streak Bronzer for Men 2 oz",
+        "source_names": {
+          "openbeautyfacts": "Face bronzer",
+          "upcitemdb": "Clinique Non-Streak Bronzer for Men 2 oz"
+        },
+        "alternate_names": [
+          "Face bronzer",
+          "Clinique for Men Face Bronzer 2 oz / 60 ml",
+          "Clinique For Men Face Bronzer",
+          "Clinique Non-Streak Bronzer",
+          "Clinique For Men Face Bronzer, 2 fl oz",
+          "CLINIQUE Nonstreak Bronzer - NO COLOUR"
+        ],
+        "quantity": "60 ml",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care",
+          "Tanning Products",
+          "Self Tanner"
+        ],
+        "description": "For a suntanned appearance. Goes on easily. Oil-free. Actual product packaging for this item may vary. Allergy Tested. 100% Fragrance Free. Apply to clean moisturized skin. Spread evenly onto face with fingertips. Blend edges. Washes off easily with cleanser.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/400/1100/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/400/1100/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/400/1100/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/400/1100/front_fr.3.200.jpg",
+          "https://www.boscovs.com/wcsstore/boscovs/images/store/product/images/3678892696535.jpg",
+          "http://s7d9.scene7.com/is/image/LordandTaylor/020714001100_main?$PDPLARGE$",
+          "https://images.qvc.com/is/image/a/80/a413380.001?$uslarge$",
+          "http://s7d4.scene7.com/is/image/BonTon/142418?$ibm_large$",
+          "https://n.nordstrommedia.com/id/sr3/b46781ef-0f1d-471b-80e8-d62e2dbd442e.jpeg?w=500",
+          "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/1932319_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/8d52fdd8-33aa-4e16-855b-5cfeae8ce37a.9e64485856ac5bd092dac12f409a798b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://s7d9.scene7.com/is/image/JCPenney/DP0517201717433523M?wid=800&hei=800&op_sharpen=1",
+          "https://c1.neweggimages.com/NeweggImage/productimage/A620_1_202001121074459054.jpg",
+          "http://s7d9.scene7.com/is/image/TheBay/020714001100_main?$PDPLARGE$"
+        ],
+        "local_image_path": "images/clinique/00020714001100.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714001100",
+        "ean13": "0020714001100",
+        "upc_a": "020714001100",
+        "ean8": null,
+        "primary_code": "020714001100",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714001100",
+          "020714001100"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714001100",
+        "qr_payload_text": "https://id.gs1.org/01/00020714001100",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714001100",
+          "code": "020714001100",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Non-Streak Bronzer for Men 2 oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/400/1100/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714001100.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 73.68
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714001100",
+        "upcitemdb_ean": "0020714001100",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714002527",
+      "product_name": "Clinique Exfoliating Scrub 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/400/2527/front_nl.4.400.jpg",
+      "local_image_path": "images/clinique/00020714002527.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Exfoliating Scrub 100ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Exfoliating Scrub 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "For Oilier Skins, 100",
+        "categories": [
+          "Beauty",
+          "Gezichtsreiniging",
+          "Reinigingsscrub",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/400/2527/front_nl.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/400/2527/front_nl.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/400/2527/front_nl.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/400/2527/front_nl.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714002527.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714002527",
+        "ean13": "0020714002527",
+        "upc_a": "020714002527",
+        "ean8": null,
+        "primary_code": "020714002527",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714002527"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714002527",
+        "qr_payload_text": "https://id.gs1.org/01/00020714002527",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714002527",
+          "code": "020714002527",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Exfoliating Scrub 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/400/2527/front_nl.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714002527.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714002527",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714015459",
+      "product_name": "All About Clean Rinse-Off Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/401/5459/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714015459.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:Clinique"
+        ]
+      },
+      "product": {
+        "name": "All About Clean Rinse-Off Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "All About Clean Rinse-Off Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/401/5459/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/401/5459/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/401/5459/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/401/5459/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714015459.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714015459",
+        "ean13": "0020714015459",
+        "upc_a": "020714015459",
+        "ean8": null,
+        "primary_code": "020714015459",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714015459"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714015459",
+        "qr_payload_text": "https://id.gs1.org/01/00020714015459",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714015459",
+          "code": "020714015459",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "All About Clean Rinse-Off Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/401/5459/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714015459.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714015459",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714045159",
+      "product_name": "Clinique",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/404/5159/front_en.5.400.jpg",
+      "local_image_path": "images/clinique/00020714045159.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique",
+        "source_names": {
+          "openbeautyfacts": "Clinique"
+        },
+        "alternate_names": [
+          "Clinique 7 Day Scrub Cream Rinse-Off Formula 100ml"
+        ],
+        "quantity": "100% Fragrance Free, 100",
+        "categories": [
+          "Beauty",
+          "Gezichtsreiniging",
+          "Reinigingsscrub",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/404/5159/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/404/5159/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/404/5159/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/404/5159/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714045159.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714045159",
+        "ean13": "0020714045159",
+        "upc_a": "020714045159",
+        "ean8": null,
+        "primary_code": "020714045159",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714045159"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714045159",
+        "qr_payload_text": "https://id.gs1.org/01/00020714045159",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714045159",
+          "code": "020714045159",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/404/5159/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714045159.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714045159",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714080310",
+      "product_name": "Clinique Happy For Men Cologne - Eau de Toilette 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/408/0310/front_nl.3.400.jpg",
+      "local_image_path": "images/clinique/00020714080310.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Happy For Men Cologne - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Happy For Men Cologne - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Perfumes",
+          "Cologne",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/408/0310/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/408/0310/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/408/0310/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/408/0310/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714080310.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714080310",
+        "ean13": "0020714080310",
+        "upc_a": "020714080310",
+        "ean8": null,
+        "primary_code": "020714080310",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714080310"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714080310",
+        "qr_payload_text": "https://id.gs1.org/01/00020714080310",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714080310",
+          "code": "020714080310",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Happy For Men Cologne - Eau de Toilette 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/408/0310/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714080310.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714080310",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714139193",
+      "product_name": "pur confort crème pour le corps",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/413/9193/front_fr.3.400.jpg",
+      "local_image_path": "images/clinique/00020714139193.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "pur confort crème pour le corps",
+        "source_names": {
+          "openbeautyfacts": "pur confort crème pour le corps"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/413/9193/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/413/9193/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/413/9193/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/413/9193/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714139193.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714139193",
+        "ean13": "0020714139193",
+        "upc_a": "020714139193",
+        "ean8": null,
+        "primary_code": "020714139193",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714139193"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714139193",
+        "qr_payload_text": "https://id.gs1.org/01/00020714139193",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714139193",
+          "code": "020714139193",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "pur confort crème pour le corps",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/413/9193/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714139193.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714139193",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714174231",
+      "product_name": "Clinique Sparkle Skin Body Exfoliating Cream 250ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Sparkle Skin Body Exfoliating Cream 250ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Sparkle Skin Body Exfoliating Cream 250ml"
+        },
+        "alternate_names": [],
+        "quantity": "250",
+        "categories": [
+          "Bodycremes",
+          "Huidverzorging",
+          "Verzorging"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714174231",
+        "ean13": "0020714174231",
+        "upc_a": "020714174231",
+        "ean8": null,
+        "primary_code": "020714174231",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714174231"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714174231",
+        "qr_payload_text": "https://id.gs1.org/01/00020714174231",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714174231",
+          "code": "020714174231",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Sparkle Skin Body Exfoliating Cream 250ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714174231.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714174231",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714209407",
+      "product_name": "Aromatics Elixir Antiperspirant Deodorant Roll-On",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/420/9407/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714209407.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Aromatics Elixir Antiperspirant Deodorant Roll-On",
+        "source_names": {
+          "openbeautyfacts": "Aromatics Elixir Antiperspirant Deodorant Roll-On"
+        },
+        "alternate_names": [],
+        "quantity": "2.5fl.oZ.liQ./75ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/420/9407/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/420/9407/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/420/9407/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/420/9407/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714209407.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714209407",
+        "ean13": "0020714209407",
+        "upc_a": "020714209407",
+        "ean8": null,
+        "primary_code": "020714209407",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714209407"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714209407",
+        "qr_payload_text": "https://id.gs1.org/01/00020714209407",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714209407",
+          "code": "020714209407",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Aromatics Elixir Antiperspirant Deodorant Roll-On",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/420/9407/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714209407.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714209407",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714215552",
+      "product_name": "Take the day off",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/421/5552/front_fr.3.400.jpg",
+      "local_image_path": "images/clinique/00020714215552.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Take the day off",
+        "source_names": {
+          "openbeautyfacts": "Take the day off"
+        },
+        "alternate_names": [],
+        "quantity": "125ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/421/5552/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/421/5552/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/421/5552/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/421/5552/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714215552.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714215552",
+        "ean13": "0020714215552",
+        "upc_a": "020714215552",
+        "ean8": null,
+        "primary_code": "020714215552",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714215552"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714215552",
+        "qr_payload_text": "https://id.gs1.org/01/00020714215552",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714215552",
+          "code": "020714215552",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Take the day off",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/421/5552/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714215552.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714215552",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714222857",
+      "product_name": "clinique",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/422/2857/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714222857.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "clinique",
+        "source_names": {
+          "openbeautyfacts": "clinique"
+        },
+        "alternate_names": [
+          "Clinique Dramatically Different Moisturizing Gel 125 ml"
+        ],
+        "quantity": "Combination Oily To Oily, 125",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/422/2857/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/422/2857/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/422/2857/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/422/2857/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714222857.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714222857",
+        "ean13": "0020714222857",
+        "upc_a": "020714222857",
+        "ean8": null,
+        "primary_code": "020714222857",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714222857"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714222857",
+        "qr_payload_text": "https://id.gs1.org/01/00020714222857",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714222857",
+          "code": "020714222857",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "clinique",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/422/2857/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714222857.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714222857",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714236274",
+      "product_name": "Clinique for Men Face Wash",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique for Men Face Wash",
+        "source_names": {
+          "openbeautyfacts": "Clinique for Men Face Wash"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [
+          "Cuidados Masculinos",
+          "Limpeza Facial",
+          "Produtos Para Banho"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714236274",
+        "ean13": "0020714236274",
+        "upc_a": "020714236274",
+        "ean8": null,
+        "primary_code": "020714236274",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714236274"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714236274",
+        "qr_payload_text": "https://id.gs1.org/01/00020714236274",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714236274",
+          "code": "020714236274",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique for Men Face Wash",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714236274.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714236274",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714258511",
+      "product_name": "Take The Day Off Cleansing Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/425/8511/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714258511.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Take The Day Off Cleansing Oil",
+        "source_names": {
+          "openbeautyfacts": "Take The Day Off Cleansing Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/425/8511/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/425/8511/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/425/8511/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/425/8511/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714258511.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714258511",
+        "ean13": "0020714258511",
+        "upc_a": "020714258511",
+        "ean8": null,
+        "primary_code": "020714258511",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714258511"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714258511",
+        "qr_payload_text": "https://id.gs1.org/01/00020714258511",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714258511",
+          "code": "020714258511",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Take The Day Off Cleansing Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/425/8511/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714258511.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714258511",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714305987",
+      "product_name": "Clinique moisture surge",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/430/5987/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714305987.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique moisture surge",
+        "source_names": {
+          "openbeautyfacts": "Clinique moisture surge"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/430/5987/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/430/5987/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/430/5987/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/430/5987/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714305987.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714305987",
+        "ean13": "0020714305987",
+        "upc_a": "020714305987",
+        "ean8": null,
+        "primary_code": "020714305987",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714305987"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714305987",
+        "qr_payload_text": "https://id.gs1.org/01/00020714305987",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714305987",
+          "code": "020714305987",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique moisture surge",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/430/5987/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714305987.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714305987",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714322014",
+      "product_name": "Savon visage liquide doux",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/432/2014/front_fr.4.400.jpg",
+      "local_image_path": "images/clinique/00020714322014.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Savon visage liquide doux",
+        "source_names": {
+          "openbeautyfacts": "Savon visage liquide doux"
+        },
+        "alternate_names": [],
+        "quantity": "400 ml",
+        "categories": [
+          "Hygiene",
+          "Soaps",
+          "Savons Liquides"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/432/2014/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/432/2014/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/432/2014/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/432/2014/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714322014.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714322014",
+        "ean13": "0020714322014",
+        "upc_a": "020714322014",
+        "ean8": null,
+        "primary_code": "020714322014",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714322014"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714322014",
+        "qr_payload_text": "https://id.gs1.org/01/00020714322014",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714322014",
+          "code": "020714322014",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Savon visage liquide doux",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/432/2014/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714322014.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714322014",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714324605",
+      "product_name": "Clinique Even Better Make Up SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make Up SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make Up SPF15"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Foundation",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714324605",
+        "ean13": "0020714324605",
+        "upc_a": "020714324605",
+        "ean8": null,
+        "primary_code": "020714324605",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714324605"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714324605",
+        "qr_payload_text": "https://id.gs1.org/01/00020714324605",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714324605",
+          "code": "020714324605",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make Up SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714324605.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714324605",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714324612",
+      "product_name": "Clinique Even Better Make Up SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make Up SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make Up SPF15"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Foundation",
+          "Make Up",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714324612",
+        "ean13": "0020714324612",
+        "upc_a": "020714324612",
+        "ean8": null,
+        "primary_code": "020714324612",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714324612"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714324612",
+        "qr_payload_text": "https://id.gs1.org/01/00020714324612",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714324612",
+          "code": "020714324612",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make Up SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714324612.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714324612",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714324667",
+      "product_name": "Clinique Even Better Make-Up SPF15 30ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/432/4667/front_es.6.400.jpg",
+      "local_image_path": "images/clinique/00020714324667.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make-Up SPF15 30ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make-Up SPF15 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "CN 70 Vanilla (MF), 30",
+        "categories": [
+          "Makeup",
+          "Face Makeup",
+          "Tonal Krem",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/432/4667/front_es.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/432/4667/front_es.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/432/4667/front_es.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/432/4667/front_es.6.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714324667.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714324667",
+        "ean13": "0020714324667",
+        "upc_a": "020714324667",
+        "ean8": null,
+        "primary_code": "020714324667",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714324667"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714324667",
+        "qr_payload_text": "https://id.gs1.org/01/00020714324667",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714324667",
+          "code": "020714324667",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make-Up SPF15 30ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/432/4667/front_es.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714324667.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714324667",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714324698",
+      "product_name": "Clinique Even Better Make Up SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make Up SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make Up SPF15"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Foundation",
+          "Make Up",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714324698",
+        "ean13": "0020714324698",
+        "upc_a": "020714324698",
+        "ean8": null,
+        "primary_code": "020714324698",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714324698"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714324698",
+        "qr_payload_text": "https://id.gs1.org/01/00020714324698",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714324698",
+          "code": "020714324698",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make Up SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714324698.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714324698",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714324735",
+      "product_name": "Clinique Even Better Make Up SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make Up SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make Up SPF15"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Foundation",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714324735",
+        "ean13": "0020714324735",
+        "upc_a": "020714324735",
+        "ean8": null,
+        "primary_code": "020714324735",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714324735"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714324735",
+        "qr_payload_text": "https://id.gs1.org/01/00020714324735",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714324735",
+          "code": "020714324735",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make Up SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714324735.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714324735",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714324759",
+      "product_name": "Clinique Even Better Make Up SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make Up SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make Up SPF15"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Foundation",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714324759",
+        "ean13": "0020714324759",
+        "upc_a": "020714324759",
+        "ean8": null,
+        "primary_code": "020714324759",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714324759"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714324759",
+        "qr_payload_text": "https://id.gs1.org/01/00020714324759",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714324759",
+          "code": "020714324759",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make Up SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714324759.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714324759",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714374679",
+      "product_name": "clinique deep comfort",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/437/4679/1.400.jpg",
+      "local_image_path": "images/clinique/00020714374679.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "clinique deep comfort",
+        "source_names": {
+          "openbeautyfacts": "clinique deep comfort"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/437/4679/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/437/4679/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/437/4679/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/437/4679/1.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714374679.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714374679",
+        "ean13": "0020714374679",
+        "upc_a": "020714374679",
+        "ean8": null,
+        "primary_code": "020714374679",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714374679"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714374679",
+        "qr_payload_text": "https://id.gs1.org/01/00020714374679",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714374679",
+          "code": "020714374679",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "clinique deep comfort",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/437/4679/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714374679.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714374679",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714376109",
+      "product_name": "Clinique Deep Comfort Body Wash 200ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/437/6109/front_nl.4.400.jpg",
+      "local_image_path": "images/clinique/00020714376109.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Deep Comfort Body Wash 200ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Deep Comfort Body Wash 200ml"
+        },
+        "alternate_names": [],
+        "quantity": "200",
+        "categories": [
+          "Bad  En Doucheproducten",
+          "Douchegel",
+          "Verzorging"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/437/6109/front_nl.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/437/6109/front_nl.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/437/6109/front_nl.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/437/6109/front_nl.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714376109.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714376109",
+        "ean13": "0020714376109",
+        "upc_a": "020714376109",
+        "ean8": null,
+        "primary_code": "020714376109",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714376109"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714376109",
+        "qr_payload_text": "https://id.gs1.org/01/00020714376109",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714376109",
+          "code": "020714376109",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Deep Comfort Body Wash 200ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/437/6109/front_nl.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714376109.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714376109",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714382742",
+      "product_name": "Anti Age Eye Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/438/2742/front_en.8.400.jpg",
+      "local_image_path": "images/clinique/00020714382742.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Anti Age Eye Cream",
+        "source_names": {
+          "openbeautyfacts": "Anti Age Eye Cream"
+        },
+        "alternate_names": [
+          "Clinique For Men Anti-Age Eye Cream 15 ml"
+        ],
+        "quantity": "100% Fragrance- Free, 15",
+        "categories": [
+          "Beauty",
+          "Gezichtscreme Mannen",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/438/2742/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/438/2742/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/438/2742/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/438/2742/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714382742.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714382742",
+        "ean13": "0020714382742",
+        "upc_a": "020714382742",
+        "ean8": null,
+        "primary_code": "020714382742",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714382742"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714382742",
+        "qr_payload_text": "https://id.gs1.org/01/00020714382742",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714382742",
+          "code": "020714382742",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Anti Age Eye Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/438/2742/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714382742.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714382742",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714395230",
+      "product_name": "Even better",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/439/5230/front_fr.3.400.jpg",
+      "local_image_path": "images/clinique/00020714395230.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Even better",
+        "source_names": {
+          "openbeautyfacts": "Even better"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/439/5230/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/439/5230/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/439/5230/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/439/5230/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714395230.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714395230",
+        "ean13": "0020714395230",
+        "upc_a": "020714395230",
+        "ean8": null,
+        "primary_code": "020714395230",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714395230"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714395230",
+        "qr_payload_text": "https://id.gs1.org/01/00020714395230",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714395230",
+          "code": "020714395230",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Even better",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/439/5230/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714395230.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714395230",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714426774",
+      "product_name": "Clinique All About Eyes Serum Eye Massage Roll-On 15 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/442/6774/front_nl.4.400.jpg",
+      "local_image_path": "images/clinique/00020714426774.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique All About Eyes Serum Eye Massage Roll-On 15 ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique All About Eyes Serum Eye Massage Roll-On 15 ml"
+        },
+        "alternate_names": [],
+        "quantity": "All Skin Types, 15",
+        "categories": [
+          "Beauty",
+          "Oogserum",
+          "Serum",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/442/6774/front_nl.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/442/6774/front_nl.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/442/6774/front_nl.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/442/6774/front_nl.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714426774.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714426774",
+        "ean13": "0020714426774",
+        "upc_a": "020714426774",
+        "ean8": null,
+        "primary_code": "020714426774",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714426774"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714426774",
+        "qr_payload_text": "https://id.gs1.org/01/00020714426774",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714426774",
+          "code": "020714426774",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique All About Eyes Serum Eye Massage Roll-On 15 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/442/6774/front_nl.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714426774.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714426774",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714434878",
+      "product_name": "Redness solutions",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/443/4878/front_fr.8.400.jpg",
+      "local_image_path": "images/clinique/00020714434878.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Redness solutions",
+        "source_names": {
+          "openbeautyfacts": "Redness solutions"
+        },
+        "alternate_names": [
+          "Poudre minérale apaisante anti-rougeurs"
+        ],
+        "quantity": "11,6 g",
+        "categories": [
+          "Makeup",
+          "Face Makeup",
+          "Poudres Libres"
+        ],
+        "description": "Poudre minérale apaisante anti-rougeurs",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/443/4878/front_fr.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/443/4878/front_fr.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/443/4878/front_fr.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/443/4878/front_fr.8.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714434878.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714434878",
+        "ean13": "0020714434878",
+        "upc_a": "020714434878",
+        "ean8": null,
+        "primary_code": "020714434878",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714434878"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714434878",
+        "qr_payload_text": "https://id.gs1.org/01/00020714434878",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714434878",
+          "code": "020714434878",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Redness solutions",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/443/4878/front_fr.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714434878.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714434878",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714462727",
+      "product_name": "Clarifying Lotion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2727/front_en.5.400.jpg",
+      "local_image_path": "images/clinique/00020714462727.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clarifying Lotion",
+        "source_names": {
+          "openbeautyfacts": "Clarifying Lotion"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2727/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2727/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/446/2727/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/446/2727/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714462727.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714462727",
+        "ean13": "0020714462727",
+        "upc_a": "020714462727",
+        "ean8": null,
+        "primary_code": "020714462727",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714462727"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714462727",
+        "qr_payload_text": "https://id.gs1.org/01/00020714462727",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714462727",
+          "code": "020714462727",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clarifying Lotion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2727/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714462727.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714462727",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714462772",
+      "product_name": "clarifying lotion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2772/front_en.4.400.jpg",
+      "local_image_path": "images/clinique/00020714462772.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "clarifying lotion",
+        "source_names": {
+          "openbeautyfacts": "clarifying lotion"
+        },
+        "alternate_names": [],
+        "quantity": "200ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2772/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2772/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/446/2772/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/446/2772/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714462772.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714462772",
+        "ean13": "0020714462772",
+        "upc_a": "020714462772",
+        "ean8": null,
+        "primary_code": "020714462772",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714462772"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714462772",
+        "qr_payload_text": "https://id.gs1.org/01/00020714462772",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714462772",
+          "code": "020714462772",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "clarifying lotion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/446/2772/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714462772.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714462772",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714495428",
+      "product_name": "Clinique Even Better Make Up SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make Up SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make Up SPF15"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Foundation",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714495428",
+        "ean13": "0020714495428",
+        "upc_a": "020714495428",
+        "ean8": null,
+        "primary_code": "020714495428",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714495428"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714495428",
+        "qr_payload_text": "https://id.gs1.org/01/00020714495428",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714495428",
+          "code": "020714495428",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make Up SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714495428.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714495428",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714495435",
+      "product_name": "Clinique Even Better Make Up SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Even Better Make Up SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clinique Even Better Make Up SPF15"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Foundation",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714495435",
+        "ean13": "0020714495435",
+        "upc_a": "020714495435",
+        "ean8": null,
+        "primary_code": "020714495435",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714495435"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714495435",
+        "qr_payload_text": "https://id.gs1.org/01/00020714495435",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714495435",
+          "code": "020714495435",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Even Better Make Up SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714495435.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714495435",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714598907",
+      "product_name": "Dramatically Different Moisturizing Lotion+",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8907/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714598907.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Dramatically Different Moisturizing Lotion+",
+        "source_names": {
+          "openbeautyfacts": "Dramatically Different Moisturizing Lotion+"
+        },
+        "alternate_names": [
+          "Clinique Dramatically Different Moisturizing Lotion+ 125 ml"
+        ],
+        "quantity": "Very Dry To Dry Combination, 125",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8907/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8907/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/459/8907/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/459/8907/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714598907.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714598907",
+        "ean13": "0020714598907",
+        "upc_a": "020714598907",
+        "ean8": null,
+        "primary_code": "020714598907",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714598907"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714598907",
+        "qr_payload_text": "https://id.gs1.org/01/00020714598907",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714598907",
+          "code": "020714598907",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Dramatically Different Moisturizing Lotion+",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8907/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714598907.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714598907",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714598938",
+      "product_name": "Dramatically Different",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8938/front_fr.3.400.jpg",
+      "local_image_path": "images/clinique/00020714598938.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Dramatically Different",
+        "source_names": {
+          "openbeautyfacts": "Dramatically Different"
+        },
+        "alternate_names": [
+          "Clinique Dramatically Different Moisturizing Lotion+ 50ml"
+        ],
+        "quantity": "Very Dry To Dry Combination, 50",
+        "categories": [
+          "Beauty",
+          "Serum",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8938/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8938/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/459/8938/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/459/8938/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714598938.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714598938",
+        "ean13": "0020714598938",
+        "upc_a": "020714598938",
+        "ean8": null,
+        "primary_code": "020714598938",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714598938"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714598938",
+        "qr_payload_text": "https://id.gs1.org/01/00020714598938",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714598938",
+          "code": "020714598938",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Dramatically Different",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/459/8938/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714598938.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714598938",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714649562",
+      "product_name": "Clinique For Men Moisturizing Lotion 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/464/9562/front_sv.4.400.jpg",
+      "local_image_path": "images/clinique/00020714649562.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique For Men Moisturizing Lotion 100ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique For Men Moisturizing Lotion 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100% Fragrance Free, 100",
+        "categories": [
+          "Beauty",
+          "Gezichtscreme Mannen",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/464/9562/front_sv.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/464/9562/front_sv.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/464/9562/front_sv.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/464/9562/front_sv.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714649562.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714649562",
+        "ean13": "0020714649562",
+        "upc_a": "020714649562",
+        "ean8": null,
+        "primary_code": "020714649562",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714649562"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714649562",
+        "qr_payload_text": "https://id.gs1.org/01/00020714649562",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714649562",
+          "code": "020714649562",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique For Men Moisturizing Lotion 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/464/9562/front_sv.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714649562.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714649562",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714672096",
+      "product_name": "Oil Control Face Wash",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/467/2096/front_en.4.400.jpg",
+      "local_image_path": "images/clinique/00020714672096.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Oil Control Face Wash",
+        "source_names": {
+          "openbeautyfacts": "Oil Control Face Wash"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/467/2096/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/467/2096/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/467/2096/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/467/2096/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714672096.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714672096",
+        "ean13": "0020714672096",
+        "upc_a": "020714672096",
+        "ean8": null,
+        "primary_code": "020714672096",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714672096"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714672096",
+        "qr_payload_text": "https://id.gs1.org/01/00020714672096",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714672096",
+          "code": "020714672096",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Oil Control Face Wash",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/467/2096/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714672096.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714672096",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714672164",
+      "product_name": "Creme moussante sonique",
+      "image_url": "https://images.openproductsfacts.org/images/products/002/071/467/2164/front_fr.4.400.jpg",
+      "local_image_path": "images/clinique/00020714672164.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Creme moussante sonique",
+        "source_names": {
+          "openproductsfacts": "Creme moussante sonique"
+        },
+        "alternate_names": [],
+        "quantity": "150 ml",
+        "categories": [
+          "Incorrect Product Type",
+          "Non Open Products Facts",
+          "Open Beauty Facts",
+          "Cosmetics"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openproductsfacts.org/images/products/002/071/467/2164/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openproductsfacts.org/images/products/002/071/467/2164/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openproductsfacts.org/images/products/002/071/467/2164/front_fr.4.400.jpg",
+          "https://images.openproductsfacts.org/images/products/002/071/467/2164/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714672164.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714672164",
+        "ean13": "0020714672164",
+        "upc_a": "020714672164",
+        "ean8": null,
+        "primary_code": "020714672164",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714672164"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714672164",
+        "qr_payload_text": "https://id.gs1.org/01/00020714672164",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714672164",
+          "code": "020714672164",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Creme moussante sonique",
+          "image_url": "https://images.openproductsfacts.org/images/products/002/071/467/2164/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714672164.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.9,
+        "sources": [
+          "openproductsfacts"
+        ],
+        "match_methods": {
+          "openproductsfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z",
+        "openproductsfacts_url": "http://world-en.openproductsfacts.org/product/0020714672164/creme-moussante-sonique-clinique"
+      }
+    },
+    {
+      "gtin14": "00020714689186",
+      "product_name": "Clinique for Men Oil-Control Mattifying Moisturizer",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique for Men Oil-Control Mattifying Moisturizer",
+        "source_names": {
+          "openbeautyfacts": "Clinique for Men Oil-Control Mattifying Moisturizer"
+        },
+        "alternate_names": [],
+        "quantity": "250 ml",
+        "categories": [
+          "Cuidados Masculinos"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714689186",
+        "ean13": "0020714689186",
+        "upc_a": "020714689186",
+        "ean8": null,
+        "primary_code": "020714689186",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714689186"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714689186",
+        "qr_payload_text": "https://id.gs1.org/01/00020714689186",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714689186",
+          "code": "020714689186",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique for Men Oil-Control Mattifying Moisturizer",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714689186.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714689186",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714711979",
+      "product_name": "Clinique Beyond Perfecting Foundation + Concealer 30ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/471/1979/front_nl.4.400.jpg",
+      "local_image_path": "images/clinique/00020714711979.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Beyond Perfecting Foundation + Concealer 30ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Beyond Perfecting Foundation + Concealer 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "CN70 Vanilla, 30",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/471/1979/front_nl.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/471/1979/front_nl.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/471/1979/front_nl.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/471/1979/front_nl.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714711979.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714711979",
+        "ean13": "0020714711979",
+        "upc_a": "020714711979",
+        "ean8": null,
+        "primary_code": "020714711979",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714711979"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714711979",
+        "qr_payload_text": "https://id.gs1.org/01/00020714711979",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714711979",
+          "code": "020714711979",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Beyond Perfecting Foundation + Concealer 30ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/471/1979/front_nl.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714711979.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714711979",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714800888",
+      "product_name": "Clarifying lotion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/480/0888/front_fr.3.400.jpg",
+      "local_image_path": "images/clinique/00020714800888.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clarifying lotion",
+        "source_names": {
+          "openbeautyfacts": "Clarifying lotion"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/480/0888/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/480/0888/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/480/0888/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/480/0888/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714800888.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714800888",
+        "ean13": "0020714800888",
+        "upc_a": "020714800888",
+        "ean8": null,
+        "primary_code": "020714800888",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714800888"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714800888",
+        "qr_payload_text": "https://id.gs1.org/01/00020714800888",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714800888",
+          "code": "020714800888",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clarifying lotion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/480/0888/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714800888.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714800888",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714821234",
+      "product_name": "Travel Size Take The Day Off Cleansing Balm",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/482/1234/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714821234.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Travel Size Take The Day Off Cleansing Balm",
+        "source_names": {
+          "openbeautyfacts": "Travel Size Take The Day Off Cleansing Balm"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/482/1234/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/482/1234/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/482/1234/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/482/1234/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714821234.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714821234",
+        "ean13": "0020714821234",
+        "upc_a": "020714821234",
+        "ean8": null,
+        "primary_code": "020714821234",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714821234"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714821234",
+        "qr_payload_text": "https://id.gs1.org/01/00020714821234",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714821234",
+          "code": "020714821234",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Travel Size Take The Day Off Cleansing Balm",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/482/1234/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714821234.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714821234",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714898151",
+      "product_name": "Clinique moisture surge",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique moisture surge",
+        "source_names": {
+          "openbeautyfacts": "Clinique moisture surge"
+        },
+        "alternate_names": [],
+        "quantity": "75 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714898151",
+        "ean13": "0020714898151",
+        "upc_a": "020714898151",
+        "ean8": null,
+        "primary_code": "020714898151",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714898151"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714898151",
+        "qr_payload_text": "https://id.gs1.org/01/00020714898151",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714898151",
+          "code": "020714898151",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique moisture surge",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714898151.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714898151",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714900267",
+      "product_name": "All About Clean Rinse-Off Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/490/0267/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714900267.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "All About Clean Rinse-Off Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "All About Clean Rinse-Off Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/490/0267/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/490/0267/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/490/0267/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/490/0267/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714900267.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714900267",
+        "ean13": "0020714900267",
+        "upc_a": "020714900267",
+        "ean8": null,
+        "primary_code": "020714900267",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714900267"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714900267",
+        "qr_payload_text": "https://id.gs1.org/01/00020714900267",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714900267",
+          "code": "020714900267",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "All About Clean Rinse-Off Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/490/0267/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714900267.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714900267",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714922689",
+      "product_name": "Clinique Dramatically Different Lipstick Shaping Lip Colour, 44 Raspberry Glace",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Dramatically Different Lipstick Shaping Lip Colour, 44 Raspberry Glace",
+        "source_names": {
+          "openbeautyfacts": "Clinique Dramatically Different Lipstick Shaping Lip Colour, 44 Raspberry Glace"
+        },
+        "alternate_names": [
+          "Lipstick"
+        ],
+        "quantity": "3 g",
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Lipsticks"
+        ],
+        "description": "Lipstick",
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714922689",
+        "ean13": "0020714922689",
+        "upc_a": "020714922689",
+        "ean8": null,
+        "primary_code": "020714922689",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714922689"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714922689",
+        "qr_payload_text": "https://id.gs1.org/01/00020714922689",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714922689",
+          "code": "020714922689",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Dramatically Different Lipstick Shaping Lip Colour, 44 Raspberry Glace",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714922689.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714922689",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714939472",
+      "product_name": "Clinique Dramatically Different Hydrating Jelly 125 ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Dramatically Different Hydrating Jelly 125 ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Dramatically Different Hydrating Jelly 125 ml"
+        },
+        "alternate_names": [],
+        "quantity": "All Skin Types, 125",
+        "categories": [
+          "Beauty",
+          "Serum",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00020714939472",
+        "ean13": "0020714939472",
+        "upc_a": "020714939472",
+        "ean8": null,
+        "primary_code": "020714939472",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714939472"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714939472",
+        "qr_payload_text": "https://id.gs1.org/01/00020714939472",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714939472",
+          "code": "020714939472",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Dramatically Different Hydrating Jelly 125 ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714939472.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714939472",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714949549",
+      "product_name": "Gelée hydratante",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/494/9549/front_fr.8.400.jpg",
+      "local_image_path": "images/clinique/00020714949549.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Gelée hydratante",
+        "source_names": {
+          "openbeautyfacts": "Gelée hydratante"
+        },
+        "alternate_names": [],
+        "quantity": "115 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/494/9549/front_fr.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/494/9549/front_fr.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/494/9549/front_fr.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/494/9549/front_fr.8.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714949549.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714949549",
+        "ean13": "0020714949549",
+        "upc_a": "020714949549",
+        "ean8": null,
+        "primary_code": "020714949549",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714949549"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714949549",
+        "qr_payload_text": "https://id.gs1.org/01/00020714949549",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714949549",
+          "code": "020714949549",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Gelée hydratante",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/494/9549/front_fr.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714949549.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714949549",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714950514",
+      "product_name": "Superdefense night",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/495/0514/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714950514.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Superdefense night",
+        "source_names": {
+          "openbeautyfacts": "Superdefense night"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/495/0514/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/495/0514/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/495/0514/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/495/0514/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714950514.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714950514",
+        "ean13": "0020714950514",
+        "upc_a": "020714950514",
+        "ean8": null,
+        "primary_code": "020714950514",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714950514"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714950514",
+        "qr_payload_text": "https://id.gs1.org/01/00020714950514",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714950514",
+          "code": "020714950514",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Superdefense night",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/495/0514/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714950514.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714950514",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00020714984236",
+      "product_name": "Clinique Moisture Surge Eye 96-Hour Hydro Filler 15 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/071/498/4236/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00020714984236.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Moisture Surge Eye 96-Hour Hydro Filler 15 ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Moisture Surge Eye 96-Hour Hydro Filler 15 ml"
+        },
+        "alternate_names": [],
+        "quantity": "15",
+        "categories": [
+          "Beauty",
+          "Oogcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/071/498/4236/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/071/498/4236/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/071/498/4236/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/071/498/4236/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00020714984236.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00020714984236",
+        "ean13": "0020714984236",
+        "upc_a": "020714984236",
+        "ean8": null,
+        "primary_code": "020714984236",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0020714984236"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00020714984236",
+        "qr_payload_text": "https://id.gs1.org/01/00020714984236",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00020714984236",
+          "code": "020714984236",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Moisture Surge Eye 96-Hour Hydro Filler 15 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/071/498/4236/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00020714984236.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0020714984236",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333013359",
+      "product_name": "All about clean",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/301/3359/front_en.5.400.jpg",
+      "local_image_path": "images/clinique/00192333013359.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "All about clean",
+        "source_names": {
+          "openbeautyfacts": "All about clean"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/301/3359/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/301/3359/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/301/3359/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/301/3359/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333013359.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333013359",
+        "ean13": "0192333013359",
+        "upc_a": "192333013359",
+        "ean8": null,
+        "primary_code": "192333013359",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333013359"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333013359",
+        "qr_payload_text": "https://id.gs1.org/01/00192333013359",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333013359",
+          "code": "192333013359",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "All about clean",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/301/3359/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333013359.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333013359",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333042793",
+      "product_name": "Clinique Moisture Surge Intense 72 Hour Crèmegel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/304/2793/front_nl.3.400.jpg",
+      "local_image_path": "images/clinique/00192333042793.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Moisture Surge Intense 72 Hour Crèmegel",
+        "source_names": {
+          "openbeautyfacts": "Clinique Moisture Surge Intense 72 Hour Crèmegel"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/304/2793/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/304/2793/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/304/2793/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/304/2793/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333042793.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333042793",
+        "ean13": "0192333042793",
+        "upc_a": "192333042793",
+        "ean8": null,
+        "primary_code": "192333042793",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333042793"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333042793",
+        "qr_payload_text": "https://id.gs1.org/01/00192333042793",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333042793",
+          "code": "192333042793",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Moisture Surge Intense 72 Hour Crèmegel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/304/2793/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333042793.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333042793",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333066935",
+      "product_name": "Clinique Moisture Surge 100H Auto-Replenishing Hydrator 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6935/front_nl.3.400.jpg",
+      "local_image_path": "images/clinique/00192333066935.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Moisture Surge 100H Auto-Replenishing Hydrator 50ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Moisture Surge 100H Auto-Replenishing Hydrator 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "All Skin Types, 50",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6935/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6935/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/306/6935/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/306/6935/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333066935.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333066935",
+        "ean13": "0192333066935",
+        "upc_a": "192333066935",
+        "ean8": null,
+        "primary_code": "192333066935",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333066935"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333066935",
+        "qr_payload_text": "https://id.gs1.org/01/00192333066935",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333066935",
+          "code": "192333066935",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Moisture Surge 100H Auto-Replenishing Hydrator 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6935/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333066935.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333066935",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333066942",
+      "product_name": "Moisture Surge 100 Hour Auto-Replenishing Hydrator",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6942/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00192333066942.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Moisture Surge 100 Hour Auto-Replenishing Hydrator",
+        "source_names": {
+          "openbeautyfacts": "Moisture Surge 100 Hour Auto-Replenishing Hydrator"
+        },
+        "alternate_names": [
+          "Clinique Moisture Surge 100H Auto-Replenishing Hydrator 75 ml"
+        ],
+        "quantity": "All Skin Types, 75",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6942/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6942/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/306/6942/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/306/6942/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333066942.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333066942",
+        "ean13": "0192333066942",
+        "upc_a": "192333066942",
+        "ean8": null,
+        "primary_code": "192333066942",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333066942"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333066942",
+        "qr_payload_text": "https://id.gs1.org/01/00192333066942",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333066942",
+          "code": "192333066942",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Moisture Surge 100 Hour Auto-Replenishing Hydrator",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/306/6942/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333066942.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333066942",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333095157",
+      "product_name": "Clinique Moisture Surge Set 120ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique Moisture Surge Set 120ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique Moisture Surge Set 120ml"
+        },
+        "alternate_names": [],
+        "quantity": "Hydrator 75ml/Eye Serum 15ml/Face Spray 30ml, 120",
+        "categories": [
+          "Beauty",
+          "Geschenkset Voor Haar",
+          "Geschenksets"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00192333095157",
+        "ean13": "0192333095157",
+        "upc_a": "192333095157",
+        "ean8": null,
+        "primary_code": "192333095157",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333095157"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333095157",
+        "qr_payload_text": "https://id.gs1.org/01/00192333095157",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333095157",
+          "code": "192333095157",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique Moisture Surge Set 120ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333095157.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333095157",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333099773",
+      "product_name": "clinique anit age mpisturizer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/309/9773/front_en.10.400.jpg",
+      "local_image_path": "images/clinique/00192333099773.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "clinique"
+        ]
+      },
+      "product": {
+        "name": "clinique anit age mpisturizer",
+        "source_names": {
+          "openbeautyfacts": "clinique anit age mpisturizer"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/309/9773/front_en.10.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/309/9773/front_en.10.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/309/9773/front_en.10.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/309/9773/front_en.10.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333099773.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333099773",
+        "ean13": "0192333099773",
+        "upc_a": "192333099773",
+        "ean8": null,
+        "primary_code": "192333099773",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333099773"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333099773",
+        "qr_payload_text": "https://id.gs1.org/01/00192333099773",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333099773",
+          "code": "192333099773",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "clinique anit age mpisturizer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/309/9773/front_en.10.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333099773.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333099773",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333102749",
+      "product_name": "Smart clinical repair",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/310/2749/front_en.9.400.jpg",
+      "local_image_path": "images/clinique/00192333102749.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Smart clinical repair",
+        "source_names": {
+          "openbeautyfacts": "Smart clinical repair"
+        },
+        "alternate_names": [
+          "Clinique Smart Clinical Repair Wrinkle Correcting Eye Cream 15 ml"
+        ],
+        "quantity": "15",
+        "categories": [
+          "Beauty",
+          "Oogcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/310/2749/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/310/2749/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/310/2749/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/310/2749/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333102749.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333102749",
+        "ean13": "0192333102749",
+        "upc_a": "192333102749",
+        "ean8": null,
+        "primary_code": "192333102749",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333102749"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333102749",
+        "qr_payload_text": "https://id.gs1.org/01/00192333102749",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333102749",
+          "code": "192333102749",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Smart clinical repair",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/310/2749/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333102749.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333102749",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333163603",
+      "product_name": "Moisture Surge Sheer Hydrator LSF25",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/3603/front_de.8.400.jpg",
+      "local_image_path": "images/clinique/00192333163603.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:Clinique"
+        ]
+      },
+      "product": {
+        "name": "Moisture Surge Sheer Hydrator LSF25",
+        "source_names": {
+          "openbeautyfacts": "Moisture Surge Sheer Hydrator LSF25"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/3603/front_de.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/316/3603/front_de.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/316/3603/front_de.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/316/3603/front_de.8.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333163603.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333163603",
+        "ean13": "0192333163603",
+        "upc_a": "192333163603",
+        "ean8": null,
+        "primary_code": "192333163603",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333163603"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333163603",
+        "qr_payload_text": "https://id.gs1.org/01/00192333163603",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333163603",
+          "code": "192333163603",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Moisture Surge Sheer Hydrator LSF25",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/3603/front_de.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333163603.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333163603",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333164525",
+      "product_name": "Smart clinical Repair",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4525/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00192333164525.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Smart clinical Repair",
+        "source_names": {
+          "openbeautyfacts": "Smart clinical Repair"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4525/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4525/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/316/4525/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/316/4525/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333164525.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333164525",
+        "ean13": "0192333164525",
+        "upc_a": "192333164525",
+        "ean8": null,
+        "primary_code": "192333164525",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333164525"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333164525",
+        "qr_payload_text": "https://id.gs1.org/01/00192333164525",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333164525",
+          "code": "192333164525",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Smart clinical Repair",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4525/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333164525.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333164525",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333164587",
+      "product_name": "Clinique High Impact High-Fi Full Volume Mascara 10ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4587/front_de.3.400.jpg",
+      "local_image_path": "images/clinique/00192333164587.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:Clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique High Impact High-Fi Full Volume Mascara 10ml",
+        "source_names": {
+          "openbeautyfacts": "Clinique High Impact High-Fi Full Volume Mascara 10ml"
+        },
+        "alternate_names": [],
+        "quantity": "#01 Intense Black, 10",
+        "categories": [
+          "Beauty",
+          "Make Up",
+          "Mascara"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4587/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4587/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/316/4587/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/316/4587/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333164587.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333164587",
+        "ean13": "0192333164587",
+        "upc_a": "192333164587",
+        "ean8": null,
+        "primary_code": "192333164587",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333164587"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333164587",
+        "qr_payload_text": "https://id.gs1.org/01/00192333164587",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333164587",
+          "code": "192333164587",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique High Impact High-Fi Full Volume Mascara 10ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/316/4587/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333164587.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333164587",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333232323",
+      "product_name": "Smart clinical repair AM/PM Retinol Balm",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/323/2323/front_de.3.400.jpg",
+      "local_image_path": "images/clinique/00192333232323.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Smart clinical repair AM/PM Retinol Balm",
+        "source_names": {
+          "openbeautyfacts": "Smart clinical repair AM/PM Retinol Balm"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/323/2323/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/323/2323/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/323/2323/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/323/2323/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333232323.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333232323",
+        "ean13": "0192333232323",
+        "upc_a": "192333232323",
+        "ean8": null,
+        "primary_code": "192333232323",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333232323"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333232323",
+        "qr_payload_text": "https://id.gs1.org/01/00192333232323",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333232323",
+          "code": "192333232323",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Smart clinical repair AM/PM Retinol Balm",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/323/2323/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333232323.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333232323",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00192333268148",
+      "product_name": "Healthy Skin Routine Mini Kit",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/233/326/8148/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00192333268148.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:Clinique"
+        ]
+      },
+      "product": {
+        "name": "Healthy Skin Routine Mini Kit",
+        "source_names": {
+          "openbeautyfacts": "Healthy Skin Routine Mini Kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/233/326/8148/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/233/326/8148/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/233/326/8148/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/233/326/8148/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00192333268148.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00192333268148",
+        "ean13": "0192333268148",
+        "upc_a": "192333268148",
+        "ean8": null,
+        "primary_code": "192333268148",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0192333268148"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00192333268148",
+        "qr_payload_text": "https://id.gs1.org/01/00192333268148",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00192333268148",
+          "code": "192333268148",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Healthy Skin Routine Mini Kit",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/233/326/8148/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00192333268148.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0192333268148",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00571915454191",
+      "product_name": "Dramatically Different Moisturizing Lotion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/057/191/545/4191/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00571915454191.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:Clinique"
+        ]
+      },
+      "product": {
+        "name": "Dramatically Different Moisturizing Lotion",
+        "source_names": {
+          "openbeautyfacts": "Dramatically Different Moisturizing Lotion"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/057/191/545/4191/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/057/191/545/4191/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/057/191/545/4191/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/057/191/545/4191/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00571915454191.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00571915454191",
+        "ean13": "0571915454191",
+        "upc_a": "571915454191",
+        "ean8": null,
+        "primary_code": "571915454191",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0571915454191"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00571915454191",
+        "qr_payload_text": "https://id.gs1.org/01/00571915454191",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00571915454191",
+          "code": "571915454191",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Dramatically Different Moisturizing Lotion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/057/191/545/4191/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00571915454191.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0571915454191",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00593911549114",
+      "product_name": "Fresh Pressed 7-Day System with Pure Vitamin C",
+      "image_url": "https://images.openbeautyfacts.org/images/products/059/391/154/9114/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00593911549114.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Fresh Pressed 7-Day System with Pure Vitamin C",
+        "source_names": {
+          "openbeautyfacts": "Fresh Pressed 7-Day System with Pure Vitamin C"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/059/391/154/9114/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/059/391/154/9114/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/059/391/154/9114/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/059/391/154/9114/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00593911549114.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00593911549114",
+        "ean13": "0593911549114",
+        "upc_a": "593911549114",
+        "ean8": null,
+        "primary_code": "593911549114",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0593911549114"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00593911549114",
+        "qr_payload_text": "https://id.gs1.org/01/00593911549114",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00593911549114",
+          "code": "593911549114",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Fresh Pressed 7-Day System with Pure Vitamin C",
+          "image_url": "https://images.openbeautyfacts.org/images/products/059/391/154/9114/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00593911549114.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0593911549114",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00695652145638",
+      "product_name": "All About Clean Liquid Facial Soap Mild",
+      "image_url": "https://images.openbeautyfacts.org/images/products/069/565/214/5638/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00695652145638.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "All About Clean Liquid Facial Soap Mild",
+        "source_names": {
+          "openbeautyfacts": "All About Clean Liquid Facial Soap Mild"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/069/565/214/5638/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/069/565/214/5638/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/069/565/214/5638/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/069/565/214/5638/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00695652145638.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00695652145638",
+        "ean13": "0695652145638",
+        "upc_a": "695652145638",
+        "ean8": null,
+        "primary_code": "695652145638",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0695652145638"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00695652145638",
+        "qr_payload_text": "https://id.gs1.org/01/00695652145638",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00695652145638",
+          "code": "695652145638",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "All About Clean Liquid Facial Soap Mild",
+          "image_url": "https://images.openbeautyfacts.org/images/products/069/565/214/5638/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00695652145638.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0695652145638",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00736032631508",
+      "product_name": "Clinique For Men Face Wash",
+      "image_url": "https://images.openbeautyfacts.org/images/products/073/603/263/1508/front_en.3.400.jpg",
+      "local_image_path": "images/clinique/00736032631508.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique For Men Face Wash",
+        "source_names": {
+          "openbeautyfacts": "Clinique For Men Face Wash"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/073/603/263/1508/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/073/603/263/1508/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/073/603/263/1508/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/073/603/263/1508/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/00736032631508.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00736032631508",
+        "ean13": "0736032631508",
+        "upc_a": "736032631508",
+        "ean8": null,
+        "primary_code": "736032631508",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0736032631508"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00736032631508",
+        "qr_payload_text": "https://id.gs1.org/01/00736032631508",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00736032631508",
+          "code": "736032631508",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique For Men Face Wash",
+          "image_url": "https://images.openbeautyfacts.org/images/products/073/603/263/1508/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00736032631508.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0736032631508",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00885257132847",
+      "product_name": "Clinique For Men Face Scrub",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Clinique For Men Face Scrub",
+        "source_names": {
+          "openbeautyfacts": "Clinique For Men Face Scrub"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [
+          "Cuidados Masculinos",
+          "Produtos Para Banho"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00885257132847",
+        "ean13": "0885257132847",
+        "upc_a": "885257132847",
+        "ean8": null,
+        "primary_code": "885257132847",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0885257132847"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00885257132847",
+        "qr_payload_text": "https://id.gs1.org/01/00885257132847",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00885257132847",
+          "code": "885257132847",
+          "type": "UPC-A",
+          "brand": "Clinique",
+          "name": "Clinique For Men Face Scrub",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/00885257132847.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0885257132847",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03378872108207",
+      "product_name": "Emulsion hydratante tellement differente",
+      "image_url": "https://images.openbeautyfacts.org/images/products/337/887/210/8207/front_fr.4.400.jpg",
+      "local_image_path": "images/clinique/03378872108207.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Emulsion hydratante tellement differente",
+        "source_names": {
+          "openbeautyfacts": "Emulsion hydratante tellement differente"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/337/887/210/8207/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/337/887/210/8207/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/337/887/210/8207/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/337/887/210/8207/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clinique/03378872108207.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03378872108207",
+        "ean13": "3378872108207",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3378872108207",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3378872108207"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03378872108207",
+        "qr_payload_text": "https://id.gs1.org/01/03378872108207",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03378872108207",
+          "code": "3378872108207",
+          "type": "EAN-13",
+          "brand": "Clinique",
+          "name": "Emulsion hydratante tellement differente",
+          "image_url": "https://images.openbeautyfacts.org/images/products/337/887/210/8207/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/03378872108207.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3378872108207",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "07380498393772",
+      "product_name": "Moisture surge",
+      "image_url": "https://images.openbeautyfacts.org/images/products/738/049/839/3772/front_fr.3.400.jpg",
+      "local_image_path": "images/clinique/07380498393772.jpg",
+      "brand": {
+        "slug": "clinique",
+        "display_name": "Clinique",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clinique",
+        "matched_raw_brands": [
+          "xx:clinique"
+        ]
+      },
+      "product": {
+        "name": "Moisture surge",
+        "source_names": {
+          "openbeautyfacts": "Moisture surge"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/738/049/839/3772/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/738/049/839/3772/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/738/049/839/3772/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/738/049/839/3772/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clinique/07380498393772.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "07380498393772",
+        "ean13": "7380498393772",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "7380498393772",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "7380498393772"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/07380498393772",
+        "qr_payload_text": "https://id.gs1.org/01/07380498393772",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "07380498393772",
+          "code": "7380498393772",
+          "type": "EAN-13",
+          "brand": "Clinique",
+          "name": "Moisture surge",
+          "image_url": "https://images.openbeautyfacts.org/images/products/738/049/839/3772/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clinique/07380498393772.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/7380498393772",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

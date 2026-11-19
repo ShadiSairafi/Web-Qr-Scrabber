@@ -1,0 +1,2835 @@
+{
+  "brand_slug": "elf",
+  "display_name": "e.l.f",
+  "letter_section": "E",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+  "product_count": 35,
+  "canonical_product_count": 35,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00609332216631",
+      "product_name": "e.l.f. Clear Brow & Lash Mascara Crystal - .08 fl oz: Paraben-Free, Sulfate-Free, Vegan, Gloss Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/221/6631/front_en.5.400.jpg",
+      "local_image_path": "images/elf/00609332216631.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:E.L.F.",
+          "e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Clear Brow & Lash Mascara Crystal - .08 fl oz: Paraben-Free, Sulfate-Free, Vegan, Gloss Finish",
+        "source_names": {
+          "openbeautyfacts": "Clear Brow & Lash Mascara Crystal",
+          "upcitemdb": "e.l.f. Clear Brow & Lash Mascara Crystal - .08 fl oz: Paraben-Free, Sulfate-Free, Vegan, Gloss Finish"
+        },
+        "alternate_names": [
+          "Clear Brow & Lash Mascara Crystal",
+          "e.l.f. Clear Brow & Lash Mascara, Multicolor",
+          "e.l.f. Brow & Lash Mascara - 0.08 fl oz",
+          "Merchandise 7994737 Brow And Lash Mascara Crystal Clear",
+          "Clear Brow and Lash Mascara Crystal 0.08 Oz.",
+          "Clear Brow and Lash Mascara - Clear by e.l.f. for Women - 0.084 oz Eyebrow"
+        ],
+        "quantity": "2.5 ml",
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Mascara",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Eye Makeup"
+        ],
+        "description": "Achieve glossy, shiny, healthy-looking lashes and brows with e.l.f. Clear Brow & Lash Mascara. Infused with long wearing conditioning agents, flawless lashes and brows have never been easier! Includes dual-sided wet gloss lash & brow clear mascara Beauty Tip: After applying brow color, brush the clear gel through eyebrows for the best-groomed look. Proud to be 100% vegan and cruelty-free, worldwide. Because kindness is chic.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/221/6631/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/221/6631/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/221/6631/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/221/6631/front_en.5.200.jpg",
+          "https://pics.walgreens.com/prodimg/546155/450.jpg",
+          "https://target.scene7.com/is/image/Target/GUEST_09a96247-3681-4869-9fcc-94f997ccead0?wid=1000&hei=1000",
+          "https://media.kohlsimg.com/is/image/kohls/3373054?wid=800&hei=800&op_sharpen=1",
+          "http://c.shld.net/rpx/i/s/i/spin/10039899/prod_1544866612",
+          "https://i5.walmartimages.com/asr/28dacd1f-3766-4550-9748-6bb6b5dd0f07.9f00a0276c5621a0f04c2b683a3511fd.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://site.unbeatablesale.com/img642/mcds0688.gif",
+          "https://tshop.r10s.com/65c/783/1c4b/cf33/c0cd/e79d/68c9/11ace9abc10242ac110004.jpg?_ex=512x512",
+          "https://i5.walmartimages.ca/asr/56f6054f-7b88-4c57-b874-6aad38ad41f1.ae7242b3a2e8b46dd064d4014e9f32c7.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "http://images.shopko.com/get/w/245/h/245/148031_0041.jpg?notfound=notavailable",
+          "https://www.cvs.com/bizcontent/merchandising/productimages/large/60933221663.jpg"
+        ],
+        "local_image_path": "images/elf/00609332216631.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332216631",
+        "ean13": "0609332216631",
+        "upc_a": "609332216631",
+        "ean8": null,
+        "primary_code": "609332216631",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332216631",
+          "609332216631"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332216631",
+        "qr_payload_text": "https://id.gs1.org/01/00609332216631",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332216631",
+          "code": "609332216631",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Clear Brow & Lash Mascara Crystal - .08 fl oz: Paraben-Free, Sulfate-Free, Vegan, Gloss Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/221/6631/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332216631.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332216631",
+        "upcitemdb_ean": "0609332216631",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332573536",
+      "product_name": "Facial oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/3536/front_en.3.400.jpg",
+      "local_image_path": "images/elf/00609332573536.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f"
+        ]
+      },
+      "product": {
+        "name": "Facial oil",
+        "source_names": {
+          "openbeautyfacts": "Facial oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/3536/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/257/3536/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/257/3536/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/257/3536/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332573536.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332573536",
+        "ean13": "0609332573536",
+        "upc_a": "609332573536",
+        "ean8": null,
+        "primary_code": "609332573536",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332573536"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332573536",
+        "qr_payload_text": "https://id.gs1.org/01/00609332573536",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332573536",
+          "code": "609332573536",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Facial oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/3536/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332573536.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332573536",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332575202",
+      "product_name": "e.l.f. Skin Rose Gold Bronzing Drops",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5202/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332575202.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Skin Rose Gold Bronzing Drops",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Skin Rose Gold Bronzing Drops"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Suncare",
+          "In Sun Protections",
+          "Open Beauty Facts",
+          "Verzorging",
+          "Zelfbruiners"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5202/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5202/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/257/5202/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/257/5202/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332575202.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332575202",
+        "ean13": "0609332575202",
+        "upc_a": "609332575202",
+        "ean8": null,
+        "primary_code": "609332575202",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332575202"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332575202",
+        "qr_payload_text": "https://id.gs1.org/01/00609332575202",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332575202",
+          "code": "609332575202",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Skin Rose Gold Bronzing Drops",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5202/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332575202.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332575202",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332575219",
+      "product_name": "e.l.f. Skin Bronze + Nourish Pure Gold Bronzing Drops",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5219/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332575219.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Skin Bronze + Nourish Pure Gold Bronzing Drops",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Skin Bronze + Nourish Pure Gold Bronzing Drops"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Suncare",
+          "In Sun Protections",
+          "Open Beauty Facts",
+          "Verzorging",
+          "Zelfbruiners"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5219/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5219/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/257/5219/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/257/5219/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332575219.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332575219",
+        "ean13": "0609332575219",
+        "upc_a": "609332575219",
+        "ean8": null,
+        "primary_code": "609332575219",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332575219"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332575219",
+        "qr_payload_text": "https://id.gs1.org/01/00609332575219",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332575219",
+          "code": "609332575219",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Skin Bronze + Nourish Pure Gold Bronzing Drops",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/5219/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332575219.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332575219",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332576155",
+      "product_name": "e.l.f. Skin Vitamin C Brightening +Glow Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/6155/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332576155.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Skin Vitamin C Brightening +Glow Serum",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Skin Vitamin C Brightening +Glow Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Gezichtsserum",
+          "Serum",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/6155/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/257/6155/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/257/6155/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/257/6155/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332576155.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332576155",
+        "ean13": "0609332576155",
+        "upc_a": "609332576155",
+        "ean8": null,
+        "primary_code": "609332576155",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332576155"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332576155",
+        "qr_payload_text": "https://id.gs1.org/01/00609332576155",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332576155",
+          "code": "609332576155",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Skin Vitamin C Brightening +Glow Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/257/6155/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332576155.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332576155",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332599109",
+      "product_name": "Holy Hydration",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9109/front_en.3.400.jpg",
+      "local_image_path": "images/elf/00609332599109.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:elf-skin"
+        ]
+      },
+      "product": {
+        "name": "Holy Hydration",
+        "source_names": {
+          "openbeautyfacts": "Holy Hydration"
+        },
+        "alternate_names": [
+          "e.l.f. Skin Holy Hydration! Makeup Melting Cleansing Balm"
+        ],
+        "quantity": "1 x 56.5g",
+        "categories": [
+          "Cleansing Balm"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9109/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9109/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/259/9109/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/259/9109/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332599109.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332599109",
+        "ean13": "0609332599109",
+        "upc_a": "609332599109",
+        "ean8": null,
+        "primary_code": "609332599109",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332599109"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332599109",
+        "qr_payload_text": "https://id.gs1.org/01/00609332599109",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332599109",
+          "code": "609332599109",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Holy Hydration",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9109/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332599109.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332599109",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332599901",
+      "product_name": "Holy Hydration! Daily Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9901/front_en.3.400.jpg",
+      "local_image_path": "images/elf/00609332599901.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Holy Hydration! Daily Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Holy Hydration! Daily Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9901/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9901/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/259/9901/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/259/9901/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332599901.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332599901",
+        "ean13": "0609332599901",
+        "upc_a": "609332599901",
+        "ean8": null,
+        "primary_code": "609332599901",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332599901"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332599901",
+        "qr_payload_text": "https://id.gs1.org/01/00609332599901",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332599901",
+          "code": "609332599901",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Holy Hydration! Daily Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/259/9901/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332599901.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332599901",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332813373",
+      "product_name": "No Budge Retractable Eyeliner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/281/3373/front_en.12.400.jpg",
+      "local_image_path": "images/elf/00609332813373.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f"
+        ]
+      },
+      "product": {
+        "name": "No Budge Retractable Eyeliner",
+        "source_names": {
+          "openbeautyfacts": "No Budge Retractable Eyeliner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/281/3373/front_en.12.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/281/3373/front_en.12.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/281/3373/front_en.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/281/3373/front_en.12.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332813373.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332813373",
+        "ean13": "0609332813373",
+        "upc_a": "609332813373",
+        "ean8": null,
+        "primary_code": "609332813373",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332813373"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332813373",
+        "qr_payload_text": "https://id.gs1.org/01/00609332813373",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332813373",
+          "code": "609332813373",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "No Budge Retractable Eyeliner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/281/3373/front_en.12.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332813373.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332813373",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332815704",
+      "product_name": "e.l.f. Skin Holy Hydration! SPF30 Dagcrème",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/281/5704/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332815704.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Skin Holy Hydration! SPF30 Dagcrème",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Skin Holy Hydration! SPF30 Dagcrème"
+        },
+        "alternate_names": [],
+        "quantity": "50g",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/281/5704/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/281/5704/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/281/5704/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/281/5704/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332815704.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332815704",
+        "ean13": "0609332815704",
+        "upc_a": "609332815704",
+        "ean8": null,
+        "primary_code": "609332815704",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332815704"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332815704",
+        "qr_payload_text": "https://id.gs1.org/01/00609332815704",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332815704",
+          "code": "609332815704",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Skin Holy Hydration! SPF30 Dagcrème",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/281/5704/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332815704.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332815704",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332820043",
+      "product_name": "e.l.f. Glow Reviver Pink Quartz Lip Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0043/front_nl.9.400.jpg",
+      "local_image_path": "images/elf/00609332820043.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Glow Reviver Pink Quartz Lip Oil",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Glow Reviver Pink Quartz Lip Oil"
+        },
+        "alternate_names": [
+          "Glow Reviver Lip Oil"
+        ],
+        "quantity": "7,6ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Lip Oil",
+          "Lipmake Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0043/front_nl.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0043/front_nl.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/0043/front_nl.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/0043/front_nl.9.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332820043.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332820043",
+        "ean13": "0609332820043",
+        "upc_a": "609332820043",
+        "ean8": null,
+        "primary_code": "609332820043",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332820043"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332820043",
+        "qr_payload_text": "https://id.gs1.org/01/00609332820043",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332820043",
+          "code": "609332820043",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Glow Reviver Pink Quartz Lip Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0043/front_nl.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332820043.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332820043",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332820050",
+      "product_name": "Elf glow reviver lip oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0050/front_nl.8.400.jpg",
+      "local_image_path": "images/elf/00609332820050.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f"
+        ]
+      },
+      "product": {
+        "name": "Elf glow reviver lip oil",
+        "source_names": {
+          "openbeautyfacts": "Elf glow reviver lip oil"
+        },
+        "alternate_names": [
+          "e.l.f. Glow Reviver Honey Talks Lip Oil"
+        ],
+        "quantity": "7,6ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Lip Oil",
+          "Lipmake Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0050/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0050/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/0050/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/0050/front_nl.8.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332820050.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332820050",
+        "ean13": "0609332820050",
+        "upc_a": "609332820050",
+        "ean8": null,
+        "primary_code": "609332820050",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332820050"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332820050",
+        "qr_payload_text": "https://id.gs1.org/01/00609332820050",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332820050",
+          "code": "609332820050",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Elf glow reviver lip oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/0050/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332820050.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332820050",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332822177",
+      "product_name": "SuperClarify Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/2177/front_en.3.400.jpg",
+      "local_image_path": "images/elf/00609332822177.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "SuperClarify Cleanser",
+        "source_names": {
+          "openbeautyfacts": "SuperClarify Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/2177/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/2177/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/2177/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/2177/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332822177.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332822177",
+        "ean13": "0609332822177",
+        "upc_a": "609332822177",
+        "ean8": null,
+        "primary_code": "609332822177",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332822177"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332822177",
+        "qr_payload_text": "https://id.gs1.org/01/00609332822177",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332822177",
+          "code": "609332822177",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "SuperClarify Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/2177/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332822177.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332822177",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332823273",
+      "product_name": "Sheer For It Bronzer Tint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/3273/front_en.3.400.jpg",
+      "local_image_path": "images/elf/00609332823273.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "Sheer For It Bronzer Tint",
+        "source_names": {
+          "openbeautyfacts": "Sheer For It Bronzer Tint"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/3273/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/3273/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/3273/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/3273/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332823273.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332823273",
+        "ean13": "0609332823273",
+        "upc_a": "609332823273",
+        "ean8": null,
+        "primary_code": "609332823273",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332823273"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332823273",
+        "qr_payload_text": "https://id.gs1.org/01/00609332823273",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332823273",
+          "code": "609332823273",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Sheer For It Bronzer Tint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/3273/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332823273.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332823273",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332825116",
+      "product_name": "Lip Exfoliator",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/5116/front_en.5.400.jpg",
+      "local_image_path": "images/elf/00609332825116.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f"
+        ]
+      },
+      "product": {
+        "name": "Lip Exfoliator",
+        "source_names": {
+          "openbeautyfacts": "Lip Exfoliator"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/5116/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/5116/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/5116/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/5116/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332825116.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332825116",
+        "ean13": "0609332825116",
+        "upc_a": "609332825116",
+        "ean8": null,
+        "primary_code": "609332825116",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332825116"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332825116",
+        "qr_payload_text": "https://id.gs1.org/01/00609332825116",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332825116",
+          "code": "609332825116",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Lip Exfoliator",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/5116/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332825116.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332825116",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332828292",
+      "product_name": "e.l.f. Skin Holy Hydration! Original Face Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8292/front_nl.8.400.jpg",
+      "local_image_path": "images/elf/00609332828292.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Skin Holy Hydration! Original Face Cream",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Skin Holy Hydration! Original Face Cream"
+        },
+        "alternate_names": [
+          "Holy Hydration Crème Visage"
+        ],
+        "quantity": "50g",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8292/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8292/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/8292/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/8292/front_nl.8.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332828292.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332828292",
+        "ean13": "0609332828292",
+        "upc_a": "609332828292",
+        "ean8": null,
+        "primary_code": "609332828292",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332828292"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332828292",
+        "qr_payload_text": "https://id.gs1.org/01/00609332828292",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332828292",
+          "code": "609332828292",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Skin Holy Hydration! Original Face Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8292/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332828292.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332828292",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332828469",
+      "product_name": "e.l.f. Power Grip Primer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8469/front_nl.8.400.jpg",
+      "local_image_path": "images/elf/00609332828469.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Power Grip Primer",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Power Grip Primer"
+        },
+        "alternate_names": [
+          "Power Grip Primer., Gel-Based & Hydrating Face Primer For Smoothing Skin & Gripping Makeup, Moisturizes & Primes"
+        ],
+        "quantity": "24ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Primer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8469/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8469/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/8469/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/8469/front_nl.8.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332828469.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332828469",
+        "ean13": "0609332828469",
+        "upc_a": "609332828469",
+        "ean8": null,
+        "primary_code": "609332828469",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332828469"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332828469",
+        "qr_payload_text": "https://id.gs1.org/01/00609332828469",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332828469",
+          "code": "609332828469",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Power Grip Primer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/8469/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332828469.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332828469",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332829985",
+      "product_name": "Brow lift",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/9985/front_en.3.400.jpg",
+      "local_image_path": "images/elf/00609332829985.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:elf"
+        ]
+      },
+      "product": {
+        "name": "Brow lift",
+        "source_names": {
+          "openbeautyfacts": "Brow lift"
+        },
+        "alternate_names": [
+          "e.l.f. Clear Brow Lift Wax"
+        ],
+        "quantity": "8,8g",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Wenkbrauw Make Up",
+          "Wenkbrauwgel"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/9985/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/282/9985/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/282/9985/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/282/9985/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332829985.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332829985",
+        "ean13": "0609332829985",
+        "upc_a": "609332829985",
+        "ean8": null,
+        "primary_code": "609332829985",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332829985"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332829985",
+        "qr_payload_text": "https://id.gs1.org/01/00609332829985",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332829985",
+          "code": "609332829985",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Brow lift",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/282/9985/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332829985.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332829985",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332833753",
+      "product_name": "Ride or Die Lip Balm",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3753/front_en.7.400.jpg",
+      "local_image_path": "images/elf/00609332833753.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e-l-f"
+        ]
+      },
+      "product": {
+        "name": "Ride or Die Lip Balm",
+        "source_names": {
+          "openbeautyfacts": "Ride or Die Lip Balm"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3753/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3753/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/283/3753/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/283/3753/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332833753.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332833753",
+        "ean13": "0609332833753",
+        "upc_a": "609332833753",
+        "ean8": null,
+        "primary_code": "609332833753",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332833753"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332833753",
+        "qr_payload_text": "https://id.gs1.org/01/00609332833753",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332833753",
+          "code": "609332833753",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Ride or Die Lip Balm",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3753/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332833753.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332833753",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332833920",
+      "product_name": "e.l.f. Halo Glow Dark Setting Powder",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3920/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332833920.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Halo Glow Dark Setting Powder",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Halo Glow Dark Setting Powder"
+        },
+        "alternate_names": [],
+        "quantity": "6,8g",
+        "categories": [
+          "Beauty",
+          "Gezichtspoeder",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3920/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3920/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/283/3920/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/283/3920/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332833920.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332833920",
+        "ean13": "0609332833920",
+        "upc_a": "609332833920",
+        "ean8": null,
+        "primary_code": "609332833920",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332833920"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332833920",
+        "qr_payload_text": "https://id.gs1.org/01/00609332833920",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332833920",
+          "code": "609332833920",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Halo Glow Dark Setting Powder",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/3920/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332833920.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332833920",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332836761",
+      "product_name": "Velvet Cable Knit Liquid Oogschaduw",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/6761/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332836761.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "Velvet Cable Knit Liquid Oogschaduw",
+        "source_names": {
+          "openbeautyfacts": "Velvet Cable Knit Liquid Oogschaduw"
+        },
+        "alternate_names": [],
+        "quantity": "4.4 g",
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Eyeshadows"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/6761/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/283/6761/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/283/6761/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/283/6761/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332836761.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332836761",
+        "ean13": "0609332836761",
+        "upc_a": "609332836761",
+        "ean8": null,
+        "primary_code": "609332836761",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332836761"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332836761",
+        "qr_payload_text": "https://id.gs1.org/01/00609332836761",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332836761",
+          "code": "609332836761",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "Velvet Cable Knit Liquid Oogschaduw",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/6761/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332836761.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332836761",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332838109",
+      "product_name": "e.l.f. Coconut Dewy Setting Mist",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/8109/front_nl.11.400.jpg",
+      "local_image_path": "images/elf/00609332838109.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Coconut Dewy Setting Mist",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Coconut Dewy Setting Mist"
+        },
+        "alternate_names": [
+          "Dewy Coconut Setting Mist, Micro-Fine Setting Mist"
+        ],
+        "quantity": "80ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Fixing Sprays"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/8109/front_nl.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/283/8109/front_nl.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/283/8109/front_nl.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/283/8109/front_nl.11.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332838109.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332838109",
+        "ean13": "0609332838109",
+        "upc_a": "609332838109",
+        "ean8": null,
+        "primary_code": "609332838109",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332838109"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332838109",
+        "qr_payload_text": "https://id.gs1.org/01/00609332838109",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332838109",
+          "code": "609332838109",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Coconut Dewy Setting Mist",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/283/8109/front_nl.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332838109.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332838109",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332844131",
+      "product_name": "e.l.f. Halo Glow Highlight Pink Prism Beauty Wand",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4131/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332844131.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Halo Glow Highlight Pink Prism Beauty Wand",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Halo Glow Highlight Pink Prism Beauty Wand"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Beauty",
+          "Highlighter",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4131/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4131/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/4131/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/4131/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332844131.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332844131",
+        "ean13": "0609332844131",
+        "upc_a": "609332844131",
+        "ean8": null,
+        "primary_code": "609332844131",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332844131"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332844131",
+        "qr_payload_text": "https://id.gs1.org/01/00609332844131",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332844131",
+          "code": "609332844131",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Halo Glow Highlight Pink Prism Beauty Wand",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4131/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332844131.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332844131",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332844148",
+      "product_name": "e.l.f. Halo Glow Highlight Starstruck Beauty Wand",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4148/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332844148.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Halo Glow Highlight Starstruck Beauty Wand",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Halo Glow Highlight Starstruck Beauty Wand"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Beauty",
+          "Highlighter",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4148/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4148/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/4148/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/4148/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332844148.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332844148",
+        "ean13": "0609332844148",
+        "upc_a": "609332844148",
+        "ean8": null,
+        "primary_code": "609332844148",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332844148"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332844148",
+        "qr_payload_text": "https://id.gs1.org/01/00609332844148",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332844148",
+          "code": "609332844148",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Halo Glow Highlight Starstruck Beauty Wand",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4148/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332844148.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332844148",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332844155",
+      "product_name": "e.l.f. Halo Glow Highlight IRL Angel Beauty Wand",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4155/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332844155.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Halo Glow Highlight IRL Angel Beauty Wand",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Halo Glow Highlight IRL Angel Beauty Wand"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Beauty",
+          "Highlighter",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4155/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4155/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/4155/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/4155/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332844155.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332844155",
+        "ean13": "0609332844155",
+        "upc_a": "609332844155",
+        "ean8": null,
+        "primary_code": "609332844155",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332844155"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332844155",
+        "qr_payload_text": "https://id.gs1.org/01/00609332844155",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332844155",
+          "code": "609332844155",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Halo Glow Highlight IRL Angel Beauty Wand",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/4155/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332844155.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332844155",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332846906",
+      "product_name": "e.l.f. Halo Glow Highlight Champagne Campaign Beauty Wand",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/6906/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332846906.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Halo Glow Highlight Champagne Campaign Beauty Wand",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Halo Glow Highlight Champagne Campaign Beauty Wand"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Beauty",
+          "Highlighter",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/6906/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/6906/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/6906/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/6906/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332846906.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332846906",
+        "ean13": "0609332846906",
+        "upc_a": "609332846906",
+        "ean8": null,
+        "primary_code": "609332846906",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332846906"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332846906",
+        "qr_payload_text": "https://id.gs1.org/01/00609332846906",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332846906",
+          "code": "609332846906",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Halo Glow Highlight Champagne Campaign Beauty Wand",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/6906/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332846906.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332846906",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848221",
+      "product_name": "e.l.f. Fair Beige Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8221/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332848221.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Fair Beige Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Fair Beige Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8221/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8221/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8221/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8221/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848221.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848221",
+        "ean13": "0609332848221",
+        "upc_a": "609332848221",
+        "ean8": null,
+        "primary_code": "609332848221",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848221"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848221",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848221",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848221",
+          "code": "609332848221",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Fair Beige Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8221/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848221.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848221",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848238",
+      "product_name": "e.l.f. Light Ivory Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8238/front_nl.5.400.jpg",
+      "local_image_path": "images/elf/00609332848238.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Light Ivory Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Light Ivory Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8238/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8238/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8238/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8238/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848238.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848238",
+        "ean13": "0609332848238",
+        "upc_a": "609332848238",
+        "ean8": null,
+        "primary_code": "609332848238",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848238"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848238",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848238",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848238",
+          "code": "609332848238",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Light Ivory Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8238/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848238.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848238",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848245",
+      "product_name": "e.l.f. Light Sand Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8245/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332848245.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Light Sand Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Light Sand Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8245/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8245/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8245/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8245/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848245.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848245",
+        "ean13": "0609332848245",
+        "upc_a": "609332848245",
+        "ean8": null,
+        "primary_code": "609332848245",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848245"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848245",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848245",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848245",
+          "code": "609332848245",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Light Sand Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8245/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848245.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848245",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848252",
+      "product_name": "e.l.f. Light Peach Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8252/front_nl.5.400.jpg",
+      "local_image_path": "images/elf/00609332848252.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Light Peach Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Light Peach Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8252/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8252/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8252/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8252/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848252.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848252",
+        "ean13": "0609332848252",
+        "upc_a": "609332848252",
+        "ean8": null,
+        "primary_code": "609332848252",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848252"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848252",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848252",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848252",
+          "code": "609332848252",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Light Peach Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8252/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848252.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848252",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848276",
+      "product_name": "e.l.f. Medium Peach Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8276/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332848276.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Medium Peach Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Medium Peach Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8276/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8276/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8276/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8276/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848276.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848276",
+        "ean13": "0609332848276",
+        "upc_a": "609332848276",
+        "ean8": null,
+        "primary_code": "609332848276",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848276"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848276",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848276",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848276",
+          "code": "609332848276",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Medium Peach Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8276/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848276.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848276",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848337",
+      "product_name": "e.l.f. Tan Sand Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8337/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332848337.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Tan Sand Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Tan Sand Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8337/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8337/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8337/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8337/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848337.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848337",
+        "ean13": "0609332848337",
+        "upc_a": "609332848337",
+        "ean8": null,
+        "primary_code": "609332848337",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848337"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848337",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848337",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848337",
+          "code": "609332848337",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Tan Sand Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8337/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848337.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848337",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848368",
+      "product_name": "e.l.f. Tan Neutral Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8368/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332848368.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Tan Neutral Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Tan Neutral Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8368/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8368/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8368/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8368/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848368.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848368",
+        "ean13": "0609332848368",
+        "upc_a": "609332848368",
+        "ean8": null,
+        "primary_code": "609332848368",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848368"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848368",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848368",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848368",
+          "code": "609332848368",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Tan Neutral Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8368/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848368.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848368",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332848399",
+      "product_name": "e.l.f. Deep Caramel Hydrating Camo Concealer Satin Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8399/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332848399.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Deep Caramel Hydrating Camo Concealer Satin Finish",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Deep Caramel Hydrating Camo Concealer Satin Finish"
+        },
+        "alternate_names": [],
+        "quantity": "6ml",
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8399/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8399/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8399/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/284/8399/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332848399.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332848399",
+        "ean13": "0609332848399",
+        "upc_a": "609332848399",
+        "ean8": null,
+        "primary_code": "609332848399",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332848399"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332848399",
+        "qr_payload_text": "https://id.gs1.org/01/00609332848399",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332848399",
+          "code": "609332848399",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Deep Caramel Hydrating Camo Concealer Satin Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/284/8399/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332848399.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332848399",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00609332852457",
+      "product_name": "e.l.f. Stay Cool Primer Stick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/933/285/2457/front_nl.3.400.jpg",
+      "local_image_path": "images/elf/00609332852457.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "e.l.f. Stay Cool Primer Stick",
+        "source_names": {
+          "openbeautyfacts": "e.l.f. Stay Cool Primer Stick"
+        },
+        "alternate_names": [],
+        "quantity": "17g",
+        "categories": [
+          "Beauty",
+          "Make Up",
+          "Primer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/933/285/2457/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/933/285/2457/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/933/285/2457/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/933/285/2457/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/00609332852457.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00609332852457",
+        "ean13": "0609332852457",
+        "upc_a": "609332852457",
+        "ean8": null,
+        "primary_code": "609332852457",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0609332852457"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00609332852457",
+        "qr_payload_text": "https://id.gs1.org/01/00609332852457",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00609332852457",
+          "code": "609332852457",
+          "type": "UPC-A",
+          "brand": "e.l.f",
+          "name": "e.l.f. Stay Cool Primer Stick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/933/285/2457/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/00609332852457.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0609332852457",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08906143540347",
+      "product_name": "Spicy Cinnamon Lipstick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/890/614/354/0347/front_en.3.400.jpg",
+      "local_image_path": "images/elf/08906143540347.jpg",
+      "brand": {
+        "slug": "elf",
+        "display_name": "e.l.f",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=e.l.f",
+        "matched_raw_brands": [
+          "xx:e.l.f."
+        ]
+      },
+      "product": {
+        "name": "Spicy Cinnamon Lipstick",
+        "source_names": {
+          "openbeautyfacts": "Spicy Cinnamon Lipstick"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/890/614/354/0347/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/890/614/354/0347/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/890/614/354/0347/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/890/614/354/0347/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/elf/08906143540347.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08906143540347",
+        "ean13": "8906143540347",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8906143540347",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8906143540347"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08906143540347",
+        "qr_payload_text": "https://id.gs1.org/01/08906143540347",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08906143540347",
+          "code": "8906143540347",
+          "type": "EAN-13",
+          "brand": "e.l.f",
+          "name": "Spicy Cinnamon Lipstick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/890/614/354/0347/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/elf/08906143540347.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8906143540347",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

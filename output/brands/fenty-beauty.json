@@ -1,0 +1,804 @@
+{
+  "brand_slug": "fenty-beauty",
+  "display_name": "Fenty Beauty",
+  "letter_section": "F",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+  "product_count": 10,
+  "canonical_product_count": 10,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00100149594948",
+      "product_name": "Fenty Beauty by Rihanna Match Stix Matte Contour Skinstick - Truffle - contour for medium skin tones neutral undertone - 0.25 oz/7.10 g",
+      "image_url": "https://i5.walmartimages.com/asr/0d5cf506-9155-4928-b8d7-bfcc93d27154.798a550d62a044699ed011a0fcf44d1c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/fenty-beauty/00100149594948.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "Fenty Beauty"
+        ]
+      },
+      "product": {
+        "name": "Fenty Beauty by Rihanna Match Stix Matte Contour Skinstick - Truffle - contour for medium skin tones neutral undertone - 0.25 oz/7.10 g",
+        "source_names": {
+          "upcitemdb": "Fenty Beauty by Rihanna Match Stix Matte Contour Skinstick - Truffle - contour for medium skin tones neutral undertone - 0.25 oz/7.10 g"
+        },
+        "alternate_names": [],
+        "quantity": "0.25 oz/7.10 g",
+        "categories": [],
+        "description": "What it is:A matte contour stick in a range of shades for all skin tones. The buildable cream-to-powder long-wear formula is lightweight and blendable.Coverage:? MediumFormulation: StickFinish:? MatteIngredient Callouts: Free of Parabens and Phthalates. This product is also vegan gluten-free and cruelty-free.What else you need to know: Magnets often use nonrenewable resources so in December 2021 we began phasing them out of our Match Stix collections to help lower our environmental impact. Although we are removing magnets everything else you know and love about the formula and packaging is the same.",
+        "primary_image_url": "https://i5.walmartimages.com/asr/0d5cf506-9155-4928-b8d7-bfcc93d27154.798a550d62a044699ed011a0fcf44d1c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/0d5cf506-9155-4928-b8d7-bfcc93d27154.798a550d62a044699ed011a0fcf44d1c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/0d5cf506-9155-4928-b8d7-bfcc93d27154.798a550d62a044699ed011a0fcf44d1c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/fenty-beauty/00100149594948.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00100149594948",
+        "ean13": "0100149594948",
+        "upc_a": "100149594948",
+        "ean8": null,
+        "primary_code": "100149594948",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0100149594948",
+          "100149594948"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00100149594948",
+        "qr_payload_text": "https://id.gs1.org/01/00100149594948",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00100149594948",
+          "code": "100149594948",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "Fenty Beauty by Rihanna Match Stix Matte Contour Skinstick - Truffle - contour for medium skin tones neutral undertone - 0.25 oz/7.10 g",
+          "image_url": "https://i5.walmartimages.com/asr/0d5cf506-9155-4928-b8d7-bfcc93d27154.798a550d62a044699ed011a0fcf44d1c.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00100149594948.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0100149594948",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00659475825344",
+      "product_name": "Fenty Beauty Pro Filt r Hydrating Longwear Foundation 1 f oz Shade 180",
+      "image_url": "https://i5.walmartimages.com/asr/3c7bcd6f-fa4d-457b-b066-1c09f42a0405.bcc6bb84b13c6ceb07b6507f7f646ce0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/fenty-beauty/00659475825344.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "Fenty Beauty"
+        ]
+      },
+      "product": {
+        "name": "Fenty Beauty Pro Filt r Hydrating Longwear Foundation 1 f oz Shade 180",
+        "source_names": {
+          "upcitemdb": "Fenty Beauty Pro Filt r Hydrating Longwear Foundation 1 f oz Shade 180"
+        },
+        "alternate_names": [],
+        "quantity": "1 f oz",
+        "categories": [],
+        "description": "Description: Fenty Beauty Pro Filt r Hydrating Longwear Foundation in Shade 180 is a high-quality foundation that provides a long-lasting hydrating formula to give you a flawless and radiant complexion. This product is specifically designed for those with medium skin tones and neutral undertones. It has been formulated to give you a smooth even finish that lasts all day. The lightweight and buildable formula of the foundation allows you to customize your coverage level to your liking ensuring a perfect match for your skin tone. It blends seamlessly into the skin and provides a natural dewy finish that makes your skin look fresh and healthy. Infused with grape seed oil and sodium hyaluronate this foundation is formulated to provide your skin with intense hydration and nourishment leaving your skin looking and feeling healthy and supple. The Shade 140 delivers full coverage without feeling heavy or cakey. This foundation is also cruelty-free and made without any harmful chemicals or fragrances making it",
+        "primary_image_url": "https://i5.walmartimages.com/asr/3c7bcd6f-fa4d-457b-b066-1c09f42a0405.bcc6bb84b13c6ceb07b6507f7f646ce0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/3c7bcd6f-fa4d-457b-b066-1c09f42a0405.bcc6bb84b13c6ceb07b6507f7f646ce0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/3c7bcd6f-fa4d-457b-b066-1c09f42a0405.bcc6bb84b13c6ceb07b6507f7f646ce0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/fenty-beauty/00659475825344.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00659475825344",
+        "ean13": "0659475825344",
+        "upc_a": "659475825344",
+        "ean8": null,
+        "primary_code": "659475825344",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0659475825344",
+          "659475825344"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00659475825344",
+        "qr_payload_text": "https://id.gs1.org/01/00659475825344",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00659475825344",
+          "code": "659475825344",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "Fenty Beauty Pro Filt r Hydrating Longwear Foundation 1 f oz Shade 180",
+          "image_url": "https://i5.walmartimages.com/asr/3c7bcd6f-fa4d-457b-b066-1c09f42a0405.bcc6bb84b13c6ceb07b6507f7f646ce0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00659475825344.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0659475825344",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810763030585",
+      "product_name": "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Color: Uncuffed Size: N/A",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/076/303/0585/front_fr.3.400.jpg",
+      "local_image_path": "images/fenty-beauty/00810763030585.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "xx:fenty-beauty",
+          "Fenty Beauty"
+        ]
+      },
+      "product": {
+        "name": "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Color: Uncuffed Size: N/A",
+        "source_names": {
+          "openbeautyfacts": "Stunna Lip paint",
+          "upcitemdb": "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Color: Uncuffed Size: N/A"
+        },
+        "alternate_names": [
+          "Stunna Lip paint",
+          "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color, Size: .13Oz, Uncuffed",
+          "Fenty Beauty by RihannaStunna Lip Paint Longwear Fluid Lip Color - # Uncuffed (Rosy Mauve Nude) 4ml/0.13oz",
+          "261618 4 ml Stunna Lip Paint Longwear Fluid Lip Color - No.Uncuffed"
+        ],
+        "quantity": "161 lb",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup",
+          "Lipstick"
+        ],
+        "description": "Fenty Beauty by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Uncuffed (Rosy Mauve Nude) 4ml/0.13oz A weightless long-wearing liquid lipstick Offers intense color with a soft-matte finish Stays smooth all day and comfortable to wear Effortlessly glides on with one stroke of its lip-defining precision wand Comes in a range of universal shades handpicked by Rihanna Perfectly looks well on all skin tones Cruelty-free and paraben-free.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/076/303/0585/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/076/303/0585/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/076/303/0585/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/076/303/0585/front_fr.3.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/1922819069fb86ba3929d9a160055b0fdff64d26?wid=800&hei=800&op_sharpen=1&ver=5",
+          "http://s.cdnsbn.com/images/products/26161879102.jpg",
+          "https://i5.walmartimages.com/asr/57d32bdd-b9a2-462c-ab95-7d2cace67d42.4e6429429ad6e7d27efafab3c059812d.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://site.unbeatablesale.com/STRBN96727.JPG"
+        ],
+        "local_image_path": "images/fenty-beauty/00810763030585.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810763030585",
+        "ean13": "0810763030585",
+        "upc_a": "810763030585",
+        "ean8": null,
+        "primary_code": "810763030585",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810763030585",
+          "810763030585"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810763030585",
+        "qr_payload_text": "https://id.gs1.org/01/00810763030585",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810763030585",
+          "code": "810763030585",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Color: Uncuffed Size: N/A",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/076/303/0585/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00810763030585.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810763030585",
+        "upcitemdb_ean": "0810763030585",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00815393182093",
+      "product_name": "Fenty Beauty Gloss Bomb Universal Lip Luminizer Fu$$y 0.3 oz",
+      "image_url": "https://i5.walmartimages.com/asr/0d898de2-ec9a-4667-a632-410257562d9b.a8a44cbb7cf4cd2aaea983de47e2dac4.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/fenty-beauty/00815393182093.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "Fenty Beauty"
+        ]
+      },
+      "product": {
+        "name": "Fenty Beauty Gloss Bomb Universal Lip Luminizer Fu$$y 0.3 oz",
+        "source_names": {
+          "upcitemdb": "Fenty Beauty Gloss Bomb Universal Lip Luminizer Fu$$y 0.3 oz"
+        },
+        "alternate_names": [],
+        "quantity": "0.3 oz/ 9 mL",
+        "categories": [],
+        "description": "The ultimate gotta-have-it gloss with explosive shine that feels as good as it looks?Fenty Beauty Gloss Bomb is the essential finishing touch to your Fenty Face. The stop-everything give-it-to-me gloss that feels as good as it looks. Fenty Beauty Gloss Bomb Universal Luminizer delivers explosive shine in seven universal shades handpicked by Rihanna herself to be the ultimate finishing touch to any look. One luscious swipe of Gloss Bomb?s XXL wand gives more to love while conditioning shea butter enriches from within. Wearing Gloss Bomb makes look instantly fuller with a non-sticky formula that?s super shiny and has an addictive peach-vanilla scent you just can?t get enough of. Gloss Bomb Heat has an innovative Plump Job Complex that contains a blend of ingredients designed to gently plump for an undeniably fuller pout. The conditioning shea butter and vitamin E help lock in moisture for an intense wet-look shine finish.",
+        "primary_image_url": "https://i5.walmartimages.com/asr/0d898de2-ec9a-4667-a632-410257562d9b.a8a44cbb7cf4cd2aaea983de47e2dac4.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/0d898de2-ec9a-4667-a632-410257562d9b.a8a44cbb7cf4cd2aaea983de47e2dac4.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/0d898de2-ec9a-4667-a632-410257562d9b.a8a44cbb7cf4cd2aaea983de47e2dac4.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/fenty-beauty/00815393182093.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00815393182093",
+        "ean13": "0815393182093",
+        "upc_a": "815393182093",
+        "ean8": null,
+        "primary_code": "815393182093",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0815393182093",
+          "815393182093"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00815393182093",
+        "qr_payload_text": "https://id.gs1.org/01/00815393182093",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00815393182093",
+          "code": "815393182093",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "Fenty Beauty Gloss Bomb Universal Lip Luminizer Fu$$y 0.3 oz",
+          "image_url": "https://i5.walmartimages.com/asr/0d898de2-ec9a-4667-a632-410257562d9b.a8a44cbb7cf4cd2aaea983de47e2dac4.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00815393182093.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0815393182093",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00815393182208",
+      "product_name": "Fenty Beauty Gloss Bomb Universal Luminizer - Fenty Glow",
+      "image_url": "https://i5.walmartimages.com/asr/5e54205c-4d24-4210-b91e-35d3e50fcb23.5715837c47e91bf59a64d2ed8fff546b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/fenty-beauty/00815393182208.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "Fenty Beauty"
+        ]
+      },
+      "product": {
+        "name": "Fenty Beauty Gloss Bomb Universal Luminizer - Fenty Glow",
+        "source_names": {
+          "upcitemdb": "Fenty Beauty Gloss Bomb Universal Luminizer - Fenty Glow"
+        },
+        "alternate_names": [],
+        "quantity": "0.3 oz/ 9 mL",
+        "categories": [],
+        "description": "The ultimate gotta-have-it gloss with explosive shine that feels as good as it looks?Fenty Beauty Gloss Bomb is the essential finishing touch to your Fenty Face. The stop-everything give-it-to-me lip gloss that feels as good as it looks. Fenty Beauty Gloss Bomb Universal Luminizer delivers explosive shine in seven universal shades handpicked by Rihanna herself to be the ultimate finishing touch to any look. One luscious swipe of Gloss Bomb?s XXL wand gives lips more to love while conditioning shea butter enriches from within. Wearing Gloss Bomb makes look instantly fuller with a non-sticky formula that?s super shiny and has an addictive peach-vanilla scent you just can?t get enough of. A luminizer and plumper that delivers a hint of tint and fuller-looking. Gloss Bomb Heat has an innovative Plump Job Complex that contains a blend of ingredients designed to gently plump for an undeniably fuller pout. The conditioning shea butter and vitamin E help lock in moisture for an intense wet-look shine fin",
+        "primary_image_url": "https://i5.walmartimages.com/asr/5e54205c-4d24-4210-b91e-35d3e50fcb23.5715837c47e91bf59a64d2ed8fff546b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/5e54205c-4d24-4210-b91e-35d3e50fcb23.5715837c47e91bf59a64d2ed8fff546b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/5e54205c-4d24-4210-b91e-35d3e50fcb23.5715837c47e91bf59a64d2ed8fff546b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/fenty-beauty/00815393182208.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00815393182208",
+        "ean13": "0815393182208",
+        "upc_a": "815393182208",
+        "ean8": null,
+        "primary_code": "815393182208",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0815393182208",
+          "815393182208"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00815393182208",
+        "qr_payload_text": "https://id.gs1.org/01/00815393182208",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00815393182208",
+          "code": "815393182208",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "Fenty Beauty Gloss Bomb Universal Luminizer - Fenty Glow",
+          "image_url": "https://i5.walmartimages.com/asr/5e54205c-4d24-4210-b91e-35d3e50fcb23.5715837c47e91bf59a64d2ed8fff546b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00815393182208.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0815393182208",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00816657022452",
+      "product_name": "enlimineur libre, trophy wife",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2452/front_fr.5.400.jpg",
+      "local_image_path": "images/fenty-beauty/00816657022452.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "xx:fenty-beauty-by-rihanna"
+        ]
+      },
+      "product": {
+        "name": "enlimineur libre, trophy wife",
+        "source_names": {
+          "openbeautyfacts": "enlimineur libre, trophy wife"
+        },
+        "alternate_names": [],
+        "quantity": "8 g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2452/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2452/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/665/702/2452/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/665/702/2452/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/fenty-beauty/00816657022452.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816657022452",
+        "ean13": "0816657022452",
+        "upc_a": "816657022452",
+        "ean8": null,
+        "primary_code": "816657022452",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0816657022452"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816657022452",
+        "qr_payload_text": "https://id.gs1.org/01/00816657022452",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816657022452",
+          "code": "816657022452",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "enlimineur libre, trophy wife",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2452/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00816657022452.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0816657022452",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00816657022872",
+      "product_name": "fond de teint satiné longue tenue",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2872/front_fr.5.400.jpg",
+      "local_image_path": "images/fenty-beauty/00816657022872.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "xx:fenty-beauty-by-rihanna"
+        ]
+      },
+      "product": {
+        "name": "fond de teint satiné longue tenue",
+        "source_names": {
+          "openbeautyfacts": "fond de teint satiné longue tenue"
+        },
+        "alternate_names": [],
+        "quantity": "32 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2872/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2872/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/665/702/2872/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/665/702/2872/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/fenty-beauty/00816657022872.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816657022872",
+        "ean13": "0816657022872",
+        "upc_a": "816657022872",
+        "ean8": null,
+        "primary_code": "816657022872",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0816657022872"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816657022872",
+        "qr_payload_text": "https://id.gs1.org/01/00816657022872",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816657022872",
+          "code": "816657022872",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "fond de teint satiné longue tenue",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/665/702/2872/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00816657022872.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0816657022872",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840026642132",
+      "product_name": "Fenty Beauty Full Frontal Mascara Mini 0.05 fl oz",
+      "image_url": "https://i5.walmartimages.com/asr/a44ef5d7-7fd1-4969-b65b-83467e06cd29.fd9b889114f0b5432b4f4651dd6c5275.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/fenty-beauty/00840026642132.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "Fenty Beauty"
+        ]
+      },
+      "product": {
+        "name": "Fenty Beauty Full Frontal Mascara Mini 0.05 fl oz",
+        "source_names": {
+          "upcitemdb": "Fenty Beauty Full Frontal Mascara Mini 0.05 fl oz"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Eye Makeup",
+          "Mascara"
+        ],
+        "description": "Fenty Beauty Full Frontal Mascara Mini 0.05 fl oz",
+        "primary_image_url": "https://i5.walmartimages.com/asr/a44ef5d7-7fd1-4969-b65b-83467e06cd29.fd9b889114f0b5432b4f4651dd6c5275.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/a44ef5d7-7fd1-4969-b65b-83467e06cd29.fd9b889114f0b5432b4f4651dd6c5275.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/a44ef5d7-7fd1-4969-b65b-83467e06cd29.fd9b889114f0b5432b4f4651dd6c5275.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/fenty-beauty/00840026642132.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840026642132",
+        "ean13": "0840026642132",
+        "upc_a": "840026642132",
+        "ean8": null,
+        "primary_code": "840026642132",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840026642132",
+          "840026642132"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840026642132",
+        "qr_payload_text": "https://id.gs1.org/01/00840026642132",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840026642132",
+          "code": "840026642132",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "Fenty Beauty Full Frontal Mascara Mini 0.05 fl oz",
+          "image_url": "https://i5.walmartimages.com/asr/a44ef5d7-7fd1-4969-b65b-83467e06cd29.fd9b889114f0b5432b4f4651dd6c5275.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00840026642132.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0840026642132",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840026684293",
+      "product_name": "Hydra Vizor Huez",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4293/front_en.3.400.jpg",
+      "local_image_path": "images/fenty-beauty/00840026684293.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "xx:fenty-skin"
+        ]
+      },
+      "product": {
+        "name": "Hydra Vizor Huez",
+        "source_names": {
+          "openbeautyfacts": "Hydra Vizor Huez"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Skin Care"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4293/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4293/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/002/668/4293/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/002/668/4293/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/fenty-beauty/00840026684293.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840026684293",
+        "ean13": "0840026684293",
+        "upc_a": "840026684293",
+        "ean8": null,
+        "primary_code": "840026684293",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840026684293"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840026684293",
+        "qr_payload_text": "https://id.gs1.org/01/00840026684293",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840026684293",
+          "code": "840026684293",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "Hydra Vizor Huez",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4293/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00840026684293.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840026684293",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840026684712",
+      "product_name": "Comeback Kid Instant Damage Repair Treatment",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4712/front_en.3.400.jpg",
+      "local_image_path": "images/fenty-beauty/00840026684712.jpg",
+      "brand": {
+        "slug": "fenty-beauty",
+        "display_name": "Fenty Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Fenty%20Beauty",
+        "matched_raw_brands": [
+          "xx:Fenty Hair"
+        ]
+      },
+      "product": {
+        "name": "Comeback Kid Instant Damage Repair Treatment",
+        "source_names": {
+          "openbeautyfacts": "Comeback Kid Instant Damage Repair Treatment"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4712/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4712/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/002/668/4712/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/002/668/4712/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/fenty-beauty/00840026684712.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840026684712",
+        "ean13": "0840026684712",
+        "upc_a": "840026684712",
+        "ean8": null,
+        "primary_code": "840026684712",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840026684712"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840026684712",
+        "qr_payload_text": "https://id.gs1.org/01/00840026684712",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840026684712",
+          "code": "840026684712",
+          "type": "UPC-A",
+          "brand": "Fenty Beauty",
+          "name": "Comeback Kid Instant Damage Repair Treatment",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/002/668/4712/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/fenty-beauty/00840026684712.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840026684712",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

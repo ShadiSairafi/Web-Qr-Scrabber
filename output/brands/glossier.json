@@ -1,0 +1,104 @@
+{
+  "brand_slug": "glossier",
+  "display_name": "Glossier",
+  "letter_section": "G",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Glossier",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00812459021242",
+      "product_name": "Glossier Body Hero Daily Perfecting Cream_8.4 fl oz / 250 m (B07J6G2K61)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/245/902/1242/1.400.jpg",
+      "local_image_path": "images/glossier/00812459021242.jpg",
+      "brand": {
+        "slug": "glossier",
+        "display_name": "Glossier",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Glossier",
+        "matched_raw_brands": [
+          "glossier"
+        ]
+      },
+      "product": {
+        "name": "Glossier Body Hero Daily Perfecting Cream_8.4 fl oz / 250 m (B07J6G2K61)",
+        "source_names": {
+          "openbeautyfacts": "Glossier Body Hero Daily Perfecting Cream",
+          "upcitemdb": "Glossier Body Hero Daily Perfecting Cream_8.4 fl oz / 250 m (B07J6G2K61)"
+        },
+        "alternate_names": [
+          "Glossier Body Hero Daily Perfecting Cream"
+        ],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care",
+          "Lotion & Moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/245/902/1242/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/245/902/1242/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/245/902/1242/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/245/902/1242/1.200.jpg"
+        ],
+        "local_image_path": "images/glossier/00812459021242.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00812459021242",
+        "ean13": "0812459021242",
+        "upc_a": "812459021242",
+        "ean8": null,
+        "primary_code": "812459021242",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0812459021242",
+          "812459021242"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00812459021242",
+        "qr_payload_text": "https://id.gs1.org/01/00812459021242",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00812459021242",
+          "code": "812459021242",
+          "type": "UPC-A",
+          "brand": "Glossier",
+          "name": "Glossier Body Hero Daily Perfecting Cream_8.4 fl oz / 250 m (B07J6G2K61)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/245/902/1242/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/glossier/00812459021242.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback",
+          "upcitemdb": "upc_title_prefix"
+        },
+        "cross_source_title_similarity": 92.11
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0812459021242",
+        "upcitemdb_ean": "0812459021242",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "brand_slug": "virtue",
+  "display_name": "Virtue",
+  "letter_section": "V",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Virtue",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00817023025978",
+      "product_name": "Recovery Conditioner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/702/302/5978/front_en.3.400.jpg",
+      "local_image_path": "images/virtue/00817023025978.jpg",
+      "brand": {
+        "slug": "virtue",
+        "display_name": "Virtue",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Virtue",
+        "matched_raw_brands": [
+          "xx:Virtue"
+        ]
+      },
+      "product": {
+        "name": "Recovery Conditioner",
+        "source_names": {
+          "openbeautyfacts": "Recovery Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Conditioner"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/702/302/5978/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/702/302/5978/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/702/302/5978/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/702/302/5978/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/virtue/00817023025978.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817023025978",
+        "ean13": "0817023025978",
+        "upc_a": "817023025978",
+        "ean8": null,
+        "primary_code": "817023025978",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0817023025978"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817023025978",
+        "qr_payload_text": "https://id.gs1.org/01/00817023025978",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817023025978",
+          "code": "817023025978",
+          "type": "UPC-A",
+          "brand": "Virtue",
+          "name": "Recovery Conditioner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/702/302/5978/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/virtue/00817023025978.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0817023025978",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

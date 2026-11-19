@@ -1,0 +1,166 @@
+{
+  "brand_slug": "ulta-beauty",
+  "display_name": "ULTA Beauty",
+  "letter_section": "U",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=ULTA%20Beauty",
+  "product_count": 2,
+  "canonical_product_count": 2,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00717897060771",
+      "product_name": "SkinSoak Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/071/789/706/0771/front_en.3.400.jpg",
+      "local_image_path": "images/ulta-beauty/00717897060771.jpg",
+      "brand": {
+        "slug": "ulta-beauty",
+        "display_name": "ULTA Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=ULTA%20Beauty",
+        "matched_raw_brands": [
+          "xx:ulta"
+        ]
+      },
+      "product": {
+        "name": "SkinSoak Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "SkinSoak Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/071/789/706/0771/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/071/789/706/0771/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/071/789/706/0771/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/071/789/706/0771/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/ulta-beauty/00717897060771.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00717897060771",
+        "ean13": "0717897060771",
+        "upc_a": "717897060771",
+        "ean8": null,
+        "primary_code": "717897060771",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0717897060771"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00717897060771",
+        "qr_payload_text": "https://id.gs1.org/01/00717897060771",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00717897060771",
+          "code": "717897060771",
+          "type": "UPC-A",
+          "brand": "ULTA Beauty",
+          "name": "SkinSoak Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/071/789/706/0771/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/ulta-beauty/00717897060771.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0717897060771",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03610340652301",
+      "product_name": "Ulta doch",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/034/065/2301/front_fr.7.400.jpg",
+      "local_image_path": "images/ulta-beauty/03610340652301.jpg",
+      "brand": {
+        "slug": "ulta-beauty",
+        "display_name": "ULTA Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=ULTA%20Beauty",
+        "matched_raw_brands": [
+          "ulta"
+        ]
+      },
+      "product": {
+        "name": "Ulta doch",
+        "source_names": {
+          "openbeautyfacts": "Ulta doch"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/034/065/2301/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/034/065/2301/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/034/065/2301/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/034/065/2301/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/ulta-beauty/03610340652301.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03610340652301",
+        "ean13": "3610340652301",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3610340652301",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3610340652301"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03610340652301",
+        "qr_payload_text": "https://id.gs1.org/01/03610340652301",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03610340652301",
+          "code": "3610340652301",
+          "type": "EAN-13",
+          "brand": "ULTA Beauty",
+          "name": "Ulta doch",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/034/065/2301/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/ulta-beauty/03610340652301.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3610340652301",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

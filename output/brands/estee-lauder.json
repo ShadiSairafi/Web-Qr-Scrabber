@@ -1,0 +1,896 @@
+{
+  "brand_slug": "estee-lauder",
+  "display_name": "Estée Lauder",
+  "letter_section": "E",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+  "product_count": 11,
+  "canonical_product_count": 11,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00027131392330",
+      "product_name": "Estee Lauder Double Wear Stay in Place Makeup SPF 10 1N2 Ecru 1 oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/713/139/2330/front_en.3.400.jpg",
+      "local_image_path": "images/estee-lauder/00027131392330.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estēe-lauder",
+          "Estee Lauder"
+        ]
+      },
+      "product": {
+        "name": "Estee Lauder Double Wear Stay in Place Makeup SPF 10 1N2 Ecru 1 oz",
+        "source_names": {
+          "openbeautyfacts": "Double Wear",
+          "upcitemdb": "Estee Lauder Double Wear Stay in Place Makeup SPF 10 1N2 Ecru 1 oz"
+        },
+        "alternate_names": [
+          "Double Wear",
+          "Estee LauderDouble Wear Stay In Place Makeup SPF 10 - No. 16 Ecru 30ml/1oz",
+          "ELDOWEFO9 1 oz Double Wear Stay in Place Makeup",
+          "Estee Lauder Double Wear Stay-In-Place Makeup, [16] Ecru 1 oz",
+          "Estee Lauder Double Wear Stay-In-Place Makeup 16 Ecru"
+        ],
+        "quantity": "30 ml",
+        "categories": [
+          "Face Foundation",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Face Makeup"
+        ],
+        "description": "Est?e Lauder Double Wear Stay-in-Place Makeup SPF 10 is a timeless shade 1N2 Ecru. This foundation is a true beauty staple delivering flawless coverage that stays put for an extended period. The lightweight yet buildable formula effortlessly blends into the skin providing a natural and radiant finish. With the added benefit of SPF 10 it not only beautifies but also protects your skin from the sun s harmful rays. Revel in the confidence of a flawless complexion that withstands the demands of your day.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/713/139/2330/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/713/139/2330/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/713/139/2330/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/713/139/2330/front_en.3.200.jpg",
+          "https://s.cdnsbn.com/images/products/09331280602.jpg",
+          "https://i5.walmartimages.com/asr/797d2914-a245-438d-8ddb-0cb65c936dcd.408befacb21f3e1569761cc292b3a703.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://site.unbeatablesale.com/CSMP9094.JPG",
+          "http://images.jet.com/md5/05af0a5e0a2bed00d6d43b8c96c7866a.500",
+          "https://i3.onbuy.com/product/16d7dc7f8e1a4f4a9d9056704931170c-l22753478.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00027131392330.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00027131392330",
+        "ean13": "0027131392330",
+        "upc_a": "027131392330",
+        "ean8": null,
+        "primary_code": "027131392330",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0027131392330",
+          "027131392330"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00027131392330",
+        "qr_payload_text": "https://id.gs1.org/01/00027131392330",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00027131392330",
+          "code": "027131392330",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Estee Lauder Double Wear Stay in Place Makeup SPF 10 1N2 Ecru 1 oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/713/139/2330/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00027131392330.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0027131392330",
+        "upcitemdb_ean": "0027131392330",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00027131963332",
+      "product_name": "Double Wear Concealer 2C",
+      "image_url": "https://images.openbeautyfacts.org/images/products/002/713/196/3332/front_de.3.400.jpg",
+      "local_image_path": "images/estee-lauder/00027131963332.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estee-lauder"
+        ]
+      },
+      "product": {
+        "name": "Double Wear Concealer 2C",
+        "source_names": {
+          "openbeautyfacts": "Double Wear Concealer 2C"
+        },
+        "alternate_names": [],
+        "quantity": "7 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/002/713/196/3332/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/002/713/196/3332/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/002/713/196/3332/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/002/713/196/3332/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00027131963332.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00027131963332",
+        "ean13": "0027131963332",
+        "upc_a": "027131963332",
+        "ean8": null,
+        "primary_code": "027131963332",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0027131963332"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00027131963332",
+        "qr_payload_text": "https://id.gs1.org/01/00027131963332",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00027131963332",
+          "code": "027131963332",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Double Wear Concealer 2C",
+          "image_url": "https://images.openbeautyfacts.org/images/products/002/713/196/3332/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00027131963332.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0027131963332",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167222243",
+      "product_name": "Advanced Night Micro Cleansing Balm",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/2243/front_en.3.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167222243.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estee-lauder"
+        ]
+      },
+      "product": {
+        "name": "Advanced Night Micro Cleansing Balm",
+        "source_names": {
+          "openbeautyfacts": "Advanced Night Micro Cleansing Balm"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/2243/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/722/2243/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/722/2243/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/722/2243/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167222243.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167222243",
+        "ean13": "0887167222243",
+        "upc_a": "887167222243",
+        "ean8": null,
+        "primary_code": "887167222243",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167222243"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167222243",
+        "qr_payload_text": "https://id.gs1.org/01/00887167222243",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167222243",
+          "code": "887167222243",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Advanced Night Micro Cleansing Balm",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/2243/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167222243.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167222243",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167223769",
+      "product_name": "Advanced Night Micro Cleansing Foam",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/3769/front_en.3.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167223769.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estee-lauder"
+        ]
+      },
+      "product": {
+        "name": "Advanced Night Micro Cleansing Foam",
+        "source_names": {
+          "openbeautyfacts": "Advanced Night Micro Cleansing Foam"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/3769/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/722/3769/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/722/3769/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/722/3769/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167223769.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167223769",
+        "ean13": "0887167223769",
+        "upc_a": "887167223769",
+        "ean8": null,
+        "primary_code": "887167223769",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167223769"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167223769",
+        "qr_payload_text": "https://id.gs1.org/01/00887167223769",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167223769",
+          "code": "887167223769",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Advanced Night Micro Cleansing Foam",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/722/3769/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167223769.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167223769",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167381872",
+      "product_name": "Estee Lauder",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/738/1872/front_en.3.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167381872.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "estee lauder"
+        ]
+      },
+      "product": {
+        "name": "Estee Lauder",
+        "source_names": {
+          "openbeautyfacts": "Estee Lauder"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/738/1872/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/738/1872/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/738/1872/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/738/1872/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167381872.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167381872",
+        "ean13": "0887167381872",
+        "upc_a": "887167381872",
+        "ean8": null,
+        "primary_code": "887167381872",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167381872"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167381872",
+        "qr_payload_text": "https://id.gs1.org/01/00887167381872",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167381872",
+          "code": "887167381872",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Estee Lauder",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/738/1872/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167381872.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167381872",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167466821",
+      "product_name": "Estée Lauder Futurist Hydra Rescue Moisturizing Makeup SPF45",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/746/6821/front_en.4.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167466821.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estee-lauder"
+        ]
+      },
+      "product": {
+        "name": "Estée Lauder Futurist Hydra Rescue Moisturizing Makeup SPF45",
+        "source_names": {
+          "openbeautyfacts": "Estée Lauder Futurist Hydra Rescue Moisturizing Makeup SPF45"
+        },
+        "alternate_names": [],
+        "quantity": "1.2",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/746/6821/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/746/6821/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/746/6821/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/746/6821/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167466821.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167466821",
+        "ean13": "0887167466821",
+        "upc_a": "887167466821",
+        "ean8": null,
+        "primary_code": "887167466821",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167466821"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167466821",
+        "qr_payload_text": "https://id.gs1.org/01/00887167466821",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167466821",
+          "code": "887167466821",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Estée Lauder Futurist Hydra Rescue Moisturizing Makeup SPF45",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/746/6821/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167466821.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167466821",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167485488",
+      "product_name": "E.Lauder Advanced Night Repair 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/748/5488/front_nl.9.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167485488.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estee-lauder"
+        ]
+      },
+      "product": {
+        "name": "E.Lauder Advanced Night Repair 50ml",
+        "source_names": {
+          "openbeautyfacts": "E.Lauder Advanced Night Repair 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "Synchronized Multi-Recovery Complex, 50",
+        "categories": [
+          "Beauty",
+          "Nachtcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/748/5488/front_nl.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/748/5488/front_nl.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/748/5488/front_nl.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/748/5488/front_nl.9.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167485488.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167485488",
+        "ean13": "0887167485488",
+        "upc_a": "887167485488",
+        "ean8": null,
+        "primary_code": "887167485488",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167485488"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167485488",
+        "qr_payload_text": "https://id.gs1.org/01/00887167485488",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167485488",
+          "code": "887167485488",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "E.Lauder Advanced Night Repair 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/748/5488/front_nl.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167485488.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167485488",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167539532",
+      "product_name": "Estée Lauder Revitalizing Supreme Youth Dagcrème",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/753/9532/front_nl.3.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167539532.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "estee lauder"
+        ]
+      },
+      "product": {
+        "name": "Estée Lauder Revitalizing Supreme Youth Dagcrème",
+        "source_names": {
+          "openbeautyfacts": "Estée Lauder Revitalizing Supreme Youth Dagcrème"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/753/9532/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/753/9532/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/753/9532/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/753/9532/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167539532.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167539532",
+        "ean13": "0887167539532",
+        "upc_a": "887167539532",
+        "ean8": null,
+        "primary_code": "887167539532",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167539532"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167539532",
+        "qr_payload_text": "https://id.gs1.org/01/00887167539532",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167539532",
+          "code": "887167539532",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Estée Lauder Revitalizing Supreme Youth Dagcrème",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/753/9532/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167539532.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167539532",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167582873",
+      "product_name": "E.Lauder Turbo Lash High-Powered Volume & Lenght Mascara 8 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/758/2873/front_de.3.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167582873.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estee-lauder"
+        ]
+      },
+      "product": {
+        "name": "E.Lauder Turbo Lash High-Powered Volume & Lenght Mascara 8 ml",
+        "source_names": {
+          "openbeautyfacts": "E.Lauder Turbo Lash High-Powered Volume & Lenght Mascara 8 ml"
+        },
+        "alternate_names": [],
+        "quantity": "#01 Black, 8",
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Mascara",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/758/2873/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/758/2873/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/758/2873/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/758/2873/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167582873.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167582873",
+        "ean13": "0887167582873",
+        "upc_a": "887167582873",
+        "ean8": null,
+        "primary_code": "887167582873",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167582873"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167582873",
+        "qr_payload_text": "https://id.gs1.org/01/00887167582873",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167582873",
+          "code": "887167582873",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "E.Lauder Turbo Lash High-Powered Volume & Lenght Mascara 8 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/758/2873/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167582873.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167582873",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167616844",
+      "product_name": "Double Wear 24h Stay-in-Place Lip Liner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/761/6844/front_es.6.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167616844.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "xx:estee-lauder"
+        ]
+      },
+      "product": {
+        "name": "Double Wear 24h Stay-in-Place Lip Liner",
+        "source_names": {
+          "openbeautyfacts": "Double Wear 24h Stay-in-Place Lip Liner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/761/6844/front_es.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/761/6844/front_es.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/761/6844/front_es.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/761/6844/front_es.6.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167616844.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167616844",
+        "ean13": "0887167616844",
+        "upc_a": "887167616844",
+        "ean8": null,
+        "primary_code": "887167616844",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167616844"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167616844",
+        "qr_payload_text": "https://id.gs1.org/01/00887167616844",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167616844",
+          "code": "887167616844",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "Double Wear 24h Stay-in-Place Lip Liner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/761/6844/front_es.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167616844.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167616844",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00887167665781",
+      "product_name": "estee lauder lipstick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/716/766/5781/1.400.jpg",
+      "local_image_path": "images/estee-lauder/00887167665781.jpg",
+      "brand": {
+        "slug": "estee-lauder",
+        "display_name": "Estée Lauder",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Est%C3%A9e%20Lauder",
+        "matched_raw_brands": [
+          "estee lauder"
+        ]
+      },
+      "product": {
+        "name": "estee lauder lipstick",
+        "source_names": {
+          "openbeautyfacts": "estee lauder lipstick"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/716/766/5781/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/716/766/5781/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/716/766/5781/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/716/766/5781/1.200.jpg"
+        ],
+        "local_image_path": "images/estee-lauder/00887167665781.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00887167665781",
+        "ean13": "0887167665781",
+        "upc_a": "887167665781",
+        "ean8": null,
+        "primary_code": "887167665781",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0887167665781"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00887167665781",
+        "qr_payload_text": "https://id.gs1.org/01/00887167665781",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00887167665781",
+          "code": "887167665781",
+          "type": "UPC-A",
+          "brand": "Estée Lauder",
+          "name": "estee lauder lipstick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/716/766/5781/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/estee-lauder/00887167665781.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0887167665781",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

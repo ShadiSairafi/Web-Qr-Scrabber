@@ -1,0 +1,90 @@
+{
+  "brand_slug": "smashbox",
+  "display_name": "Smashbox",
+  "letter_section": "S",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Smashbox",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00607710046368",
+      "product_name": "Lipstick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/771/004/6368/front_en.3.400.jpg",
+      "local_image_path": "images/smashbox/00607710046368.jpg",
+      "brand": {
+        "slug": "smashbox",
+        "display_name": "Smashbox",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Smashbox",
+        "matched_raw_brands": [
+          "xx:Smashbox"
+        ]
+      },
+      "product": {
+        "name": "Lipstick",
+        "source_names": {
+          "openbeautyfacts": "Lipstick"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/771/004/6368/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/771/004/6368/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/771/004/6368/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/771/004/6368/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/smashbox/00607710046368.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00607710046368",
+        "ean13": "0607710046368",
+        "upc_a": "607710046368",
+        "ean8": null,
+        "primary_code": "607710046368",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0607710046368"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00607710046368",
+        "qr_payload_text": "https://id.gs1.org/01/00607710046368",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00607710046368",
+          "code": "607710046368",
+          "type": "UPC-A",
+          "brand": "Smashbox",
+          "name": "Lipstick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/771/004/6368/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/smashbox/00607710046368.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0607710046368",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

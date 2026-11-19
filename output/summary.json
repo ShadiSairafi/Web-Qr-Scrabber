@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-11-19T07:37:09.174182Z",
+  "pipeline_version": "0.1.0",
+  "total_brands_in_directory": 163,
+  "distinct_brand_entities": 161,
+  "total_unique_verified_products": 2767,
+  "products_with_name_count": 2767,
+  "products_with_remote_image_count": 2314,
+  "local_images_downloaded_count": 2307,
+  "cross_source_verified_count": 43,
+  "quarantined_count": 168,
+  "duplicate_gtin14_count": 0,
+  "qr_files_rendered_count": 2767,
+  "source_status": {
+    "openbeautyfacts": {
+      "status": "available",
+      "http_status": 200,
+      "mode": "bulk_dump_jsonl_gz",
+      "detail": "Content-Length=106612751"
+    },
+    "openproductsfacts": {
+      "status": "available",
+      "http_status": 200,
+      "mode": "bulk_dump_csv_gz",
+      "detail": "Content-Length=6512973"
+    },
+    "upcitemdb": {
+      "status": "available",
+      "http_status": 200,
+      "mode": "trial_batch_lookup_and_search",
+      "detail": "Zero daily API quota consumed during reachability probe."
+    },
+    "barcodelookup": {
+      "status": "blocked_cloudflare_challenge",
+      "http_status": 403,
+      "mode": "not_bypassed",
+      "detail": "Detected Cloudflare Managed Challenge (cf-mitigated: challenge); site is not bypassed."
+    }
+  },
+  "upcitemdb_quota": {
+    "requests_made_this_run": 0,
+    "cache_hits": 39,
+    "rate_limit_remaining": null
+  },
+  "output_files": {
+    "all_products": "all_products.json",
+    "brands_manifest": "brands_manifest.json",
+    "comparison_report": "comparison_report.json",
+    "quarantine": "quarantine.json",
+    "summary": "summary.json",
+    "brands_dir": "brands/",
+    "qr_dir": "qr/",
+    "web_index": "index.html",
+    "images_dir": "images/"
+  }
+}

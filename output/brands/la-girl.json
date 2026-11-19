@@ -1,0 +1,247 @@
+{
+  "brand_slug": "la-girl",
+  "display_name": "L.A. Girl",
+  "letter_section": "L",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=L.A.%20Girl",
+  "product_count": 3,
+  "canonical_product_count": 3,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00081555355258",
+      "product_name": "Sweet lip Scrub",
+      "image_url": "https://images.openbeautyfacts.org/images/products/008/155/535/5258/front_en.9.400.jpg",
+      "local_image_path": "images/la-girl/00081555355258.jpg",
+      "brand": {
+        "slug": "la-girl",
+        "display_name": "L.A. Girl",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=L.A.%20Girl",
+        "matched_raw_brands": [
+          "xx:l-a-girl"
+        ]
+      },
+      "product": {
+        "name": "Sweet lip Scrub",
+        "source_names": {
+          "openbeautyfacts": "Sweet lip Scrub"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/008/155/535/5258/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/008/155/535/5258/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/008/155/535/5258/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/008/155/535/5258/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/la-girl/00081555355258.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00081555355258",
+        "ean13": "0081555355258",
+        "upc_a": "081555355258",
+        "ean8": null,
+        "primary_code": "081555355258",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0081555355258"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00081555355258",
+        "qr_payload_text": "https://id.gs1.org/01/00081555355258",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00081555355258",
+          "code": "081555355258",
+          "type": "UPC-A",
+          "brand": "L.A. Girl",
+          "name": "Sweet lip Scrub",
+          "image_url": "https://images.openbeautyfacts.org/images/products/008/155/535/5258/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/la-girl/00081555355258.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0081555355258",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00081555966928",
+      "product_name": "Luminous Glow Skin Illuminator",
+      "image_url": "https://images.openbeautyfacts.org/images/products/008/155/596/6928/front_en.3.400.jpg",
+      "local_image_path": "images/la-girl/00081555966928.jpg",
+      "brand": {
+        "slug": "la-girl",
+        "display_name": "L.A. Girl",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=L.A.%20Girl",
+        "matched_raw_brands": [
+          "xx:L.A. Girl"
+        ]
+      },
+      "product": {
+        "name": "Luminous Glow Skin Illuminator",
+        "source_names": {
+          "openbeautyfacts": "Luminous Glow Skin Illuminator"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/008/155/596/6928/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/008/155/596/6928/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/008/155/596/6928/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/008/155/596/6928/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/la-girl/00081555966928.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00081555966928",
+        "ean13": "0081555966928",
+        "upc_a": "081555966928",
+        "ean8": null,
+        "primary_code": "081555966928",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0081555966928"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00081555966928",
+        "qr_payload_text": "https://id.gs1.org/01/00081555966928",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00081555966928",
+          "code": "081555966928",
+          "type": "UPC-A",
+          "brand": "L.A. Girl",
+          "name": "Luminous Glow Skin Illuminator",
+          "image_url": "https://images.openbeautyfacts.org/images/products/008/155/596/6928/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/la-girl/00081555966928.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0081555966928",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00081555969837",
+      "product_name": "PRO.conceal",
+      "image_url": "https://images.openbeautyfacts.org/images/products/008/155/596/9837/front_ms.7.400.jpg",
+      "local_image_path": "images/la-girl/00081555969837.jpg",
+      "brand": {
+        "slug": "la-girl",
+        "display_name": "L.A. Girl",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=L.A.%20Girl",
+        "matched_raw_brands": [
+          "xx:L.A. Girl"
+        ]
+      },
+      "product": {
+        "name": "PRO.conceal",
+        "source_names": {
+          "openbeautyfacts": "PRO.conceal"
+        },
+        "alternate_names": [],
+        "quantity": "8 g",
+        "categories": [
+          "Face Concealers / Color Correctors"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/008/155/596/9837/front_ms.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/008/155/596/9837/front_ms.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/008/155/596/9837/front_ms.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/008/155/596/9837/front_ms.7.200.jpg"
+        ],
+        "local_image_path": "images/la-girl/00081555969837.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00081555969837",
+        "ean13": "0081555969837",
+        "upc_a": "081555969837",
+        "ean8": null,
+        "primary_code": "081555969837",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0081555969837"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00081555969837",
+        "qr_payload_text": "https://id.gs1.org/01/00081555969837",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00081555969837",
+          "code": "081555969837",
+          "type": "UPC-A",
+          "brand": "L.A. Girl",
+          "name": "PRO.conceal",
+          "image_url": "https://images.openbeautyfacts.org/images/products/008/155/596/9837/front_ms.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/la-girl/00081555969837.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0081555969837",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

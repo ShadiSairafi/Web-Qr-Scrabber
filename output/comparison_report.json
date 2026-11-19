@@ -1,0 +1,458 @@
+{
+  "total_unique_products": 2767,
+  "verified_cross_source_count": 42,
+  "verified_cross_source_subbrand_resolved_count": 1,
+  "verified_single_source_count": 2117,
+  "inferred_title_prefix_count": 607,
+  "source_breakdown": {
+    "openbeautyfacts_raw_matched": 2840,
+    "openbeautyfacts_unique_valid": 2706,
+    "upcitemdb_raw_matched": 106,
+    "upcitemdb_unique_valid": 104,
+    "intra_source_duplicates_removed": 15,
+    "cross_source_exact_gtin_matches": 43
+  },
+  "cross_source_matches": [
+    {
+      "gtin14": "00020714001100",
+      "product_name": "Clinique Non-Streak Bronzer for Men 2 oz",
+      "resolved_brand_slug": "clinique",
+      "resolved_brand_display_name": "Clinique",
+      "openbeautyfacts_title": "Face bronzer",
+      "upcitemdb_title": "Clinique Non-Streak Bronzer for Men 2 oz",
+      "title_similarity": 73.68,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00027131392330",
+      "product_name": "Estee Lauder Double Wear Stay in Place Makeup SPF 10 1N2 Ecru 1 oz",
+      "resolved_brand_slug": "estee-lauder",
+      "resolved_brand_display_name": "Estée Lauder",
+      "openbeautyfacts_title": "Double Wear",
+      "upcitemdb_title": "Estee Lauder Double Wear Stay in Place Makeup SPF 10 1N2 Ecru 1 oz",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00030772012871",
+      "product_name": "Crest Kids Toothpaste with Fluoride Disney s Frozen Bubblegum Flavor 4.2oz",
+      "resolved_brand_slug": "crest",
+      "resolved_brand_display_name": "Crest",
+      "openbeautyfacts_title": "Fluoride Anticavity Toothpaste",
+      "upcitemdb_title": "Crest Kids Toothpaste with Fluoride Disney s Frozen Bubblegum Flavor 4.2oz",
+      "title_similarity": 77.55,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00073930568964",
+      "product_name": "DUO Brush-On Strip Lash Adhesive Dark Tone 0.18 oz 2-Packs",
+      "resolved_brand_slug": "duo",
+      "resolved_brand_display_name": "DUO",
+      "openbeautyfacts_title": "Brush-on Striplash Adhesive with Vitamins - Dark",
+      "upcitemdb_title": "DUO Brush-On Strip Lash Adhesive Dark Tone 0.18 oz 2-Packs",
+      "title_similarity": 64.15,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00074764386045",
+      "product_name": "Ardell Press-On Mini Wispies Natural False Eyelashes - 12pc",
+      "resolved_brand_slug": "ardell",
+      "resolved_brand_display_name": "Ardell",
+      "openbeautyfacts_title": "Ardell Press On Underlash Extensions",
+      "upcitemdb_title": "Ardell Press-On Mini Wispies Natural False Eyelashes - 12pc",
+      "title_similarity": 48.42,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00098132400034",
+      "product_name": "bare Minerals Complexion Rescue Tinted Moisturizer SPF 30 Sienna 10",
+      "resolved_brand_slug": "bareminerals",
+      "resolved_brand_display_name": "BareMinerals",
+      "openbeautyfacts_title": "Complexion Rescue Tinted Hydrating Gel Cream Broad Spectrum SPF 30",
+      "upcitemdb_title": "bare Minerals Complexion Rescue Tinted Moisturizer SPF 30 Sienna 10",
+      "title_similarity": 67.67,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00192608247779",
+      "product_name": "Morphe Abby Roberts Pan Artistry Eyeshadow Palette - 10.7oz - Ulta Beauty",
+      "resolved_brand_slug": "morphe",
+      "resolved_brand_display_name": "Morphe",
+      "openbeautyfacts_title": "Palette d'artiste",
+      "upcitemdb_title": "Morphe Abby Roberts Pan Artistry Eyeshadow Palette - 10.7oz - Ulta Beauty",
+      "title_similarity": 58.33,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00194249405235",
+      "product_name": "Drunk Elephant Therabu Buttered Reparative Hand Cream, Size: 7.5 FL Oz, None",
+      "resolved_brand_slug": "drunk-elephant",
+      "resolved_brand_display_name": "Drunk Elephant",
+      "openbeautyfacts_title": "Therapy buttered reparative hand cream",
+      "upcitemdb_title": "Drunk Elephant Therabu Buttered Reparative Hand Cream, Size: 7.5 FL Oz, None",
+      "title_similarity": 77.42,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00197689018362",
+      "product_name": "tarte Creaseless Setting & Brightening Powder Pink - 0.24oz - Ulta Beauty: Normal, Oily, Combination Skin",
+      "resolved_brand_slug": "tarte",
+      "resolved_brand_display_name": "Tarte",
+      "openbeautyfacts_title": "Creaseless setting powder",
+      "upcitemdb_title": "tarte Creaseless Setting & Brightening Powder Pink - 0.24oz - Ulta Beauty: Normal, Oily, Combination Skin",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00602004085566",
+      "product_name": "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer Mini - Shade 3 - Warm Light Brown - 0.001oz - Ulta Beauty",
+      "resolved_brand_slug": "benefit-cosmetics",
+      "resolved_brand_display_name": "Benefit Cosmetics",
+      "openbeautyfacts_title": "Brow",
+      "upcitemdb_title": "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer Mini - Shade 3 - Warm Light Brown - 0.001oz - Ulta Beauty",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00609332216631",
+      "product_name": "e.l.f. Clear Brow & Lash Mascara Crystal - .08 fl oz: Paraben-Free, Sulfate-Free, Vegan, Gloss Finish",
+      "resolved_brand_slug": "elf",
+      "resolved_brand_display_name": "e.l.f",
+      "openbeautyfacts_title": "Clear Brow & Lash Mascara Crystal",
+      "upcitemdb_title": "e.l.f. Clear Brow & Lash Mascara Crystal - .08 fl oz: Paraben-Free, Sulfate-Free, Vegan, Gloss Finish",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00641628001736",
+      "product_name": "Elemis Pro-Collagen Facial Cleansing Balm - 3.5 oz",
+      "resolved_brand_slug": "elemis",
+      "resolved_brand_display_name": "Elemis",
+      "openbeautyfacts_title": "Travel Size Pro-Collagen Cleansing Balm",
+      "upcitemdb_title": "Elemis Pro-Collagen Facial Cleansing Balm - 3.5 oz",
+      "title_similarity": 81.82,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00651986101207",
+      "product_name": "Too Faced Metallic Sparkle Lipstick Hot Flash 0.1oz/3ml New In Box",
+      "resolved_brand_slug": "too-faced",
+      "resolved_brand_display_name": "Too Faced",
+      "openbeautyfacts_title": "Metallic Sparkle Lipstick",
+      "upcitemdb_title": "Too Faced Metallic Sparkle Lipstick Hot Flash 0.1oz/3ml New In Box",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00667534375266",
+      "product_name": "bath & body works mad about you signature collection body lotion 8 ounce",
+      "resolved_brand_slug": "bath-and-body-works",
+      "resolved_brand_display_name": "Bath and Body Works",
+      "openbeautyfacts_title": "bath and body works",
+      "upcitemdb_title": "bath & body works mad about you signature collection body lotion 8 ounce",
+      "title_similarity": 88.24,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00689304188890",
+      "product_name": "Anastasia Beverly Hills Nouveau Eye Shadow Palette - 0.6oz - Ulta Beauty",
+      "resolved_brand_slug": "anastasia-beverly-hills",
+      "resolved_brand_display_name": "Anastasia Beverly Hills",
+      "openbeautyfacts_title": "Nouveau Eyeshadow Palette",
+      "upcitemdb_title": "Anastasia Beverly Hills Nouveau Eye Shadow Palette - 0.6oz - Ulta Beauty",
+      "title_similarity": 75.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00716170078229",
+      "product_name": "Bobbi Brown Lip Color Guava One Size",
+      "resolved_brand_slug": "bobbi-brown",
+      "resolved_brand_display_name": "Bobbi Brown",
+      "openbeautyfacts_title": "Kosmetik - Lippen – Lippenstift",
+      "upcitemdb_title": "Bobbi Brown Lip Color Guava One Size",
+      "title_similarity": 32.84,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00737052263137",
+      "product_name": "Dolce & Gabbana L Imperatrice Eau de Toilette Perfume for Women 3.3 oz",
+      "resolved_brand_slug": "dolce-and-gabbana",
+      "resolved_brand_display_name": "Dolce and Gabbana",
+      "openbeautyfacts_title": "3 L’IMPERATRICE Eau de Toilette",
+      "upcitemdb_title": "Dolce & Gabbana L Imperatrice Eau de Toilette Perfume for Women 3.3 oz",
+      "title_similarity": 65.22,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00737052339047",
+      "product_name": "Gucci Guilty Pour Homme Eau De Toilette Spray Cologne for Men 3 oz",
+      "resolved_brand_slug": "gucci",
+      "resolved_brand_display_name": "Gucci",
+      "openbeautyfacts_title": "Gucci Guilty Pour Homme - Eau de Toilette 90ml",
+      "upcitemdb_title": "Gucci Guilty Pour Homme Eau De Toilette Spray Cologne for Men 3 oz",
+      "title_similarity": 91.76,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00752830426238",
+      "product_name": "Briogeo - Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo Nutrient-Rich Green Juice Inspired Shampoo for Dull Dry and Lifeless Hair 12.5 oz",
+      "resolved_brand_slug": "briogeo",
+      "resolved_brand_display_name": "Briogeo",
+      "openbeautyfacts_title": "Shampooing revigorant et ultra nourrissant au matcha et à la pomme",
+      "upcitemdb_title": "Briogeo - Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo Nutrient-Rich Green Juice Inspired Shampoo for Dull Dry and Lifeless Hair 12.5 oz",
+      "title_similarity": 40.58,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00800897003777",
+      "product_name": "NYX Professional Makeup Brow Glue Eyebrow Gel - Clear - 0.17oz",
+      "resolved_brand_slug": "nyx",
+      "resolved_brand_display_name": "NYX",
+      "openbeautyfacts_title": "NYX Professional Makeup 01 Transparant The Brow Glue",
+      "upcitemdb_title": "NYX Professional Makeup Brow Glue Eyebrow Gel - Clear - 0.17oz",
+      "title_similarity": 77.65,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00800897142926",
+      "product_name": "NYX Professional Makeup Soft Matte Lip Cream Lightweight Liquid Lipstick - Milan - 0.27 fl oz",
+      "resolved_brand_slug": "nyx",
+      "resolved_brand_display_name": "NYX",
+      "openbeautyfacts_title": "Soft matte",
+      "upcitemdb_title": "NYX Professional Makeup Soft Matte Lip Cream Lightweight Liquid Lipstick - Milan - 0.27 fl oz",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00810019610462",
+      "product_name": "Good Molecules Hyaluronic Acid Face Serum - 1 fl oz",
+      "resolved_brand_slug": "good-molecules",
+      "resolved_brand_display_name": "Good Molecules",
+      "openbeautyfacts_title": "Hyaluronic Acid Serum",
+      "upcitemdb_title": "Good Molecules Hyaluronic Acid Face Serum - 1 fl oz",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00810052960166",
+      "product_name": "Glow Recipe Watermelon Glow Niacinamide Dew Drops Serum, Size: 0.5 FL Oz, None",
+      "resolved_brand_slug": "glow-recipe",
+      "resolved_brand_display_name": "Glow Recipe",
+      "openbeautyfacts_title": "Watermelon glow niacinamide dew drops",
+      "upcitemdb_title": "Glow Recipe Watermelon Glow Niacinamide Dew Drops Serum, Size: 0.5 FL Oz, None",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00810052961750",
+      "product_name": "Glow Recipe Watermelon Glow Skincare Birthday Gift 2023",
+      "resolved_brand_slug": "glow-recipe",
+      "resolved_brand_display_name": "Glow Recipe",
+      "openbeautyfacts_title": "sephora",
+      "upcitemdb_title": "Glow Recipe Watermelon Glow Skincare Birthday Gift 2023",
+      "title_similarity": 14.04,
+      "verification_status": "verified_cross_source_subbrand_resolved"
+    },
+    {
+      "gtin14": "00810763030585",
+      "product_name": "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Color: Uncuffed Size: N/A",
+      "resolved_brand_slug": "fenty-beauty",
+      "resolved_brand_display_name": "Fenty Beauty",
+      "openbeautyfacts_title": "Stunna Lip paint",
+      "upcitemdb_title": "FENTY BEAUTY by Rihanna Stunna Lip Paint Longwear Fluid Lip Color Color: Uncuffed Size: N/A",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00810905039742",
+      "product_name": "Amika Hair Care Products (Hair Care:1.01 oz Un.Done Volume & Matte Texture Spray;)",
+      "resolved_brand_slug": "amika",
+      "resolved_brand_display_name": "Amika",
+      "openbeautyfacts_title": "Un.Done Volume and Matte Texture Spray",
+      "upcitemdb_title": "Amika Hair Care Products (Hair Care:1.01 oz Un.Done Volume & Matte Texture Spray;)",
+      "title_similarity": 84.85,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00812459021242",
+      "product_name": "Glossier Body Hero Daily Perfecting Cream_8.4 fl oz / 250 m (B07J6G2K61)",
+      "resolved_brand_slug": "glossier",
+      "resolved_brand_display_name": "Glossier",
+      "openbeautyfacts_title": "Glossier Body Hero Daily Perfecting Cream",
+      "upcitemdb_title": "Glossier Body Hero Daily Perfecting Cream_8.4 fl oz / 250 m (B07J6G2K61)",
+      "title_similarity": 92.11,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00815517026746",
+      "product_name": "First Aid Beauty Pure Skin Deep Cleanser with Red Clay 4.7 oz",
+      "resolved_brand_slug": "first-aid-beauty",
+      "resolved_brand_display_name": "First Aid Beauty",
+      "openbeautyfacts_title": "Pure Skin Deep Cleanser with Red Clay",
+      "upcitemdb_title": "First Aid Beauty Pure Skin Deep Cleanser with Red Clay 4.7 oz",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "00843246110153",
+      "product_name": "Grande Cosmetics GrandeMASCARA Conditioning Peptide Mascara",
+      "resolved_brand_slug": "grande-cosmetics",
+      "resolved_brand_display_name": "Grande Cosmetics",
+      "openbeautyfacts_title": "GrandeMASCARA Conditioning Peptide Mascara Brown",
+      "upcitemdb_title": "Grande Cosmetics GrandeMASCARA Conditioning Peptide Mascara",
+      "title_similarity": 93.33,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "03348900012189",
+      "product_name": "Dior Fahrenheit Eau de Toilette, Cologne for Men, 1.7 Oz",
+      "resolved_brand_slug": "dior",
+      "resolved_brand_display_name": "Dior",
+      "openbeautyfacts_title": "Fahrenheit",
+      "upcitemdb_title": "Dior Fahrenheit Eau de Toilette, Cologne for Men, 1.7 Oz",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "03360372060734",
+      "product_name": "ARMANI beauty Acqua di Gio Deodorant Stick at Nordstrom",
+      "resolved_brand_slug": "giorgio-armani",
+      "resolved_brand_display_name": "Giorgio Armani",
+      "openbeautyfacts_title": "Acqua di Giò Déodorant Stick",
+      "upcitemdb_title": "ARMANI beauty Acqua di Gio Deodorant Stick at Nordstrom",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "03367729018943",
+      "product_name": "Deo Pure Antiperspirant Cream 2.53oz",
+      "resolved_brand_slug": "biotherm",
+      "resolved_brand_display_name": "Biotherm",
+      "openbeautyfacts_title": "DEO PURE",
+      "upcitemdb_title": "Deo Pure Antiperspirant Cream 2.53oz",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "03380810006681",
+      "product_name": "Mission Perfection Serum",
+      "resolved_brand_slug": "clarins",
+      "resolved_brand_display_name": "Clarins",
+      "openbeautyfacts_title": "mission perfection",
+      "upcitemdb_title": "Mission Perfection Serum",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "03522930000693",
+      "product_name": "CAUDALIE Fleur de Vigne(R) Shower Gel in None at Nordstrom, Size 6.7 Oz",
+      "resolved_brand_slug": "caudalie",
+      "resolved_brand_display_name": "Caudalie",
+      "openbeautyfacts_title": "Caudalie Gel douche fleur de vigne",
+      "upcitemdb_title": "CAUDALIE Fleur de Vigne(R) Shower Gel in None at Nordstrom, Size 6.7 Oz",
+      "title_similarity": 76.36,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "03548752073257",
+      "product_name": "Make Up For EverStep 1 Skin Equalizer - #3 Hydrating Primer 30ml/1oz",
+      "resolved_brand_slug": "make-up-for-ever",
+      "resolved_brand_display_name": "Make Up For Ever",
+      "openbeautyfacts_title": "skin equalizer",
+      "upcitemdb_title": "Make Up For EverStep 1 Skin Equalizer - #3 Hydrating Primer 30ml/1oz",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "04533213040984",
+      "product_name": "Baby Foot Masque Chaussette Pour Les Pieds Liberta",
+      "resolved_brand_slug": "baby-foot",
+      "resolved_brand_display_name": "Baby Foot",
+      "openbeautyfacts_title": "Baby Foot Masque Chaussette Pour Les Pieds Liberta",
+      "upcitemdb_title": "Baby Foot Treatment Exfoliation Peel",
+      "title_similarity": 44.19,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "05056446660280",
+      "product_name": "Charlotte Tilbury Airbrush Flawless Blush Blur, Size: .28 Oz, Pillow Talk Dreams",
+      "resolved_brand_slug": "charlotte-tilbury",
+      "resolved_brand_display_name": "Charlotte Tilbury",
+      "openbeautyfacts_title": "Pillow Talk Airbrush Flawless Blush Blur",
+      "upcitemdb_title": "Charlotte Tilbury Airbrush Flawless Blush Blur, Size: .28 Oz, Pillow Talk Dreams",
+      "title_similarity": 93.33,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "05060150182341",
+      "product_name": "COLOR WOW Anti-Frizz Dream Coat for Curly Hair - 2.5 fl oz",
+      "resolved_brand_slug": "color-wow",
+      "resolved_brand_display_name": "Color Wow",
+      "openbeautyfacts_title": "COLOR WOW Extra Strength Dream Coat",
+      "upcitemdb_title": "COLOR WOW Anti-Frizz Dream Coat for Curly Hair - 2.5 fl oz",
+      "title_similarity": 72.73,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "05060489792310",
+      "product_name": "BYOMA Hydrating Serum - 1.01 fl oz",
+      "resolved_brand_slug": "byoma",
+      "resolved_brand_display_name": "BYOMA",
+      "openbeautyfacts_title": "serome",
+      "upcitemdb_title": "BYOMA Hydrating Serum - 1.01 fl oz",
+      "title_similarity": 20.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "08411061056769",
+      "product_name": "Carolina Herrera Good Girl Blush Eau de Parfum, 1.7 oz.",
+      "resolved_brand_slug": "carolina-herrera",
+      "resolved_brand_display_name": "Carolina Herrera",
+      "openbeautyfacts_title": "Carolina Herrera Good Girl Blush - Eau de Parfum 50ml",
+      "upcitemdb_title": "Carolina Herrera Good Girl Blush Eau de Parfum, 1.7 oz.",
+      "title_similarity": 88.89,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "08809380649814",
+      "product_name": "[dr.jart+] Dermaclear Micro Foam - 120ml",
+      "resolved_brand_slug": "dr-jart-plus",
+      "resolved_brand_display_name": "Dr. Jart+",
+      "openbeautyfacts_title": "Dermaclear micro farm",
+      "upcitemdb_title": "[dr.jart+] Dermaclear Micro Foam - 120ml",
+      "title_similarity": 86.49,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "08809416470054",
+      "product_name": "Cosrx BHA Blackhead Power Liquid",
+      "resolved_brand_slug": "cosrx",
+      "resolved_brand_display_name": "COSRX",
+      "openbeautyfacts_title": "Cosrx BHA Blackhead Power Liquid",
+      "upcitemdb_title": "Cosrx Bha Blackhead Power Liquid",
+      "title_similarity": 100.0,
+      "verification_status": "verified_cross_source"
+    },
+    {
+      "gtin14": "09351134000222",
+      "product_name": "Frank Body Sweet Cheeks Kit, 300ml. Shipping Is Free",
+      "resolved_brand_slug": "frank-body",
+      "resolved_brand_display_name": "Frank Body",
+      "openbeautyfacts_title": "Sweet Cheeks Kit",
+      "upcitemdb_title": "Frank Body Sweet Cheeks Kit, 300ml. Shipping Is Free",
+      "title_similarity": 85.71,
+      "verification_status": "verified_cross_source"
+    }
+  ],
+  "parent_subbrand_resolutions": [
+    {
+      "gtin14": "00810052961750",
+      "openbeautyfacts_brand_slug": "sephora",
+      "upcitemdb_brand_slug": "glow-recipe",
+      "resolved_brand_slug": "glow-recipe",
+      "title_similarity": 14.04
+    }
+  ],
+  "brand_conflicts": [],
+  "duplicate_gtin14_count": 0
+}

@@ -1,0 +1,685 @@
+{
+  "brand_slug": "make-up-for-ever",
+  "display_name": "Make Up For Ever",
+  "letter_section": "M",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+  "product_count": 8,
+  "canonical_product_count": 8,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00799207117351",
+      "product_name": "MAKE UP FOR EVER STEP 1 SKIN EQUALIZER SMOOTHING FACE PRIMER TRAVEL SIZE .16oz",
+      "image_url": "http://images.jet.com/md5/237b8ada13b2674681b5e530b70e1c4c.500",
+      "local_image_path": null,
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "Make Up For Ever"
+        ]
+      },
+      "product": {
+        "name": "MAKE UP FOR EVER STEP 1 SKIN EQUALIZER SMOOTHING FACE PRIMER TRAVEL SIZE .16oz",
+        "source_names": {
+          "upcitemdb": "MAKE UP FOR EVER STEP 1 SKIN EQUALIZER SMOOTHING FACE PRIMER TRAVEL SIZE .16oz"
+        },
+        "alternate_names": [
+          "Make Up For Ever Step 1 Skin Equalizer Smoothing Primer, Travel Size .16 Oz",
+          "Make Up For Ever Step 1 Skin Equalizer Smoothing Primer Travel Size 16 Oz"
+        ],
+        "quantity": "1.00 lbs",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Face Makeup",
+          "Face Primer"
+        ],
+        "description": null,
+        "primary_image_url": "http://images.jet.com/md5/237b8ada13b2674681b5e530b70e1c4c.500",
+        "thumbnail_url": "http://images.jet.com/md5/237b8ada13b2674681b5e530b70e1c4c.500",
+        "image_urls": [
+          "http://images.jet.com/md5/237b8ada13b2674681b5e530b70e1c4c.500",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/WGLkHW1oPPs5EX4eqn1mwNR.MD256.jpg",
+          "https://i22.onbuy.com/product/7fda0dccb8484b058e83afd89ca0edd1-l14432814.jpg"
+        ],
+        "local_image_path": null,
+        "image_status": "remote_only"
+      },
+      "barcode": {
+        "gtin14": "00799207117351",
+        "ean13": "0799207117351",
+        "upc_a": "799207117351",
+        "ean8": null,
+        "primary_code": "799207117351",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0799207117351",
+          "799207117351"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00799207117351",
+        "qr_payload_text": "https://id.gs1.org/01/00799207117351",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00799207117351",
+          "code": "799207117351",
+          "type": "UPC-A",
+          "brand": "Make Up For Ever",
+          "name": "MAKE UP FOR EVER STEP 1 SKIN EQUALIZER SMOOTHING FACE PRIMER TRAVEL SIZE .16oz",
+          "image_url": "http://images.jet.com/md5/237b8ada13b2674681b5e530b70e1c4c.500"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/00799207117351.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0799207117351",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00885122060879",
+      "product_name": "MAKE UP FOR EVER Black Tango Palette",
+      "image_url": "https://i5.walmartimages.com/asr/66e1a246-9010-40b9-a219-0a3fb0254fe2.71cbc80b42e67ba384fb3b8f08e9fb03.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/make-up-for-ever/00885122060879.jpg",
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "Make Up For Ever"
+        ]
+      },
+      "product": {
+        "name": "MAKE UP FOR EVER Black Tango Palette",
+        "source_names": {
+          "upcitemdb": "MAKE UP FOR EVER Black Tango Palette"
+        },
+        "alternate_names": [],
+        "quantity": "4x1.5g/0.05oz",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Eye Makeup",
+          "Eye Shadow"
+        ],
+        "description": "MAKE UP FOR EVER Black Tango Palette",
+        "primary_image_url": "https://i5.walmartimages.com/asr/66e1a246-9010-40b9-a219-0a3fb0254fe2.71cbc80b42e67ba384fb3b8f08e9fb03.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/66e1a246-9010-40b9-a219-0a3fb0254fe2.71cbc80b42e67ba384fb3b8f08e9fb03.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/66e1a246-9010-40b9-a219-0a3fb0254fe2.71cbc80b42e67ba384fb3b8f08e9fb03.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/Vb9ESNaM2EIzgVyqgxYPR41.MD256.jpg"
+        ],
+        "local_image_path": "images/make-up-for-ever/00885122060879.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00885122060879",
+        "ean13": "0885122060879",
+        "upc_a": "885122060879",
+        "ean8": null,
+        "primary_code": "885122060879",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0885122060879",
+          "885122060879"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00885122060879",
+        "qr_payload_text": "https://id.gs1.org/01/00885122060879",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00885122060879",
+          "code": "885122060879",
+          "type": "UPC-A",
+          "brand": "Make Up For Ever",
+          "name": "MAKE UP FOR EVER Black Tango Palette",
+          "image_url": "https://i5.walmartimages.com/asr/66e1a246-9010-40b9-a219-0a3fb0254fe2.71cbc80b42e67ba384fb3b8f08e9fb03.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/00885122060879.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0885122060879",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00885127987379",
+      "product_name": "MAKE UP FOR EVER HD Microfinish Pressed Powder -6.2g/0.21oz by MAKEUP FOREVER",
+      "image_url": "https://i5.walmartimages.com/asr/978e2648-dc9b-4507-b5e9-e729890d8acc_1.a1f212eaa120f50a46ae0d513ae15c88.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/make-up-for-ever/00885127987379.jpg",
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "Make Up For Ever"
+        ]
+      },
+      "product": {
+        "name": "MAKE UP FOR EVER HD Microfinish Pressed Powder -6.2g/0.21oz by MAKEUP FOREVER",
+        "source_names": {
+          "upcitemdb": "MAKE UP FOR EVER HD Microfinish Pressed Powder -6.2g/0.21oz by MAKEUP FOREVER"
+        },
+        "alternate_names": [
+          "MAKE UP FOR EVER HD Microfinish Pressed Powder -6.2g0.21oz by MAKEUP FOREVER"
+        ],
+        "quantity": "1.00 lbs",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Face Makeup",
+          "Face Powder"
+        ],
+        "description": "MAKE UP FOR EVER HD Microfinish Pressed Powder -6.2g/0.21oz by MAKEUP FOREVER",
+        "primary_image_url": "https://i5.walmartimages.com/asr/978e2648-dc9b-4507-b5e9-e729890d8acc_1.a1f212eaa120f50a46ae0d513ae15c88.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/978e2648-dc9b-4507-b5e9-e729890d8acc_1.a1f212eaa120f50a46ae0d513ae15c88.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/978e2648-dc9b-4507-b5e9-e729890d8acc_1.a1f212eaa120f50a46ae0d513ae15c88.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/WG56IW1kNntA4nL7g34e6Z3.MD256.jpg",
+          "https://i12.onbuy.com/product/5ac5f0452dce488c95cc43c4b1ea27c0-l8494395.jpg"
+        ],
+        "local_image_path": "images/make-up-for-ever/00885127987379.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00885127987379",
+        "ean13": "0885127987379",
+        "upc_a": "885127987379",
+        "ean8": null,
+        "primary_code": "885127987379",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0885127987379",
+          "885127987379"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00885127987379",
+        "qr_payload_text": "https://id.gs1.org/01/00885127987379",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00885127987379",
+          "code": "885127987379",
+          "type": "UPC-A",
+          "brand": "Make Up For Ever",
+          "name": "MAKE UP FOR EVER HD Microfinish Pressed Powder -6.2g/0.21oz by MAKEUP FOREVER",
+          "image_url": "https://i5.walmartimages.com/asr/978e2648-dc9b-4507-b5e9-e729890d8acc_1.a1f212eaa120f50a46ae0d513ae15c88.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/00885127987379.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0885127987379",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00885700720928",
+      "product_name": "MAKE UP FOR EVER Rouge Artist Intense 50 0.12 oz",
+      "image_url": "https://d29pz51ispcyrv.cloudfront.net/images/I/eVZ5HkwaJRHWJRY0evLZJzY.MD256.jpg",
+      "local_image_path": null,
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "Make Up For Ever"
+        ]
+      },
+      "product": {
+        "name": "MAKE UP FOR EVER Rouge Artist Intense 50 0.12 oz",
+        "source_names": {
+          "upcitemdb": "MAKE UP FOR EVER Rouge Artist Intense 50 0.12 oz"
+        },
+        "alternate_names": [
+          "Make Up For Ever Rouge Artist Intense 50 0 12 Oz"
+        ],
+        "quantity": "3.5g/0.12oz",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup"
+        ],
+        "description": null,
+        "primary_image_url": "https://d29pz51ispcyrv.cloudfront.net/images/I/eVZ5HkwaJRHWJRY0evLZJzY.MD256.jpg",
+        "thumbnail_url": "https://d29pz51ispcyrv.cloudfront.net/images/I/eVZ5HkwaJRHWJRY0evLZJzY.MD256.jpg",
+        "image_urls": [
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/eVZ5HkwaJRHWJRY0evLZJzY.MD256.jpg",
+          "https://i4.onbuy.com/product/dd78ef94407645b49320a2e222958e99-l14440920.jpg"
+        ],
+        "local_image_path": null,
+        "image_status": "remote_only"
+      },
+      "barcode": {
+        "gtin14": "00885700720928",
+        "ean13": "0885700720928",
+        "upc_a": "885700720928",
+        "ean8": null,
+        "primary_code": "885700720928",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0885700720928",
+          "885700720928"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00885700720928",
+        "qr_payload_text": "https://id.gs1.org/01/00885700720928",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00885700720928",
+          "code": "885700720928",
+          "type": "UPC-A",
+          "brand": "Make Up For Ever",
+          "name": "MAKE UP FOR EVER Rouge Artist Intense 50 0.12 oz",
+          "image_url": "https://d29pz51ispcyrv.cloudfront.net/images/I/eVZ5HkwaJRHWJRY0evLZJzY.MD256.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/00885700720928.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0885700720928",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03548752028424",
+      "product_name": "Make Up For Ever Sculpting Blush Powder Blush - #06 (Satin Fresh Pink) 5.5g/0.17oz",
+      "image_url": "http://s.cdnsbn.com/images/products/17274513602.jpg",
+      "local_image_path": "images/make-up-for-ever/03548752028424.jpg",
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "Make Up For Ever"
+        ]
+      },
+      "product": {
+        "name": "Make Up For Ever Sculpting Blush Powder Blush - #06 (Satin Fresh Pink) 5.5g/0.17oz",
+        "source_names": {
+          "upcitemdb": "Make Up For Ever Sculpting Blush Powder Blush - #06 (Satin Fresh Pink) 5.5g/0.17oz"
+        },
+        "alternate_names": [
+          "Sculpting Blush Powder Blush #06 Satin Fresh Pink 5.5g/0.17oz"
+        ],
+        "quantity": "5.5g/0.17oz.",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup"
+        ],
+        "description": "An oil-free powder blush packed in a slim compact case Offers glowing shades to light up cheeks Plus tone-on-tone natural shades to sculpt the face Comes in matte satin or iridescent textures for different makeup effects Sheer & velvety in texture Easily glides on & comfortable to wear Available with 7 cold shades & 7 warm orangey shades",
+        "primary_image_url": "http://s.cdnsbn.com/images/products/17274513602.jpg",
+        "thumbnail_url": "http://s.cdnsbn.com/images/products/17274513602.jpg",
+        "image_urls": [
+          "http://s.cdnsbn.com/images/products/17274513602.jpg",
+          "http://8016235491c6828f9cae-6b0d87410f7cc1525cc32b79408788c4.r96.cf2.rackcdn.com/725/9596556_1.jpg"
+        ],
+        "local_image_path": "images/make-up-for-ever/03548752028424.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03548752028424",
+        "ean13": "3548752028424",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3548752028424",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3548752028424"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03548752028424",
+        "qr_payload_text": "https://id.gs1.org/01/03548752028424",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03548752028424",
+          "code": "3548752028424",
+          "type": "EAN-13",
+          "brand": "Make Up For Ever",
+          "name": "Make Up For Ever Sculpting Blush Powder Blush - #06 (Satin Fresh Pink) 5.5g/0.17oz",
+          "image_url": "http://s.cdnsbn.com/images/products/17274513602.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/03548752028424.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "3548752028424",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03548752073257",
+      "product_name": "Make Up For EverStep 1 Skin Equalizer - #3 Hydrating Primer 30ml/1oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/354/875/207/3257/front_zh.4.400.jpg",
+      "local_image_path": "images/make-up-for-ever/03548752073257.jpg",
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "xx:make-up-forever",
+          "Make Up For Ever"
+        ]
+      },
+      "product": {
+        "name": "Make Up For EverStep 1 Skin Equalizer - #3 Hydrating Primer 30ml/1oz",
+        "source_names": {
+          "openbeautyfacts": "skin equalizer",
+          "upcitemdb": "Make Up For EverStep 1 Skin Equalizer - #3 Hydrating Primer 30ml/1oz"
+        },
+        "alternate_names": [
+          "skin equalizer",
+          "Step 1 Skin Equalizer - #3 Hydrating Primer - 30ml/1oz"
+        ],
+        "quantity": "30 ml",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup"
+        ],
+        "description": "An advanced makeup base to prepare skin for a perfect makeup effectLightweight, creamy & seamlessly blends onEnhances skin firmness, smoothness & moisture levelUnifies skin tone & boosts the wearing ability of foundationComes with different formulas to target specific concernsThis base is created to add radiance to dark skin",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/354/875/207/3257/front_zh.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/354/875/207/3257/front_zh.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/354/875/207/3257/front_zh.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/354/875/207/3257/front_zh.4.200.jpg",
+          "http://s.cdnsbn.com/images/products/19962413602.jpg",
+          "https://images10.newegg.com/ProductImageCompressAll200/ACK0_1_20170604290218705.jpg",
+          "http://images10.newegg.com/ProductImageCompressAll200/ACK0_1_20170604290218705.jpg"
+        ],
+        "local_image_path": "images/make-up-for-ever/03548752073257.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03548752073257",
+        "ean13": "3548752073257",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3548752073257",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3548752073257"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03548752073257",
+        "qr_payload_text": "https://id.gs1.org/01/03548752073257",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03548752073257",
+          "code": "3548752073257",
+          "type": "EAN-13",
+          "brand": "Make Up For Ever",
+          "name": "Make Up For EverStep 1 Skin Equalizer - #3 Hydrating Primer 30ml/1oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/354/875/207/3257/front_zh.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/03548752073257.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3548752073257",
+        "upcitemdb_ean": "3548752073257",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03548752085328",
+      "product_name": "Fond de teint couvrance invisible - R330",
+      "image_url": "https://images.openbeautyfacts.org/images/products/354/875/208/5328/front_fr.3.400.jpg",
+      "local_image_path": "images/make-up-for-ever/03548752085328.jpg",
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "xx:make-up-for-ever"
+        ]
+      },
+      "product": {
+        "name": "Fond de teint couvrance invisible - R330",
+        "source_names": {
+          "openbeautyfacts": "Fond de teint couvrance invisible - R330"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/354/875/208/5328/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/354/875/208/5328/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/354/875/208/5328/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/354/875/208/5328/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/make-up-for-ever/03548752085328.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03548752085328",
+        "ean13": "3548752085328",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3548752085328",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3548752085328"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03548752085328",
+        "qr_payload_text": "https://id.gs1.org/01/03548752085328",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03548752085328",
+          "code": "3548752085328",
+          "type": "EAN-13",
+          "brand": "Make Up For Ever",
+          "name": "Fond de teint couvrance invisible - R330",
+          "image_url": "https://images.openbeautyfacts.org/images/products/354/875/208/5328/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/03548752085328.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3548752085328",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03548752128100",
+      "product_name": "Make up for ever",
+      "image_url": "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_fr.4.400.jpg",
+      "local_image_path": "images/make-up-for-ever/03548752128100.jpg",
+      "brand": {
+        "slug": "make-up-for-ever",
+        "display_name": "Make Up For Ever",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Make%20Up%20For%20Ever",
+        "matched_raw_brands": [
+          "make up for ever"
+        ]
+      },
+      "product": {
+        "name": "Make up for ever",
+        "source_names": {
+          "openbeautyfacts": "Make up for ever"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_fr.4.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_sq.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_sq.11.200.jpg"
+        ],
+        "local_image_path": "images/make-up-for-ever/03548752128100.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03548752128100",
+        "ean13": "3548752128100",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3548752128100",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3548752128100"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03548752128100",
+        "qr_payload_text": "https://id.gs1.org/01/03548752128100",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03548752128100",
+          "code": "3548752128100",
+          "type": "EAN-13",
+          "brand": "Make Up For Ever",
+          "name": "Make up for ever",
+          "image_url": "https://images.openbeautyfacts.org/images/products/354/875/212/8100/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/make-up-for-ever/03548752128100.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3548752128100",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

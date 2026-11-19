@@ -1,0 +1,25 @@
+# Agent orchestration state (never committed)
+.agents/
+
+# Virtual environments
+.venv/
+venv/
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+
+# Build & packaging artifacts
+build/
+dist/
+*.egg-info/
+src/*.egg-info/
+
+# Ephemeral bulk downloads & scratch caches (committed seed/cache & output/ remain tracked)
+data/raw_dumps/
+data/cache/

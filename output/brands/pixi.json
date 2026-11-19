@@ -1,0 +1,92 @@
+{
+  "brand_slug": "pixi",
+  "display_name": "Pixi",
+  "letter_section": "P",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Pixi",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00885190812639",
+      "product_name": "pixi",
+      "image_url": "https://images.openbeautyfacts.org/images/products/088/519/081/2639/front_en.3.400.jpg",
+      "local_image_path": "images/pixi/00885190812639.jpg",
+      "brand": {
+        "slug": "pixi",
+        "display_name": "Pixi",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Pixi",
+        "matched_raw_brands": [
+          "xx:pixi"
+        ]
+      },
+      "product": {
+        "name": "pixi",
+        "source_names": {
+          "openbeautyfacts": "pixi"
+        },
+        "alternate_names": [],
+        "quantity": "150ml",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/088/519/081/2639/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/088/519/081/2639/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/088/519/081/2639/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/088/519/081/2639/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/pixi/00885190812639.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00885190812639",
+        "ean13": "0885190812639",
+        "upc_a": "885190812639",
+        "ean8": null,
+        "primary_code": "885190812639",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0885190812639"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00885190812639",
+        "qr_payload_text": "https://id.gs1.org/01/00885190812639",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00885190812639",
+          "code": "885190812639",
+          "type": "UPC-A",
+          "brand": "Pixi",
+          "name": "pixi",
+          "image_url": "https://images.openbeautyfacts.org/images/products/088/519/081/2639/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/pixi/00885190812639.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0885190812639",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

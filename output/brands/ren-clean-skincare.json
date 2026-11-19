@@ -1,0 +1,244 @@
+{
+  "brand_slug": "ren-clean-skincare",
+  "display_name": "REN Clean Skincare",
+  "letter_section": "R",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=REN%20Clean%20Skincare",
+  "product_count": 3,
+  "canonical_product_count": 3,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "05056264703442",
+      "product_name": "Ren gentle cleansing gel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/505/626/470/3442/front_en.3.400.jpg",
+      "local_image_path": "images/ren-clean-skincare/05056264703442.jpg",
+      "brand": {
+        "slug": "ren-clean-skincare",
+        "display_name": "REN Clean Skincare",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=REN%20Clean%20Skincare",
+        "matched_raw_brands": [
+          "xx:ren"
+        ]
+      },
+      "product": {
+        "name": "Ren gentle cleansing gel",
+        "source_names": {
+          "openbeautyfacts": "Ren gentle cleansing gel"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/505/626/470/3442/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/505/626/470/3442/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/505/626/470/3442/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/505/626/470/3442/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/ren-clean-skincare/05056264703442.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05056264703442",
+        "ean13": "5056264703442",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5056264703442",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5056264703442"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05056264703442",
+        "qr_payload_text": "https://id.gs1.org/01/05056264703442",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05056264703442",
+          "code": "5056264703442",
+          "type": "EAN-13",
+          "brand": "REN Clean Skincare",
+          "name": "Ren gentle cleansing gel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/505/626/470/3442/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/ren-clean-skincare/05056264703442.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5056264703442",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060033770818",
+      "product_name": "clearcalm 3 replenishing gel cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_en.9.400.jpg",
+      "local_image_path": "images/ren-clean-skincare/05060033770818.jpg",
+      "brand": {
+        "slug": "ren-clean-skincare",
+        "display_name": "REN Clean Skincare",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=REN%20Clean%20Skincare",
+        "matched_raw_brands": [
+          "xx:ren"
+        ]
+      },
+      "product": {
+        "name": "clearcalm 3 replenishing gel cream",
+        "source_names": {
+          "openbeautyfacts": "clearcalm 3 replenishing gel cream"
+        },
+        "alternate_names": [],
+        "quantity": "50 мл",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_en.9.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_no.16.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_no.16.200.jpg"
+        ],
+        "local_image_path": "images/ren-clean-skincare/05060033770818.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060033770818",
+        "ean13": "5060033770818",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060033770818",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060033770818"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060033770818",
+        "qr_payload_text": "https://id.gs1.org/01/05060033770818",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060033770818",
+          "code": "5060033770818",
+          "type": "EAN-13",
+          "brand": "REN Clean Skincare",
+          "name": "clearcalm 3 replenishing gel cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/003/377/0818/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/ren-clean-skincare/05060033770818.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060033770818",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060389248078",
+      "product_name": "global protection day cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/038/924/8078/front_fr.3.400.jpg",
+      "local_image_path": "images/ren-clean-skincare/05060389248078.jpg",
+      "brand": {
+        "slug": "ren-clean-skincare",
+        "display_name": "REN Clean Skincare",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=REN%20Clean%20Skincare",
+        "matched_raw_brands": [
+          "xx:ren-clean-skincare"
+        ]
+      },
+      "product": {
+        "name": "global protection day cream",
+        "source_names": {
+          "openbeautyfacts": "global protection day cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/038/924/8078/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/038/924/8078/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/038/924/8078/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/038/924/8078/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/ren-clean-skincare/05060389248078.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060389248078",
+        "ean13": "5060389248078",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060389248078",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060389248078"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060389248078",
+        "qr_payload_text": "https://id.gs1.org/01/05060389248078",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060389248078",
+          "code": "5060389248078",
+          "type": "EAN-13",
+          "brand": "REN Clean Skincare",
+          "name": "global protection day cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/038/924/8078/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/ren-clean-skincare/05060389248078.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060389248078",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

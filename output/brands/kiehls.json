@@ -1,0 +1,3240 @@
+{
+  "brand_slug": "kiehls",
+  "display_name": "Kiehl's",
+  "letter_section": "K",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+  "product_count": 42,
+  "canonical_product_count": 42,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00002697807054",
+      "product_name": "Kiehls - Toner #Calendula",
+      "image_url": "https://images.openbeautyfacts.org/images/products/000/269/780/7054/front_en.4.400.jpg",
+      "local_image_path": "images/kiehls/00002697807054.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "kiehls"
+        ]
+      },
+      "product": {
+        "name": "Kiehls - Toner #Calendula",
+        "source_names": {
+          "openbeautyfacts": "Kiehls - Toner #Calendula"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/000/269/780/7054/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/000/269/780/7054/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/000/269/780/7054/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/000/269/780/7054/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/00002697807054.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00002697807054",
+        "ean13": "0002697807054",
+        "upc_a": "002697807054",
+        "ean8": null,
+        "primary_code": "002697807054",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0002697807054"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00002697807054",
+        "qr_payload_text": "https://id.gs1.org/01/00002697807054",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00002697807054",
+          "code": "002697807054",
+          "type": "UPC-A",
+          "brand": "Kiehl's",
+          "name": "Kiehls - Toner #Calendula",
+          "image_url": "https://images.openbeautyfacts.org/images/products/000/269/780/7054/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/00002697807054.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0002697807054",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00601650079752",
+      "product_name": "midnight recovery concentrate",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/165/007/9752/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/00601650079752.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "midnight recovery concentrate",
+        "source_names": {
+          "openbeautyfacts": "midnight recovery concentrate"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/165/007/9752/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/165/007/9752/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/165/007/9752/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/165/007/9752/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/00601650079752.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00601650079752",
+        "ean13": "0601650079752",
+        "upc_a": "601650079752",
+        "ean8": null,
+        "primary_code": "601650079752",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0601650079752"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00601650079752",
+        "qr_payload_text": "https://id.gs1.org/01/00601650079752",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00601650079752",
+          "code": "601650079752",
+          "type": "UPC-A",
+          "brand": "Kiehl's",
+          "name": "midnight recovery concentrate",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/165/007/9752/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/00601650079752.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0601650079752",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00666674808627",
+      "product_name": "Kiehl's Facial Fuel Eye De-Puffer",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Kiehl's Facial Fuel Eye De-Puffer",
+        "source_names": {
+          "openbeautyfacts": "Kiehl's Facial Fuel Eye De-Puffer"
+        },
+        "alternate_names": [],
+        "quantity": "15 ml",
+        "categories": [
+          "Cuidados Com A Pele",
+          "Cuidados Com Os Olhos"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00666674808627",
+        "ean13": "0666674808627",
+        "upc_a": "666674808627",
+        "ean8": null,
+        "primary_code": "666674808627",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0666674808627"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00666674808627",
+        "qr_payload_text": "https://id.gs1.org/01/00666674808627",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00666674808627",
+          "code": "666674808627",
+          "type": "UPC-A",
+          "brand": "Kiehl's",
+          "name": "Kiehl's Facial Fuel Eye De-Puffer",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/00666674808627.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0666674808627",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970202637",
+      "product_name": "dermatologist",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/020/2637/front_fr.4.400.jpg",
+      "local_image_path": "images/kiehls/03605970202637.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehls"
+        ]
+      },
+      "product": {
+        "name": "dermatologist",
+        "source_names": {
+          "openbeautyfacts": "dermatologist"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/020/2637/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/020/2637/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/020/2637/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/020/2637/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970202637.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970202637",
+        "ean13": "3605970202637",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970202637",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970202637"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970202637",
+        "qr_payload_text": "https://id.gs1.org/01/03605970202637",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970202637",
+          "code": "3605970202637",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "dermatologist",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/020/2637/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970202637.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970202637",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970236915",
+      "product_name": "Creamy Eye Treatment",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/023/6915/front_fr.12.400.jpg",
+      "local_image_path": "images/kiehls/03605970236915.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Creamy Eye Treatment",
+        "source_names": {
+          "openbeautyfacts": "Creamy Eye Treatment"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/023/6915/front_fr.12.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/023/6915/front_fr.12.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/023/6915/front_fr.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/023/6915/front_fr.12.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970236915.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970236915",
+        "ean13": "3605970236915",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970236915",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970236915"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970236915",
+        "qr_payload_text": "https://id.gs1.org/01/03605970236915",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970236915",
+          "code": "3605970236915",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Creamy Eye Treatment",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/023/6915/front_fr.12.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970236915.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970236915",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970279752",
+      "product_name": "kiehl's midnight recovery concentrate",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/027/9752/1.400.jpg",
+      "local_image_path": "images/kiehls/03605970279752.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "kiehl's"
+        ]
+      },
+      "product": {
+        "name": "kiehl's midnight recovery concentrate",
+        "source_names": {
+          "openbeautyfacts": "kiehl's midnight recovery concentrate"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/027/9752/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/027/9752/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/027/9752/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/027/9752/1.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970279752.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970279752",
+        "ean13": "3605970279752",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970279752",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970279752"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970279752",
+        "qr_payload_text": "https://id.gs1.org/01/03605970279752",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970279752",
+          "code": "3605970279752",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "kiehl's midnight recovery concentrate",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/027/9752/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970279752.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970279752",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970360757",
+      "product_name": "Ultra Facial Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/036/0757/front_en.23.400.jpg",
+      "local_image_path": "images/kiehls/03605970360757.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Ultra Facial Cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra Facial Cream"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Moisturizer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/036/0757/front_en.23.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/036/0757/front_en.23.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/036/0757/front_en.23.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/036/0757/front_en.23.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970360757.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970360757",
+        "ean13": "3605970360757",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970360757",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970360757"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970360757",
+        "qr_payload_text": "https://id.gs1.org/01/03605970360757",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970360757",
+          "code": "3605970360757",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultra Facial Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/036/0757/front_en.23.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970360757.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970360757",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970366018",
+      "product_name": "Lip balm#1",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/036/6018/front_fr.3.400.jpg",
+      "local_image_path": "images/kiehls/03605970366018.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Lip balm#1",
+        "source_names": {
+          "openbeautyfacts": "Lip balm#1"
+        },
+        "alternate_names": [],
+        "quantity": "15 ml",
+        "categories": [
+          "Face",
+          "Lip Balms",
+          "Lip Cosmetics"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/036/6018/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/036/6018/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/036/6018/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/036/6018/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970366018.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970366018",
+        "ean13": "3605970366018",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970366018",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970366018"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970366018",
+        "qr_payload_text": "https://id.gs1.org/01/03605970366018",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970366018",
+          "code": "3605970366018",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Lip balm#1",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/036/6018/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970366018.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970366018",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970586287",
+      "product_name": "Baby Lío Balm",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/058/6287/front_es.9.400.jpg",
+      "local_image_path": "images/kiehls/03605970586287.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Baby Lío Balm",
+        "source_names": {
+          "openbeautyfacts": "Baby Lío Balm"
+        },
+        "alternate_names": [],
+        "quantity": "4,4 g",
+        "categories": [
+          "Balsamo Labial"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/058/6287/front_es.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/058/6287/front_es.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/058/6287/front_es.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/058/6287/front_es.9.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970586287.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970586287",
+        "ean13": "3605970586287",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970586287",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970586287"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970586287",
+        "qr_payload_text": "https://id.gs1.org/01/03605970586287",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970586287",
+          "code": "3605970586287",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Baby Lío Balm",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/058/6287/front_es.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970586287.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970586287",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970658434",
+      "product_name": "Getönte Gesichtscreme",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehls"
+        ]
+      },
+      "product": {
+        "name": "Getönte Gesichtscreme",
+        "source_names": {
+          "openbeautyfacts": "Getönte Gesichtscreme"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03605970658434",
+        "ean13": "3605970658434",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970658434",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970658434"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970658434",
+        "qr_payload_text": "https://id.gs1.org/01/03605970658434",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970658434",
+          "code": "3605970658434",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Getönte Gesichtscreme",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970658434.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970658434",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970720858",
+      "product_name": "Kiehl's Ultra Facial Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/072/0858/front_tr.5.400.jpg",
+      "local_image_path": "images/kiehls/03605970720858.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Kiehl's Ultra Facial Cream",
+        "source_names": {
+          "openbeautyfacts": "Kiehl's Ultra Facial Cream"
+        },
+        "alternate_names": [],
+        "quantity": "28 ml",
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Face Care",
+          "Facial Moisturizers",
+          "Skin Care"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/072/0858/front_tr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/072/0858/front_tr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/072/0858/front_tr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/072/0858/front_tr.5.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970720858.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970720858",
+        "ean13": "3605970720858",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970720858",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970720858"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970720858",
+        "qr_payload_text": "https://id.gs1.org/01/03605970720858",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970720858",
+          "code": "3605970720858",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Kiehl's Ultra Facial Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/072/0858/front_tr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970720858.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970720858",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970754099",
+      "product_name": "Kiehls - Sunscreen #mineral",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/075/4099/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605970754099.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "kiehls"
+        ]
+      },
+      "product": {
+        "name": "Kiehls - Sunscreen #mineral",
+        "source_names": {
+          "openbeautyfacts": "Kiehls - Sunscreen #mineral"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/075/4099/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/075/4099/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/075/4099/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/075/4099/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605970754099.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605970754099",
+        "ean13": "3605970754099",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970754099",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970754099"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970754099",
+        "qr_payload_text": "https://id.gs1.org/01/03605970754099",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970754099",
+          "code": "3605970754099",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Kiehls - Sunscreen #mineral",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/075/4099/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970754099.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970754099",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605970914455",
+      "product_name": "Haaröl",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehls"
+        ]
+      },
+      "product": {
+        "name": "Haaröl",
+        "source_names": {
+          "openbeautyfacts": "Haaröl"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03605970914455",
+        "ean13": "3605970914455",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605970914455",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605970914455"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605970914455",
+        "qr_payload_text": "https://id.gs1.org/01/03605970914455",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605970914455",
+          "code": "3605970914455",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Haaröl",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605970914455.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605970914455",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971132988",
+      "product_name": "Age defender",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/113/2988/front_en.7.400.jpg",
+      "local_image_path": "images/kiehls/03605971132988.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Age defender",
+        "source_names": {
+          "openbeautyfacts": "Age defender"
+        },
+        "alternate_names": [],
+        "quantity": "75 ml",
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/113/2988/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/113/2988/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/113/2988/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/113/2988/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971132988.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971132988",
+        "ean13": "3605971132988",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971132988",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971132988"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971132988",
+        "qr_payload_text": "https://id.gs1.org/01/03605971132988",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971132988",
+          "code": "3605971132988",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Age defender",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/113/2988/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971132988.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971132988",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971307928",
+      "product_name": "Midnight Recovery Botanical Cleansing Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/130/7928/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605971307928.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s-since-1851"
+        ]
+      },
+      "product": {
+        "name": "Midnight Recovery Botanical Cleansing Oil",
+        "source_names": {
+          "openbeautyfacts": "Midnight Recovery Botanical Cleansing Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/130/7928/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/130/7928/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/130/7928/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/130/7928/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971307928.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971307928",
+        "ean13": "3605971307928",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971307928",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971307928"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971307928",
+        "qr_payload_text": "https://id.gs1.org/01/03605971307928",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971307928",
+          "code": "3605971307928",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Midnight Recovery Botanical Cleansing Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/130/7928/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971307928.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971307928",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971345746",
+      "product_name": "Kiehl's Blue Herbal Blemish Cleanser Treatment",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/134/5746/front_fr.4.400.jpg",
+      "local_image_path": "images/kiehls/03605971345746.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "kiehl's"
+        ]
+      },
+      "product": {
+        "name": "Kiehl's Blue Herbal Blemish Cleanser Treatment",
+        "source_names": {
+          "openbeautyfacts": "Kiehl's Blue Herbal Blemish Cleanser Treatment"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/134/5746/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/134/5746/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/134/5746/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/134/5746/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971345746.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971345746",
+        "ean13": "3605971345746",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971345746",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971345746"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971345746",
+        "qr_payload_text": "https://id.gs1.org/01/03605971345746",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971345746",
+          "code": "3605971345746",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Kiehl's Blue Herbal Blemish Cleanser Treatment",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/134/5746/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971345746.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971345746",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971463365",
+      "product_name": "Age Defender Dual Action Exfoliating Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/146/3365/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605971463365.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s-since-1851"
+        ]
+      },
+      "product": {
+        "name": "Age Defender Dual Action Exfoliating Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Age Defender Dual Action Exfoliating Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/146/3365/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/146/3365/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/146/3365/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/146/3365/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971463365.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971463365",
+        "ean13": "3605971463365",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971463365",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971463365"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971463365",
+        "qr_payload_text": "https://id.gs1.org/01/03605971463365",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971463365",
+          "code": "3605971463365",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Age Defender Dual Action Exfoliating Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/146/3365/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971463365.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971463365",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971482144",
+      "product_name": "Cucumber Herbal Conditioning Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/148/2144/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605971482144.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s-since-1851"
+        ]
+      },
+      "product": {
+        "name": "Cucumber Herbal Conditioning Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Cucumber Herbal Conditioning Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/148/2144/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/148/2144/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/148/2144/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/148/2144/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971482144.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971482144",
+        "ean13": "3605971482144",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971482144",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971482144"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971482144",
+        "qr_payload_text": "https://id.gs1.org/01/03605971482144",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971482144",
+          "code": "3605971482144",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Cucumber Herbal Conditioning Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/148/2144/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971482144.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971482144",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971536090",
+      "product_name": "Serum Gesicht",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehls"
+        ]
+      },
+      "product": {
+        "name": "Serum Gesicht",
+        "source_names": {
+          "openbeautyfacts": "Serum Gesicht"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03605971536090",
+        "ean13": "3605971536090",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971536090",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971536090"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971536090",
+        "qr_payload_text": "https://id.gs1.org/01/03605971536090",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971536090",
+          "code": "3605971536090",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Serum Gesicht",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971536090.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971536090",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971545672",
+      "product_name": "Ultra facial cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/154/5672/front_en.4.400.jpg",
+      "local_image_path": "images/kiehls/03605971545672.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Ultra facial cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra facial cream"
+        },
+        "alternate_names": [],
+        "quantity": "125 ml",
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/154/5672/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/154/5672/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/154/5672/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/154/5672/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971545672.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971545672",
+        "ean13": "3605971545672",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971545672",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971545672"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971545672",
+        "qr_payload_text": "https://id.gs1.org/01/03605971545672",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971545672",
+          "code": "3605971545672",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultra facial cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/154/5672/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971545672.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971545672",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971634321",
+      "product_name": "Clearly Corrective Brightening Exfoliating Daily Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/163/4321/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605971634321.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s-since-1851"
+        ]
+      },
+      "product": {
+        "name": "Clearly Corrective Brightening Exfoliating Daily Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Clearly Corrective Brightening Exfoliating Daily Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/163/4321/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/163/4321/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/163/4321/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/163/4321/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971634321.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971634321",
+        "ean13": "3605971634321",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971634321",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971634321"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971634321",
+        "qr_payload_text": "https://id.gs1.org/01/03605971634321",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971634321",
+          "code": "3605971634321",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Clearly Corrective Brightening Exfoliating Daily Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/163/4321/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971634321.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971634321",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971764141",
+      "product_name": "herbal infused micellar cleansing water",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/176/4141/front_fr.3.400.jpg",
+      "local_image_path": "images/kiehls/03605971764141.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "herbal infused micellar cleansing water",
+        "source_names": {
+          "openbeautyfacts": "herbal infused micellar cleansing water"
+        },
+        "alternate_names": [],
+        "quantity": "250ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/176/4141/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/176/4141/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/176/4141/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/176/4141/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971764141.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971764141",
+        "ean13": "3605971764141",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971764141",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971764141"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971764141",
+        "qr_payload_text": "https://id.gs1.org/01/03605971764141",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971764141",
+          "code": "3605971764141",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "herbal infused micellar cleansing water",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/176/4141/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971764141.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971764141",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605971941979",
+      "product_name": "love oil for lips",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/194/1979/front_fr.3.400.jpg",
+      "local_image_path": "images/kiehls/03605971941979.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "love oil for lips",
+        "source_names": {
+          "openbeautyfacts": "love oil for lips"
+        },
+        "alternate_names": [],
+        "quantity": "3",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/194/1979/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/194/1979/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/194/1979/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/194/1979/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605971941979.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605971941979",
+        "ean13": "3605971941979",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605971941979",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605971941979"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605971941979",
+        "qr_payload_text": "https://id.gs1.org/01/03605971941979",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605971941979",
+          "code": "3605971941979",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "love oil for lips",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/194/1979/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605971941979.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605971941979",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605972076168",
+      "product_name": "Cannabis Sativa Seed Oil Herbal Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/207/6168/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605972076168.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s-since-1851"
+        ]
+      },
+      "product": {
+        "name": "Cannabis Sativa Seed Oil Herbal Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Cannabis Sativa Seed Oil Herbal Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/207/6168/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/207/6168/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/207/6168/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/207/6168/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605972076168.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605972076168",
+        "ean13": "3605972076168",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605972076168",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605972076168"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605972076168",
+        "qr_payload_text": "https://id.gs1.org/01/03605972076168",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605972076168",
+          "code": "3605972076168",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Cannabis Sativa Seed Oil Herbal Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/207/6168/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605972076168.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605972076168",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605972163561",
+      "product_name": "Creme de vorps Limitesl edition Janine Rewell",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/216/3561/front_fr.7.400.jpg",
+      "local_image_path": "images/kiehls/03605972163561.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehls-since-1851"
+        ]
+      },
+      "product": {
+        "name": "Creme de vorps Limitesl edition Janine Rewell",
+        "source_names": {
+          "openbeautyfacts": "Creme de vorps Limitesl edition Janine Rewell"
+        },
+        "alternate_names": [],
+        "quantity": "250 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/216/3561/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/216/3561/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/216/3561/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/216/3561/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605972163561.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605972163561",
+        "ean13": "3605972163561",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605972163561",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605972163561"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605972163561",
+        "qr_payload_text": "https://id.gs1.org/01/03605972163561",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605972163561",
+          "code": "3605972163561",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Creme de vorps Limitesl edition Janine Rewell",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/216/3561/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605972163561.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605972163561",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605972683175",
+      "product_name": "Super multi-corrective eye zone treatment",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/268/3175/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605972683175.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Super multi-corrective eye zone treatment",
+        "source_names": {
+          "openbeautyfacts": "Super multi-corrective eye zone treatment"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/268/3175/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/268/3175/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/268/3175/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/268/3175/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605972683175.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605972683175",
+        "ean13": "3605972683175",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605972683175",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605972683175"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605972683175",
+        "qr_payload_text": "https://id.gs1.org/01/03605972683175",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605972683175",
+          "code": "3605972683175",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Super multi-corrective eye zone treatment",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/268/3175/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605972683175.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605972683175",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605972966162",
+      "product_name": "Ultra Body Mega Moisture Squalane Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/296/6162/front_nl.3.400.jpg",
+      "local_image_path": "images/kiehls/03605972966162.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Ultra Body Mega Moisture Squalane Cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra Body Mega Moisture Squalane Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/296/6162/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/296/6162/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/296/6162/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/296/6162/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605972966162.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605972966162",
+        "ean13": "3605972966162",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605972966162",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605972966162"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605972966162",
+        "qr_payload_text": "https://id.gs1.org/01/03605972966162",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605972966162",
+          "code": "3605972966162",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultra Body Mega Moisture Squalane Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/296/6162/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605972966162.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605972966162",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605973079571",
+      "product_name": "Ultra facial meltdown recovery cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/307/9571/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605973079571.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Ultra facial meltdown recovery cream",
+        "source_names": {
+          "openbeautyfacts": "Ultra facial meltdown recovery cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/307/9571/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/307/9571/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/307/9571/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/307/9571/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605973079571.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605973079571",
+        "ean13": "3605973079571",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605973079571",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605973079571"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605973079571",
+        "qr_payload_text": "https://id.gs1.org/01/03605973079571",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605973079571",
+          "code": "3605973079571",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultra facial meltdown recovery cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/307/9571/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605973079571.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605973079571",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605975016987",
+      "product_name": "KIEHL'S RAZOR BUMP RELIEF",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/501/6987/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605975016987.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "kiehl's"
+        ]
+      },
+      "product": {
+        "name": "KIEHL'S RAZOR BUMP RELIEF",
+        "source_names": {
+          "openbeautyfacts": "KIEHL'S RAZOR BUMP RELIEF"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/501/6987/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/501/6987/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/501/6987/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/501/6987/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605975016987.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605975016987",
+        "ean13": "3605975016987",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605975016987",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605975016987"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605975016987",
+        "qr_payload_text": "https://id.gs1.org/01/03605975016987",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605975016987",
+          "code": "3605975016987",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "KIEHL'S RAZOR BUMP RELIEF",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/501/6987/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605975016987.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605975016987",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605975028799",
+      "product_name": "Kiehl’s Ultra Facial Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/502/8799/front_en.4.400.jpg",
+      "local_image_path": "images/kiehls/03605975028799.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Kiehl’s Ultra Facial Cream",
+        "source_names": {
+          "openbeautyfacts": "Kiehl’s Ultra Facial Cream"
+        },
+        "alternate_names": [],
+        "quantity": "125ml",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/502/8799/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/502/8799/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/502/8799/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/502/8799/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605975028799.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605975028799",
+        "ean13": "3605975028799",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605975028799",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605975028799"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605975028799",
+        "qr_payload_text": "https://id.gs1.org/01/03605975028799",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605975028799",
+          "code": "3605975028799",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Kiehl’s Ultra Facial Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/502/8799/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605975028799.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605975028799",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605975053920",
+      "product_name": "midnight recovery concentrate",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3920/front_fr.3.400.jpg",
+      "local_image_path": "images/kiehls/03605975053920.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "midnight recovery concentrate",
+        "source_names": {
+          "openbeautyfacts": "midnight recovery concentrate"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3920/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3920/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/505/3920/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/505/3920/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605975053920.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605975053920",
+        "ean13": "3605975053920",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605975053920",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605975053920"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605975053920",
+        "qr_payload_text": "https://id.gs1.org/01/03605975053920",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605975053920",
+          "code": "3605975053920",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "midnight recovery concentrate",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3920/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605975053920.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605975053920",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605975053951",
+      "product_name": "kiehl's midnight recovery concentrate",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3951/1.400.jpg",
+      "local_image_path": "images/kiehls/03605975053951.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "kiehl's"
+        ]
+      },
+      "product": {
+        "name": "kiehl's midnight recovery concentrate",
+        "source_names": {
+          "openbeautyfacts": "kiehl's midnight recovery concentrate"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3951/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3951/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/505/3951/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/505/3951/1.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605975053951.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605975053951",
+        "ean13": "3605975053951",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605975053951",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605975053951"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605975053951",
+        "qr_payload_text": "https://id.gs1.org/01/03605975053951",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605975053951",
+          "code": "3605975053951",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "kiehl's midnight recovery concentrate",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/505/3951/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605975053951.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605975053951",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605975080865",
+      "product_name": "Ultra Facial Oil-Free Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/597/508/0865/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03605975080865.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s-since-1851"
+        ]
+      },
+      "product": {
+        "name": "Ultra Facial Oil-Free Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Ultra Facial Oil-Free Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/597/508/0865/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/597/508/0865/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/597/508/0865/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/597/508/0865/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03605975080865.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605975080865",
+        "ean13": "3605975080865",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605975080865",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605975080865"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605975080865",
+        "qr_payload_text": "https://id.gs1.org/01/03605975080865",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605975080865",
+          "code": "3605975080865",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultra Facial Oil-Free Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/597/508/0865/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03605975080865.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605975080865",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194700270",
+      "product_name": "Ultimate shaver",
+      "image_url": "https://images.openbeautyfacts.org/images/products/370/019/470/0270/front_fr.3.400.jpg",
+      "local_image_path": "images/kiehls/03700194700270.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Ultimate shaver",
+        "source_names": {
+          "openbeautyfacts": "Ultimate shaver"
+        },
+        "alternate_names": [],
+        "quantity": "250 ml",
+        "categories": [
+          "Non Food Products",
+          "Open Products Facts",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/370/019/470/0270/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/370/019/470/0270/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/370/019/470/0270/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/370/019/470/0270/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03700194700270.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03700194700270",
+        "ean13": "3700194700270",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194700270",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194700270"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194700270",
+        "qr_payload_text": "https://id.gs1.org/01/03700194700270",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194700270",
+          "code": "3700194700270",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultimate shaver",
+          "image_url": "https://images.openbeautyfacts.org/images/products/370/019/470/0270/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194700270.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194700270",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194700539",
+      "product_name": "Ultra Facial Moisturizer",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Ultra Facial Moisturizer",
+        "source_names": {
+          "openbeautyfacts": "Ultra Facial Moisturizer"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Moisturizers"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03700194700539",
+        "ean13": "3700194700539",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194700539",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194700539"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194700539",
+        "qr_payload_text": "https://id.gs1.org/01/03700194700539",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194700539",
+          "code": "3700194700539",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultra Facial Moisturizer",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194700539.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194700539",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194708382",
+      "product_name": "Ultimate Strength Hand Salve",
+      "image_url": "https://images.openbeautyfacts.org/images/products/370/019/470/8382/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03700194708382.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Ultimate Strength Hand Salve",
+        "source_names": {
+          "openbeautyfacts": "Ultimate Strength Hand Salve"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/370/019/470/8382/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/370/019/470/8382/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/370/019/470/8382/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/370/019/470/8382/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03700194708382.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03700194708382",
+        "ean13": "3700194708382",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194708382",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194708382"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194708382",
+        "qr_payload_text": "https://id.gs1.org/01/03700194708382",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194708382",
+          "code": "3700194708382",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Ultimate Strength Hand Salve",
+          "image_url": "https://images.openbeautyfacts.org/images/products/370/019/470/8382/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194708382.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194708382",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194711719",
+      "product_name": "Calendula herbal-extract toner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/1719/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03700194711719.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Calendula herbal-extract toner",
+        "source_names": {
+          "openbeautyfacts": "Calendula herbal-extract toner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/1719/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/370/019/471/1719/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/370/019/471/1719/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/370/019/471/1719/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03700194711719.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03700194711719",
+        "ean13": "3700194711719",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194711719",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194711719"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194711719",
+        "qr_payload_text": "https://id.gs1.org/01/03700194711719",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194711719",
+          "code": "3700194711719",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Calendula herbal-extract toner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/1719/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194711719.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194711719",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194714413",
+      "product_name": "Creamy Eye Treatment with Avocado",
+      "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/4413/front_en.3.400.jpg",
+      "local_image_path": "images/kiehls/03700194714413.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Creamy Eye Treatment with Avocado",
+        "source_names": {
+          "openbeautyfacts": "Creamy Eye Treatment with Avocado"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/4413/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/370/019/471/4413/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/370/019/471/4413/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/370/019/471/4413/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03700194714413.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03700194714413",
+        "ean13": "3700194714413",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194714413",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194714413"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194714413",
+        "qr_payload_text": "https://id.gs1.org/01/03700194714413",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194714413",
+          "code": "3700194714413",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Creamy Eye Treatment with Avocado",
+          "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/4413/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194714413.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194714413",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194718503",
+      "product_name": "nourishing olive fruit oil shampoo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/8503/front_fr.3.400.jpg",
+      "local_image_path": "images/kiehls/03700194718503.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "nourishing olive fruit oil shampoo",
+        "source_names": {
+          "openbeautyfacts": "nourishing olive fruit oil shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/8503/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/370/019/471/8503/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/370/019/471/8503/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/370/019/471/8503/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03700194718503.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03700194718503",
+        "ean13": "3700194718503",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194718503",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194718503"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194718503",
+        "qr_payload_text": "https://id.gs1.org/01/03700194718503",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194718503",
+          "code": "3700194718503",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "nourishing olive fruit oil shampoo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/8503/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194718503.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194718503",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194719104",
+      "product_name": "Facial Fuel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/9104/front_fr.3.400.jpg",
+      "local_image_path": "images/kiehls/03700194719104.jpg",
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Facial Fuel",
+        "source_names": {
+          "openbeautyfacts": "Facial Fuel"
+        },
+        "alternate_names": [],
+        "quantity": "125mL",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/9104/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/370/019/471/9104/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/370/019/471/9104/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/370/019/471/9104/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/kiehls/03700194719104.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03700194719104",
+        "ean13": "3700194719104",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194719104",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194719104"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194719104",
+        "qr_payload_text": "https://id.gs1.org/01/03700194719104",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194719104",
+          "code": "3700194719104",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Facial Fuel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/370/019/471/9104/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194719104.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194719104",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03700194719159",
+      "product_name": "Facial Fuel Energizing Face Wash",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Facial Fuel Energizing Face Wash",
+        "source_names": {
+          "openbeautyfacts": "Facial Fuel Energizing Face Wash"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Facial Wash"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03700194719159",
+        "ean13": "3700194719159",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3700194719159",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3700194719159"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03700194719159",
+        "qr_payload_text": "https://id.gs1.org/01/03700194719159",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03700194719159",
+          "code": "3700194719159",
+          "type": "EAN-13",
+          "brand": "Kiehl's",
+          "name": "Facial Fuel Energizing Face Wash",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/03700194719159.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3700194719159",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "37001947163524",
+      "product_name": "Kiehl's Avocado Eye Cream",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "kiehls",
+        "display_name": "Kiehl's",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kiehl's",
+        "matched_raw_brands": [
+          "xx:kiehl-s"
+        ]
+      },
+      "product": {
+        "name": "Kiehl's Avocado Eye Cream",
+        "source_names": {
+          "openbeautyfacts": "Kiehl's Avocado Eye Cream"
+        },
+        "alternate_names": [],
+        "quantity": "14 g",
+        "categories": [
+          "Hidratante Para Olhos"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "37001947163524",
+        "ean13": null,
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "37001947163524",
+        "barcode_type": "GTIN-14",
+        "raw_codes": [
+          "37001947163524"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/37001947163524",
+        "qr_payload_text": "https://id.gs1.org/01/37001947163524",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "37001947163524",
+          "code": "37001947163524",
+          "type": "GTIN-14",
+          "brand": "Kiehl's",
+          "name": "Kiehl's Avocado Eye Cream",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kiehls/37001947163524.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/37001947163524",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

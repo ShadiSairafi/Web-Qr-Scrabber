@@ -1,0 +1,641 @@
+{
+  "brand_slug": "charlotte-tilbury",
+  "display_name": "Charlotte Tilbury",
+  "letter_section": "C",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+  "product_count": 8,
+  "canonical_product_count": 8,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00100144428415",
+      "product_name": "Charlotte Tilbury Hollywood Flawless Filter Foundation 2.5 Fair",
+      "image_url": "https://i5.walmartimages.com/asr/a1dea9b5-f54b-486c-947a-cb0cac21f742.61086f2db016fbb5f8ce2fa337262d11.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/charlotte-tilbury/00100144428415.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "Charlotte Tilbury"
+        ]
+      },
+      "product": {
+        "name": "Charlotte Tilbury Hollywood Flawless Filter Foundation 2.5 Fair",
+        "source_names": {
+          "upcitemdb": "Charlotte Tilbury Hollywood Flawless Filter Foundation 2.5 Fair"
+        },
+        "alternate_names": [],
+        "quantity": "1 Fl Oz (Pack of 1)",
+        "categories": [],
+        "description": "Charlotte Tilbury Hollywood Flawless Filter Foundation 2.5 Fair item weight : 145 is liquid double sealed : True item package quantity : 1 material type free : Paraben-free Gluten-free Cruelty-free brand : CHARLOTTE TILBURY item form : Cream number of items : 1 recommended uses for product : Moisturizing size : 1 Fl Oz (Pack of 1) liquid volume : 30 part number : CHARLOTTE T | HOLLYWOOD FLAWLESS FILTER contains liquid contents : True item package weight : 0.141 skin type : All model number : Charlotte Tilbury | 2 FAIR | product benefit : Smooths Flawless unit count : 1",
+        "primary_image_url": "https://i5.walmartimages.com/asr/a1dea9b5-f54b-486c-947a-cb0cac21f742.61086f2db016fbb5f8ce2fa337262d11.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/a1dea9b5-f54b-486c-947a-cb0cac21f742.61086f2db016fbb5f8ce2fa337262d11.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/a1dea9b5-f54b-486c-947a-cb0cac21f742.61086f2db016fbb5f8ce2fa337262d11.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/charlotte-tilbury/00100144428415.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00100144428415",
+        "ean13": "0100144428415",
+        "upc_a": "100144428415",
+        "ean8": null,
+        "primary_code": "100144428415",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0100144428415",
+          "100144428415"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00100144428415",
+        "qr_payload_text": "https://id.gs1.org/01/00100144428415",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00100144428415",
+          "code": "100144428415",
+          "type": "UPC-A",
+          "brand": "Charlotte Tilbury",
+          "name": "Charlotte Tilbury Hollywood Flawless Filter Foundation 2.5 Fair",
+          "image_url": "https://i5.walmartimages.com/asr/a1dea9b5-f54b-486c-947a-cb0cac21f742.61086f2db016fbb5f8ce2fa337262d11.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/00100144428415.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0100144428415",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00100144429092",
+      "product_name": "Charlotte Tilbury Pillow Talk Push Up Lashes Mascara Travel Size",
+      "image_url": "https://i5.walmartimages.com/asr/25cb7ce9-4cfc-4dca-bc73-ec28f440e21e.8ee017b97a761b6a5d1ea92dd09f1c55.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/charlotte-tilbury/00100144429092.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "Charlotte Tilbury"
+        ]
+      },
+      "product": {
+        "name": "Charlotte Tilbury Pillow Talk Push Up Lashes Mascara Travel Size",
+        "source_names": {
+          "upcitemdb": "Charlotte Tilbury Pillow Talk Push Up Lashes Mascara Travel Size"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": "Charlotte Tilbury Pillow Talk Push Up Lashes Mascara Travel Size 4ml specialty : Gluten-free skin tone : All package type name : Tube item weight : 4 is liquid double sealed : True material type free : Gluten Free brand : CHARLOTTE TILBURY item form : Liquid package level : unit number of items : 1 size : 1 Count (Pack of 1) liquid volume : 4 part number : Charlotte Tilbury mascara wand type : Spoolie or Comb target gender : unisex color : Black water resistance level : waterproof contains liquid contents : True item package weight : 0.009 item volume : 4 skin type : All model number : Charlotte Tilbury special feature : Waterproof product benefit : Lifting unit count : 1",
+        "primary_image_url": "https://i5.walmartimages.com/asr/25cb7ce9-4cfc-4dca-bc73-ec28f440e21e.8ee017b97a761b6a5d1ea92dd09f1c55.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/25cb7ce9-4cfc-4dca-bc73-ec28f440e21e.8ee017b97a761b6a5d1ea92dd09f1c55.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/25cb7ce9-4cfc-4dca-bc73-ec28f440e21e.8ee017b97a761b6a5d1ea92dd09f1c55.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/charlotte-tilbury/00100144429092.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00100144429092",
+        "ean13": "0100144429092",
+        "upc_a": "100144429092",
+        "ean8": null,
+        "primary_code": "100144429092",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0100144429092",
+          "100144429092"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00100144429092",
+        "qr_payload_text": "https://id.gs1.org/01/00100144429092",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00100144429092",
+          "code": "100144429092",
+          "type": "UPC-A",
+          "brand": "Charlotte Tilbury",
+          "name": "Charlotte Tilbury Pillow Talk Push Up Lashes Mascara Travel Size",
+          "image_url": "https://i5.walmartimages.com/asr/25cb7ce9-4cfc-4dca-bc73-ec28f440e21e.8ee017b97a761b6a5d1ea92dd09f1c55.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/00100144429092.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0100144429092",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00100149596621",
+      "product_name": "Charlotte Tilbury Hollywood Flawless Filter – Shade 8 Deep – Warm Mahogany for Deep Skin Tones – 1.0 oz / 30 mL – Radiant Finish Illuminating Complexion Booster",
+      "image_url": "https://i5.walmartimages.com/asr/b38adcbf-b506-4552-837c-f66ecd908b55.85d1050bc8b89d6ea68b7abab4eabe68.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/charlotte-tilbury/00100149596621.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "Charlotte Tilbury"
+        ]
+      },
+      "product": {
+        "name": "Charlotte Tilbury Hollywood Flawless Filter – Shade 8 Deep – Warm Mahogany for Deep Skin Tones – 1.0 oz / 30 mL – Radiant Finish Illuminating Complexion Booster",
+        "source_names": {
+          "upcitemdb": "Charlotte Tilbury Hollywood Flawless Filter – Shade 8 Deep – Warm Mahogany for Deep Skin Tones – 1.0 oz / 30 mL – Radiant Finish Illuminating Complexion Booster"
+        },
+        "alternate_names": [],
+        "quantity": "1.0 oz./30 mL",
+        "categories": [],
+        "description": "Achieve a flawless glowing complexion with Charlotte Tilbury Hollywood Flawless Filter in Shade 8 Deep. This complexion booster blurs imperfections smooths the skin and provides a radiant finish for a real-life filter effect. Designed specifically for deep skin tones Shade 8 Deep offers a warm mahogany hue that enhances the natural beauty of deep skin tones. With a customizable application you can use it as a tinted primer mix it with foundation or apply it as a highlighter on the high points of the face. The light-as-air liquid formula offers a light coverage that provides a natural glow while visibly brightening and moisturizing skin for up to 24 hours. Inspired by social media filters this product is designed to give you a confidence-boosting glow that lasts all day.",
+        "primary_image_url": "https://i5.walmartimages.com/asr/b38adcbf-b506-4552-837c-f66ecd908b55.85d1050bc8b89d6ea68b7abab4eabe68.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/b38adcbf-b506-4552-837c-f66ecd908b55.85d1050bc8b89d6ea68b7abab4eabe68.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/b38adcbf-b506-4552-837c-f66ecd908b55.85d1050bc8b89d6ea68b7abab4eabe68.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/charlotte-tilbury/00100149596621.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00100149596621",
+        "ean13": "0100149596621",
+        "upc_a": "100149596621",
+        "ean8": null,
+        "primary_code": "100149596621",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0100149596621",
+          "100149596621"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00100149596621",
+        "qr_payload_text": "https://id.gs1.org/01/00100149596621",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00100149596621",
+          "code": "100149596621",
+          "type": "UPC-A",
+          "brand": "Charlotte Tilbury",
+          "name": "Charlotte Tilbury Hollywood Flawless Filter – Shade 8 Deep – Warm Mahogany for Deep Skin Tones – 1.0 oz / 30 mL – Radiant Finish Illuminating Complexion Booster",
+          "image_url": "https://i5.walmartimages.com/asr/b38adcbf-b506-4552-837c-f66ecd908b55.85d1050bc8b89d6ea68b7abab4eabe68.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/00100149596621.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0100149596621",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00657477603137",
+      "product_name": "Charlotte Tilbury Beautiful Skin Sun-Kissed Glow Cream Bronzer - 1 Fair - Natural Soft Bronze",
+      "image_url": "https://i5.walmartimages.com/asr/41574ec8-00fc-4d42-9a65-cff9d9de8f9d.c9d36bf822ee9e050b633f4b3bfc3edb.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/charlotte-tilbury/00657477603137.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "Charlotte Tilbury"
+        ]
+      },
+      "product": {
+        "name": "Charlotte Tilbury Beautiful Skin Sun-Kissed Glow Cream Bronzer - 1 Fair - Natural Soft Bronze",
+        "source_names": {
+          "upcitemdb": "Charlotte Tilbury Beautiful Skin Sun-Kissed Glow Cream Bronzer - 1 Fair - Natural Soft Bronze"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": "Achieve a flawless sun-kissed glow with the Charlotte Tilbury Beautiful Skin Sun-Kissed Glow Cream Bronzer in 1 Fair - Natural Soft Bronze. This versatile cream bronzer provides medium coverage and a natural radiant finish for both the face and body. It?s formulated with hyaluronic acid to hydrate and visibly revitalize the skin while vitamin D3 helps protect the skin upon exposure to sunlight. The bronzer has a 16-hour wear formula making it perfect for long-lasting sweatproof coverage that won?t budge throughout the day. With its lightweight and blendable texture this bronzer blurs imperfections for a smooth flawless complexion that lasts.",
+        "primary_image_url": "https://i5.walmartimages.com/asr/41574ec8-00fc-4d42-9a65-cff9d9de8f9d.c9d36bf822ee9e050b633f4b3bfc3edb.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/41574ec8-00fc-4d42-9a65-cff9d9de8f9d.c9d36bf822ee9e050b633f4b3bfc3edb.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/41574ec8-00fc-4d42-9a65-cff9d9de8f9d.c9d36bf822ee9e050b633f4b3bfc3edb.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/charlotte-tilbury/00657477603137.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00657477603137",
+        "ean13": "0657477603137",
+        "upc_a": "657477603137",
+        "ean8": null,
+        "primary_code": "657477603137",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0657477603137",
+          "657477603137"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00657477603137",
+        "qr_payload_text": "https://id.gs1.org/01/00657477603137",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00657477603137",
+          "code": "657477603137",
+          "type": "UPC-A",
+          "brand": "Charlotte Tilbury",
+          "name": "Charlotte Tilbury Beautiful Skin Sun-Kissed Glow Cream Bronzer - 1 Fair - Natural Soft Bronze",
+          "image_url": "https://i5.walmartimages.com/asr/41574ec8-00fc-4d42-9a65-cff9d9de8f9d.c9d36bf822ee9e050b633f4b3bfc3edb.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/00657477603137.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0657477603137",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00730347111243",
+      "product_name": "charlotte tilbury pencil sharpener rose gold & night crimson",
+      "image_url": "https://i5.walmartimages.com/asr/ba7430d6-4433-410c-b3c1-7463d76ac12b.366a70e36554f946ed5833a9519d329f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/charlotte-tilbury/00730347111243.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "charlotte tilbury"
+        ]
+      },
+      "product": {
+        "name": "charlotte tilbury pencil sharpener rose gold & night crimson",
+        "source_names": {
+          "upcitemdb": "charlotte tilbury pencil sharpener rose gold & night crimson"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Cosmetic Tools",
+          "Makeup Tools",
+          "Makeup Brushes"
+        ],
+        "description": "Good",
+        "primary_image_url": "https://i5.walmartimages.com/asr/ba7430d6-4433-410c-b3c1-7463d76ac12b.366a70e36554f946ed5833a9519d329f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/ba7430d6-4433-410c-b3c1-7463d76ac12b.366a70e36554f946ed5833a9519d329f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/ba7430d6-4433-410c-b3c1-7463d76ac12b.366a70e36554f946ed5833a9519d329f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/charlotte-tilbury/00730347111243.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00730347111243",
+        "ean13": "0730347111243",
+        "upc_a": "730347111243",
+        "ean8": null,
+        "primary_code": "730347111243",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0730347111243",
+          "730347111243"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00730347111243",
+        "qr_payload_text": "https://id.gs1.org/01/00730347111243",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00730347111243",
+          "code": "730347111243",
+          "type": "UPC-A",
+          "brand": "Charlotte Tilbury",
+          "name": "charlotte tilbury pencil sharpener rose gold & night crimson",
+          "image_url": "https://i5.walmartimages.com/asr/ba7430d6-4433-410c-b3c1-7463d76ac12b.366a70e36554f946ed5833a9519d329f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/00730347111243.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.75,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "upc_title_prefix"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0730347111243",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05056446660280",
+      "product_name": "Charlotte Tilbury Airbrush Flawless Blush Blur, Size: .28 Oz, Pillow Talk Dreams",
+      "image_url": "https://images.openbeautyfacts.org/images/products/505/644/666/0280/front_en.3.400.jpg",
+      "local_image_path": "images/charlotte-tilbury/05056446660280.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "xx:Charlotte Tilbury",
+          "Charlotte Tilbury"
+        ]
+      },
+      "product": {
+        "name": "Charlotte Tilbury Airbrush Flawless Blush Blur, Size: .28 Oz, Pillow Talk Dreams",
+        "source_names": {
+          "openbeautyfacts": "Pillow Talk Airbrush Flawless Blush Blur",
+          "upcitemdb": "Charlotte Tilbury Airbrush Flawless Blush Blur, Size: .28 Oz, Pillow Talk Dreams"
+        },
+        "alternate_names": [
+          "Pillow Talk Airbrush Flawless Blush Blur",
+          "Charlotte Tilbury Airbrush Powder Blush Blur"
+        ],
+        "quantity": null,
+        "categories": [],
+        "description": "What it is: A silky-smooth blush that?s powered by Airtech for a blurred filter effect that provides a veil of color for up to 16 hours. Coverage: Medium. Formulation: Pressed Powder. Ingredient Callouts: Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan. What Else You Need to Know: Blush gets airbrushed. Charlotte expertly developed these dreamy shades in two finishes to deliver perfect pigment pay-off with every application. Cheat the look of fresh, youthful skin with this formula as it optically lifts the cheekbones and bounces light for fuller, plumper-looking cheeks for up to 16 hours of long-wear. Swish it, pop it, lift it, and bounce it! Clinical Results: Based on a test with 33 people: - Up to 16 hour-long wear. - Instantly smooths the look of skin. - Sweat-poof, humidity-proof, and transfer-resistant",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/505/644/666/0280/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/505/644/666/0280/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/505/644/666/0280/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/505/644/666/0280/front_en.3.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/4b032b295f8ddcf86bde5790b0dfa6bba29f2002?wid=800&hei=800&op_sharpen=1",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/2/optimized/16513800_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg"
+        ],
+        "local_image_path": "images/charlotte-tilbury/05056446660280.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05056446660280",
+        "ean13": "5056446660280",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5056446660280",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5056446660280"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05056446660280",
+        "qr_payload_text": "https://id.gs1.org/01/05056446660280",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05056446660280",
+          "code": "5056446660280",
+          "type": "EAN-13",
+          "brand": "Charlotte Tilbury",
+          "name": "Charlotte Tilbury Airbrush Flawless Blush Blur, Size: .28 Oz, Pillow Talk Dreams",
+          "image_url": "https://images.openbeautyfacts.org/images/products/505/644/666/0280/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/05056446660280.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 93.33
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5056446660280",
+        "upcitemdb_ean": "5056446660280",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060542728331",
+      "product_name": "Magic serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/054/272/8331/front_fr.6.400.jpg",
+      "local_image_path": "images/charlotte-tilbury/05060542728331.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "xx:charlotte-tilbury"
+        ]
+      },
+      "product": {
+        "name": "Magic serum",
+        "source_names": {
+          "openbeautyfacts": "Magic serum"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/054/272/8331/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/054/272/8331/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/054/272/8331/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/054/272/8331/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/charlotte-tilbury/05060542728331.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060542728331",
+        "ean13": "5060542728331",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060542728331",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060542728331"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060542728331",
+        "qr_payload_text": "https://id.gs1.org/01/05060542728331",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060542728331",
+          "code": "5060542728331",
+          "type": "EAN-13",
+          "brand": "Charlotte Tilbury",
+          "name": "Magic serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/054/272/8331/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/05060542728331.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060542728331",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060696172363",
+      "product_name": "Charlotte Tilbury magic eye",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/069/617/2363/1.400.jpg",
+      "local_image_path": "images/charlotte-tilbury/05060696172363.jpg",
+      "brand": {
+        "slug": "charlotte-tilbury",
+        "display_name": "Charlotte Tilbury",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Charlotte%20Tilbury",
+        "matched_raw_brands": [
+          "charlotte tilbury"
+        ]
+      },
+      "product": {
+        "name": "Charlotte Tilbury magic eye",
+        "source_names": {
+          "openbeautyfacts": "Charlotte Tilbury magic eye"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/069/617/2363/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/069/617/2363/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/069/617/2363/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/069/617/2363/1.200.jpg"
+        ],
+        "local_image_path": "images/charlotte-tilbury/05060696172363.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060696172363",
+        "ean13": "5060696172363",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060696172363",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060696172363"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060696172363",
+        "qr_payload_text": "https://id.gs1.org/01/05060696172363",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060696172363",
+          "code": "5060696172363",
+          "type": "EAN-13",
+          "brand": "Charlotte Tilbury",
+          "name": "Charlotte Tilbury magic eye",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/069/617/2363/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/charlotte-tilbury/05060696172363.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060696172363",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

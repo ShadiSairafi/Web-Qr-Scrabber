@@ -1,0 +1,1590 @@
+{
+  "brand_slug": "got2b",
+  "display_name": "Got2b",
+  "letter_section": "G",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+  "product_count": 20,
+  "canonical_product_count": 20,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "03178041308243",
+      "product_name": "Got2b phénoménal",
+      "image_url": "https://images.openbeautyfacts.org/images/products/317/804/130/8243/front_fr.7.400.jpg",
+      "local_image_path": "images/got2b/03178041308243.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Got2b phénoménal",
+        "source_names": {
+          "openbeautyfacts": "Got2b phénoménal"
+        },
+        "alternate_names": [],
+        "quantity": "100g",
+        "categories": [
+          "Cosmétique"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/317/804/130/8243/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/317/804/130/8243/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/317/804/130/8243/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/317/804/130/8243/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/got2b/03178041308243.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03178041308243",
+        "ean13": "3178041308243",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3178041308243",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3178041308243"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03178041308243",
+        "qr_payload_text": "https://id.gs1.org/01/03178041308243",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03178041308243",
+          "code": "3178041308243",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Got2b phénoménal",
+          "image_url": "https://images.openbeautyfacts.org/images/products/317/804/130/8243/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/03178041308243.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3178041308243",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015000979634",
+      "product_name": "got2b kleber spiking wax",
+      "image_url": "https://images.openbeautyfacts.org/images/products/401/500/097/9634/front_en.3.400.jpg",
+      "local_image_path": "images/got2b/04015000979634.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "got2b kleber spiking wax",
+        "source_names": {
+          "openbeautyfacts": "got2b kleber spiking wax"
+        },
+        "alternate_names": [],
+        "quantity": "75 g",
+        "categories": [
+          "Hair",
+          "Styling"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/401/500/097/9634/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/401/500/097/9634/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/401/500/097/9634/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/401/500/097/9634/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/got2b/04015000979634.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04015000979634",
+        "ean13": "4015000979634",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015000979634",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015000979634"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015000979634",
+        "qr_payload_text": "https://id.gs1.org/01/04015000979634",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015000979634",
+          "code": "4015000979634",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "got2b kleber spiking wax",
+          "image_url": "https://images.openbeautyfacts.org/images/products/401/500/097/9634/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/04015000979634.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015000979634",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015100199031",
+      "product_name": "Haarspray",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Haarspray",
+        "source_names": {
+          "openbeautyfacts": "Haarspray"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "04015100199031",
+        "ean13": "4015100199031",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015100199031",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015100199031"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015100199031",
+        "qr_payload_text": "https://id.gs1.org/01/04015100199031",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015100199031",
+          "code": "4015100199031",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Haarspray",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/04015100199031.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015100199031",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015100215229",
+      "product_name": "Spruh kleber",
+      "image_url": "https://images.openbeautyfacts.org/images/products/401/510/021/5229/front_en.9.400.jpg",
+      "local_image_path": "images/got2b/04015100215229.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Spruh kleber",
+        "source_names": {
+          "openbeautyfacts": "Spruh kleber"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/401/510/021/5229/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/401/510/021/5229/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/401/510/021/5229/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/401/510/021/5229/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/got2b/04015100215229.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04015100215229",
+        "ean13": "4015100215229",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015100215229",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015100215229"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015100215229",
+        "qr_payload_text": "https://id.gs1.org/01/04015100215229",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015100215229",
+          "code": "4015100215229",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Spruh kleber",
+          "image_url": "https://images.openbeautyfacts.org/images/products/401/510/021/5229/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/04015100215229.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015100215229",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015100800128",
+      "product_name": "Schutz-engel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0128/front_en.3.400.jpg",
+      "local_image_path": "images/got2b/04015100800128.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Schutz-engel",
+        "source_names": {
+          "openbeautyfacts": "Schutz-engel"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0128/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0128/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/401/510/080/0128/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/401/510/080/0128/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/got2b/04015100800128.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04015100800128",
+        "ean13": "4015100800128",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015100800128",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015100800128"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015100800128",
+        "qr_payload_text": "https://id.gs1.org/01/04015100800128",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015100800128",
+          "code": "4015100800128",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Schutz-engel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0128/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/04015100800128.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015100800128",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015100800401",
+      "product_name": "Matt-Paste Strand Matte",
+      "image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0401/front_de.14.400.jpg",
+      "local_image_path": "images/got2b/04015100800401.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Matt-Paste Strand Matte",
+        "source_names": {
+          "openbeautyfacts": "Matt-Paste Strand Matte"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0401/front_de.14.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0401/front_de.14.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/401/510/080/0401/front_de.14.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/401/510/080/0401/front_de.14.200.jpg"
+        ],
+        "local_image_path": "images/got2b/04015100800401.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04015100800401",
+        "ean13": "4015100800401",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015100800401",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015100800401"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015100800401",
+        "qr_payload_text": "https://id.gs1.org/01/04015100800401",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015100800401",
+          "code": "4015100800401",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Matt-Paste Strand Matte",
+          "image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0401/front_de.14.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/04015100800401.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015100800401",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015100800524",
+      "product_name": "Sprühkleber",
+      "image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0524/front_de.4.400.jpg",
+      "local_image_path": "images/got2b/04015100800524.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Sprühkleber",
+        "source_names": {
+          "openbeautyfacts": "Sprühkleber"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0524/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0524/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/401/510/080/0524/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/401/510/080/0524/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/got2b/04015100800524.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04015100800524",
+        "ean13": "4015100800524",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015100800524",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015100800524"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015100800524",
+        "qr_payload_text": "https://id.gs1.org/01/04015100800524",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015100800524",
+          "code": "4015100800524",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Sprühkleber",
+          "image_url": "https://images.openbeautyfacts.org/images/products/401/510/080/0524/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/04015100800524.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015100800524",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04015100893700",
+      "product_name": "I stylet Texturen Clay",
+      "image_url": "https://images.openbeautyfacts.org/images/products/401/510/089/3700/front_de.4.400.jpg",
+      "local_image_path": "images/got2b/04015100893700.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "I stylet Texturen Clay",
+        "source_names": {
+          "openbeautyfacts": "I stylet Texturen Clay"
+        },
+        "alternate_names": [],
+        "quantity": "75ml",
+        "categories": [
+          "Hair",
+          "Coiffants",
+          "Hair Gel",
+          "Texturen Clay"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/401/510/089/3700/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/401/510/089/3700/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/401/510/089/3700/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/401/510/089/3700/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/got2b/04015100893700.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04015100893700",
+        "ean13": "4015100893700",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4015100893700",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4015100893700"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04015100893700",
+        "qr_payload_text": "https://id.gs1.org/01/04015100893700",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04015100893700",
+          "code": "4015100893700",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "I stylet Texturen Clay",
+          "image_url": "https://images.openbeautyfacts.org/images/products/401/510/089/3700/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/04015100893700.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4015100893700",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05012583203261",
+      "product_name": "beach matt texturising salt spray",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/3261/front_en.11.400.jpg",
+      "local_image_path": "images/got2b/05012583203261.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "beach matt texturising salt spray",
+        "source_names": {
+          "openbeautyfacts": "beach matt texturising salt spray"
+        },
+        "alternate_names": [
+          "Wil je het gevoel hebben dat je net van het strand komt met een door de wind gecreëerde warrige strandlook? Gebruik dan de Schwarzkopf got2b Beach Babe Salt Spray."
+        ],
+        "quantity": "200ml",
+        "categories": [
+          "Hair",
+          "Coiffants",
+          "Hair Sprays",
+          "Haarstylingproducten",
+          "Verzorging"
+        ],
+        "description": "Wil je het gevoel hebben dat je net van het strand komt met een door de wind gecreëerde warrige strandlook? Gebruik dan de Schwarzkopf got2b Beach Babe Salt Spray.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/3261/front_en.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/258/320/3261/front_en.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/258/320/3261/front_en.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/258/320/3261/front_en.11.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05012583203261.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05012583203261",
+        "ean13": "5012583203261",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5012583203261",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5012583203261"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05012583203261",
+        "qr_payload_text": "https://id.gs1.org/01/05012583203261",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05012583203261",
+          "code": "5012583203261",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "beach matt texturising salt spray",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/3261/front_en.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05012583203261.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5012583203261",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05012583204732",
+      "product_name": "got2b twisted curling mousse",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4732/front_en.3.400.jpg",
+      "local_image_path": "images/got2b/05012583204732.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "got2b twisted curling mousse",
+        "source_names": {
+          "openbeautyfacts": "got2b twisted curling mousse"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4732/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4732/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/258/320/4732/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/258/320/4732/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05012583204732.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05012583204732",
+        "ean13": "5012583204732",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5012583204732",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5012583204732"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05012583204732",
+        "qr_payload_text": "https://id.gs1.org/01/05012583204732",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05012583204732",
+          "code": "5012583204732",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "got2b twisted curling mousse",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4732/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05012583204732.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5012583204732",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05012583204947",
+      "product_name": "hairpspray",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4947/front_en.6.400.jpg",
+      "local_image_path": "images/got2b/05012583204947.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "hairpspray",
+        "source_names": {
+          "openbeautyfacts": "hairpspray"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4947/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4947/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/258/320/4947/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/258/320/4947/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05012583204947.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05012583204947",
+        "ean13": "5012583204947",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5012583204947",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5012583204947"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05012583204947",
+        "qr_payload_text": "https://id.gs1.org/01/05012583204947",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05012583204947",
+          "code": "5012583204947",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "hairpspray",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/258/320/4947/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05012583204947.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5012583204947",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05012583210900",
+      "product_name": "Hair Glue",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/0900/front_en.5.400.jpg",
+      "local_image_path": "images/got2b/05012583210900.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Hair Glue",
+        "source_names": {
+          "openbeautyfacts": "Hair Glue"
+        },
+        "alternate_names": [
+          "Got2b Glued 4 brows & edges"
+        ],
+        "quantity": "16 ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Wenkbrauw Make Up",
+          "Wenkbrauwgel"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/0900/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/258/321/0900/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/258/321/0900/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/258/321/0900/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05012583210900.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05012583210900",
+        "ean13": "5012583210900",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5012583210900",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5012583210900"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05012583210900",
+        "qr_payload_text": "https://id.gs1.org/01/05012583210900",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05012583210900",
+          "code": "5012583210900",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Hair Glue",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/0900/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05012583210900.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5012583210900",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05012583212492",
+      "product_name": "Get Fresh Hair Mist",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/2492/front_fr.3.400.jpg",
+      "local_image_path": "images/got2b/05012583212492.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got-2-b"
+        ]
+      },
+      "product": {
+        "name": "Get Fresh Hair Mist",
+        "source_names": {
+          "openbeautyfacts": "Get Fresh Hair Mist"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/2492/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/258/321/2492/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/258/321/2492/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/258/321/2492/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05012583212492.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05012583212492",
+        "ean13": "5012583212492",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5012583212492",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5012583212492"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05012583212492",
+        "qr_payload_text": "https://id.gs1.org/01/05012583212492",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05012583212492",
+          "code": "5012583212492",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Get Fresh Hair Mist",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/2492/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05012583212492.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5012583212492",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05012583213192",
+      "product_name": "Curlz Defining Jelly",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/3192/front_en.3.400.jpg",
+      "local_image_path": "images/got2b/05012583213192.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Curlz Defining Jelly",
+        "source_names": {
+          "openbeautyfacts": "Curlz Defining Jelly"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/3192/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/258/321/3192/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/258/321/3192/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/258/321/3192/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05012583213192.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05012583213192",
+        "ean13": "5012583213192",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5012583213192",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5012583213192"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05012583213192",
+        "qr_payload_text": "https://id.gs1.org/01/05012583213192",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05012583213192",
+          "code": "5012583213192",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Curlz Defining Jelly",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/258/321/3192/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05012583213192.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5012583213192",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05410091642075",
+      "product_name": "Haarspray",
+      "image_url": "https://images.openbeautyfacts.org/images/products/541/009/164/2075/front_nl.4.400.jpg",
+      "local_image_path": "images/got2b/05410091642075.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:Got2b"
+        ]
+      },
+      "product": {
+        "name": "Haarspray",
+        "source_names": {
+          "openbeautyfacts": "Haarspray"
+        },
+        "alternate_names": [
+          "Schwarzkopf got2b Glued Extreme Freeze Haarspray zorgt voor schandalig sterke fixatie!"
+        ],
+        "quantity": "1pcs",
+        "categories": [
+          "Haarlak",
+          "Haarstylingproducten",
+          "Verzorging"
+        ],
+        "description": "Schwarzkopf got2b Glued Extreme Freeze Haarspray zorgt voor schandalig sterke fixatie!",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/541/009/164/2075/front_nl.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/541/009/164/2075/front_nl.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/541/009/164/2075/front_nl.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/541/009/164/2075/front_nl.4.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05410091642075.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05410091642075",
+        "ean13": "5410091642075",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5410091642075",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5410091642075"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05410091642075",
+        "qr_payload_text": "https://id.gs1.org/01/05410091642075",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05410091642075",
+          "code": "5410091642075",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Haarspray",
+          "image_url": "https://images.openbeautyfacts.org/images/products/541/009/164/2075/front_nl.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05410091642075.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5410091642075",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05410091718732",
+      "product_name": "Schwarzkopf got2b Gentleman Molding Paste",
+      "image_url": "https://images.openbeautyfacts.org/images/products/541/009/171/8732/front_nl.5.400.jpg",
+      "local_image_path": "images/got2b/05410091718732.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "schwarzkopf got2b"
+        ]
+      },
+      "product": {
+        "name": "Schwarzkopf got2b Gentleman Molding Paste",
+        "source_names": {
+          "openbeautyfacts": "Schwarzkopf got2b Gentleman Molding Paste"
+        },
+        "alternate_names": [
+          "Schwarzkopf got2b Gentleman Molding Paste geeft je kapsel langdurige hold en een natuurlijke glans."
+        ],
+        "quantity": "100ml",
+        "categories": [
+          "Haarpasta",
+          "Haarstylingproducten",
+          "Verzorging"
+        ],
+        "description": "Schwarzkopf got2b Gentleman Molding Paste geeft je kapsel langdurige hold en een natuurlijke glans.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/541/009/171/8732/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/541/009/171/8732/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/541/009/171/8732/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/541/009/171/8732/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05410091718732.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05410091718732",
+        "ean13": "5410091718732",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5410091718732",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5410091718732"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05410091718732",
+        "qr_payload_text": "https://id.gs1.org/01/05410091718732",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05410091718732",
+          "code": "5410091718732",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Schwarzkopf got2b Gentleman Molding Paste",
+          "image_url": "https://images.openbeautyfacts.org/images/products/541/009/171/8732/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05410091718732.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5410091718732",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05410091769772",
+      "product_name": "Volumania 24 hour volumizing mousse",
+      "image_url": "https://images.openbeautyfacts.org/images/products/541/009/176/9772/front_nl.8.400.jpg",
+      "local_image_path": "images/got2b/05410091769772.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Volumania 24 hour volumizing mousse",
+        "source_names": {
+          "openbeautyfacts": "Volumania 24 hour volumizing mousse"
+        },
+        "alternate_names": [
+          "Got2b Volumania 24H Volumizing Mousse"
+        ],
+        "quantity": "250ml",
+        "categories": [
+          "Haarmousse",
+          "Haarstylingproducten",
+          "Verzorging"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/541/009/176/9772/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/541/009/176/9772/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/541/009/176/9772/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/541/009/176/9772/front_nl.8.200.jpg"
+        ],
+        "local_image_path": "images/got2b/05410091769772.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05410091769772",
+        "ean13": "5410091769772",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5410091769772",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5410091769772"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05410091769772",
+        "qr_payload_text": "https://id.gs1.org/01/05410091769772",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05410091769772",
+          "code": "5410091769772",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Volumania 24 hour volumizing mousse",
+          "image_url": "https://images.openbeautyfacts.org/images/products/541/009/176/9772/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/05410091769772.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5410091769772",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "07332531063418",
+      "product_name": "GLUED Blasting Freeze Hairspray",
+      "image_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3418/front_en.9.400.jpg",
+      "local_image_path": "images/got2b/07332531063418.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "GLUED Blasting Freeze Hairspray",
+        "source_names": {
+          "openbeautyfacts": "GLUED Blasting Freeze Hairspray"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3418/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3418/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/733/253/106/3418/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/733/253/106/3418/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/got2b/07332531063418.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "07332531063418",
+        "ean13": "7332531063418",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "7332531063418",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "7332531063418"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/07332531063418",
+        "qr_payload_text": "https://id.gs1.org/01/07332531063418",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "07332531063418",
+          "code": "7332531063418",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "GLUED Blasting Freeze Hairspray",
+          "image_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3418/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/07332531063418.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/7332531063418",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "07332531063739",
+      "product_name": "Fresh it Up Volumizing Shampoo 200ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3739/front_en.9.400.jpg",
+      "local_image_path": "images/got2b/07332531063739.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Fresh it Up Volumizing Shampoo 200ml",
+        "source_names": {
+          "openbeautyfacts": "Fresh it Up Volumizing Shampoo 200ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair",
+          "Shampoos",
+          "Volumizing Shampoo"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3739/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3739/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/733/253/106/3739/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/733/253/106/3739/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/got2b/07332531063739.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "07332531063739",
+        "ean13": "7332531063739",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "7332531063739",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "7332531063739"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/07332531063739",
+        "qr_payload_text": "https://id.gs1.org/01/07332531063739",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "07332531063739",
+          "code": "7332531063739",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Fresh it Up Volumizing Shampoo 200ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/733/253/106/3739/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/07332531063739.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/7332531063739",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08410436495189",
+      "product_name": "Gel definidor de rizos",
+      "image_url": "https://images.openbeautyfacts.org/images/products/841/043/649/5189/front_es.5.400.jpg",
+      "local_image_path": "images/got2b/08410436495189.jpg",
+      "brand": {
+        "slug": "got2b",
+        "display_name": "Got2b",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Got2b",
+        "matched_raw_brands": [
+          "xx:got2b"
+        ]
+      },
+      "product": {
+        "name": "Gel definidor de rizos",
+        "source_names": {
+          "openbeautyfacts": "Gel definidor de rizos"
+        },
+        "alternate_names": [],
+        "quantity": "150 ml",
+        "categories": [
+          "Hair",
+          "Coiffants",
+          "Hair Gel"
+        ],
+        "description": "Gel definidor de rizos",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/841/043/649/5189/front_es.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/841/043/649/5189/front_es.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/841/043/649/5189/front_es.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/841/043/649/5189/front_es.5.200.jpg"
+        ],
+        "local_image_path": "images/got2b/08410436495189.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08410436495189",
+        "ean13": "8410436495189",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8410436495189",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8410436495189"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08410436495189",
+        "qr_payload_text": "https://id.gs1.org/01/08410436495189",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08410436495189",
+          "code": "8410436495189",
+          "type": "EAN-13",
+          "brand": "Got2b",
+          "name": "Gel definidor de rizos",
+          "image_url": "https://images.openbeautyfacts.org/images/products/841/043/649/5189/front_es.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/got2b/08410436495189.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8410436495189",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

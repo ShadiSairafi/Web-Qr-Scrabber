@@ -1,0 +1,2212 @@
+{
+  "brand_slug": "dior",
+  "display_name": "Dior",
+  "letter_section": "D",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+  "product_count": 28,
+  "canonical_product_count": 28,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "03348900009868",
+      "product_name": "Dior Addict lip experts lip glow lip maximizer",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Addict lip experts lip glow lip maximizer",
+        "source_names": {
+          "openbeautyfacts": "Dior Addict lip experts lip glow lip maximizer"
+        },
+        "alternate_names": [],
+        "quantity": "6 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03348900009868",
+        "ean13": "3348900009868",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348900009868",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348900009868"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348900009868",
+        "qr_payload_text": "https://id.gs1.org/01/03348900009868",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348900009868",
+          "code": "3348900009868",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Addict lip experts lip glow lip maximizer",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348900009868.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348900009868",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348900012189",
+      "product_name": "Dior Fahrenheit Eau de Toilette, Cologne for Men, 1.7 Oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/001/2189/front_fr.6.400.jpg",
+      "local_image_path": "images/dior/03348900012189.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior",
+          "Dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Fahrenheit Eau de Toilette, Cologne for Men, 1.7 Oz",
+        "source_names": {
+          "openbeautyfacts": "Fahrenheit",
+          "upcitemdb": "Dior Fahrenheit Eau de Toilette, Cologne for Men, 1.7 Oz"
+        },
+        "alternate_names": [
+          "Fahrenheit",
+          "Eau de toilette vaporisateur spray",
+          "Fahrenheit By Christian Dior, 1.7 Oz Edt Spray, For Men.",
+          "Dior Fahrenheit Eau de Toilette",
+          "크리스찬디올크리스챤 디올 화렌화이트 오드 뜨왈렛 스프레이 50ml 50ml/1.7oz",
+          "Christian Dior Fahrenheit Eau de Toilette Spray - 1.7 fl oz",
+          "Fahrenheit by Christian Dior 1.7 oz EDT Spray"
+        ],
+        "quantity": "50ml",
+        "categories": [
+          "Perfumes",
+          "Eau De Toilette",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Perfume & Cologne"
+        ],
+        "description": "Eau de toilette vaporisateur spray",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/001/2189/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/001/2189/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/001/2189/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/001/2189/front_fr.6.200.jpg",
+          "https://s.cdnsbn.com/images/products/01257880105.jpg",
+          "https://www.boscovs.com/wcsstore/boscovs/images/store/product/images/269128972f006628009new.jpg",
+          "https://pics.walgreens.com/prodimg/318907/450.jpg",
+          "http://site.unbeatablesale.com/img374/pww21507.gif",
+          "http://c.shld.net/rpx/i/s/i/spin/10130226/prod_1886873012",
+          "http://dyn-images.hsn.com/is/image/HomeShoppingNetwork/7679711w?$pd1001$",
+          "http://s7d4.scene7.com/is/image/BonTon/862018?$ibm_large$",
+          "http://pics2.ds-static.com/prodimg/318907/300.JPG",
+          "http://slimages.macys.com/is/image/MCY/products/7/optimized/311757_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/47a4d915-ef58-440b-a842-a2eb573458ed_1.54383724052cad885e0582e4d8754cac.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/dior/03348900012189.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348900012189",
+        "ean13": "3348900012189",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348900012189",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348900012189"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348900012189",
+        "qr_payload_text": "https://id.gs1.org/01/03348900012189",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348900012189",
+          "code": "3348900012189",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Fahrenheit Eau de Toilette, Cologne for Men, 1.7 Oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/001/2189/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348900012189.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348900012189",
+        "upcitemdb_ean": "3348900012189",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348900378575",
+      "product_name": "hypnose",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "hypnose",
+        "source_names": {
+          "openbeautyfacts": "hypnose"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03348900378575",
+        "ean13": "3348900378575",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348900378575",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348900378575"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348900378575",
+        "qr_payload_text": "https://id.gs1.org/01/03348900378575",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348900378575",
+          "code": "3348900378575",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "hypnose",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348900378575.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348900378575",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348900417878",
+      "product_name": "J'adore",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/041/7878/front_fr.6.400.jpg",
+      "local_image_path": "images/dior/03348900417878.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "J'adore",
+        "source_names": {
+          "openbeautyfacts": "J'adore"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [
+          "Perfumes",
+          "Women Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/041/7878/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/041/7878/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/041/7878/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/041/7878/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348900417878.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348900417878",
+        "ean13": "3348900417878",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348900417878",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348900417878"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348900417878",
+        "qr_payload_text": "https://id.gs1.org/01/03348900417878",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348900417878",
+          "code": "3348900417878",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "J'adore",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/041/7878/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348900417878.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348900417878",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348900539570",
+      "product_name": "Dior Addict Eau de Parfum",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:Christian Dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Addict Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Dior Addict Eau de Parfum"
+        },
+        "alternate_names": [
+          "Eau de Parfum Spray for Women"
+        ],
+        "quantity": "3.4 oz (100 ml)",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Eau De Parfum",
+          "Women'S Fragrance"
+        ],
+        "description": "Eau de Parfum Spray for Women",
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03348900539570",
+        "ean13": "3348900539570",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348900539570",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348900539570"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348900539570",
+        "qr_payload_text": "https://id.gs1.org/01/03348900539570",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348900539570",
+          "code": "3348900539570",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Addict Eau de Parfum",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348900539570.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348900539570",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348900871984",
+      "product_name": "Miss dior",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/087/1984/front_en.4.400.jpg",
+      "local_image_path": "images/dior/03348900871984.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Miss dior",
+        "source_names": {
+          "openbeautyfacts": "Miss dior"
+        },
+        "alternate_names": [],
+        "quantity": "Toilette",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/087/1984/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/087/1984/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/087/1984/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/087/1984/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348900871984.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348900871984",
+        "ean13": "3348900871984",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348900871984",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348900871984"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348900871984",
+        "qr_payload_text": "https://id.gs1.org/01/03348900871984",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348900871984",
+          "code": "3348900871984",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Miss dior",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/087/1984/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348900871984.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348900871984",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901141628",
+      "product_name": "Diorshow iconic overcurl 684",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/114/1628/front_fr.3.400.jpg",
+      "local_image_path": "images/dior/03348901141628.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Diorshow iconic overcurl 684",
+        "source_names": {
+          "openbeautyfacts": "Diorshow iconic overcurl 684"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/114/1628/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/114/1628/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/114/1628/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/114/1628/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901141628.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901141628",
+        "ean13": "3348901141628",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901141628",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901141628"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901141628",
+        "qr_payload_text": "https://id.gs1.org/01/03348901141628",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901141628",
+          "code": "3348901141628",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Diorshow iconic overcurl 684",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/114/1628/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901141628.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901141628",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901181839",
+      "product_name": "Dior Addict Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/118/1839/front_de.3.400.jpg",
+      "local_image_path": "images/dior/03348901181839.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:Dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Addict Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Dior Addict Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Perfumes",
+          "Cosmetics",
+          "Eau De Parfum",
+          "Women'S Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/118/1839/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/118/1839/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/118/1839/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/118/1839/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901181839.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901181839",
+        "ean13": "3348901181839",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901181839",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901181839"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901181839",
+        "qr_payload_text": "https://id.gs1.org/01/03348901181839",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901181839",
+          "code": "3348901181839",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Addict Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/118/1839/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901181839.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901181839",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901233668",
+      "product_name": "Capture totale le sérum multiperfection",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/123/3668/front_fr.3.400.jpg",
+      "local_image_path": "images/dior/03348901233668.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Capture totale le sérum multiperfection",
+        "source_names": {
+          "openbeautyfacts": "Capture totale le sérum multiperfection"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/123/3668/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/123/3668/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/123/3668/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/123/3668/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901233668.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901233668",
+        "ean13": "3348901233668",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901233668",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901233668"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901233668",
+        "qr_payload_text": "https://id.gs1.org/01/03348901233668",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901233668",
+          "code": "3348901233668",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Capture totale le sérum multiperfection",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/123/3668/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901233668.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901233668",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901250313",
+      "product_name": "Dior Homme Gel Douche",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_fr.22.400.jpg",
+      "local_image_path": "images/dior/03348901250313.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Homme Gel Douche",
+        "source_names": {
+          "openbeautyfacts": "Dior Homme Gel Douche"
+        },
+        "alternate_names": [
+          "Gel Douche"
+        ],
+        "quantity": "200ml",
+        "categories": [
+          "Hygiene",
+          "Showers And Baths",
+          "Shower Gels"
+        ],
+        "description": "Gel Douche",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_fr.22.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_fr.22.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_fr.22.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_fr.22.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_new_lc.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_new_lc.7.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901250313.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901250313",
+        "ean13": "3348901250313",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901250313",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901250313"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901250313",
+        "qr_payload_text": "https://id.gs1.org/01/03348901250313",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901250313",
+          "code": "3348901250313",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Homme Gel Douche",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/125/0313/front_fr.22.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901250313.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901250313",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901274661",
+      "product_name": "Dior Addict Eau De Toilette 30ML",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/127/4661/front_fr.4.400.jpg",
+      "local_image_path": "images/dior/03348901274661.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Addict Eau De Toilette 30ML",
+        "source_names": {
+          "openbeautyfacts": "Dior Addict Eau De Toilette 30ML"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/127/4661/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/127/4661/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/127/4661/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/127/4661/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901274661.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901274661",
+        "ean13": "3348901274661",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901274661",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901274661"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901274661",
+        "qr_payload_text": "https://id.gs1.org/01/03348901274661",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901274661",
+          "code": "3348901274661",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Addict Eau De Toilette 30ML",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/127/4661/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901274661.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901274661",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901288415",
+      "product_name": "DIOR Hydra Life - Sleeping Masque Gelée",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8415/front_fr.4.400.jpg",
+      "local_image_path": "images/dior/03348901288415.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:christian-dior"
+        ]
+      },
+      "product": {
+        "name": "DIOR Hydra Life - Sleeping Masque Gelée",
+        "source_names": {
+          "openbeautyfacts": "DIOR Hydra Life - Sleeping Masque Gelée"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8415/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8415/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/128/8415/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/128/8415/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901288415.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901288415",
+        "ean13": "3348901288415",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901288415",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901288415"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901288415",
+        "qr_payload_text": "https://id.gs1.org/01/03348901288415",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901288415",
+          "code": "3348901288415",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "DIOR Hydra Life - Sleeping Masque Gelée",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8415/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901288415.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901288415",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901288545",
+      "product_name": "Diorsnow bloom perfect moist cushion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8545/front_en.3.400.jpg",
+      "local_image_path": "images/dior/03348901288545.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Diorsnow bloom perfect moist cushion",
+        "source_names": {
+          "openbeautyfacts": "Diorsnow bloom perfect moist cushion"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8545/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8545/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/128/8545/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/128/8545/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901288545.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901288545",
+        "ean13": "3348901288545",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901288545",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901288545"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901288545",
+        "qr_payload_text": "https://id.gs1.org/01/03348901288545",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901288545",
+          "code": "3348901288545",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Diorsnow bloom perfect moist cushion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/128/8545/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901288545.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901288545",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901292276",
+      "product_name": "Sauvage",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_en.3.400.jpg",
+      "local_image_path": "images/dior/03348901292276.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Sauvage",
+        "source_names": {
+          "openbeautyfacts": "Sauvage"
+        },
+        "alternate_names": [
+          "Deodorant stick"
+        ],
+        "quantity": "75g",
+        "categories": [
+          "Hygiene",
+          "Deodorants"
+        ],
+        "description": "Deodorant stick",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_en.3.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_fr.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_fr.8.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901292276.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901292276",
+        "ean13": "3348901292276",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901292276",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901292276"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901292276",
+        "qr_payload_text": "https://id.gs1.org/01/03348901292276",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901292276",
+          "code": "3348901292276",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Sauvage",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/129/2276/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901292276.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901292276",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901321129",
+      "product_name": "Dior Sauvage EDT Erkek Parfüm 200 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/132/1129/front_en.6.400.jpg",
+      "local_image_path": "images/dior/03348901321129.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:Dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Sauvage EDT Erkek Parfüm 200 ml",
+        "source_names": {
+          "openbeautyfacts": "Dior Sauvage EDT Erkek Parfüm 200 ml"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [
+          "Perfumes",
+          "Eau De Toilette",
+          "Cosmetics",
+          "Men'S Fragrances",
+          "Men'S Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/132/1129/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/132/1129/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/132/1129/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/132/1129/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901321129.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901321129",
+        "ean13": "3348901321129",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901321129",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901321129"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901321129",
+        "qr_payload_text": "https://id.gs1.org/01/03348901321129",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901321129",
+          "code": "3348901321129",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Sauvage EDT Erkek Parfüm 200 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/132/1129/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901321129.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901321129",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901330572",
+      "product_name": "Dior Hydra Life - Aqua Sérum Hydratation Intense",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/133/0572/front_fr.5.400.jpg",
+      "local_image_path": "images/dior/03348901330572.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:christian-dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Hydra Life - Aqua Sérum Hydratation Intense",
+        "source_names": {
+          "openbeautyfacts": "Dior Hydra Life - Aqua Sérum Hydratation Intense"
+        },
+        "alternate_names": [],
+        "quantity": "40 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/133/0572/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/133/0572/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/133/0572/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/133/0572/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901330572.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901330572",
+        "ean13": "3348901330572",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901330572",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901330572"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901330572",
+        "qr_payload_text": "https://id.gs1.org/01/03348901330572",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901330572",
+          "code": "3348901330572",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Hydra Life - Aqua Sérum Hydratation Intense",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/133/0572/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901330572.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901330572",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901365116",
+      "product_name": "Miss Dior",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/136/5116/front_fr.4.400.jpg",
+      "local_image_path": "images/dior/03348901365116.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Miss Dior",
+        "source_names": {
+          "openbeautyfacts": "Miss Dior"
+        },
+        "alternate_names": [],
+        "quantity": "150 ml",
+        "categories": [
+          "Perfumes",
+          "Women Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/136/5116/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/136/5116/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/136/5116/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/136/5116/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901365116.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901365116",
+        "ean13": "3348901365116",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901365116",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901365116"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901365116",
+        "qr_payload_text": "https://id.gs1.org/01/03348901365116",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901365116",
+          "code": "3348901365116",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Miss Dior",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/136/5116/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901365116.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901365116",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901392754",
+      "product_name": "Diorskin forever undercover",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/139/2754/front_fr.3.400.jpg",
+      "local_image_path": "images/dior/03348901392754.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Diorskin forever undercover",
+        "source_names": {
+          "openbeautyfacts": "Diorskin forever undercover"
+        },
+        "alternate_names": [],
+        "quantity": "3ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/139/2754/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/139/2754/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/139/2754/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/139/2754/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901392754.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901392754",
+        "ean13": "3348901392754",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901392754",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901392754"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901392754",
+        "qr_payload_text": "https://id.gs1.org/01/03348901392754",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901392754",
+          "code": "3348901392754",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Diorskin forever undercover",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/139/2754/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901392754.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901392754",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901408745",
+      "product_name": "Rouge à lèvres",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/140/8745/front_fr.3.400.jpg",
+      "local_image_path": "images/dior/03348901408745.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Rouge à lèvres",
+        "source_names": {
+          "openbeautyfacts": "Rouge à lèvres"
+        },
+        "alternate_names": [],
+        "quantity": "3.2g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/140/8745/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/140/8745/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/140/8745/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/140/8745/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901408745.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901408745",
+        "ean13": "3348901408745",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901408745",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901408745"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901408745",
+        "qr_payload_text": "https://id.gs1.org/01/03348901408745",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901408745",
+          "code": "3348901408745",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Rouge à lèvres",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/140/8745/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901408745.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901408745",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901470445",
+      "product_name": "Dreams Skin care&perfect le fluide perfecteur",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/147/0445/front_fr.4.400.jpg",
+      "local_image_path": "images/dior/03348901470445.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Dreams Skin care&perfect le fluide perfecteur",
+        "source_names": {
+          "openbeautyfacts": "Dreams Skin care&perfect le fluide perfecteur"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/147/0445/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/147/0445/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/147/0445/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/147/0445/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901470445.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901470445",
+        "ean13": "3348901470445",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901470445",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901470445"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901470445",
+        "qr_payload_text": "https://id.gs1.org/01/03348901470445",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901470445",
+          "code": "3348901470445",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dreams Skin care&perfect le fluide perfecteur",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/147/0445/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901470445.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901470445",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901485944",
+      "product_name": "capture total C E L L energy",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/148/5944/front_fr.3.400.jpg",
+      "local_image_path": "images/dior/03348901485944.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "capture total C E L L energy",
+        "source_names": {
+          "openbeautyfacts": "capture total C E L L energy"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/148/5944/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/148/5944/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/148/5944/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/148/5944/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901485944.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901485944",
+        "ean13": "3348901485944",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901485944",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901485944"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901485944",
+        "qr_payload_text": "https://id.gs1.org/01/03348901485944",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901485944",
+          "code": "3348901485944",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "capture total C E L L energy",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/148/5944/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901485944.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901485944",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901486392",
+      "product_name": "Sauvage",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/148/6392/front_fr.3.400.jpg",
+      "local_image_path": "images/dior/03348901486392.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Sauvage",
+        "source_names": {
+          "openbeautyfacts": "Sauvage"
+        },
+        "alternate_names": [],
+        "quantity": "60mL",
+        "categories": [
+          "Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/148/6392/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/148/6392/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/148/6392/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/148/6392/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901486392.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901486392",
+        "ean13": "3348901486392",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901486392",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901486392"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901486392",
+        "qr_payload_text": "https://id.gs1.org/01/03348901486392",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901486392",
+          "code": "3348901486392",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Sauvage",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/148/6392/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901486392.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901486392",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901563635",
+      "product_name": "Super potent serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/156/3635/front_fr.8.400.jpg",
+      "local_image_path": "images/dior/03348901563635.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Super potent serum",
+        "source_names": {
+          "openbeautyfacts": "Super potent serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/156/3635/front_fr.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/156/3635/front_fr.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/156/3635/front_fr.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/156/3635/front_fr.8.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901563635.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901563635",
+        "ean13": "3348901563635",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901563635",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901563635"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901563635",
+        "qr_payload_text": "https://id.gs1.org/01/03348901563635",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901563635",
+          "code": "3348901563635",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Super potent serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/156/3635/front_fr.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901563635.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901563635",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901591720",
+      "product_name": "dior backstage concealer",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "dior backstage concealer",
+        "source_names": {
+          "openbeautyfacts": "dior backstage concealer"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03348901591720",
+        "ean13": "3348901591720",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901591720",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901591720"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901591720",
+        "qr_payload_text": "https://id.gs1.org/01/03348901591720",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901591720",
+          "code": "3348901591720",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "dior backstage concealer",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901591720.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901591720",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901607339",
+      "product_name": "Rouge Blush",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/160/7339/front_en.5.400.jpg",
+      "local_image_path": "images/dior/03348901607339.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Rouge Blush",
+        "source_names": {
+          "openbeautyfacts": "Rouge Blush"
+        },
+        "alternate_names": [],
+        "quantity": "6 g",
+        "categories": [
+          "Makeup",
+          "Face Makeup",
+          "Blush"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/160/7339/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/160/7339/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/160/7339/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/160/7339/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901607339.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901607339",
+        "ean13": "3348901607339",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901607339",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901607339"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901607339",
+        "qr_payload_text": "https://id.gs1.org/01/03348901607339",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901607339",
+          "code": "3348901607339",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Rouge Blush",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/160/7339/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901607339.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901607339",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901614900",
+      "product_name": "Dior Forever Skin Glow 24hr Wear Radiant Foundation Perfection & Hydration SPF20 PA+++",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/161/4900/front_en.4.400.jpg",
+      "local_image_path": "images/dior/03348901614900.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Dior Forever Skin Glow 24hr Wear Radiant Foundation Perfection & Hydration SPF20 PA+++",
+        "source_names": {
+          "openbeautyfacts": "Dior Forever Skin Glow 24hr Wear Radiant Foundation Perfection & Hydration SPF20 PA+++"
+        },
+        "alternate_names": [],
+        "quantity": "2.7ml",
+        "categories": [
+          "Foundation"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/161/4900/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/161/4900/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/161/4900/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/161/4900/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901614900.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901614900",
+        "ean13": "3348901614900",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901614900",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901614900"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901614900",
+        "qr_payload_text": "https://id.gs1.org/01/03348901614900",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901614900",
+          "code": "3348901614900",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Dior Forever Skin Glow 24hr Wear Radiant Foundation Perfection & Hydration SPF20 PA+++",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/161/4900/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901614900.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901614900",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901737319",
+      "product_name": "Baume a lèvres",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/173/7319/front_fr.3.400.jpg",
+      "local_image_path": "images/dior/03348901737319.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Baume a lèvres",
+        "source_names": {
+          "openbeautyfacts": "Baume a lèvres"
+        },
+        "alternate_names": [],
+        "quantity": "3,2 g Net WT.o.11 OZ",
+        "categories": [
+          "Makeup",
+          "Lip Makeup"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/173/7319/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/173/7319/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/173/7319/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/173/7319/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901737319.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901737319",
+        "ean13": "3348901737319",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901737319",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901737319"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901737319",
+        "qr_payload_text": "https://id.gs1.org/01/03348901737319",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901737319",
+          "code": "3348901737319",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Baume a lèvres",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/173/7319/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901737319.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901737319",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03348901746687",
+      "product_name": "Forever Nude Bronze",
+      "image_url": "https://images.openbeautyfacts.org/images/products/334/890/174/6687/front_en.3.400.jpg",
+      "local_image_path": "images/dior/03348901746687.jpg",
+      "brand": {
+        "slug": "dior",
+        "display_name": "Dior",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dior",
+        "matched_raw_brands": [
+          "xx:dior"
+        ]
+      },
+      "product": {
+        "name": "Forever Nude Bronze",
+        "source_names": {
+          "openbeautyfacts": "Forever Nude Bronze"
+        },
+        "alternate_names": [],
+        "quantity": "7 g",
+        "categories": [
+          "Bronzing Powder",
+          "Powder Bronzer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/334/890/174/6687/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/334/890/174/6687/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/334/890/174/6687/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/334/890/174/6687/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/dior/03348901746687.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03348901746687",
+        "ean13": "3348901746687",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3348901746687",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3348901746687"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03348901746687",
+        "qr_payload_text": "https://id.gs1.org/01/03348901746687",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03348901746687",
+          "code": "3348901746687",
+          "type": "EAN-13",
+          "brand": "Dior",
+          "name": "Forever Nude Bronze",
+          "image_url": "https://images.openbeautyfacts.org/images/products/334/890/174/6687/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dior/03348901746687.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3348901746687",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

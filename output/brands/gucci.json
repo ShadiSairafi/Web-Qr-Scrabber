@@ -1,0 +1,1605 @@
+{
+  "brand_slug": "gucci",
+  "display_name": "Gucci",
+  "letter_section": "G",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+  "product_count": 20,
+  "canonical_product_count": 20,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00737052339047",
+      "product_name": "Gucci Guilty Pour Homme Eau De Toilette Spray Cologne for Men 3 oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/073/705/233/9047/front_ar.8.400.jpg",
+      "local_image_path": "images/gucci/00737052339047.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "xx:gucci",
+          "Gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Homme Eau De Toilette Spray Cologne for Men 3 oz",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Homme - Eau de Toilette 90ml",
+          "upcitemdb": "Gucci Guilty Pour Homme Eau De Toilette Spray Cologne for Men 3 oz"
+        },
+        "alternate_names": [
+          "Gucci Guilty Pour Homme - Eau de Toilette 90ml",
+          "Gucci Guilty Pour Homme Eau de Toilette 90 ml",
+          "Gucci Guilty 3.0 oz EDT Spray",
+          "Gucci Guilty Pour Homme By Gucci, 3 Oz Edt Spray For Men",
+          "Gucci Guilty Pour Homme Eau de Toilette",
+          "Gucci Gucci Guilty Pour Homme Eau de Toilette with Lavandin, Lemon and Patchouli, Size: 3 FL Oz",
+          "구찌길티 퓨어 옴므 오드 뜨왈렛 스프레이 90ml/3oz"
+        ],
+        "quantity": "90",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Herenparfum",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Perfume & Cologne"
+        ],
+        "description": "Dare to be bold and different with Gucci Guilty Cologne for Men. It was introduced by the house of Gucci in 2011. This delightfully daring and intoxicating fragrance was designed to be a companion for the popular 2010 female edition of guilty. Gucci cologne for men was created specifically for the man who knows exactly what he wants and just how to get it. This intriguing masculine fragrance combines top notes of lemon and lavender with middle notes of warm orange blossom. Mysterious and seductive hints of musk and cedar make up the closing base notes of the fragrance. The eau de toilette spray for men comes in a stylish 3 oz bottle.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/073/705/233/9047/front_ar.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/073/705/233/9047/front_ar.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/073/705/233/9047/front_ar.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/073/705/233/9047/front_ar.8.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/647077e7af93384d38efba9b209041139f7dab84?wid=800&hei=800&op_sharpen=1&ver=167",
+          "https://s.cdnsbn.com/images/products/12109433805.jpg",
+          "https://www.boscovs.com/wcsstore/boscovs/images/store/product/images/29551827581183787new1.jpg",
+          "http://pics.drugstore.com/prodimg/475526/450.jpg",
+          "http://site.unbeatablesale.com/img251/pww9020.gif",
+          "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1009845612",
+          "http://dyn-images.hsn.com/is/image/HomeShoppingNetwork/7680044w?$pd1001$",
+          "http://s7d4.scene7.com/is/image/BonTon/385673?$ibm_large$",
+          "https://n.nordstrommedia.com/id/sr3/ba6320a3-cbea-43c1-9ab2-9e0b3d19a554.jpeg?w=500",
+          "http://pics1.ds-static.com/prodimg/475526/300.JPG"
+        ],
+        "local_image_path": "images/gucci/00737052339047.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00737052339047",
+        "ean13": "0737052339047",
+        "upc_a": "737052339047",
+        "ean8": null,
+        "primary_code": "737052339047",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0737052339047",
+          "737052339047"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00737052339047",
+        "qr_payload_text": "https://id.gs1.org/01/00737052339047",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00737052339047",
+          "code": "737052339047",
+          "type": "UPC-A",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Homme Eau De Toilette Spray Cologne for Men 3 oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/073/705/233/9047/front_ar.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/00737052339047.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 91.76
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0737052339047",
+        "upcitemdb_ean": "0737052339047",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00737052339207",
+      "product_name": "Gucci Guilty Pour Homme - Eau de Toilette 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Homme - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Homme - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00737052339207",
+        "ean13": "0737052339207",
+        "upc_a": "737052339207",
+        "ean8": null,
+        "primary_code": "737052339207",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0737052339207"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00737052339207",
+        "qr_payload_text": "https://id.gs1.org/01/00737052339207",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00737052339207",
+          "code": "737052339207",
+          "type": "UPC-A",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Homme - Eau de Toilette 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/00737052339207.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0737052339207",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00766124019402",
+      "product_name": "Envy me",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/612/401/9402/front_sv.5.400.jpg",
+      "local_image_path": "images/gucci/00766124019402.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "xx:gucci"
+        ]
+      },
+      "product": {
+        "name": "Envy me",
+        "source_names": {
+          "openbeautyfacts": "Envy me"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml 3,3 FL OZ",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/612/401/9402/front_sv.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/612/401/9402/front_sv.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/612/401/9402/front_sv.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/612/401/9402/front_sv.5.200.jpg"
+        ],
+        "local_image_path": "images/gucci/00766124019402.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00766124019402",
+        "ean13": "0766124019402",
+        "upc_a": "766124019402",
+        "ean8": null,
+        "primary_code": "766124019402",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0766124019402"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00766124019402",
+        "qr_payload_text": "https://id.gs1.org/01/00766124019402",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00766124019402",
+          "code": "766124019402",
+          "type": "UPC-A",
+          "brand": "Gucci",
+          "name": "Envy me",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/612/401/9402/front_sv.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/00766124019402.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0766124019402",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616301976134",
+      "product_name": "Gucci Guilty Pour Femme - Eau de Toilette 30ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Femme - Eau de Toilette 30ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Femme - Eau de Toilette 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "30",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03616301976134",
+        "ean13": "3616301976134",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616301976134",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616301976134"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616301976134",
+        "qr_payload_text": "https://id.gs1.org/01/03616301976134",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616301976134",
+          "code": "3616301976134",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Femme - Eau de Toilette 30ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/03616301976134.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616301976134",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616301976141",
+      "product_name": "Gucci Guilty Pour Femme - Eau de Toilette 90ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Femme - Eau de Toilette 90ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Femme - Eau de Toilette 90ml"
+        },
+        "alternate_names": [],
+        "quantity": "90",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03616301976141",
+        "ean13": "3616301976141",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616301976141",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616301976141"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616301976141",
+        "qr_payload_text": "https://id.gs1.org/01/03616301976141",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616301976141",
+          "code": "3616301976141",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Femme - Eau de Toilette 90ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/03616301976141.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616301976141",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616302514274",
+      "product_name": "Gucci Bloom - Eau de Toilette 30ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Bloom - Eau de Toilette 30ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Bloom - Eau de Toilette 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "30",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03616302514274",
+        "ean13": "3616302514274",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616302514274",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616302514274"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616302514274",
+        "qr_payload_text": "https://id.gs1.org/01/03616302514274",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616302514274",
+          "code": "3616302514274",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Bloom - Eau de Toilette 30ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/03616302514274.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616302514274",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616302514281",
+      "product_name": "Gucci Bloom - Eau de Toilette 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/630/251/4281/front_nl.3.400.jpg",
+      "local_image_path": "images/gucci/03616302514281.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Bloom - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Bloom - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/630/251/4281/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/630/251/4281/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/630/251/4281/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/630/251/4281/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/03616302514281.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03616302514281",
+        "ean13": "3616302514281",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616302514281",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616302514281"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616302514281",
+        "qr_payload_text": "https://id.gs1.org/01/03616302514281",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616302514281",
+          "code": "3616302514281",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Bloom - Eau de Toilette 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/630/251/4281/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/03616302514281.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616302514281",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616303470791",
+      "product_name": "Gucci Flora",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/630/347/0791/front_pt.3.400.jpg",
+      "local_image_path": "images/gucci/03616303470791.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "xx:gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Flora",
+        "source_names": {
+          "openbeautyfacts": "Gucci Flora"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Perfumes",
+          "Women Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/630/347/0791/front_pt.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/630/347/0791/front_pt.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/630/347/0791/front_pt.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/630/347/0791/front_pt.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/03616303470791.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03616303470791",
+        "ean13": "3616303470791",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616303470791",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616303470791"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616303470791",
+        "qr_payload_text": "https://id.gs1.org/01/03616303470791",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616303470791",
+          "code": "3616303470791",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Flora",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/630/347/0791/front_pt.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/03616303470791.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616303470791",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616305266743",
+      "product_name": "Gucci Guilty Pour Homme Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/630/526/6743/front_en.3.400.jpg",
+      "local_image_path": "images/gucci/03616305266743.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "xx:gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Homme Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Homme Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [
+          "Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/630/526/6743/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/630/526/6743/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/630/526/6743/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/630/526/6743/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/03616305266743.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03616305266743",
+        "ean13": "3616305266743",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616305266743",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616305266743"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616305266743",
+        "qr_payload_text": "https://id.gs1.org/01/03616305266743",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616305266743",
+          "code": "3616305266743",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Homme Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/630/526/6743/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/03616305266743.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616305266743",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616306724501",
+      "product_name": "Gucci Rush For Women - Eau de Toilette 75 ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Rush For Women - Eau de Toilette 75 ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Rush For Women - Eau de Toilette 75 ml"
+        },
+        "alternate_names": [],
+        "quantity": "75",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03616306724501",
+        "ean13": "3616306724501",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616306724501",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616306724501"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616306724501",
+        "qr_payload_text": "https://id.gs1.org/01/03616306724501",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616306724501",
+          "code": "3616306724501",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Rush For Women - Eau de Toilette 75 ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/03616306724501.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616306724501",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08005610295015",
+      "product_name": "Gucci Bamboo - Eau de Toilette 30ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/561/029/5015/front_nl.5.400.jpg",
+      "local_image_path": "images/gucci/08005610295015.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Bamboo - Eau de Toilette 30ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Bamboo - Eau de Toilette 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "30",
+        "categories": [
+          "Perfumes",
+          "Open Beauty Facts",
+          "Beauty",
+          "Damesparfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/561/029/5015/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/561/029/5015/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/561/029/5015/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/561/029/5015/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/gucci/08005610295015.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08005610295015",
+        "ean13": "8005610295015",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8005610295015",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8005610295015"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08005610295015",
+        "qr_payload_text": "https://id.gs1.org/01/08005610295015",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08005610295015",
+          "code": "8005610295015",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Bamboo - Eau de Toilette 30ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/561/029/5015/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08005610295015.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8005610295015",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08005610295046",
+      "product_name": "Gucci Bamboo - Eau de Toilette 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Bamboo - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Bamboo - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08005610295046",
+        "ean13": "8005610295046",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8005610295046",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8005610295046"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08005610295046",
+        "qr_payload_text": "https://id.gs1.org/01/08005610295046",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08005610295046",
+          "code": "8005610295046",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Bamboo - Eau de Toilette 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08005610295046.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8005610295046",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08005610295077",
+      "product_name": "Gucci Bamboo - Eau de Toilette 75 ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Bamboo - Eau de Toilette 75 ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Bamboo - Eau de Toilette 75 ml"
+        },
+        "alternate_names": [],
+        "quantity": "75",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08005610295077",
+        "ean13": "8005610295077",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8005610295077",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8005610295077"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08005610295077",
+        "qr_payload_text": "https://id.gs1.org/01/08005610295077",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08005610295077",
+          "code": "8005610295077",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Bamboo - Eau de Toilette 75 ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08005610295077.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8005610295077",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08005610328768",
+      "product_name": "Gucci Rush For Women - Eau de Toilette 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Rush For Women - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Rush For Women - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08005610328768",
+        "ean13": "8005610328768",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8005610328768",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8005610328768"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08005610328768",
+        "qr_payload_text": "https://id.gs1.org/01/08005610328768",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08005610328768",
+          "code": "8005610328768",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Rush For Women - Eau de Toilette 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08005610328768.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8005610328768",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08005610481005",
+      "product_name": "Gucci Bloom 100 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/800/561/048/1005/front_es.3.400.jpg",
+      "local_image_path": "images/gucci/08005610481005.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "xx:gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Bloom 100 ml",
+        "source_names": {
+          "openbeautyfacts": "Gucci Bloom 100 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/800/561/048/1005/front_es.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/800/561/048/1005/front_es.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/800/561/048/1005/front_es.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/800/561/048/1005/front_es.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/08005610481005.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08005610481005",
+        "ean13": "8005610481005",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8005610481005",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8005610481005"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08005610481005",
+        "qr_payload_text": "https://id.gs1.org/01/08005610481005",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08005610481005",
+          "code": "8005610481005",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Bloom 100 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/800/561/048/1005/front_es.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08005610481005.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8005610481005",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08719979526160",
+      "product_name": "Gucci Rush Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/871/997/952/6160/front_nl.3.400.jpg",
+      "local_image_path": "images/gucci/08719979526160.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Rush Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Gucci Rush Eau de Toilette"
+        },
+        "alternate_names": [
+          "Gucci Rush Eau de Toilette is de moderne geur van Gucci voor vrouwen, in een moderne fles. De geur is zeer herkenbaar en enorm aantrekkelijk."
+        ],
+        "quantity": "75ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": "Gucci Rush Eau de Toilette is de moderne geur van Gucci voor vrouwen, in een moderne fles. De geur is zeer herkenbaar en enorm aantrekkelijk.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/871/997/952/6160/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/871/997/952/6160/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/871/997/952/6160/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/871/997/952/6160/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/08719979526160.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08719979526160",
+        "ean13": "8719979526160",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8719979526160",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8719979526160"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08719979526160",
+        "qr_payload_text": "https://id.gs1.org/01/08719979526160",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08719979526160",
+          "code": "8719979526160",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Rush Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/871/997/952/6160/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08719979526160.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8719979526160",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720168302922",
+      "product_name": "Gucci Bamboo Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/2922/front_nl.3.400.jpg",
+      "local_image_path": "images/gucci/08720168302922.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Bamboo Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Gucci Bamboo Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/2922/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/016/830/2922/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/016/830/2922/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/016/830/2922/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/08720168302922.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720168302922",
+        "ean13": "8720168302922",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720168302922",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720168302922"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720168302922",
+        "qr_payload_text": "https://id.gs1.org/01/08720168302922",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720168302922",
+          "code": "8720168302922",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Bamboo Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/2922/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08720168302922.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720168302922",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720168303080",
+      "product_name": "Gucci Guilty Pour Homme Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/3080/front_nl.3.400.jpg",
+      "local_image_path": "images/gucci/08720168303080.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Homme Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Homme Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/3080/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/016/830/3080/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/016/830/3080/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/016/830/3080/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/08720168303080.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720168303080",
+        "ean13": "8720168303080",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720168303080",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720168303080"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720168303080",
+        "qr_payload_text": "https://id.gs1.org/01/08720168303080",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720168303080",
+          "code": "8720168303080",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Homme Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/3080/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08720168303080.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720168303080",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847713391",
+      "product_name": "Gucci Guilty Pour Femme Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3391/front_nl.3.400.jpg",
+      "local_image_path": "images/gucci/08720847713391.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Femme Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Femme Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3391/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3391/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/3391/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/3391/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/08720847713391.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847713391",
+        "ean13": "8720847713391",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847713391",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847713391"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847713391",
+        "qr_payload_text": "https://id.gs1.org/01/08720847713391",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847713391",
+          "code": "8720847713391",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Femme Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3391/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08720847713391.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847713391",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847715661",
+      "product_name": "Gucci Guilty Pour Homme Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/5661/front_nl.3.400.jpg",
+      "local_image_path": "images/gucci/08720847715661.jpg",
+      "brand": {
+        "slug": "gucci",
+        "display_name": "Gucci",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Gucci",
+        "matched_raw_brands": [
+          "gucci"
+        ]
+      },
+      "product": {
+        "name": "Gucci Guilty Pour Homme Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Gucci Guilty Pour Homme Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "90ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/5661/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/5661/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/5661/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/5661/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/gucci/08720847715661.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847715661",
+        "ean13": "8720847715661",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847715661",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847715661"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847715661",
+        "qr_payload_text": "https://id.gs1.org/01/08720847715661",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847715661",
+          "code": "8720847715661",
+          "type": "EAN-13",
+          "brand": "Gucci",
+          "name": "Gucci Guilty Pour Homme Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/5661/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/gucci/08720847715661.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847715661",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

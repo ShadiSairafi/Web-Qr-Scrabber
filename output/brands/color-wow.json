@@ -1,0 +1,101 @@
+{
+  "brand_slug": "color-wow",
+  "display_name": "Color Wow",
+  "letter_section": "C",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Color%20Wow",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "05060150182341",
+      "product_name": "COLOR WOW Anti-Frizz Dream Coat for Curly Hair - 2.5 fl oz",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/87c79b6f1ab2297ab4bd1c6220f7e541accc711e?wid=800&hei=800&op_sharpen=1&ver=2",
+      "local_image_path": "images/color-wow/05060150182341.jpg",
+      "brand": {
+        "slug": "color-wow",
+        "display_name": "Color Wow",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Color%20Wow",
+        "matched_raw_brands": [
+          "xx:color-wow",
+          "COLOR WOW"
+        ]
+      },
+      "product": {
+        "name": "COLOR WOW Anti-Frizz Dream Coat for Curly Hair - 2.5 fl oz",
+        "source_names": {
+          "openbeautyfacts": "COLOR WOW Extra Strength Dream Coat",
+          "upcitemdb": "COLOR WOW Anti-Frizz Dream Coat for Curly Hair - 2.5 fl oz"
+        },
+        "alternate_names": [
+          "COLOR WOW Extra Strength Dream Coat",
+          "COLOR WOW Dream Coat Anti-Frizz Treatment for Curly Hair, Size: 2.5 FL Oz, None",
+          "451425 2.5 oz Dream Coat for Curly Hair Miracle Moisture Mist for Women"
+        ],
+        "quantity": "250 ml",
+        "categories": [
+          "Cuidados Com Os Cabelos"
+        ],
+        "description": "Create flawless curls and waves at the push of a button with the CHI Spin N Curl. Hair is drawn into the curl chamber where it is heated and timed to create perfect curls and waves every time! The digital temperature display offers easily adjustable temperature settingsi and a selection of preset temperature settings for each hair texture, creating a customizable style experience while avoiding unnecessary heat damage. Ceramic heat technology produces infrared heat while the conditioning benefits of negative ions result in shinier, healthier and more beautiful hair. Curling hair has never been so effortless with the CHI Spin N Curl. Includes cleaning tool.",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/87c79b6f1ab2297ab4bd1c6220f7e541accc711e?wid=800&hei=800&op_sharpen=1&ver=2",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/87c79b6f1ab2297ab4bd1c6220f7e541accc711e?wid=800&hei=800&op_sharpen=1&ver=2",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/87c79b6f1ab2297ab4bd1c6220f7e541accc711e?wid=800&hei=800&op_sharpen=1&ver=2",
+          "https://target.scene7.com/is/image/Target/GUEST_a4607ce3-6851-4220-a60c-0286d0743f89?wid=1000&hei=1000",
+          "http://site.unbeatablesale.com/FRG66881.JPG"
+        ],
+        "local_image_path": "images/color-wow/05060150182341.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060150182341",
+        "ean13": "5060150182341",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060150182341",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060150182341"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060150182341",
+        "qr_payload_text": "https://id.gs1.org/01/05060150182341",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060150182341",
+          "code": "5060150182341",
+          "type": "EAN-13",
+          "brand": "Color Wow",
+          "name": "COLOR WOW Anti-Frizz Dream Coat for Curly Hair - 2.5 fl oz",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/87c79b6f1ab2297ab4bd1c6220f7e541accc711e?wid=800&hei=800&op_sharpen=1&ver=2"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/color-wow/05060150182341.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 72.73
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060150182341",
+        "upcitemdb_ean": "5060150182341",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

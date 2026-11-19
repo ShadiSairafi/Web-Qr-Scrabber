@@ -1,0 +1,566 @@
+{
+  "brand_slug": "lancaster",
+  "display_name": "Lancaster",
+  "letter_section": "L",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+  "product_count": 7,
+  "canonical_product_count": 7,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "03414202051444",
+      "product_name": "Eau de Lancaster Déodorant Crème Tube",
+      "image_url": "https://images.openbeautyfacts.org/images/products/341/420/205/1444/front_es.13.400.jpg",
+      "local_image_path": "images/lancaster/03414202051444.jpg",
+      "brand": {
+        "slug": "lancaster",
+        "display_name": "Lancaster",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+        "matched_raw_brands": [
+          "xx:Lancaster"
+        ]
+      },
+      "product": {
+        "name": "Eau de Lancaster Déodorant Crème Tube",
+        "source_names": {
+          "openbeautyfacts": "Eau de Lancaster Déodorant Crème Tube"
+        },
+        "alternate_names": [],
+        "quantity": "125 ml",
+        "categories": [
+          "Hygiene",
+          "Deodorants",
+          "Cosmetic Products",
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/341/420/205/1444/front_es.13.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/341/420/205/1444/front_es.13.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/341/420/205/1444/front_es.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/341/420/205/1444/front_es.13.200.jpg"
+        ],
+        "local_image_path": "images/lancaster/03414202051444.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03414202051444",
+        "ean13": "3414202051444",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3414202051444",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3414202051444"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03414202051444",
+        "qr_payload_text": "https://id.gs1.org/01/03414202051444",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03414202051444",
+          "code": "3414202051444",
+          "type": "EAN-13",
+          "brand": "Lancaster",
+          "name": "Eau de Lancaster Déodorant Crème Tube",
+          "image_url": "https://images.openbeautyfacts.org/images/products/341/420/205/1444/front_es.13.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancaster/03414202051444.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3414202051444",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03607343211413",
+      "product_name": "Deodorant cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/734/321/1413/front_es.11.400.jpg",
+      "local_image_path": "images/lancaster/03607343211413.jpg",
+      "brand": {
+        "slug": "lancaster",
+        "display_name": "Lancaster",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+        "matched_raw_brands": [
+          "xx:lancaster"
+        ]
+      },
+      "product": {
+        "name": "Deodorant cream",
+        "source_names": {
+          "openbeautyfacts": "Deodorant cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/734/321/1413/front_es.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/734/321/1413/front_es.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/734/321/1413/front_es.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/734/321/1413/front_es.11.200.jpg"
+        ],
+        "local_image_path": "images/lancaster/03607343211413.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03607343211413",
+        "ean13": "3607343211413",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3607343211413",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3607343211413"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03607343211413",
+        "qr_payload_text": "https://id.gs1.org/01/03607343211413",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03607343211413",
+          "code": "3607343211413",
+          "type": "EAN-13",
+          "brand": "Lancaster",
+          "name": "Deodorant cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/734/321/1413/front_es.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancaster/03607343211413.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3607343211413",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614220274201",
+      "product_name": "Lancaster Tan Maximizer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/027/4201/front_en.5.400.jpg",
+      "local_image_path": "images/lancaster/03614220274201.jpg",
+      "brand": {
+        "slug": "lancaster",
+        "display_name": "Lancaster",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+        "matched_raw_brands": [
+          "xx:lancaster"
+        ]
+      },
+      "product": {
+        "name": "Lancaster Tan Maximizer",
+        "source_names": {
+          "openbeautyfacts": "Lancaster Tan Maximizer"
+        },
+        "alternate_names": [
+          "Après-solaire"
+        ],
+        "quantity": "250 ml",
+        "categories": [],
+        "description": "Après-solaire",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/027/4201/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/027/4201/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/027/4201/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/027/4201/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/lancaster/03614220274201.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614220274201",
+        "ean13": "3614220274201",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614220274201",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614220274201"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614220274201",
+        "qr_payload_text": "https://id.gs1.org/01/03614220274201",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614220274201",
+          "code": "3614220274201",
+          "type": "EAN-13",
+          "brand": "Lancaster",
+          "name": "Lancaster Tan Maximizer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/027/4201/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancaster/03614220274201.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614220274201",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614220783352",
+      "product_name": "Sun sport",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/078/3352/front_fr.10.400.jpg",
+      "local_image_path": "images/lancaster/03614220783352.jpg",
+      "brand": {
+        "slug": "lancaster",
+        "display_name": "Lancaster",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+        "matched_raw_brands": [
+          "xx:Lancaster"
+        ]
+      },
+      "product": {
+        "name": "Sun sport",
+        "source_names": {
+          "openbeautyfacts": "Sun sport"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Suncare",
+          "In Sun Protections",
+          "Sunscreen"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/078/3352/front_fr.10.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/078/3352/front_fr.10.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/078/3352/front_fr.10.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/078/3352/front_fr.10.200.jpg"
+        ],
+        "local_image_path": "images/lancaster/03614220783352.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614220783352",
+        "ean13": "3614220783352",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614220783352",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614220783352"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614220783352",
+        "qr_payload_text": "https://id.gs1.org/01/03614220783352",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614220783352",
+          "code": "3614220783352",
+          "type": "EAN-13",
+          "brand": "Lancaster",
+          "name": "Sun sport",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/078/3352/front_fr.10.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancaster/03614220783352.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614220783352",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614223974429",
+      "product_name": "Crema solar Lancaster",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/397/4429/front_es.3.400.jpg",
+      "local_image_path": "images/lancaster/03614223974429.jpg",
+      "brand": {
+        "slug": "lancaster",
+        "display_name": "Lancaster",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+        "matched_raw_brands": [
+          "xx:lancaster"
+        ]
+      },
+      "product": {
+        "name": "Crema solar Lancaster",
+        "source_names": {
+          "openbeautyfacts": "Crema solar Lancaster"
+        },
+        "alternate_names": [],
+        "quantity": "400ml",
+        "categories": [
+          "Crema Solar"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/397/4429/front_es.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/397/4429/front_es.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/397/4429/front_es.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/397/4429/front_es.3.200.jpg"
+        ],
+        "local_image_path": "images/lancaster/03614223974429.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614223974429",
+        "ean13": "3614223974429",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614223974429",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614223974429"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614223974429",
+        "qr_payload_text": "https://id.gs1.org/01/03614223974429",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614223974429",
+          "code": "3614223974429",
+          "type": "EAN-13",
+          "brand": "Lancaster",
+          "name": "Crema solar Lancaster",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/397/4429/front_es.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancaster/03614223974429.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614223974429",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614225562990",
+      "product_name": "Self tanning oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/556/2990/front_fr.3.400.jpg",
+      "local_image_path": "images/lancaster/03614225562990.jpg",
+      "brand": {
+        "slug": "lancaster",
+        "display_name": "Lancaster",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+        "matched_raw_brands": [
+          "xx:lancaster"
+        ]
+      },
+      "product": {
+        "name": "Self tanning oil",
+        "source_names": {
+          "openbeautyfacts": "Self tanning oil"
+        },
+        "alternate_names": [],
+        "quantity": "150ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/556/2990/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/556/2990/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/556/2990/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/556/2990/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/lancaster/03614225562990.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614225562990",
+        "ean13": "3614225562990",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614225562990",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614225562990"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614225562990",
+        "qr_payload_text": "https://id.gs1.org/01/03614225562990",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614225562990",
+          "code": "3614225562990",
+          "type": "EAN-13",
+          "brand": "Lancaster",
+          "name": "Self tanning oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/556/2990/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancaster/03614225562990.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614225562990",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616301295396",
+      "product_name": "Fluide lacté non-gras SPF 50 Sun Sensitive",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/630/129/5396/front_fr.19.400.jpg",
+      "local_image_path": "images/lancaster/03616301295396.jpg",
+      "brand": {
+        "slug": "lancaster",
+        "display_name": "Lancaster",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lancaster",
+        "matched_raw_brands": [
+          "xx:lancaster"
+        ]
+      },
+      "product": {
+        "name": "Fluide lacté non-gras SPF 50 Sun Sensitive",
+        "source_names": {
+          "openbeautyfacts": "Fluide lacté non-gras SPF 50 Sun Sensitive"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Suncare",
+          "In Sun Protections"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/630/129/5396/front_fr.19.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/630/129/5396/front_fr.19.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/630/129/5396/front_fr.19.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/630/129/5396/front_fr.19.200.jpg"
+        ],
+        "local_image_path": "images/lancaster/03616301295396.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03616301295396",
+        "ean13": "3616301295396",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616301295396",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616301295396"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616301295396",
+        "qr_payload_text": "https://id.gs1.org/01/03616301295396",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616301295396",
+          "code": "3616301295396",
+          "type": "EAN-13",
+          "brand": "Lancaster",
+          "name": "Fluide lacté non-gras SPF 50 Sun Sensitive",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/630/129/5396/front_fr.19.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancaster/03616301295396.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616301295396",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

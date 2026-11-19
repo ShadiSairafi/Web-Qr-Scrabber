@@ -1,0 +1,242 @@
+{
+  "brand_slug": "kylie-cosmetics",
+  "display_name": "Kylie Cosmetics",
+  "letter_section": "K",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kylie%20Cosmetics",
+  "product_count": 3,
+  "canonical_product_count": 3,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "04064941049104",
+      "product_name": "Power Plush Longwear Concealer 4.5C",
+      "image_url": "https://images.openbeautyfacts.org/images/products/406/494/104/9104/front_de.3.400.jpg",
+      "local_image_path": "images/kylie-cosmetics/04064941049104.jpg",
+      "brand": {
+        "slug": "kylie-cosmetics",
+        "display_name": "Kylie Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kylie%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:kylie-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Power Plush Longwear Concealer 4.5C",
+        "source_names": {
+          "openbeautyfacts": "Power Plush Longwear Concealer 4.5C"
+        },
+        "alternate_names": [],
+        "quantity": "5ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/406/494/104/9104/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/406/494/104/9104/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/406/494/104/9104/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/406/494/104/9104/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/kylie-cosmetics/04064941049104.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04064941049104",
+        "ean13": "4064941049104",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4064941049104",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4064941049104"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04064941049104",
+        "qr_payload_text": "https://id.gs1.org/01/04064941049104",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04064941049104",
+          "code": "4064941049104",
+          "type": "EAN-13",
+          "brand": "Kylie Cosmetics",
+          "name": "Power Plush Longwear Concealer 4.5C",
+          "image_url": "https://images.openbeautyfacts.org/images/products/406/494/104/9104/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kylie-cosmetics/04064941049104.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4064941049104",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04064941088844",
+      "product_name": "Tinted Butter Balm 338 Pink me up at 8",
+      "image_url": "https://images.openbeautyfacts.org/images/products/406/494/108/8844/front_de.3.400.jpg",
+      "local_image_path": "images/kylie-cosmetics/04064941088844.jpg",
+      "brand": {
+        "slug": "kylie-cosmetics",
+        "display_name": "Kylie Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kylie%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:kylie-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Tinted Butter Balm 338 Pink me up at 8",
+        "source_names": {
+          "openbeautyfacts": "Tinted Butter Balm 338 Pink me up at 8"
+        },
+        "alternate_names": [],
+        "quantity": "2.4g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/406/494/108/8844/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/406/494/108/8844/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/406/494/108/8844/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/406/494/108/8844/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/kylie-cosmetics/04064941088844.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04064941088844",
+        "ean13": "4064941088844",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4064941088844",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4064941088844"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04064941088844",
+        "qr_payload_text": "https://id.gs1.org/01/04064941088844",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04064941088844",
+          "code": "4064941088844",
+          "type": "EAN-13",
+          "brand": "Kylie Cosmetics",
+          "name": "Tinted Butter Balm 338 Pink me up at 8",
+          "image_url": "https://images.openbeautyfacts.org/images/products/406/494/108/8844/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kylie-cosmetics/04064941088844.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4064941088844",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04064941117254",
+      "product_name": "Concealer Brush",
+      "image_url": "https://images.openbeautyfacts.org/images/products/406/494/111/7254/front_de.3.400.jpg",
+      "local_image_path": "images/kylie-cosmetics/04064941117254.jpg",
+      "brand": {
+        "slug": "kylie-cosmetics",
+        "display_name": "Kylie Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Kylie%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:kylie-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Concealer Brush",
+        "source_names": {
+          "openbeautyfacts": "Concealer Brush"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/406/494/111/7254/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/406/494/111/7254/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/406/494/111/7254/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/406/494/111/7254/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/kylie-cosmetics/04064941117254.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04064941117254",
+        "ean13": "4064941117254",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4064941117254",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4064941117254"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04064941117254",
+        "qr_payload_text": "https://id.gs1.org/01/04064941117254",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04064941117254",
+          "code": "4064941117254",
+          "type": "EAN-13",
+          "brand": "Kylie Cosmetics",
+          "name": "Concealer Brush",
+          "image_url": "https://images.openbeautyfacts.org/images/products/406/494/111/7254/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/kylie-cosmetics/04064941117254.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4064941117254",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "brand_slug": "benefit-cosmetics",
+  "display_name": "Benefit Cosmetics",
+  "letter_section": "B",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+  "product_count": 8,
+  "canonical_product_count": 8,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00602004085566",
+      "product_name": "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer Mini - Shade 3 - Warm Light Brown - 0.001oz - Ulta Beauty",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/200/408/5566/front_en.3.400.jpg",
+      "local_image_path": "images/benefit-cosmetics/00602004085566.jpg",
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:benefit",
+          "Benefit Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer Mini - Shade 3 - Warm Light Brown - 0.001oz - Ulta Beauty",
+        "source_names": {
+          "openbeautyfacts": "Brow",
+          "upcitemdb": "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer Mini - Shade 3 - Warm Light Brown - 0.001oz - Ulta Beauty"
+        },
+        "alternate_names": [
+          "Brow",
+          "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Micro-Precision Eyebrow Definer, Size: 0.001 Oz, 3",
+          "Benefit Cosmetics Precisely, My Brow Pencil Ultrafine Shape & Define Pencil in 03 Medium/warm Brown at Nordstrom, Size 0.001 Oz",
+          "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer, Mini",
+          "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer, Travel Size",
+          "Benefit Precisely My Brow 03 Medium Pencil Mini 0.04g"
+        ],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts",
+          "Health & Beauty"
+        ],
+        "description": "Oh my WOW...precise & defined eyebrows! Available in shades to flatter every hair color, transform shapeless, undefined brows with just a few strokes of Benefit's bestselling Precisely, My Brow Pencil Waterproof Eyebrow Definer. The custom ultra-fine tip makes adding detailed definition to your brows easy, by drawing incredibly natural-looking, hair like strokes that last up to 12-hours.* This rich, waterproof** eyebrow pencil is ideal for spot filling sparse or over-tweezed areas, and the smudge-proof formula is firm enough for precise application, yet glides on effortlessly to bring symmetry to your brows and your entire face. DISCLAIMER: PRODUCT INGREDIENT LISTINGS ARE UPDATED PERIODICALLY. BEFORE USING A BENEFIT PRODUCT, PLEASE READ THE INGREDIENT LIST ON THE PACKAGING OF YOUR PRODUCT TO BE SURE THAT THE INGREDIENTS ARE APPROPRIATE FOR YOUR PERSONAL USE.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/200/408/5566/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/200/408/5566/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/200/408/5566/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/200/408/5566/front_en.3.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/55e9b3f8b7207d68a5196e26ed2fc07dcfcf68e1?wid=800&hei=800&op_sharpen=1",
+          "https://target.scene7.com/is/image/Target/GUEST_f123072d-a72c-42d6-9c29-f360986c5c35?wid=1000&hei=1000",
+          "https://n.nordstrommedia.com/id/sr3/e9f8cf4b-7484-4901-89c7-a25a9694ff63.jpeg?w=500",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/6/optimized/10759899_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/9974938_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/ff853d80-9d5e-4489-bb52-812b1fa630fd.9ccd8895951ffe0a62517bcd39e1a3a4.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://s7d9.scene7.com/is/image/JCPenney/dabd039b-3c3a-11e8-898a-75ccf3aa5719?wid=800&hei=800&op_sharpen=1",
+          "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dw4bf07c80/product_images/PRECI/mini_full_preciselymybrow_shade3.jpg"
+        ],
+        "local_image_path": "images/benefit-cosmetics/00602004085566.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00602004085566",
+        "ean13": "0602004085566",
+        "upc_a": "602004085566",
+        "ean8": null,
+        "primary_code": "602004085566",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004085566",
+          "602004085566"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004085566",
+        "qr_payload_text": "https://id.gs1.org/01/00602004085566",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004085566",
+          "code": "602004085566",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "Benefit Cosmetics Precisely, My Brow Pencil Waterproof Eyebrow Definer Mini - Shade 3 - Warm Light Brown - 0.001oz - Ulta Beauty",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/200/408/5566/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004085566.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0602004085566",
+        "upcitemdb_ean": "0602004085566",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00602004127303",
+      "product_name": "The Pore Fessional: Super Setter",
+      "image_url": "https://images.openbeautyfacts.org/images/products/060/200/412/7303/front_en.4.400.jpg",
+      "local_image_path": "images/benefit-cosmetics/00602004127303.jpg",
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:benefit"
+        ]
+      },
+      "product": {
+        "name": "The Pore Fessional: Super Setter",
+        "source_names": {
+          "openbeautyfacts": "The Pore Fessional: Super Setter"
+        },
+        "alternate_names": [],
+        "quantity": "30 mL, 1 fl. oz.",
+        "categories": [
+          "Face Makeup"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/060/200/412/7303/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/060/200/412/7303/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/060/200/412/7303/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/060/200/412/7303/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/benefit-cosmetics/00602004127303.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00602004127303",
+        "ean13": "0602004127303",
+        "upc_a": "602004127303",
+        "ean8": null,
+        "primary_code": "602004127303",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004127303"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004127303",
+        "qr_payload_text": "https://id.gs1.org/01/00602004127303",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004127303",
+          "code": "602004127303",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "The Pore Fessional: Super Setter",
+          "image_url": "https://images.openbeautyfacts.org/images/products/060/200/412/7303/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004127303.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0602004127303",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00602004129895",
+      "product_name": "Benefit Cosmetics Dual Ended Angled Eyebrow Brush - Ulta Beauty",
+      "image_url": "https://n.nordstrommedia.com/id/sr3/76c6e97e-b988-4386-9413-5e89d7822ccc.jpeg?w=500",
+      "local_image_path": "images/benefit-cosmetics/00602004129895.jpg",
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "Benefit Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Benefit Cosmetics Dual Ended Angled Eyebrow Brush - Ulta Beauty",
+        "source_names": {
+          "upcitemdb": "Benefit Cosmetics Dual Ended Angled Eyebrow Brush - Ulta Beauty"
+        },
+        "alternate_names": [
+          "Benefit Cosmetics Benefit Dual-Ended Angled Eyebrow Brush at Nordstrom",
+          "Benefit Cosmetics Dual-Ended Angled Eyebrow Brush",
+          "Benefit Cosmetics Dual-Ended Angled Eyebrow Brush & Spoolie",
+          "Benefit Cosmetics Dual Ended Eyebrow Brush for Powder & Powmade, None",
+          "awbenpbb Cosmetics Dual-Ended Angled Eyebrow Brush"
+        ],
+        "quantity": "0.02 oz",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup"
+        ],
+        "description": "WHY WE LOVE IT: Brows' best friend! Expertly apply brow pomades, powders and waxes with ease! The Dual-Ended Angled Eyebrow Brush features a brush made of silky synthetic fibers that form short, stiff bristles at a steep angle for precise, controlled application and a custom spoolie for smooth, seamless blending. A grip close to the barrel allows you to hold the brush with ultimate control. Specially designed to pair perfectly with Benefit's POWmade Brow Pomade or Goof Proof Brow-Filling Powder! HOW TO USE: Brush brow hairs into place with spoolie, then dip angled brush into POWmade Brow Pomade or other brow powder or wax. Wipe brush tip to remove any excess. Grip the brush close to bristles and stroke onto brows in short, light, upward motions. Blend with spoolie.",
+        "primary_image_url": "https://n.nordstrommedia.com/id/sr3/76c6e97e-b988-4386-9413-5e89d7822ccc.jpeg?w=500",
+        "thumbnail_url": "https://n.nordstrommedia.com/id/sr3/76c6e97e-b988-4386-9413-5e89d7822ccc.jpeg?w=500",
+        "image_urls": [
+          "https://n.nordstrommedia.com/id/sr3/76c6e97e-b988-4386-9413-5e89d7822ccc.jpeg?w=500",
+          "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dwdb4f8022/product_images/DUALENDBRUSH/Main_dualendedangledeyebrowbrush.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/19659068_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://media.kohlsimg.com/is/image/kohls/5035545?wid=800&hei=800&op_sharpen=1&ver=3",
+          "https://target.scene7.com/is/image/Target/GUEST_9d85b557-3d98-4a5b-ba9c-54bdf1f0f031?wid=1000&hei=1000",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/4/optimized/11661614_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://i5.walmartimages.com/asr/ae9fba33-c986-4ef5-b2f8-4a2dac196601.7d39c30f5df118a6de1a046fbd261bc0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://site.unbeatablesale.com/PRFW7969.JPG",
+          "https://static.storeautomator.com/c/JP4JNQ/media/e9264f2d-7312-4eb2-9ef9-3fdb648efa95.jpeg?v=638773000815933127"
+        ],
+        "local_image_path": "images/benefit-cosmetics/00602004129895.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00602004129895",
+        "ean13": "0602004129895",
+        "upc_a": "602004129895",
+        "ean8": null,
+        "primary_code": "602004129895",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004129895",
+          "602004129895"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004129895",
+        "qr_payload_text": "https://id.gs1.org/01/00602004129895",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004129895",
+          "code": "602004129895",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "Benefit Cosmetics Dual Ended Angled Eyebrow Brush - Ulta Beauty",
+          "image_url": "https://n.nordstrommedia.com/id/sr3/76c6e97e-b988-4386-9413-5e89d7822ccc.jpeg?w=500"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004129895.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0602004129895",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00602004132208",
+      "product_name": "Benefit Cosmetics BADgal BANG! Waterproof Volumizing Mascara - 0.3oz - Ulta Beauty",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_4d729729-4d07-4a2b-83ac-c2d85640ff1d?wid=1000&hei=1000",
+      "local_image_path": "images/benefit-cosmetics/00602004132208.jpg",
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "Benefit Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Benefit Cosmetics BADgal BANG! Waterproof Volumizing Mascara - 0.3oz - Ulta Beauty",
+        "source_names": {
+          "upcitemdb": "Benefit Cosmetics BADgal BANG! Waterproof Volumizing Mascara - 0.3oz - Ulta Beauty"
+        },
+        "alternate_names": [
+          "Benefit Cosmetics Badgal Bang Waterproof Mascara, Size 8.5 g Net wt. 0.3 oz",
+          "Benefit Cosmetics BADgal Bang! Waterproof Volumizing Mascara",
+          "Benefit Cosmetics BADgal Bang! Waterproof Volumizing Mascara in None at Nordstrom",
+          "BenefitBADgal BANG! Waterproof Volumizing Mascara - # Intense Pitch Black 8.5g/0.3oz",
+          "277657 0.3 oz BaDgal Bang Waterproof Volumizing Mascara - No.Intense Pitch Black"
+        ],
+        "quantity": "4.39lb",
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "WHY WE LOVE IT: Our fan-fave BADgal BANG! 36-HOUR* volumizing mascara is now available in waterproof! The gravity-defying formula, featuring ultralight aero-particles, creates major volume without weighing down lashes?it?s waterproof volume without the weight! This innovative, intense pitch black mascara layers easily for bigger and BIGGER impact. Its custom brush is streamlined to reach root-to-tip, corner-to-corner, upper & lower lashes for BIG VOLUME WITH 360? REACH! *instrumental test on 20 participants TIPS & TRICKS: Get BIG, BAD volume! Gently wiggle wand from base of lashes to tips. Repeat as desired to build volume. Remove with waterproof or bi-phase eye makeup remover. BEAUTY TIP: BADgals go BIG! Pair BADgal BANG! Waterproof Volumizing Mascara with BADgal BANG! 24-Hour Waterproof Eyeliner (sold separately) to complete your wide-awake, flirty eye look! Disclaimer: PRODUCT INGREDIENT LISTINGS ARE UPDATED PERIODICALLY. BEFORE USING A BENEFIT PRODUCT, PLEASE READ THE INGREDIENT LIST ON THE PACKAGIN",
+        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_4d729729-4d07-4a2b-83ac-c2d85640ff1d?wid=1000&hei=1000",
+        "thumbnail_url": "https://target.scene7.com/is/image/Target/GUEST_4d729729-4d07-4a2b-83ac-c2d85640ff1d?wid=1000&hei=1000",
+        "image_urls": [
+          "https://target.scene7.com/is/image/Target/GUEST_4d729729-4d07-4a2b-83ac-c2d85640ff1d?wid=1000&hei=1000",
+          "https://media.kohlsimg.com/is/image/kohls/e9e501ac86f41d4f842eb6c741c0dcffd9e23ea1?wid=800&hei=800&op_sharpen=1&ver=2",
+          "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dwd0e3b33a/product_images/BADGALEM71_Refresh_2024/Main_badgalbangwaterproof.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/21566744_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://n.nordstrommedia.com/id/sr3/489255a2-f78e-401a-abb6-39a8a68c1883.jpeg?w=500",
+          "https://s.cdnsbn.com/images/products/27765700202.jpg",
+          "https://i5.walmartimages.com/asr/791f5953-80ad-48a0-a3e8-6a37c584bb9b.4bbc47564d47f92b2fa0a06da7116458.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/1/optimized/12140211_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "http://site.unbeatablesale.com/STRBN111642.JPG",
+          "https://cdn3.ykso.co/images/2022/08/17/12/62fd1263eb37ab662c5bd6ef-transformed.jpeg"
+        ],
+        "local_image_path": "images/benefit-cosmetics/00602004132208.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00602004132208",
+        "ean13": "0602004132208",
+        "upc_a": "602004132208",
+        "ean8": null,
+        "primary_code": "602004132208",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004132208",
+          "602004132208"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004132208",
+        "qr_payload_text": "https://id.gs1.org/01/00602004132208",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004132208",
+          "code": "602004132208",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "Benefit Cosmetics BADgal BANG! Waterproof Volumizing Mascara - 0.3oz - Ulta Beauty",
+          "image_url": "https://target.scene7.com/is/image/Target/GUEST_4d729729-4d07-4a2b-83ac-c2d85640ff1d?wid=1000&hei=1000"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004132208.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0602004132208",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00602004138262",
+      "product_name": "Benefit Cosmetics Hoola Matte Powder Bronzer - Lite - 0.28oz - Ulta Beauty",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_c051d876-777a-4014-a3a8-dd83bfeb19dd?wid=1000&hei=1000",
+      "local_image_path": "images/benefit-cosmetics/00602004138262.jpg",
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "Benefit Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Benefit Cosmetics Hoola Matte Powder Bronzer - Lite - 0.28oz - Ulta Beauty",
+        "source_names": {
+          "upcitemdb": "Benefit Cosmetics Hoola Matte Powder Bronzer - Lite - 0.28oz - Ulta Beauty"
+        },
+        "alternate_names": [
+          "Benefit Cosmetics Hoola Matte Bronzer Powder Bronzer For Face, Hoola Light, Size 8.0 g Net wt. 0.28 oz",
+          "Benefit Cosmetics Hoola Matte Bronzing Powder in Hoola Lite at Nordstrom, Size 0.28 Oz",
+          "Benefit Cosmetics Hoola Matte Silky-Soft Powder Bronzer",
+          "Benefit Cosmetics Hoola Matte Bronzer",
+          "BenefitHoola Light Matte Bronzer - #Hoola Lite 8g/0.28oz"
+        ],
+        "quantity": "3.48lb",
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "What it is: An award-winning, silky-soft powder bronzer with a natural-looking matte finish What else you need to know: This isn?t your average bronzer. No, this is the legendary Hoola. The award-winning bronzer that makes you look sun-kissed even in sweater weather. Its ultra-fine, silky-soft powder builds & blends to create a natural-looking matte bronze that lasts all day. Get it on: Swirl brush in bronzer. Apply all over to warm your complexion or place on cheeks, forehead, nose, jawline. Build and blend.",
+        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_c051d876-777a-4014-a3a8-dd83bfeb19dd?wid=1000&hei=1000",
+        "thumbnail_url": "https://target.scene7.com/is/image/Target/GUEST_c051d876-777a-4014-a3a8-dd83bfeb19dd?wid=1000&hei=1000",
+        "image_urls": [
+          "https://target.scene7.com/is/image/Target/GUEST_c051d876-777a-4014-a3a8-dd83bfeb19dd?wid=1000&hei=1000",
+          "https://media.kohlsimg.com/is/image/kohls/916e811640fd7f2ecd45786dbfde1e4a38163935?wid=800&hei=800&op_sharpen=1",
+          "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dw86214167/product_images/HOOLAIB74_2025/Main_e7c4a2_full_hoola_shadelite.jpg",
+          "https://n.nordstrommedia.com/id/sr3/90b053e7-c732-4998-9200-d75f7baacb65.jpeg?w=500",
+          "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/21759799_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://s.cdnsbn.com/images/products/27765000202.jpg",
+          "https://i5.walmartimages.com/asr/95f7fc6c-4843-4287-8d81-95bb1c94ea72.f48f78e37e95edb1cbd9b2dd5b0c244d.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/12174758_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "http://site.unbeatablesale.com/STRBN114368.JPG",
+          "https://cdn3.ykso.co/images/2023/10/21/18/65344bb59a8f1bb8be0672e4-transformed.jpeg"
+        ],
+        "local_image_path": "images/benefit-cosmetics/00602004138262.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00602004138262",
+        "ean13": "0602004138262",
+        "upc_a": "602004138262",
+        "ean8": null,
+        "primary_code": "602004138262",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004138262",
+          "602004138262"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004138262",
+        "qr_payload_text": "https://id.gs1.org/01/00602004138262",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004138262",
+          "code": "602004138262",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "Benefit Cosmetics Hoola Matte Powder Bronzer - Lite - 0.28oz - Ulta Beauty",
+          "image_url": "https://target.scene7.com/is/image/Target/GUEST_c051d876-777a-4014-a3a8-dd83bfeb19dd?wid=1000&hei=1000"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004138262.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0602004138262",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00602004138729",
+      "product_name": "Benefit Cosmetics Hoola Matte Powder Bronzer - Original - 0.28oz - Ulta Beauty",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_9459a245-06ef-4c35-9aa6-cf0e920c0238?wid=1000&hei=1000",
+      "local_image_path": "images/benefit-cosmetics/00602004138729.jpg",
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "Benefit Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Benefit Cosmetics Hoola Matte Powder Bronzer - Original - 0.28oz - Ulta Beauty",
+        "source_names": {
+          "upcitemdb": "Benefit Cosmetics Hoola Matte Powder Bronzer - Original - 0.28oz - Ulta Beauty"
+        },
+        "alternate_names": [
+          "Benefit Cosmetics Hoola Matte Bronzer Powder Bronzer For Face, Size 8.0 g Net wt. 0.28 oz",
+          "Benefit Cosmetics Hoola Matte Bronzing Powder at Nordstrom, Size 0.28 Oz",
+          "Benefit Cosmetics Hoola Matte Silky-Soft Powder Bronzer",
+          "Benefit Cosmetics Hoola Matte Bronzer",
+          "베네피트훌라 매트 브론저 8g/0.28oz"
+        ],
+        "quantity": "3.75lb",
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "What it is: An award-winning, silky-soft powder bronzer with a natural-looking matte finish What else you need to know: This isn?t your average bronzer. No, this is the legendary Hoola. The award-winning bronzer that makes you look sun-kissed even in sweater weather. Its ultra-fine, silky-soft powder builds & blends to create a natural-looking matte bronze that lasts all day. Get it on: Swirl brush in bronzer. Apply all over to warm your complexion or place on cheeks, forehead, nose, jawline. Build and blend.",
+        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_9459a245-06ef-4c35-9aa6-cf0e920c0238?wid=1000&hei=1000",
+        "thumbnail_url": "https://target.scene7.com/is/image/Target/GUEST_9459a245-06ef-4c35-9aa6-cf0e920c0238?wid=1000&hei=1000",
+        "image_urls": [
+          "https://target.scene7.com/is/image/Target/GUEST_9459a245-06ef-4c35-9aa6-cf0e920c0238?wid=1000&hei=1000",
+          "https://s.cdnsbn.com/images/products/27764900202.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/7d00cf56389c85b3dec05b503f3d1fcd0a72e3a3?wid=800&hei=800&op_sharpen=1",
+          "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dwc02235ea/product_images/HOOLAIB74_2025/Main_d09466_full_hoola_shadeoriginal.jpg",
+          "https://n.nordstrommedia.com/id/sr3/10095bf2-6151-4002-8c88-dfd63b42477b.jpeg?w=500",
+          "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/21759693_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/acb1d2d3-09fc-4828-83a9-1402d9f70e04.920306f2a4df0a0c6b81f2213492997b.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://site.unbeatablesale.com/STRBN111638.JPG",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/12174757_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://cdn3.ykso.co/images/2022/08/17/12/62fd12617f99103ed940ec22-transformed.jpeg"
+        ],
+        "local_image_path": "images/benefit-cosmetics/00602004138729.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00602004138729",
+        "ean13": "0602004138729",
+        "upc_a": "602004138729",
+        "ean8": null,
+        "primary_code": "602004138729",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004138729",
+          "602004138729"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004138729",
+        "qr_payload_text": "https://id.gs1.org/01/00602004138729",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004138729",
+          "code": "602004138729",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "Benefit Cosmetics Hoola Matte Powder Bronzer - Original - 0.28oz - Ulta Beauty",
+          "image_url": "https://target.scene7.com/is/image/Target/GUEST_9459a245-06ef-4c35-9aa6-cf0e920c0238?wid=1000&hei=1000"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004138729.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0602004138729",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00602004138750",
+      "product_name": "Benefit Dandelion Twinkle Soft Nude Pink Highlighter 3g/0.1oz",
+      "image_url": "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dw6e86ba7e/product_images/DANDEFM51_2024/Main_full_dandeliontwinkle.jpg",
+      "local_image_path": "images/benefit-cosmetics/00602004138750.jpg",
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "Benefit Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Benefit Dandelion Twinkle Soft Nude Pink Highlighter 3g/0.1oz",
+        "source_names": {
+          "upcitemdb": "Benefit Dandelion Twinkle Soft Nude Pink Highlighter 3g/0.1oz"
+        },
+        "alternate_names": [
+          "Benefit Cosmetics Dandelion Twinkle Powder Highlighter, Nude Pink, Size 3.0 g Net wt. 0.1 oz",
+          "Benefit Cosmetics Dandelion Twinkle Powder Highlighter at Nordstrom, Size 1.22 Oz",
+          "Benefit Cosmetics Dandelion Twinkle Box O' Powder Highlighter",
+          "Benefit Cosmetics Dandelion Twinkle Soft Nude-Pink Powder Highlighter - Twinkle - 0.1oz - Ulta Beauty",
+          "Benefit Cosmetics Dandelion Twinkle Soft Nude-Pink Highlighter"
+        ],
+        "quantity": "1 lb",
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "Benefit Dandelion Twinkle Soft Nude Pink Highlighter 3g/0.1oz A superfine powder highlighter & luminizer Builds effortlessly blends seamlessly & feels weightless Gives skin a light-reflecting luminous glow a soft-focus blurring effect & a shimmer finish Can be worn alone for a gorgeous glow or on top of blush for added shimmer",
+        "primary_image_url": "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dw6e86ba7e/product_images/DANDEFM51_2024/Main_full_dandeliontwinkle.jpg",
+        "thumbnail_url": "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dw6e86ba7e/product_images/DANDEFM51_2024/Main_full_dandeliontwinkle.jpg",
+        "image_urls": [
+          "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dw6e86ba7e/product_images/DANDEFM51_2024/Main_full_dandeliontwinkle.jpg",
+          "https://n.nordstrommedia.com/id/sr3/f6be90a5-9b4c-449d-a727-53932a98c443.jpeg?w=500",
+          "https://slimages.macysassets.com/is/image/MCY/products/8/optimized/21760028_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://target.scene7.com/is/image/Target/GUEST_fbc28954-c5f2-44e1-91a9-e143e655cfec?wid=1000&hei=1000",
+          "https://s.cdnsbn.com/images/products/27764800202.jpg",
+          "https://i5.walmartimages.com/asr/00dac3c5-d714-4588-bc90-a13c7477861c.d3cc48f2303e498b3ec654b7894bcbb6.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://media.kohlsimg.com/is/image/kohls/3b4b546e86b9f32fca94b0d73d8507e5f633f5f9?wid=800&hei=800&op_sharpen=1&ver=2",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/5/optimized/12174785_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://cdn3.ykso.co/images/2022/08/17/12/62fd1262685c6a69005ad8d1-transformed.jpeg",
+          "https://i5.walmartimages.ca/asr/2899e2a4-0b78-4651-a116-645ae8d4e4cd.cb840468babf703ad522243780f0dfba.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+        ],
+        "local_image_path": "images/benefit-cosmetics/00602004138750.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00602004138750",
+        "ean13": "0602004138750",
+        "upc_a": "602004138750",
+        "ean8": null,
+        "primary_code": "602004138750",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004138750",
+          "602004138750"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004138750",
+        "qr_payload_text": "https://id.gs1.org/01/00602004138750",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004138750",
+          "code": "602004138750",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "Benefit Dandelion Twinkle Soft Nude Pink Highlighter 3g/0.1oz",
+          "image_url": "https://www.benefitcosmetics.com/on/demandware.static/-/Sites-bencos-master-catalog/default/dw6e86ba7e/product_images/DANDEFM51_2024/Main_full_dandeliontwinkle.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004138750.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0602004138750",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00602004143846",
+      "product_name": "Fluff Up Brow Wax Mini",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "benefit-cosmetics",
+        "display_name": "Benefit Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Benefit%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:Benefit"
+        ]
+      },
+      "product": {
+        "name": "Fluff Up Brow Wax Mini",
+        "source_names": {
+          "openbeautyfacts": "Fluff Up Brow Wax Mini"
+        },
+        "alternate_names": [],
+        "quantity": "3 ml",
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Wenkbrauw Make Up",
+          "Wenkbrauwgel"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00602004143846",
+        "ean13": "0602004143846",
+        "upc_a": "602004143846",
+        "ean8": null,
+        "primary_code": "602004143846",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0602004143846"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00602004143846",
+        "qr_payload_text": "https://id.gs1.org/01/00602004143846",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00602004143846",
+          "code": "602004143846",
+          "type": "UPC-A",
+          "brand": "Benefit Cosmetics",
+          "name": "Fluff Up Brow Wax Mini",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/benefit-cosmetics/00602004143846.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0602004143846",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

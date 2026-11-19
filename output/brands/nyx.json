@@ -1,0 +1,4342 @@
+{
+  "brand_slug": "nyx",
+  "display_name": "NYX",
+  "letter_section": "N",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+  "product_count": 53,
+  "canonical_product_count": 53,
+  "cross_source_verified_count": 2,
+  "products": [
+    {
+      "gtin14": "00800897003777",
+      "product_name": "NYX Professional Makeup Brow Glue Eyebrow Gel - Clear - 0.17oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3777/front_nl.8.400.jpg",
+      "local_image_path": "images/nyx/00800897003777.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup",
+          "NYX Professional Makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Brow Glue Eyebrow Gel - Clear - 0.17oz",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 01 Transparant The Brow Glue",
+          "upcitemdb": "NYX Professional Makeup Brow Glue Eyebrow Gel - Clear - 0.17oz"
+        },
+        "alternate_names": [
+          "NYX Professional Makeup 01 Transparant The Brow Glue",
+          "NYX Professional Makeup The Brow Glue - 0.17 oz",
+          "Nyx Professional Makeup The Brow Glue Laminating Gel",
+          "Nyx Professional Makeup Brow Glue Extreme Hold Eyebrow Gel Clear 0.17 oz",
+          "Nyx Professional Makeup, The Brow Glue, Instant Brow Styler, 16h Extreme Hold, Vegan Formula - Dark Brown, 0.18oz / 5g 0.18lb / 5g",
+          "NYX Professional Makeup The Brow Glue - 0.17 oz | CVS"
+        ],
+        "quantity": "5g",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Wenkbrauw Make Up",
+          "Wenkbrauwgel",
+          "Health & Beauty"
+        ],
+        "description": "Stick it to your brows with NYX Professional Makeup Brow Glue! This clear brow gel has 16HR extreme hold. The glue-like gel is non-sticky, transparent and it dries down to a natural-looking finish. It's quick & easy to apply: just brush on and style in place to create limitless brow-raising looks that actually stay. Style your brows and set them in place using The Brow Glue and spoolie applicator. Pro-Tip: to get a Laminated look, brush brows in an upward lifted motion. Then, fill in sparse areas with a brow product. Featuring a vegan formula with no animal-derived ingredients or by-products, all NYX Professional Makeup products are proudly cruelty-free and PETA certified.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3777/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3777/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/700/3777/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/700/3777/front_nl.8.200.jpg",
+          "https://pics.walgreens.com/prodimg/630608/450.jpg",
+          "https://target.scene7.com/is/image/Target/GUEST_a79b28d6-7a2c-4a45-a40c-04ebb069947c?wid=1000&hei=1000",
+          "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/18323508_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/d5bd08ed-9caa-4877-8c17-a6b3a0da5439.3f337bf3d285aab187bf3fb266ca7b3f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://i5.walmartimages.ca/asr/fdac195e-a640-417b-a4d9-b3cc6feee3a8.4eb2ac3fa33f3341e88b496cca1e5ea0.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://www.cvs.com/bizcontent/merchandising/productimages/large/800897003777.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897003777.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897003777",
+        "ean13": "0800897003777",
+        "upc_a": "800897003777",
+        "ean8": null,
+        "primary_code": "800897003777",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897003777",
+          "800897003777"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897003777",
+        "qr_payload_text": "https://id.gs1.org/01/00800897003777",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897003777",
+          "code": "800897003777",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Brow Glue Eyebrow Gel - Clear - 0.17oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3777/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897003777.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 77.65
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897003777",
+        "upcitemdb_ean": "0800897003777",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897003968",
+      "product_name": "Nyx lipstick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3968/front_en.5.400.jpg",
+      "local_image_path": "images/nyx/00800897003968.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Nyx lipstick",
+        "source_names": {
+          "openbeautyfacts": "Nyx lipstick"
+        },
+        "alternate_names": [
+          "NYX Professional Makeup Lingerie XXL 05 Stripd Down Lippenstift"
+        ],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Lipsticks",
+          "Beauty",
+          "Lipmake Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3968/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3968/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/700/3968/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/700/3968/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897003968.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897003968",
+        "ean13": "0800897003968",
+        "upc_a": "800897003968",
+        "ean8": null,
+        "primary_code": "800897003968",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897003968"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897003968",
+        "qr_payload_text": "https://id.gs1.org/01/00800897003968",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897003968",
+          "code": "800897003968",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Nyx lipstick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/3968/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897003968.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897003968",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897004200",
+      "product_name": "Can’t Stop Won’t Stop Mattifying Powder, 01 - Fair",
+      "image_url": "https://images.openproductsfacts.org/images/products/080/089/700/4200/front_en.8.400.jpg",
+      "local_image_path": "images/nyx/00800897004200.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Can’t Stop Won’t Stop Mattifying Powder, 01 - Fair",
+        "source_names": {
+          "openproductsfacts": "Can’t Stop Won’t Stop Mattifying Powder, 01 - Fair"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openproductsfacts.org/images/products/080/089/700/4200/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openproductsfacts.org/images/products/080/089/700/4200/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openproductsfacts.org/images/products/080/089/700/4200/front_en.8.400.jpg",
+          "https://images.openproductsfacts.org/images/products/080/089/700/4200/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897004200.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897004200",
+        "ean13": "0800897004200",
+        "upc_a": "800897004200",
+        "ean8": null,
+        "primary_code": "800897004200",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897004200"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897004200",
+        "qr_payload_text": "https://id.gs1.org/01/00800897004200",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897004200",
+          "code": "800897004200",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Can’t Stop Won’t Stop Mattifying Powder, 01 - Fair",
+          "image_url": "https://images.openproductsfacts.org/images/products/080/089/700/4200/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897004200.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.9,
+        "sources": [
+          "openproductsfacts"
+        ],
+        "match_methods": {
+          "openproductsfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z",
+        "openproductsfacts_url": "http://world-en.openproductsfacts.org/product/0800897004200/can-t-stop-won-t-stop-mattifying-powder-01-fair-nyx"
+      }
+    },
+    {
+      "gtin14": "00800897005269",
+      "product_name": "NYX Professional Makeup Pore Filler Blurring Primer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/5269/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897005269.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:NYX"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Pore Filler Blurring Primer",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Pore Filler Blurring Primer"
+        },
+        "alternate_names": [],
+        "quantity": "20ml",
+        "categories": [
+          "Beauty",
+          "Make Up",
+          "Primer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/5269/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/700/5269/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/700/5269/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/700/5269/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897005269.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897005269",
+        "ean13": "0800897005269",
+        "upc_a": "800897005269",
+        "ean8": null,
+        "primary_code": "800897005269",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897005269"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897005269",
+        "qr_payload_text": "https://id.gs1.org/01/00800897005269",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897005269",
+          "code": "800897005269",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Pore Filler Blurring Primer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/700/5269/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897005269.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897005269",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897093242",
+      "product_name": "Lid Lingerie shadow palette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/709/3242/front_fr.6.400.jpg",
+      "local_image_path": "images/nyx/00800897093242.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Lid Lingerie shadow palette",
+        "source_names": {
+          "openbeautyfacts": "Lid Lingerie shadow palette"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/709/3242/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/709/3242/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/709/3242/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/709/3242/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897093242.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897093242",
+        "ean13": "0800897093242",
+        "upc_a": "800897093242",
+        "ean8": null,
+        "primary_code": "800897093242",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897093242"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897093242",
+        "qr_payload_text": "https://id.gs1.org/01/00800897093242",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897093242",
+          "code": "800897093242",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Lid Lingerie shadow palette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/709/3242/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897093242.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897093242",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897096250",
+      "product_name": "Nyx Lid Lingerie Matte - Revel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/709/6250/front_fr.4.400.jpg",
+      "local_image_path": "images/nyx/00800897096250.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Nyx Lid Lingerie Matte - Revel",
+        "source_names": {
+          "openbeautyfacts": "Nyx Lid Lingerie Matte - Revel"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/709/6250/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/709/6250/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/709/6250/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/709/6250/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897096250.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897096250",
+        "ean13": "0800897096250",
+        "upc_a": "800897096250",
+        "ean8": null,
+        "primary_code": "800897096250",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897096250"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897096250",
+        "qr_payload_text": "https://id.gs1.org/01/00800897096250",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897096250",
+          "code": "800897096250",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Nyx Lid Lingerie Matte - Revel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/709/6250/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897096250.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897096250",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897108120",
+      "product_name": "NYX Cosmetics NYX Lipliner Pencil 0.04 oz",
+      "image_url": "https://pics.walgreens.com/prodimg/595452/450.jpg",
+      "local_image_path": "images/nyx/00800897108120.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "NYX Professional Makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Cosmetics NYX Lipliner Pencil 0.04 oz",
+        "source_names": {
+          "upcitemdb": "NYX Cosmetics NYX Lipliner Pencil 0.04 oz"
+        },
+        "alternate_names": [
+          "NYX Slim Lip Pencil - Plum",
+          "NYX Slim Lip Liner Pencil - Plum - SLP 812",
+          "NYX Professional Makeup Long-Lasting Slim Lip Pencil - Plum - 0.03oz",
+          "Nyx Professional Makeup Slim Lip Pencil Creamy Long-Lasting Lip Liner",
+          "SLIMLP PEEKABOO NEUTRAL960 MISCELLANEOUSNO - Plum - NYX Professional Makeup"
+        ],
+        "quantity": "Full Size",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup"
+        ],
+        "description": "Product description What it is: Slim trim but never prim our lip pencils come in a variety of dashing shades from auburn to orange and traffic-stopping red. What it does: The buttery long-wearing lip liner formula goes on easily and resists bleeding. What else you need to know: Creamy formula glides on smoothly and blends easily Provides long-lasting wear that does not feather or bleed Contains Coconut Oils to hydrate and condition Works perfectly with any NYX lipstick or gloss Sorbitan Isostearate Isocetyl Stearate Polyethylene Phenyl Trimethicone Candelilla Cera Butyrospermum Parkii Butter Unsaponifiables *Cera Alba *Simmondsia Chinensis Oil *Caprylic/Capric Triglyceride *Nylon-12 *Octyldodecanol Polyglyceryl-2-Diisostearate *Silica Cera Carnauba Hydrogenated Coconut Oil Tocopherol PVP/Hexadecene Copolymer Stearakonium Hectorite Stearyl Glycyrrhetinate Propylparaben Propylene CarbonateLine upper and lower lash line as desired. Use with any NYX eye shadow mascara or lashes.",
+        "primary_image_url": "https://pics.walgreens.com/prodimg/595452/450.jpg",
+        "thumbnail_url": "https://pics.walgreens.com/prodimg/595452/450.jpg",
+        "image_urls": [
+          "https://pics.walgreens.com/prodimg/595452/450.jpg",
+          "https://target.scene7.com/is/image/Target/GUEST_0210dc89-af48-4676-b93a-55d956f8f397?wid=1000&hei=1000",
+          "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/18814356_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://media.kohlsimg.com/is/image/kohls/3857450_Plum?wid=800&hei=800&op_sharpen=1",
+          "https://i5.walmartimages.com/asr/b8946000-9858-453c-9e3f-4db61d0164c3.b93b909832a32118b728ce0a77d73af1.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://img1.r10.io/PIC/70643806/0/1/250/70643806.jpg",
+          "http://images.11main.com/s3/11main-images/product/3054385/image/41b91679da373b32497d7226b5e4afa1.gif?width=200&height=200",
+          "https://cdn8.bigcommerce.com/s-hmhnh4h9/product_images/attribute_rule_images/214105_source_1472571662.jpg",
+          "https://s7d2.scene7.com/is/image/SpecialtyRetailers/FC-331431-CF-222635-B?$zm$",
+          "https://i10.onbuy.com/product/9d1fe2d4be074d32bd959960b524a372-l9841723.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897108120.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897108120",
+        "ean13": "0800897108120",
+        "upc_a": "800897108120",
+        "ean8": null,
+        "primary_code": "800897108120",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897108120",
+          "800897108120"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897108120",
+        "qr_payload_text": "https://id.gs1.org/01/00800897108120",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897108120",
+          "code": "800897108120",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Cosmetics NYX Lipliner Pencil 0.04 oz",
+          "image_url": "https://pics.walgreens.com/prodimg/595452/450.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897108120.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0800897108120",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897109134",
+      "product_name": "NYX Professional Makeup Slim Eye SPE913 Sapphire Pencil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/710/9134/front_nl.17.400.jpg",
+      "local_image_path": "images/nyx/00800897109134.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Slim Eye SPE913 Sapphire Pencil",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Slim Eye SPE913 Sapphire Pencil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Eye Pencils",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/710/9134/front_nl.17.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/710/9134/front_nl.17.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/710/9134/front_nl.17.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/710/9134/front_nl.17.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897109134.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897109134",
+        "ean13": "0800897109134",
+        "upc_a": "800897109134",
+        "ean8": null,
+        "primary_code": "800897109134",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897109134"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897109134",
+        "qr_payload_text": "https://id.gs1.org/01/00800897109134",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897109134",
+          "code": "800897109134",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Slim Eye SPE913 Sapphire Pencil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/710/9134/front_nl.17.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897109134.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897109134",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897117726",
+      "product_name": "NYX Professional Makeup Auto Eyebrow Pencil - Medium Brown - 0.09oz",
+      "image_url": "http://c.shld.net/rpx/i/s/pi/mp/7637/2156842803?src=http%3A%2F%2Fwww.parfumery.com%2Fpictures%2Flarge%2F800897117726.jpg&d=38a19de89862ae58d9e3cdf18e1b6cafd0fbb751",
+      "local_image_path": "images/nyx/00800897117726.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "NYX Professional Makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Auto Eyebrow Pencil - Medium Brown - 0.09oz",
+        "source_names": {
+          "upcitemdb": "NYX Professional Makeup Auto Eyebrow Pencil - Medium Brown - 0.09oz"
+        },
+        "alternate_names": [
+          "NYX Auto Eyebrow Pencil With Brush color EP03 Medium Brown 0.009 oz Brand New",
+          "NYX Auto Eyebrow Pencil - Medium Brown",
+          "NYX Cosmetics Automatic Eyebrow Pencil",
+          "NYX Cosmetics Automatic Eyebrow Pencil Medium Brown",
+          "NYX Auto Eyebrow Pencil With Brush - EP03 - Medium Brown"
+        ],
+        "quantity": "Full Size",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Eye Makeup"
+        ],
+        "description": "Line and define eyebrows with the NYX Professional Makeup Auto Eyebrow Pencil. In natural brow shades from blonde to black and everything in between. This dual ended creamy retractable eyebrow pencil features a brush on the opposite end for blending and combing eyebrows. Whether you?re filling in sparse brows or building out big bushy brows the Auto Eyebrow Pencil has your eyebrows covered. All NYX Professional Makeup products are proudly PETA certified cruelty-free.",
+        "primary_image_url": "http://c.shld.net/rpx/i/s/pi/mp/7637/2156842803?src=http%3A%2F%2Fwww.parfumery.com%2Fpictures%2Flarge%2F800897117726.jpg&d=38a19de89862ae58d9e3cdf18e1b6cafd0fbb751",
+        "thumbnail_url": "http://c.shld.net/rpx/i/s/pi/mp/7637/2156842803?src=http%3A%2F%2Fwww.parfumery.com%2Fpictures%2Flarge%2F800897117726.jpg&d=38a19de89862ae58d9e3cdf18e1b6cafd0fbb751",
+        "image_urls": [
+          "http://c.shld.net/rpx/i/s/pi/mp/7637/2156842803?src=http%3A%2F%2Fwww.parfumery.com%2Fpictures%2Flarge%2F800897117726.jpg&d=38a19de89862ae58d9e3cdf18e1b6cafd0fbb751",
+          "https://target.scene7.com/is/image/Target/GUEST_53f182f6-667c-4452-ac27-33eddf4999a3?wid=1000&hei=1000",
+          "http://pics2.ds-static.com/prodimg/573603/300.Jpg",
+          "https://i5.walmartimages.com/asr/2d559be0-5a86-410e-84db-943e8eee70ac_1.45ad067a0aa9c72c97792f60bd2bd1d2.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://ct.mywebgrocer.com/legacy/productimagesroot/DJ/5/1339605.jpg",
+          "https://pics.drugstore.com/prodimg/573603/450.jpg",
+          "http://images10.newegg.com/ProductImageCompressAll200/A536_1_20140521523650520.jpg",
+          "http://www.parfumery.com/pictures/large-extra/800897117726-1.jpg",
+          "https://tshop.r10s.com/a06/ef2/8388/18c6/e05f/5e68/4151/11f6e787262c600c7376cd.jpg?_ex=512x512",
+          "http://images.11main.com/s3/11main-images/product/3054383/image/8601705489f90af70e41d39921a414b3.jpeg?width=200&height=200"
+        ],
+        "local_image_path": "images/nyx/00800897117726.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897117726",
+        "ean13": "0800897117726",
+        "upc_a": "800897117726",
+        "ean8": null,
+        "primary_code": "800897117726",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897117726",
+          "800897117726"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897117726",
+        "qr_payload_text": "https://id.gs1.org/01/00800897117726",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897117726",
+          "code": "800897117726",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Auto Eyebrow Pencil - Medium Brown - 0.09oz",
+          "image_url": "http://c.shld.net/rpx/i/s/pi/mp/7637/2156842803?src=http%3A%2F%2Fwww.parfumery.com%2Fpictures%2Flarge%2F800897117726.jpg&d=38a19de89862ae58d9e3cdf18e1b6cafd0fbb751"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897117726.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0800897117726",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897117733",
+      "product_name": "4 Pack - NYX Auto Eyebrow Pencil, Brown 1 ea",
+      "image_url": "https://i5.walmartimages.com/asr/31bc7b27-761d-41bf-9b83-c9c2d8ee6d97_1.3f6bbf2eec78b7572502b433d7282561.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/nyx/00800897117733.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "NYX Professional Makeup"
+        ]
+      },
+      "product": {
+        "name": "4 Pack - NYX Auto Eyebrow Pencil, Brown 1 ea",
+        "source_names": {
+          "upcitemdb": "4 Pack - NYX Auto Eyebrow Pencil, Brown 1 ea"
+        },
+        "alternate_names": [
+          "NYX Cosmetics Automatic Eyebrow Pencil",
+          "NYX Cosmetics Automatic Eyebrow Pencil Brown",
+          "NYX Auto Eyebrow Pencil - Brown",
+          "NYX Auto Eyebrow Pencil With Brush - EP04 - Brown",
+          "NYX - Eyebrow Pencil - Brown 1.00 ct"
+        ],
+        "quantity": "Full Size",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Eye Makeup"
+        ],
+        "description": "4 Pack - NYX Auto Eyebrow Pencil, Brown 1 ea",
+        "primary_image_url": "https://i5.walmartimages.com/asr/31bc7b27-761d-41bf-9b83-c9c2d8ee6d97_1.3f6bbf2eec78b7572502b433d7282561.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/31bc7b27-761d-41bf-9b83-c9c2d8ee6d97_1.3f6bbf2eec78b7572502b433d7282561.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/31bc7b27-761d-41bf-9b83-c9c2d8ee6d97_1.3f6bbf2eec78b7572502b433d7282561.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://ct.mywebgrocer.com/legacy/productimagesroot/DJ/6/1339606.jpg",
+          "https://pics.drugstore.com/prodimg/595335/450.jpg",
+          "https://target.scene7.com/is/image/Target/GUEST_3816a2d8-1ebe-453a-b268-e822a9d5467f?wid=1000&hei=1000",
+          "http://www.parfumery.com/pictures/large-extra/800897117733-1.jpg",
+          "http://img1.r10.io/PIC/47469009/0/1/250/47469009.jpg",
+          "http://images10.newegg.com/ProductImageCompressAll200/A536_1_2014102260779935.jpg",
+          "http://images.11main.com/s3/11main-images/product/3054384/image/8fa33a6216e229b6be5c6fd55c6dd5d0.jpeg?width=200&height=200",
+          "https://cdn8.bigcommerce.com/s-hmhnh4h9/product_images/attribute_rule_images/239809_source_1476303673.jpg",
+          "https://s7d2.scene7.com/is/image/SpecialtyRetailers/FC-147823-CF-542746-B?$zm$"
+        ],
+        "local_image_path": "images/nyx/00800897117733.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897117733",
+        "ean13": "0800897117733",
+        "upc_a": "800897117733",
+        "ean8": null,
+        "primary_code": "800897117733",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897117733",
+          "800897117733"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897117733",
+        "qr_payload_text": "https://id.gs1.org/01/00800897117733",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897117733",
+          "code": "800897117733",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "4 Pack - NYX Auto Eyebrow Pencil, Brown 1 ea",
+          "image_url": "https://i5.walmartimages.com/asr/31bc7b27-761d-41bf-9b83-c9c2d8ee6d97_1.3f6bbf2eec78b7572502b433d7282561.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897117733.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0800897117733",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897117757",
+      "product_name": "NYX Auto Eyebrow Pencil Taupe EP06 - 0.009 oz",
+      "image_url": "https://target.scene7.com/is/image/Target/GUEST_0c00e7b1-7672-4c6a-b3c8-ae88f38432bc?wid=1000&hei=1000",
+      "local_image_path": "images/nyx/00800897117757.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "NYX Professional Makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Auto Eyebrow Pencil Taupe EP06 - 0.009 oz",
+        "source_names": {
+          "upcitemdb": "NYX Auto Eyebrow Pencil Taupe EP06 - 0.009 oz"
+        },
+        "alternate_names": [
+          "NYX Auto Eyebrow Pencil - Taupe",
+          "NYX Cosmetics Automatic Eyebrow Pencil",
+          "NYX Cosmetics Automatic Eyebrow Pencil Taupe",
+          "NYX Professional Makeup Auto Eyebrow Pencil - Taupe - 0.09oz",
+          "NYX Auto Eyebrow Pencil With Brush - EP06 - Taupe"
+        ],
+        "quantity": "Full Size",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Eye Makeup"
+        ],
+        "description": "NYX Free Shipping Sold Individually",
+        "primary_image_url": "https://target.scene7.com/is/image/Target/GUEST_0c00e7b1-7672-4c6a-b3c8-ae88f38432bc?wid=1000&hei=1000",
+        "thumbnail_url": "https://target.scene7.com/is/image/Target/GUEST_0c00e7b1-7672-4c6a-b3c8-ae88f38432bc?wid=1000&hei=1000",
+        "image_urls": [
+          "https://target.scene7.com/is/image/Target/GUEST_0c00e7b1-7672-4c6a-b3c8-ae88f38432bc?wid=1000&hei=1000",
+          "http://pics1.ds-static.com/prodimg/573604/300.Jpg",
+          "https://i5.walmartimages.com/asr/6ce44239-78e2-46a6-ba8b-f88339f04f3c.32760d8659184ec5df30fc065fc9e945.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://ct.mywebgrocer.com/legacy/productimagesroot/DJ/8/1339608.jpg",
+          "https://pics.drugstore.com/prodimg/573604/450.jpg",
+          "http://images10.newegg.com/ProductImageCompressAll200/A536_1_20140521523650522.jpg",
+          "http://www.parfumery.com/pictures/large-extra/800897117757-1.jpg",
+          "http://img1.r10.io/PIC/51226257/0/1/250/51226257.jpg",
+          "http://images.11main.com/s3/11main-images/product/3054461/image/7ff69aca41dbb88466d32a77d1de41f0.jpeg?width=200&height=200",
+          "https://cdn8.bigcommerce.com/s-hmhnh4h9/product_images/attribute_rule_images/229070_source_1472572631.jpeg"
+        ],
+        "local_image_path": "images/nyx/00800897117757.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897117757",
+        "ean13": "0800897117757",
+        "upc_a": "800897117757",
+        "ean8": null,
+        "primary_code": "800897117757",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897117757",
+          "800897117757"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897117757",
+        "qr_payload_text": "https://id.gs1.org/01/00800897117757",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897117757",
+          "code": "800897117757",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Auto Eyebrow Pencil Taupe EP06 - 0.009 oz",
+          "image_url": "https://target.scene7.com/is/image/Target/GUEST_0c00e7b1-7672-4c6a-b3c8-ae88f38432bc?wid=1000&hei=1000"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897117757.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0800897117757",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897123277",
+      "product_name": "HD Photogenic Undereye Concealer Wand",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/3277/front_en.5.400.jpg",
+      "local_image_path": "images/nyx/00800897123277.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "HD Photogenic Undereye Concealer Wand",
+        "source_names": {
+          "openbeautyfacts": "HD Photogenic Undereye Concealer Wand"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/3277/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/712/3277/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/712/3277/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/712/3277/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897123277.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897123277",
+        "ean13": "0800897123277",
+        "upc_a": "800897123277",
+        "ean8": null,
+        "primary_code": "800897123277",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897123277"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897123277",
+        "qr_payload_text": "https://id.gs1.org/01/00800897123277",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897123277",
+          "code": "800897123277",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "HD Photogenic Undereye Concealer Wand",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/3277/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897123277.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897123277",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897129781",
+      "product_name": "NYX Professional Makeup 03 Bare With Me Vanilla Concealer Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9781/front_nl.11.400.jpg",
+      "local_image_path": "images/nyx/00800897129781.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 03 Bare With Me Vanilla Concealer Serum",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 03 Bare With Me Vanilla Concealer Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Concealer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9781/front_nl.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9781/front_nl.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/712/9781/front_nl.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/712/9781/front_nl.11.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897129781.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897129781",
+        "ean13": "0800897129781",
+        "upc_a": "800897129781",
+        "ean8": null,
+        "primary_code": "800897129781",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897129781"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897129781",
+        "qr_payload_text": "https://id.gs1.org/01/00800897129781",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897129781",
+          "code": "800897129781",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 03 Bare With Me Vanilla Concealer Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9781/front_nl.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897129781.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897129781",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897129859",
+      "product_name": "NYX Professional Makeup 10 Bare With Me Camel Concealer Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9859/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897129859.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 10 Bare With Me Camel Concealer Serum",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 10 Bare With Me Camel Concealer Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9859/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9859/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/712/9859/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/712/9859/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897129859.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897129859",
+        "ean13": "0800897129859",
+        "upc_a": "800897129859",
+        "ean8": null,
+        "primary_code": "800897129859",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897129859"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897129859",
+        "qr_payload_text": "https://id.gs1.org/01/00800897129859",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897129859",
+          "code": "800897129859",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 10 Bare With Me Camel Concealer Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9859/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897129859.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897129859",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897129880",
+      "product_name": "NYX Professional Makeup Thick It. Stick It! Taupe Brow Mascara",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9880/front_nl.7.400.jpg",
+      "local_image_path": "images/nyx/00800897129880.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Thick It. Stick It! Taupe Brow Mascara",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Thick It. Stick It! Taupe Brow Mascara"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Wenkbrauw Make Up",
+          "Wenkbrauwmascara"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9880/front_nl.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9880/front_nl.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/712/9880/front_nl.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/712/9880/front_nl.7.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897129880.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897129880",
+        "ean13": "0800897129880",
+        "upc_a": "800897129880",
+        "ean8": null,
+        "primary_code": "800897129880",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897129880"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897129880",
+        "qr_payload_text": "https://id.gs1.org/01/00800897129880",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897129880",
+          "code": "800897129880",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Thick It. Stick It! Taupe Brow Mascara",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/712/9880/front_nl.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897129880.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897129880",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897142858",
+      "product_name": "NYX Professional Makeup SMLC04 London Soft Matte Lip Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2858/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897142858.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup SMLC04 London Soft Matte Lip Cream",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup SMLC04 London Soft Matte Lip Cream"
+        },
+        "alternate_names": [],
+        "quantity": "8ml",
+        "categories": [
+          "Beauty",
+          "Lipmake Up",
+          "Lipstick",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2858/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2858/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/714/2858/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/714/2858/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897142858.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897142858",
+        "ean13": "0800897142858",
+        "upc_a": "800897142858",
+        "ean8": null,
+        "primary_code": "800897142858",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897142858"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897142858",
+        "qr_payload_text": "https://id.gs1.org/01/00800897142858",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897142858",
+          "code": "800897142858",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup SMLC04 London Soft Matte Lip Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2858/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897142858.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897142858",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897142926",
+      "product_name": "NYX Professional Makeup Soft Matte Lip Cream Lightweight Liquid Lipstick - Milan - 0.27 fl oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2926/front_es.6.400.jpg",
+      "local_image_path": "images/nyx/00800897142926.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx",
+          "NYX Professional Makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Soft Matte Lip Cream Lightweight Liquid Lipstick - Milan - 0.27 fl oz",
+        "source_names": {
+          "openbeautyfacts": "Soft matte",
+          "upcitemdb": "NYX Professional Makeup Soft Matte Lip Cream Lightweight Liquid Lipstick - Milan - 0.27 fl oz"
+        },
+        "alternate_names": [
+          "Soft matte",
+          "NYX Cosmetics Soft Matte Lip Cream Milan",
+          "NYX Cosmetics Soft Matte Lip Cream",
+          "NYX Soft Matte Lip Cream - Milan - SLMC 11",
+          "NYX Soft Matte Lip Cream - Milan - NYX",
+          "NYX Soft Matte Lip Cream, Milan, .27 oz"
+        ],
+        "quantity": "Full Size",
+        "categories": [
+          "Pintalabios",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup"
+        ],
+        "description": "Treat your lips to a velvety smooth burst of creamy color! NYX Professional Makeup Soft Matte Lip Cream straddles the line between lipstick and lip gloss. This unique liquid to matte lipstick formula is neither lipstick nor lip gloss, but rather a whole new kind of lip color. The matte lip cream goes on silky smooth, then sets to a pigmented matte finish. Surprisingly durable, lightweight and delightfully creamy, it's no wonder this sweetly scented formula is a fan favorite. The lip cream is light on the lips, but heavy on the pigmentation - a perfect combination. Enriched with skin-smoothing silicones, Soft Matte Lip Cream works to nourish lips while enveloping them in rich color to keep your pout looking and feeling soft. This is the best long-lasting matte lipstick that will stay on throughout your day, no matter what's for lunch. The liquid lipstick has a creamy, durable mousse texture that adds the perfect polish to any look in matte finish. Available in a wide variety of vibrant colors, you'll never ge",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2926/front_es.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2926/front_es.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/714/2926/front_es.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/714/2926/front_es.6.200.jpg",
+          "https://pics.walgreens.com/prodimg/573620/450.jpg",
+          "http://c.shld.net/rpx/i/s/pi/mp/7637/2156840403?src=http%3A%2F%2Fwww.parfumery.com%2Fpictures%2Flarge%2F800897142926.jpg&d=b621208b28c20453ad3abbf9064f85d561fda487",
+          "https://target.scene7.com/is/image/Target/GUEST_07454ab1-991f-4e27-a507-0c703cb603cc?wid=1000&hei=1000",
+          "http://pics1.ds-static.com/prodimg/573620/300.Jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/17091475_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/0434a70c-efa6-42ce-8a17-57ee65b86e33_1.f9f2270730243688f44232b818577aa0.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://media.kohlsimg.com/is/image/kohls/3857430_Milan?wid=800&hei=800&op_sharpen=1",
+          "http://s.cdnsbn.com/images/products/28016371702.jpg",
+          "http://www.parfumery.com/pictures/large-extra/800897142926-1.jpg",
+          "https://tshop.r10s.com/4d6/c40/d310/6de3/103a/5ebb/413c/1129e79a022c600c73774e.jpg?_ex=512x512"
+        ],
+        "local_image_path": "images/nyx/00800897142926.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897142926",
+        "ean13": "0800897142926",
+        "upc_a": "800897142926",
+        "ean8": null,
+        "primary_code": "800897142926",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897142926",
+          "800897142926"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897142926",
+        "qr_payload_text": "https://id.gs1.org/01/00800897142926",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897142926",
+          "code": "800897142926",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Soft Matte Lip Cream Lightweight Liquid Lipstick - Milan - 0.27 fl oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/714/2926/front_es.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897142926.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897142926",
+        "upcitemdb_ean": "0800897142926",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897157203",
+      "product_name": "Can't stop won't stop",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7203/front_es.3.400.jpg",
+      "local_image_path": "images/nyx/00800897157203.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Can't stop won't stop",
+        "source_names": {
+          "openbeautyfacts": "Can't stop won't stop"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7203/front_es.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7203/front_es.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/715/7203/front_es.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/715/7203/front_es.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897157203.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897157203",
+        "ean13": "0800897157203",
+        "upc_a": "800897157203",
+        "ean8": null,
+        "primary_code": "800897157203",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897157203"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897157203",
+        "qr_payload_text": "https://id.gs1.org/01/00800897157203",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897157203",
+          "code": "800897157203",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Can't stop won't stop",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7203/front_es.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897157203.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897157203",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897157210",
+      "product_name": "Can't Stop Won't Stop 24Hr Full Coverage Matte Finish Foundation",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7210/front_en.5.400.jpg",
+      "local_image_path": "images/nyx/00800897157210.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Can't Stop Won't Stop 24Hr Full Coverage Matte Finish Foundation",
+        "source_names": {
+          "openbeautyfacts": "Can't Stop Won't Stop 24Hr Full Coverage Matte Finish Foundation"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7210/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7210/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/715/7210/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/715/7210/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897157210.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897157210",
+        "ean13": "0800897157210",
+        "upc_a": "800897157210",
+        "ean8": null,
+        "primary_code": "800897157210",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897157210"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897157210",
+        "qr_payload_text": "https://id.gs1.org/01/00800897157210",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897157210",
+          "code": "800897157210",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Can't Stop Won't Stop 24Hr Full Coverage Matte Finish Foundation",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7210/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897157210.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897157210",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897157395",
+      "product_name": "full coverage foundation",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7395/front_de.4.400.jpg",
+      "local_image_path": "images/nyx/00800897157395.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "full coverage foundation",
+        "source_names": {
+          "openbeautyfacts": "full coverage foundation"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7395/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7395/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/715/7395/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/715/7395/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897157395.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897157395",
+        "ean13": "0800897157395",
+        "upc_a": "800897157395",
+        "ean8": null,
+        "primary_code": "800897157395",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897157395"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897157395",
+        "qr_payload_text": "https://id.gs1.org/01/00800897157395",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897157395",
+          "code": "800897157395",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "full coverage foundation",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/715/7395/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897157395.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897157395",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897181154",
+      "product_name": "Can't stop, won't stop",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/718/1154/front_es.4.400.jpg",
+      "local_image_path": "images/nyx/00800897181154.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Can't stop, won't stop",
+        "source_names": {
+          "openbeautyfacts": "Can't stop, won't stop"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Base De Maquillaje"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/718/1154/front_es.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/718/1154/front_es.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/718/1154/front_es.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/718/1154/front_es.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897181154.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897181154",
+        "ean13": "0800897181154",
+        "upc_a": "800897181154",
+        "ean8": null,
+        "primary_code": "800897181154",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897181154"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897181154",
+        "qr_payload_text": "https://id.gs1.org/01/00800897181154",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897181154",
+          "code": "800897181154",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Can't stop, won't stop",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/718/1154/front_es.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897181154.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897181154",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897183714",
+      "product_name": "Can't Stop Won't Stop",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/718/3714/front_en.4.400.jpg",
+      "local_image_path": "images/nyx/00800897183714.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Can't Stop Won't Stop",
+        "source_names": {
+          "openbeautyfacts": "Can't Stop Won't Stop"
+        },
+        "alternate_names": [],
+        "quantity": "6 g",
+        "categories": [
+          "Setting Powders"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/718/3714/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/718/3714/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/718/3714/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/718/3714/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897183714.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897183714",
+        "ean13": "0800897183714",
+        "upc_a": "800897183714",
+        "ean8": null,
+        "primary_code": "800897183714",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897183714"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897183714",
+        "qr_payload_text": "https://id.gs1.org/01/00800897183714",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897183714",
+          "code": "800897183714",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Can't Stop Won't Stop",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/718/3714/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897183714.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897183714",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897190477",
+      "product_name": "nyx born to glow",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/0477/front_fr.4.400.jpg",
+      "local_image_path": "images/nyx/00800897190477.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "nyx born to glow",
+        "source_names": {
+          "openbeautyfacts": "nyx born to glow"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Fond De Teint"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/0477/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/719/0477/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/719/0477/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/719/0477/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897190477.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897190477",
+        "ean13": "0800897190477",
+        "upc_a": "800897190477",
+        "ean8": null,
+        "primary_code": "800897190477",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897190477"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897190477",
+        "qr_payload_text": "https://id.gs1.org/01/00800897190477",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897190477",
+          "code": "800897190477",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "nyx born to glow",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/0477/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897190477.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897190477",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897197148",
+      "product_name": "NYX Professional Makeup Epic Wear 01 Black Waterproof Liquid Eyeliner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/7148/front_nl.8.400.jpg",
+      "local_image_path": "images/nyx/00800897197148.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Epic Wear 01 Black Waterproof Liquid Eyeliner",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Epic Wear 01 Black Waterproof Liquid Eyeliner"
+        },
+        "alternate_names": [],
+        "quantity": "3,5ml",
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Eyeliners",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/7148/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/719/7148/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/719/7148/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/719/7148/front_nl.8.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897197148.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897197148",
+        "ean13": "0800897197148",
+        "upc_a": "800897197148",
+        "ean8": null,
+        "primary_code": "800897197148",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897197148"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897197148",
+        "qr_payload_text": "https://id.gs1.org/01/00800897197148",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897197148",
+          "code": "800897197148",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Epic Wear 01 Black Waterproof Liquid Eyeliner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/7148/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897197148.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897197148",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897198046",
+      "product_name": "Radiant Finish Long Lasting Setting Spray",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/8046/front_en.4.400.jpg",
+      "local_image_path": "images/nyx/00800897198046.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Radiant Finish Long Lasting Setting Spray",
+        "source_names": {
+          "openbeautyfacts": "Radiant Finish Long Lasting Setting Spray"
+        },
+        "alternate_names": [],
+        "quantity": "50 mL",
+        "categories": [
+          "Makeup",
+          "Face Makeup"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/8046/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/719/8046/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/719/8046/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/719/8046/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897198046.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897198046",
+        "ean13": "0800897198046",
+        "upc_a": "800897198046",
+        "ean8": null,
+        "primary_code": "800897198046",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897198046"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897198046",
+        "qr_payload_text": "https://id.gs1.org/01/00800897198046",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897198046",
+          "code": "800897198046",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Radiant Finish Long Lasting Setting Spray",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/719/8046/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897198046.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897198046",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897202194",
+      "product_name": "NYX",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/720/2194/front_xx.6.400.jpg",
+      "local_image_path": "images/nyx/00800897202194.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "NYX",
+        "source_names": {
+          "openbeautyfacts": "NYX"
+        },
+        "alternate_names": [],
+        "quantity": "130ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/720/2194/front_xx.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/720/2194/front_xx.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/720/2194/front_xx.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/720/2194/front_xx.6.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897202194.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897202194",
+        "ean13": "0800897202194",
+        "upc_a": "800897202194",
+        "ean8": null,
+        "primary_code": "800897202194",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897202194"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897202194",
+        "qr_payload_text": "https://id.gs1.org/01/00800897202194",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897202194",
+          "code": "800897202194",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/720/2194/front_xx.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897202194.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897202194",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897206963",
+      "product_name": "TOTAL CONTROL",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/720/6963/front_en.4.400.jpg",
+      "local_image_path": "images/nyx/00800897206963.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "TOTAL CONTROL",
+        "source_names": {
+          "openbeautyfacts": "TOTAL CONTROL"
+        },
+        "alternate_names": [],
+        "quantity": "13 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/720/6963/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/720/6963/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/720/6963/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/720/6963/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897206963.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897206963",
+        "ean13": "0800897206963",
+        "upc_a": "800897206963",
+        "ean8": null,
+        "primary_code": "800897206963",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897206963"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897206963",
+        "qr_payload_text": "https://id.gs1.org/01/00800897206963",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897206963",
+          "code": "800897206963",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "TOTAL CONTROL",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/720/6963/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897206963.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897206963",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897240318",
+      "product_name": "NYX Professional Makeup Face Freezie Cooling Primer + Moisturizer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/0318/front_en.4.400.jpg",
+      "local_image_path": "images/nyx/00800897240318.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Face Freezie Cooling Primer + Moisturizer",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Face Freezie Cooling Primer + Moisturizer"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Primer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/0318/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/724/0318/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/724/0318/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/724/0318/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897240318.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897240318",
+        "ean13": "0800897240318",
+        "upc_a": "800897240318",
+        "ean8": null,
+        "primary_code": "800897240318",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897240318"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897240318",
+        "qr_payload_text": "https://id.gs1.org/01/00800897240318",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897240318",
+          "code": "800897240318",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Face Freezie Cooling Primer + Moisturizer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/0318/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897240318.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897240318",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897246020",
+      "product_name": "Professional Makeup Vivid Rich 16 Always Onyx Mechanical Liner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/6020/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897246020.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:Nyx"
+        ]
+      },
+      "product": {
+        "name": "Professional Makeup Vivid Rich 16 Always Onyx Mechanical Liner",
+        "source_names": {
+          "openbeautyfacts": "Professional Makeup Vivid Rich 16 Always Onyx Mechanical Liner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Eye Pencils"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/6020/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/724/6020/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/724/6020/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/724/6020/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897246020.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897246020",
+        "ean13": "0800897246020",
+        "upc_a": "800897246020",
+        "ean8": null,
+        "primary_code": "800897246020",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897246020"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897246020",
+        "qr_payload_text": "https://id.gs1.org/01/00800897246020",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897246020",
+          "code": "800897246020",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Professional Makeup Vivid Rich 16 Always Onyx Mechanical Liner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/6020/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897246020.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897246020",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897249243",
+      "product_name": "NYX Professional Makeup 05 Apricot Pro Fix Stick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9243/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897249243.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:NYX"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 05 Apricot Pro Fix Stick",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 05 Apricot Pro Fix Stick"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Concealer",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9243/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9243/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/724/9243/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/724/9243/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897249243.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897249243",
+        "ean13": "0800897249243",
+        "upc_a": "800897249243",
+        "ean8": null,
+        "primary_code": "800897249243",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897249243"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897249243",
+        "qr_payload_text": "https://id.gs1.org/01/00800897249243",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897249243",
+          "code": "800897249243",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 05 Apricot Pro Fix Stick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9243/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897249243.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897249243",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897249540",
+      "product_name": "FAT OIL Slick Click",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9540/front_en.3.400.jpg",
+      "local_image_path": "images/nyx/00800897249540.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:NYX"
+        ]
+      },
+      "product": {
+        "name": "FAT OIL Slick Click",
+        "source_names": {
+          "openbeautyfacts": "FAT OIL Slick Click"
+        },
+        "alternate_names": [],
+        "quantity": "2g",
+        "categories": [
+          "Beauty",
+          "Lipmake Up",
+          "Lipstick",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9540/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9540/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/724/9540/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/724/9540/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897249540.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897249540",
+        "ean13": "0800897249540",
+        "upc_a": "800897249540",
+        "ean8": null,
+        "primary_code": "800897249540",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897249540"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897249540",
+        "qr_payload_text": "https://id.gs1.org/01/00800897249540",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897249540",
+          "code": "800897249540",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "FAT OIL Slick Click",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/724/9540/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897249540.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897249540",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897250027",
+      "product_name": "NYX Professional Makeup 34 Make a Statement Line Loud Lipliner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0027/front_en.3.400.jpg",
+      "local_image_path": "images/nyx/00800897250027.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 34 Make a Statement Line Loud Lipliner",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 34 Make a Statement Line Loud Lipliner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Lipliner",
+          "Lipmake Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0027/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0027/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/725/0027/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/725/0027/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897250027.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897250027",
+        "ean13": "0800897250027",
+        "upc_a": "800897250027",
+        "ean8": null,
+        "primary_code": "800897250027",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897250027"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897250027",
+        "qr_payload_text": "https://id.gs1.org/01/00800897250027",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897250027",
+          "code": "800897250027",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 34 Make a Statement Line Loud Lipliner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0027/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897250027.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897250027",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897250072",
+      "product_name": "NYX Professional Makeup 11 In A Mood Fat Oil Slick Click",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0072/front_nl.7.400.jpg",
+      "local_image_path": "images/nyx/00800897250072.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 11 In A Mood Fat Oil Slick Click",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 11 In A Mood Fat Oil Slick Click"
+        },
+        "alternate_names": [
+          "NYX Fat Oil Slick Click"
+        ],
+        "quantity": "2g",
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Lipsticks",
+          "Beauty",
+          "Lipmake Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0072/front_nl.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0072/front_nl.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/725/0072/front_nl.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/725/0072/front_nl.7.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897250072.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897250072",
+        "ean13": "0800897250072",
+        "upc_a": "800897250072",
+        "ean8": null,
+        "primary_code": "800897250072",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897250072"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897250072",
+        "qr_payload_text": "https://id.gs1.org/01/00800897250072",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897250072",
+          "code": "800897250072",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 11 In A Mood Fat Oil Slick Click",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/0072/front_nl.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897250072.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897250072",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897253127",
+      "product_name": "butter gloss licorice",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:Nyx"
+        ]
+      },
+      "product": {
+        "name": "butter gloss licorice",
+        "source_names": {
+          "openbeautyfacts": "butter gloss licorice"
+        },
+        "alternate_names": [],
+        "quantity": "8 ml",
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Lip Gloss"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00800897253127",
+        "ean13": "0800897253127",
+        "upc_a": "800897253127",
+        "ean8": null,
+        "primary_code": "800897253127",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897253127"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897253127",
+        "qr_payload_text": "https://id.gs1.org/01/00800897253127",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897253127",
+          "code": "800897253127",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "butter gloss licorice",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897253127.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897253127",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897255145",
+      "product_name": "NYX Professional Makeup Epic Ink 04 Milk Chocolate Eyeliner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/5145/front_nl.8.400.jpg",
+      "local_image_path": "images/nyx/00800897255145.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Epic Ink 04 Milk Chocolate Eyeliner",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Epic Ink 04 Milk Chocolate Eyeliner"
+        },
+        "alternate_names": [
+          "Epic ink liner"
+        ],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Eyeliners",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/5145/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/725/5145/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/725/5145/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/725/5145/front_nl.8.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897255145.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897255145",
+        "ean13": "0800897255145",
+        "upc_a": "800897255145",
+        "ean8": null,
+        "primary_code": "800897255145",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897255145"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897255145",
+        "qr_payload_text": "https://id.gs1.org/01/00800897255145",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897255145",
+          "code": "800897255145",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Epic Ink 04 Milk Chocolate Eyeliner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/5145/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897255145.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897255145",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897257576",
+      "product_name": "NYX Professional Makeup 01 My Butta Half Buttermelt Blush",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7576/front_nl.5.400.jpg",
+      "local_image_path": "images/nyx/00800897257576.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 01 My Butta Half Buttermelt Blush",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 01 My Butta Half Buttermelt Blush"
+        },
+        "alternate_names": [],
+        "quantity": "5g",
+        "categories": [
+          "Beauty",
+          "Blush",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7576/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7576/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/725/7576/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/725/7576/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897257576.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897257576",
+        "ean13": "0800897257576",
+        "upc_a": "800897257576",
+        "ean8": null,
+        "primary_code": "800897257576",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897257576"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897257576",
+        "qr_payload_text": "https://id.gs1.org/01/00800897257576",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897257576",
+          "code": "800897257576",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 01 My Butta Half Buttermelt Blush",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7576/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897257576.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897257576",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897257637",
+      "product_name": "NYX Professional Makeup 06 For The Butta Buttermelt Blush",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7637/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897257637.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 06 For The Butta Buttermelt Blush",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 06 For The Butta Buttermelt Blush"
+        },
+        "alternate_names": [],
+        "quantity": "5g",
+        "categories": [
+          "Beauty",
+          "Blush",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7637/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7637/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/725/7637/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/725/7637/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897257637.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897257637",
+        "ean13": "0800897257637",
+        "upc_a": "800897257637",
+        "ean8": null,
+        "primary_code": "800897257637",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897257637"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897257637",
+        "qr_payload_text": "https://id.gs1.org/01/00800897257637",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897257637",
+          "code": "800897257637",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 06 For The Butta Buttermelt Blush",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7637/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897257637.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897257637",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897257651",
+      "product_name": "NYX Professional Makeup 08 Getting Butta Buttermelt Blush",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7651/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897257651.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 08 Getting Butta Buttermelt Blush",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 08 Getting Butta Buttermelt Blush"
+        },
+        "alternate_names": [],
+        "quantity": "5g",
+        "categories": [
+          "Blush",
+          "Maquillage",
+          "Produits Esthétique"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7651/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7651/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/725/7651/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/725/7651/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897257651.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897257651",
+        "ean13": "0800897257651",
+        "upc_a": "800897257651",
+        "ean8": null,
+        "primary_code": "800897257651",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897257651"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897257651",
+        "qr_payload_text": "https://id.gs1.org/01/00800897257651",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897257651",
+          "code": "800897257651",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 08 Getting Butta Buttermelt Blush",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/725/7651/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897257651.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897257651",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897261597",
+      "product_name": "NYX Professional Makeup 13 Losin' Control Fat Oil Lip Drip Lipolie",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/1597/front_nl.6.400.jpg",
+      "local_image_path": "images/nyx/00800897261597.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup 13 Losin' Control Fat Oil Lip Drip Lipolie",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup 13 Losin' Control Fat Oil Lip Drip Lipolie"
+        },
+        "alternate_names": [],
+        "quantity": "4,8ml",
+        "categories": [
+          "Beauty",
+          "Lipgloss",
+          "Lipmake Up",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/1597/front_nl.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/726/1597/front_nl.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/726/1597/front_nl.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/726/1597/front_nl.6.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897261597.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897261597",
+        "ean13": "0800897261597",
+        "upc_a": "800897261597",
+        "ean8": null,
+        "primary_code": "800897261597",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897261597"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897261597",
+        "qr_payload_text": "https://id.gs1.org/01/00800897261597",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897261597",
+          "code": "800897261597",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup 13 Losin' Control Fat Oil Lip Drip Lipolie",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/1597/front_nl.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897261597.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897261597",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897266004",
+      "product_name": "NYX Professional Makeup The Face Glue Primer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6004/front_nl.6.400.jpg",
+      "local_image_path": "images/nyx/00800897266004.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup The Face Glue Primer",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup The Face Glue Primer"
+        },
+        "alternate_names": [],
+        "quantity": "35ml",
+        "categories": [
+          "Beauty",
+          "Make Up",
+          "Primer"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6004/front_nl.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6004/front_nl.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6004/front_nl.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6004/front_nl.6.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897266004.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897266004",
+        "ean13": "0800897266004",
+        "upc_a": "800897266004",
+        "ean8": null,
+        "primary_code": "800897266004",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897266004"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897266004",
+        "qr_payload_text": "https://id.gs1.org/01/00800897266004",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897266004",
+          "code": "800897266004",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup The Face Glue Primer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6004/front_nl.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897266004.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897266004",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897266752",
+      "product_name": "NYX Professional Makeup Buttermelt Glaze 1 Whipped Butta Skin Tint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6752/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897266752.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:NYX"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Buttermelt Glaze 1 Whipped Butta Skin Tint",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Buttermelt Glaze 1 Whipped Butta Skin Tint"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Foundation",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6752/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6752/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6752/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6752/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897266752.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897266752",
+        "ean13": "0800897266752",
+        "upc_a": "800897266752",
+        "ean8": null,
+        "primary_code": "800897266752",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897266752"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897266752",
+        "qr_payload_text": "https://id.gs1.org/01/00800897266752",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897266752",
+          "code": "800897266752",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Buttermelt Glaze 1 Whipped Butta Skin Tint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6752/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897266752.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897266752",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897266776",
+      "product_name": "Soft glow skin tint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6776/front_en.3.400.jpg",
+      "local_image_path": "images/nyx/00800897266776.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Soft glow skin tint",
+        "source_names": {
+          "openbeautyfacts": "Soft glow skin tint"
+        },
+        "alternate_names": [
+          "NYX Professional Makeup Buttermelt Glaze 3 Cashew Butta Skin Tint"
+        ],
+        "quantity": "30ml",
+        "categories": [
+          "Makeup",
+          "Face Makeup",
+          "Tonal Krem",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6776/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6776/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6776/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6776/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897266776.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897266776",
+        "ean13": "0800897266776",
+        "upc_a": "800897266776",
+        "ean8": null,
+        "primary_code": "800897266776",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897266776"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897266776",
+        "qr_payload_text": "https://id.gs1.org/01/00800897266776",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897266776",
+          "code": "800897266776",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Soft glow skin tint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6776/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897266776.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897266776",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897266974",
+      "product_name": "NYX Professional Makeup Lip IV 02 Hydra-Honey Hydraterende Lipgloss",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6974/front_nl.3.400.jpg",
+      "local_image_path": "images/nyx/00800897266974.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "nyx professional makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Lip IV 02 Hydra-Honey Hydraterende Lipgloss",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Lip IV 02 Hydra-Honey Hydraterende Lipgloss"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Lipgloss",
+          "Lipmake Up",
+          "Make Up"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6974/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6974/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6974/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/726/6974/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897266974.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897266974",
+        "ean13": "0800897266974",
+        "upc_a": "800897266974",
+        "ean8": null,
+        "primary_code": "800897266974",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897266974"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897266974",
+        "qr_payload_text": "https://id.gs1.org/01/00800897266974",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897266974",
+          "code": "800897266974",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Lip IV 02 Hydra-Honey Hydraterende Lipgloss",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/6974/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897266974.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897266974",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897267049",
+      "product_name": "NYX Professional Makeup Lip IV 09 Blush Rush Hydraterende Lipgloss",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/7049/front_nl.6.400.jpg",
+      "local_image_path": "images/nyx/00800897267049.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx-professional-makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Lip IV 09 Blush Rush Hydraterende Lipgloss",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Lip IV 09 Blush Rush Hydraterende Lipgloss"
+        },
+        "alternate_names": [
+          "Lip IV Hydrating Gloss Serum"
+        ],
+        "quantity": null,
+        "categories": [
+          "Non Open Products Facts",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup",
+          "Lip Gloss",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/7049/front_nl.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/726/7049/front_nl.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/726/7049/front_nl.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/726/7049/front_nl.6.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897267049.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897267049",
+        "ean13": "0800897267049",
+        "upc_a": "800897267049",
+        "ean8": null,
+        "primary_code": "800897267049",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897267049"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897267049",
+        "qr_payload_text": "https://id.gs1.org/01/00800897267049",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897267049",
+          "code": "800897267049",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Lip IV 09 Blush Rush Hydraterende Lipgloss",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/726/7049/front_nl.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897267049.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897267049",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897274269",
+      "product_name": "Professional Makeup",
+      "image_url": "https://images.openproductsfacts.org/images/products/080/089/727/4269/front_fr.3.400.jpg",
+      "local_image_path": "images/nyx/00800897274269.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Professional Makeup",
+        "source_names": {
+          "openproductsfacts": "Professional Makeup"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openproductsfacts.org/images/products/080/089/727/4269/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openproductsfacts.org/images/products/080/089/727/4269/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openproductsfacts.org/images/products/080/089/727/4269/front_fr.3.400.jpg",
+          "https://images.openproductsfacts.org/images/products/080/089/727/4269/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897274269.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897274269",
+        "ean13": "0800897274269",
+        "upc_a": "800897274269",
+        "ean8": null,
+        "primary_code": "800897274269",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897274269"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897274269",
+        "qr_payload_text": "https://id.gs1.org/01/00800897274269",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897274269",
+          "code": "800897274269",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Professional Makeup",
+          "image_url": "https://images.openproductsfacts.org/images/products/080/089/727/4269/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897274269.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.9,
+        "sources": [
+          "openproductsfacts"
+        ],
+        "match_methods": {
+          "openproductsfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z",
+        "openproductsfacts_url": "http://world-en.openproductsfacts.org/product/0800897274269/professional-makeup-nyx"
+      }
+    },
+    {
+      "gtin14": "00800897281731",
+      "product_name": "Professional Makeup Hair and Body Fragrance Mist",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/728/1731/front_en.3.400.jpg",
+      "local_image_path": "images/nyx/00800897281731.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:NYX"
+        ]
+      },
+      "product": {
+        "name": "Professional Makeup Hair and Body Fragrance Mist",
+        "source_names": {
+          "openbeautyfacts": "Professional Makeup Hair and Body Fragrance Mist"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/728/1731/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/728/1731/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/728/1731/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/728/1731/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897281731.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897281731",
+        "ean13": "0800897281731",
+        "upc_a": "800897281731",
+        "ean8": null,
+        "primary_code": "800897281731",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897281731"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897281731",
+        "qr_payload_text": "https://id.gs1.org/01/00800897281731",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897281731",
+          "code": "800897281731",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Professional Makeup Hair and Body Fragrance Mist",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/728/1731/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897281731.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897281731",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897813710",
+      "product_name": "Matte Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3710/front_nl.17.400.jpg",
+      "local_image_path": "images/nyx/00800897813710.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Matte Finish",
+        "source_names": {
+          "openbeautyfacts": "Matte Finish"
+        },
+        "alternate_names": [
+          "NYX Professional Makeup Matte Finish Makeup Setting Spray",
+          "Matte Finish Face Setting Spray"
+        ],
+        "quantity": "60ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Fixing Sprays"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3710/front_nl.17.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3710/front_nl.17.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/781/3710/front_nl.17.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/781/3710/front_nl.17.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897813710.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897813710",
+        "ean13": "0800897813710",
+        "upc_a": "800897813710",
+        "ean8": null,
+        "primary_code": "800897813710",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897813710"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897813710",
+        "qr_payload_text": "https://id.gs1.org/01/00800897813710",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897813710",
+          "code": "800897813710",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Matte Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3710/front_nl.17.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897813710.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897813710",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897813727",
+      "product_name": "Dewy Finish Setting Spray",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3727/front_en.3.400.jpg",
+      "local_image_path": "images/nyx/00800897813727.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Dewy Finish Setting Spray",
+        "source_names": {
+          "openbeautyfacts": "Dewy Finish Setting Spray"
+        },
+        "alternate_names": [
+          "NYX Professional Makeup Dewy Finish Makeup Setting Spray"
+        ],
+        "quantity": "60ml",
+        "categories": [
+          "Makeup",
+          "Beauty",
+          "Fixing Sprays"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3727/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3727/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/781/3727/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/781/3727/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897813727.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897813727",
+        "ean13": "0800897813727",
+        "upc_a": "800897813727",
+        "ean8": null,
+        "primary_code": "800897813727",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897813727"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897813727",
+        "qr_payload_text": "https://id.gs1.org/01/00800897813727",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897813727",
+          "code": "800897813727",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Dewy Finish Setting Spray",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/3727/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897813727.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897813727",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897818432",
+      "product_name": "Born To Glow",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8432/front_en.6.400.jpg",
+      "local_image_path": "images/nyx/00800897818432.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Born To Glow",
+        "source_names": {
+          "openbeautyfacts": "Born To Glow"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Iluminador Liquido"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8432/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8432/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/781/8432/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/781/8432/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897818432.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897818432",
+        "ean13": "0800897818432",
+        "upc_a": "800897818432",
+        "ean8": null,
+        "primary_code": "800897818432",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897818432"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897818432",
+        "qr_payload_text": "https://id.gs1.org/01/00800897818432",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897818432",
+          "code": "800897818432",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Born To Glow",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8432/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897818432.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897818432",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897818586",
+      "product_name": "NYX Professional Makeup Butter Gloss 14 Madeleine Lipgloss",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8586/front_nl.6.400.jpg",
+      "local_image_path": "images/nyx/00800897818586.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx-professional-makeup"
+        ]
+      },
+      "product": {
+        "name": "NYX Professional Makeup Butter Gloss 14 Madeleine Lipgloss",
+        "source_names": {
+          "openbeautyfacts": "NYX Professional Makeup Butter Gloss 14 Madeleine Lipgloss"
+        },
+        "alternate_names": [
+          "Butter Gloss"
+        ],
+        "quantity": "8ml",
+        "categories": [
+          "Non Open Products Facts",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup",
+          "Lip Gloss",
+          "Beauty"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8586/front_nl.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8586/front_nl.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/781/8586/front_nl.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/781/8586/front_nl.6.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897818586.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897818586",
+        "ean13": "0800897818586",
+        "upc_a": "800897818586",
+        "ean8": null,
+        "primary_code": "800897818586",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897818586"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897818586",
+        "qr_payload_text": "https://id.gs1.org/01/00800897818586",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897818586",
+          "code": "800897818586",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "NYX Professional Makeup Butter Gloss 14 Madeleine Lipgloss",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/781/8586/front_nl.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897818586.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897818586",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897835439",
+      "product_name": "High definition blush - Intuition",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/783/5439/front_fr.9.400.jpg",
+      "local_image_path": "images/nyx/00800897835439.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "High definition blush - Intuition",
+        "source_names": {
+          "openbeautyfacts": "High definition blush - Intuition"
+        },
+        "alternate_names": [],
+        "quantity": "0.16 oz",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/783/5439/front_fr.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/783/5439/front_fr.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/783/5439/front_fr.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/783/5439/front_fr.9.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897835439.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897835439",
+        "ean13": "0800897835439",
+        "upc_a": "800897835439",
+        "ean8": null,
+        "primary_code": "800897835439",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897835439"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897835439",
+        "qr_payload_text": "https://id.gs1.org/01/00800897835439",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897835439",
+          "code": "800897835439",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "High definition blush - Intuition",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/783/5439/front_fr.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897835439.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897835439",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897836924",
+      "product_name": "Nyx avant pop",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/783/6924/front_en.4.400.jpg",
+      "local_image_path": "images/nyx/00800897836924.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "Nyx avant pop",
+        "source_names": {
+          "openbeautyfacts": "Nyx avant pop"
+        },
+        "alternate_names": [],
+        "quantity": "0.05 oz",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/783/6924/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/783/6924/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/783/6924/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/783/6924/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897836924.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897836924",
+        "ean13": "0800897836924",
+        "upc_a": "800897836924",
+        "ean8": null,
+        "primary_code": "800897836924",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897836924"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897836924",
+        "qr_payload_text": "https://id.gs1.org/01/00800897836924",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897836924",
+          "code": "800897836924",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "Nyx avant pop",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/783/6924/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897836924.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897836924",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00800897848392",
+      "product_name": "nyx lingerie",
+      "image_url": "https://images.openbeautyfacts.org/images/products/080/089/784/8392/front_fr.3.400.jpg",
+      "local_image_path": "images/nyx/00800897848392.jpg",
+      "brand": {
+        "slug": "nyx",
+        "display_name": "NYX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=NYX",
+        "matched_raw_brands": [
+          "xx:nyx"
+        ]
+      },
+      "product": {
+        "name": "nyx lingerie",
+        "source_names": {
+          "openbeautyfacts": "nyx lingerie"
+        },
+        "alternate_names": [],
+        "quantity": "4 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/080/089/784/8392/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/080/089/784/8392/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/080/089/784/8392/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/080/089/784/8392/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/nyx/00800897848392.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00800897848392",
+        "ean13": "0800897848392",
+        "upc_a": "800897848392",
+        "ean8": null,
+        "primary_code": "800897848392",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0800897848392"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00800897848392",
+        "qr_payload_text": "https://id.gs1.org/01/00800897848392",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00800897848392",
+          "code": "800897848392",
+          "type": "UPC-A",
+          "brand": "NYX",
+          "name": "nyx lingerie",
+          "image_url": "https://images.openbeautyfacts.org/images/products/080/089/784/8392/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/nyx/00800897848392.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0800897848392",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

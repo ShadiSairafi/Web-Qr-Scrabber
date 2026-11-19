@@ -1,0 +1,185 @@
+{
+  "brand_slug": "glow-recipe",
+  "display_name": "Glow Recipe",
+  "letter_section": "G",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Glow%20Recipe",
+  "product_count": 2,
+  "canonical_product_count": 2,
+  "cross_source_verified_count": 2,
+  "products": [
+    {
+      "gtin14": "00810052960166",
+      "product_name": "Glow Recipe Watermelon Glow Niacinamide Dew Drops Serum, Size: 0.5 FL Oz, None",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/005/296/0166/front_en.3.400.jpg",
+      "local_image_path": "images/glow-recipe/00810052960166.jpg",
+      "brand": {
+        "slug": "glow-recipe",
+        "display_name": "Glow Recipe",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Glow%20Recipe",
+        "matched_raw_brands": [
+          "xx:glow-recipe",
+          "Glow Recipe"
+        ]
+      },
+      "product": {
+        "name": "Glow Recipe Watermelon Glow Niacinamide Dew Drops Serum, Size: 0.5 FL Oz, None",
+        "source_names": {
+          "openbeautyfacts": "Watermelon glow niacinamide dew drops",
+          "upcitemdb": "Glow Recipe Watermelon Glow Niacinamide Dew Drops Serum, Size: 0.5 FL Oz, None"
+        },
+        "alternate_names": [
+          "Watermelon glow niacinamide dew drops"
+        ],
+        "quantity": "15ml",
+        "categories": [],
+        "description": "What it is:?. An award-winning serum for every step of your routine. Use as your AM & PM glow-boosting serum or under makeup for instant radiance and brighter skin over time. Skin Type: Normal, Dry, Combination, and Oily. Skincare Concerns: Dryness and Dullness. Formulation: Lightweight Gel. Highlighted Ingredients: - Niacinamide: Vitamin B3 and antioxidants visibly reduce the look of hyperpigmentation, correct the look of dullness, and minimize the appearance of pores. - Hyaluronic Acid: Hydrates, soothes, and delivers essential vitamins to the skin. - Watermelon: Hydrates, delivers essential vitamins and amino acids, and visibly brightens skin. Ingredient Callouts:?. Free of parabens, formaldehydes, formaldehyde-releasing agents, phthalates, mineral oil, retinyl palmitate, oxybenzone, coal tar, hydroquinone, sulfates SLS & SLES, triclocarban, triclosan, and contains less than one percent synthetic fragrance. It is also vegan, gluten-free, cruelty-free, and comes in recyclable packaging. What Else You Nee",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/005/296/0166/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/005/296/0166/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/005/296/0166/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/005/296/0166/front_en.3.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/0aacd8a9c90cd2c61645fdafea86fdb0af26e9f4?wid=800&hei=800&op_sharpen=1&ver=8"
+        ],
+        "local_image_path": "images/glow-recipe/00810052960166.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810052960166",
+        "ean13": "0810052960166",
+        "upc_a": "810052960166",
+        "ean8": null,
+        "primary_code": "810052960166",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810052960166",
+          "810052960166"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810052960166",
+        "qr_payload_text": "https://id.gs1.org/01/00810052960166",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810052960166",
+          "code": "810052960166",
+          "type": "UPC-A",
+          "brand": "Glow Recipe",
+          "name": "Glow Recipe Watermelon Glow Niacinamide Dew Drops Serum, Size: 0.5 FL Oz, None",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/005/296/0166/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/glow-recipe/00810052960166.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810052960166",
+        "upcitemdb_ean": "0810052960166",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810052961750",
+      "product_name": "Glow Recipe Watermelon Glow Skincare Birthday Gift 2023",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/005/296/1750/1.400.jpg",
+      "local_image_path": "images/glow-recipe/00810052961750.jpg",
+      "brand": {
+        "slug": "glow-recipe",
+        "display_name": "Glow Recipe",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Glow%20Recipe",
+        "matched_raw_brands": [
+          "sephora",
+          "Glow Recipe"
+        ]
+      },
+      "product": {
+        "name": "Glow Recipe Watermelon Glow Skincare Birthday Gift 2023",
+        "source_names": {
+          "openbeautyfacts": "sephora",
+          "upcitemdb": "Glow Recipe Watermelon Glow Skincare Birthday Gift 2023"
+        },
+        "alternate_names": [
+          "sephora"
+        ],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": "- Watermelon Glow Niacinamide Dew Drops mini: A breakthrough, multiuse highlighting serum that hydrates and visibly reduces the look of hyperpigmentation for a dewy, reflective glow?without mica, glitter, or gray cast. - Watermelon Glow Pore Tight Toner mini: A bestselling, gentle, PHA- and BHA-infused watermelon toner that hydrates skin and minimizes the appearance of pores. This reward includes: - Watermelon Glow Niacinamide Dew Drops mini: 0.5 fl. oz./15 mL - Watermelon Glow Pore Tight Toner mini: 0.84 fl. oz./ 25 mL. SET UP INFORMATION: Watermelon Glow Skincare Birthday Gift, Watermelon Glow Niacinamide Dew Drops Ingredient List Aqua/Water/Eau, Propanediol, Glycereth-26, Glycerin, Niacinamide, 2,3-Butanediol, 1,2-Hexanediol, Cetyl Ethylhexanoate, Citrullus Lanatus Fruit Extract, Sodium Hyaluronate, Eclipta Prostrata Extract, Melia Azadirachta Leaf Extract, Polyglyceryl-3 Methylglucose Distearate, Tromethamine, Glyceryl Stearate, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/005/296/1750/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/005/296/1750/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/005/296/1750/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/005/296/1750/1.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/6006376?wid=800&hei=800&op_sharpen=1"
+        ],
+        "local_image_path": "images/glow-recipe/00810052961750.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810052961750",
+        "ean13": "0810052961750",
+        "upc_a": "810052961750",
+        "ean8": null,
+        "primary_code": "810052961750",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810052961750",
+          "810052961750"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810052961750",
+        "qr_payload_text": "https://id.gs1.org/01/00810052961750",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810052961750",
+          "code": "810052961750",
+          "type": "UPC-A",
+          "brand": "Glow Recipe",
+          "name": "Glow Recipe Watermelon Glow Skincare Birthday Gift 2023",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/005/296/1750/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/glow-recipe/00810052961750.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source_subbrand_resolved",
+        "confidence_score": 0.92,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 14.04
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810052961750",
+        "upcitemdb_ean": "0810052961750",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

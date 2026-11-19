@@ -1,0 +1,470 @@
+{
+  "brand_slug": "paulas-choice",
+  "display_name": "Paula's Choice",
+  "letter_section": "P",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Paula's%20Choice",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00655439005913",
+      "product_name": "2% BHA Liquid Exfoliant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/065/543/900/5913/front_en.3.400.jpg",
+      "local_image_path": "images/paulas-choice/00655439005913.jpg",
+      "brand": {
+        "slug": "paulas-choice",
+        "display_name": "Paula's Choice",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Paula's%20Choice",
+        "matched_raw_brands": [
+          "xx:paula-s-choice"
+        ]
+      },
+      "product": {
+        "name": "2% BHA Liquid Exfoliant",
+        "source_names": {
+          "openbeautyfacts": "2% BHA Liquid Exfoliant"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/065/543/900/5913/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/065/543/900/5913/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/065/543/900/5913/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/543/900/5913/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/paulas-choice/00655439005913.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00655439005913",
+        "ean13": "0655439005913",
+        "upc_a": "655439005913",
+        "ean8": null,
+        "primary_code": "655439005913",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0655439005913"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00655439005913",
+        "qr_payload_text": "https://id.gs1.org/01/00655439005913",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00655439005913",
+          "code": "655439005913",
+          "type": "UPC-A",
+          "brand": "Paula's Choice",
+          "name": "2% BHA Liquid Exfoliant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/065/543/900/5913/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/paulas-choice/00655439005913.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0655439005913",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00655439007962",
+      "product_name": "2% BHA Body Smoothing Spot Exfoliant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/065/543/900/7962/front_en.17.400.jpg",
+      "local_image_path": "images/paulas-choice/00655439007962.jpg",
+      "brand": {
+        "slug": "paulas-choice",
+        "display_name": "Paula's Choice",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Paula's%20Choice",
+        "matched_raw_brands": [
+          "xx:paula-s-choice"
+        ]
+      },
+      "product": {
+        "name": "2% BHA Body Smoothing Spot Exfoliant",
+        "source_names": {
+          "openbeautyfacts": "2% BHA Body Smoothing Spot Exfoliant"
+        },
+        "alternate_names": [
+          "Body Smoothing Spot Exfoliant"
+        ],
+        "quantity": "210 ml, 7 fl oz",
+        "categories": [
+          "Open Beauty Facts"
+        ],
+        "description": "Body Smoothing Spot Exfoliant",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/065/543/900/7962/front_en.17.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/065/543/900/7962/front_en.17.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/065/543/900/7962/front_en.17.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/543/900/7962/front_en.17.200.jpg"
+        ],
+        "local_image_path": "images/paulas-choice/00655439007962.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00655439007962",
+        "ean13": "0655439007962",
+        "upc_a": "655439007962",
+        "ean8": null,
+        "primary_code": "655439007962",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0655439007962"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00655439007962",
+        "qr_payload_text": "https://id.gs1.org/01/00655439007962",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00655439007962",
+          "code": "655439007962",
+          "type": "UPC-A",
+          "brand": "Paula's Choice",
+          "name": "2% BHA Body Smoothing Spot Exfoliant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/065/543/900/7962/front_en.17.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/paulas-choice/00655439007962.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0655439007962",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00655439013505",
+      "product_name": "Paula's Choice Skin Balancing Pore-Reducing Toner",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "paulas-choice",
+        "display_name": "Paula's Choice",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Paula's%20Choice",
+        "matched_raw_brands": [
+          "xx:paula-s-choice"
+        ]
+      },
+      "product": {
+        "name": "Paula's Choice Skin Balancing Pore-Reducing Toner",
+        "source_names": {
+          "openbeautyfacts": "Paula's Choice Skin Balancing Pore-Reducing Toner"
+        },
+        "alternate_names": [],
+        "quantity": "Plástico",
+        "categories": [
+          "Cuidados Com A Pele"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00655439013505",
+        "ean13": "0655439013505",
+        "upc_a": "655439013505",
+        "ean8": null,
+        "primary_code": "655439013505",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0655439013505"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00655439013505",
+        "qr_payload_text": "https://id.gs1.org/01/00655439013505",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00655439013505",
+          "code": "655439013505",
+          "type": "UPC-A",
+          "brand": "Paula's Choice",
+          "name": "Paula's Choice Skin Balancing Pore-Reducing Toner",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/paulas-choice/00655439013505.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0655439013505",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00655439015103",
+      "product_name": "Pro-collagen peptide plumping moisturiser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/065/543/901/5103/front_en.3.400.jpg",
+      "local_image_path": "images/paulas-choice/00655439015103.jpg",
+      "brand": {
+        "slug": "paulas-choice",
+        "display_name": "Paula's Choice",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Paula's%20Choice",
+        "matched_raw_brands": [
+          "xx:paula-s-choice"
+        ]
+      },
+      "product": {
+        "name": "Pro-collagen peptide plumping moisturiser",
+        "source_names": {
+          "openbeautyfacts": "Pro-collagen peptide plumping moisturiser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/065/543/901/5103/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/065/543/901/5103/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/065/543/901/5103/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/543/901/5103/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/paulas-choice/00655439015103.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00655439015103",
+        "ean13": "0655439015103",
+        "upc_a": "655439015103",
+        "ean8": null,
+        "primary_code": "655439015103",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0655439015103"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00655439015103",
+        "qr_payload_text": "https://id.gs1.org/01/00655439015103",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00655439015103",
+          "code": "655439015103",
+          "type": "UPC-A",
+          "brand": "Paula's Choice",
+          "name": "Pro-collagen peptide plumping moisturiser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/065/543/901/5103/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/paulas-choice/00655439015103.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0655439015103",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00655439020107",
+      "product_name": "2% BHA Liquid Exfoliant",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "paulas-choice",
+        "display_name": "Paula's Choice",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Paula's%20Choice",
+        "matched_raw_brands": [
+          "xx:paula-s-choice"
+        ]
+      },
+      "product": {
+        "name": "2% BHA Liquid Exfoliant",
+        "source_names": {
+          "openbeautyfacts": "2% BHA Liquid Exfoliant"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00655439020107",
+        "ean13": "0655439020107",
+        "upc_a": "655439020107",
+        "ean8": null,
+        "primary_code": "655439020107",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0655439020107"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00655439020107",
+        "qr_payload_text": "https://id.gs1.org/01/00655439020107",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00655439020107",
+          "code": "655439020107",
+          "type": "UPC-A",
+          "brand": "Paula's Choice",
+          "name": "2% BHA Liquid Exfoliant",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/paulas-choice/00655439020107.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0655439020107",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00655439060004",
+      "product_name": "Paula's Choice CLEAR Pore Normalizing Cleanser",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "paulas-choice",
+        "display_name": "Paula's Choice",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Paula's%20Choice",
+        "matched_raw_brands": [
+          "xx:paula-s-choice"
+        ]
+      },
+      "product": {
+        "name": "Paula's Choice CLEAR Pore Normalizing Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Paula's Choice CLEAR Pore Normalizing Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": "177ml",
+        "categories": [
+          "Cuidados Com A Pele",
+          "Limpeza Facial"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00655439060004",
+        "ean13": "0655439060004",
+        "upc_a": "655439060004",
+        "ean8": null,
+        "primary_code": "655439060004",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0655439060004"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00655439060004",
+        "qr_payload_text": "https://id.gs1.org/01/00655439060004",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00655439060004",
+          "code": "655439060004",
+          "type": "UPC-A",
+          "brand": "Paula's Choice",
+          "name": "Paula's Choice CLEAR Pore Normalizing Cleanser",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/paulas-choice/00655439060004.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0655439060004",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

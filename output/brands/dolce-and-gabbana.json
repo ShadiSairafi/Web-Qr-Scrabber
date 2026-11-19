@@ -1,0 +1,510 @@
+{
+  "brand_slug": "dolce-and-gabbana",
+  "display_name": "Dolce and Gabbana",
+  "letter_section": "D",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dolce%20and%20Gabbana",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00737052263137",
+      "product_name": "Dolce & Gabbana L Imperatrice Eau de Toilette Perfume for Women 3.3 oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/073/705/226/3137/front_en.3.400.jpg",
+      "local_image_path": "images/dolce-and-gabbana/00737052263137.jpg",
+      "brand": {
+        "slug": "dolce-and-gabbana",
+        "display_name": "Dolce and Gabbana",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dolce%20and%20Gabbana",
+        "matched_raw_brands": [
+          "xx:dolce-gabbana",
+          "Dolce & Gabbana"
+        ]
+      },
+      "product": {
+        "name": "Dolce & Gabbana L Imperatrice Eau de Toilette Perfume for Women 3.3 oz",
+        "source_names": {
+          "openbeautyfacts": "3 L’IMPERATRICE Eau de Toilette",
+          "upcitemdb": "Dolce & Gabbana L Imperatrice Eau de Toilette Perfume for Women 3.3 oz"
+        },
+        "alternate_names": [
+          "3 L’IMPERATRICE Eau de Toilette",
+          "D&G Anthology L'imperatrice 3 by Dolce & Gabbana, 3.3 oz Eau De Toilette Spray for Women",
+          "Dolce & GabbanaD&G L'Imperatrice Eau De Toilette Spray 100ml/3.3oz",
+          "Dolce & Gabbana L'Imperatrice Eau de Toilette Spray for Women",
+          "L'Imperatrice Perfume By Dolce & Gabbana 3.4 oz EDT Spray for Women",
+          "Dolce &amp Gabbana 94334 3.3 oz D&G Anthology 3 L Imperatrice Eau De Toilette Spray"
+        ],
+        "quantity": "3.4 oz./100ml",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Perfume & Cologne"
+        ],
+        "description": "D&G 3 L Imperatrice Women 3.3 oz EDT Spray",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/073/705/226/3137/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/073/705/226/3137/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/073/705/226/3137/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/073/705/226/3137/front_en.3.200.jpg",
+          "http://s.cdnsbn.com/images/products/09433439506.jpg",
+          "https://pics.drugstore.com/prodimg/293430/450.jpg",
+          "http://site.unbeatablesale.com/STRBN2412.JPG",
+          "http://c.shld.net/rpx/i/s/pi/mp/1426/5392613?src=http%3A%2F%2Fwww.fragrancenet.com%2Fimages%2Fphotos%2F250x250%2F179633.jpg&d=3ad17c4c79944050b22f21b8a56c0e12596d66b9",
+          "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_1010017412",
+          "http://pics1.ds-static.com/prodimg/293430/300.JPG",
+          "https://i5.walmartimages.com/asr/dcf27f28-4370-47be-bd82-da3ce2098b43.693235af9d3ac445bf433757bbe56faf.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://i.walmartimages.com/i/mp/00/73/70/52/26/0073705226313_P321146_500X500.jpg",
+          "http://perfumesw.com/sil/awdglim34s.jpg",
+          "https://images10.newegg.com/ProductImageCompressAll200/ACK0_1_201705211936446131.jpg"
+        ],
+        "local_image_path": "images/dolce-and-gabbana/00737052263137.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00737052263137",
+        "ean13": "0737052263137",
+        "upc_a": "737052263137",
+        "ean8": null,
+        "primary_code": "737052263137",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0737052263137",
+          "737052263137"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00737052263137",
+        "qr_payload_text": "https://id.gs1.org/01/00737052263137",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00737052263137",
+          "code": "737052263137",
+          "type": "UPC-A",
+          "brand": "Dolce and Gabbana",
+          "name": "Dolce & Gabbana L Imperatrice Eau de Toilette Perfume for Women 3.3 oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/073/705/226/3137/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dolce-and-gabbana/00737052263137.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 65.22
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0737052263137",
+        "upcitemdb_ean": "0737052263137",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03423471304359",
+      "product_name": "K eau de toilette masculine fragrance",
+      "image_url": "https://images.openbeautyfacts.org/images/products/342/347/130/4359/front_de.5.400.jpg",
+      "local_image_path": "images/dolce-and-gabbana/03423471304359.jpg",
+      "brand": {
+        "slug": "dolce-and-gabbana",
+        "display_name": "Dolce and Gabbana",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dolce%20and%20Gabbana",
+        "matched_raw_brands": [
+          "xx:dolce-gabbana"
+        ]
+      },
+      "product": {
+        "name": "K eau de toilette masculine fragrance",
+        "source_names": {
+          "openbeautyfacts": "K eau de toilette masculine fragrance"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/342/347/130/4359/front_de.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/342/347/130/4359/front_de.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/342/347/130/4359/front_de.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/342/347/130/4359/front_de.5.200.jpg"
+        ],
+        "local_image_path": "images/dolce-and-gabbana/03423471304359.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03423471304359",
+        "ean13": "3423471304359",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3423471304359",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3423471304359"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03423471304359",
+        "qr_payload_text": "https://id.gs1.org/01/03423471304359",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03423471304359",
+          "code": "3423471304359",
+          "type": "EAN-13",
+          "brand": "Dolce and Gabbana",
+          "name": "K eau de toilette masculine fragrance",
+          "image_url": "https://images.openbeautyfacts.org/images/products/342/347/130/4359/front_de.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dolce-and-gabbana/03423471304359.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3423471304359",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08057971183654",
+      "product_name": "Dolce & Gabbana Q EDP Kadın Parfüm 50 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/805/797/118/3654/front_en.4.400.jpg",
+      "local_image_path": "images/dolce-and-gabbana/08057971183654.jpg",
+      "brand": {
+        "slug": "dolce-and-gabbana",
+        "display_name": "Dolce and Gabbana",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dolce%20and%20Gabbana",
+        "matched_raw_brands": [
+          "xx:Dolce & Gabbana"
+        ]
+      },
+      "product": {
+        "name": "Dolce & Gabbana Q EDP Kadın Parfüm 50 ml",
+        "source_names": {
+          "openbeautyfacts": "Dolce & Gabbana Q EDP Kadın Parfüm 50 ml"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/805/797/118/3654/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/805/797/118/3654/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/805/797/118/3654/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/805/797/118/3654/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/dolce-and-gabbana/08057971183654.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08057971183654",
+        "ean13": "8057971183654",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8057971183654",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8057971183654"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08057971183654",
+        "qr_payload_text": "https://id.gs1.org/01/08057971183654",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08057971183654",
+          "code": "8057971183654",
+          "type": "EAN-13",
+          "brand": "Dolce and Gabbana",
+          "name": "Dolce & Gabbana Q EDP Kadın Parfüm 50 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/805/797/118/3654/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dolce-and-gabbana/08057971183654.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8057971183654",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08057971187843",
+      "product_name": "Dolce & Gabbana Q By D&G EDP Intense Kadın Parfüm 50 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/805/797/118/7843/front_en.4.400.jpg",
+      "local_image_path": "images/dolce-and-gabbana/08057971187843.jpg",
+      "brand": {
+        "slug": "dolce-and-gabbana",
+        "display_name": "Dolce and Gabbana",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dolce%20and%20Gabbana",
+        "matched_raw_brands": [
+          "xx:Dolce & Gabbana"
+        ]
+      },
+      "product": {
+        "name": "Dolce & Gabbana Q By D&G EDP Intense Kadın Parfüm 50 ml",
+        "source_names": {
+          "openbeautyfacts": "Dolce & Gabbana Q By D&G EDP Intense Kadın Parfüm 50 ml"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/805/797/118/7843/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/805/797/118/7843/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/805/797/118/7843/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/805/797/118/7843/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/dolce-and-gabbana/08057971187843.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08057971187843",
+        "ean13": "8057971187843",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8057971187843",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8057971187843"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08057971187843",
+        "qr_payload_text": "https://id.gs1.org/01/08057971187843",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08057971187843",
+          "code": "8057971187843",
+          "type": "EAN-13",
+          "brand": "Dolce and Gabbana",
+          "name": "Dolce & Gabbana Q By D&G EDP Intense Kadın Parfüm 50 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/805/797/118/7843/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dolce-and-gabbana/08057971187843.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8057971187843",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08719979527204",
+      "product_name": "Dolce & Gabbana Light Blue Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/871/997/952/7204/front_nl.3.400.jpg",
+      "local_image_path": "images/dolce-and-gabbana/08719979527204.jpg",
+      "brand": {
+        "slug": "dolce-and-gabbana",
+        "display_name": "Dolce and Gabbana",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dolce%20and%20Gabbana",
+        "matched_raw_brands": [
+          "dolce & gabbana"
+        ]
+      },
+      "product": {
+        "name": "Dolce & Gabbana Light Blue Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Dolce & Gabbana Light Blue Eau de Toilette"
+        },
+        "alternate_names": [
+          "De geur van Dolce & Gabbana Light Blue Eau de Toilette bestaat in het begin uit een fris, prikkelend en verslavend duo: heldere citroen en knapperige groene appel."
+        ],
+        "quantity": "100ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": "De geur van Dolce & Gabbana Light Blue Eau de Toilette bestaat in het begin uit een fris, prikkelend en verslavend duo: heldere citroen en knapperige groene appel.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/871/997/952/7204/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/871/997/952/7204/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/871/997/952/7204/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/871/997/952/7204/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/dolce-and-gabbana/08719979527204.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08719979527204",
+        "ean13": "8719979527204",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8719979527204",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8719979527204"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08719979527204",
+        "qr_payload_text": "https://id.gs1.org/01/08719979527204",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08719979527204",
+          "code": "8719979527204",
+          "type": "EAN-13",
+          "brand": "Dolce and Gabbana",
+          "name": "Dolce & Gabbana Light Blue Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/871/997/952/7204/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dolce-and-gabbana/08719979527204.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8719979527204",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08721321371229",
+      "product_name": "Dolce & Gabbana L'Imperatrice Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/1229/front_nl.3.400.jpg",
+      "local_image_path": "images/dolce-and-gabbana/08721321371229.jpg",
+      "brand": {
+        "slug": "dolce-and-gabbana",
+        "display_name": "Dolce and Gabbana",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Dolce%20and%20Gabbana",
+        "matched_raw_brands": [
+          "dolce & gabbana"
+        ]
+      },
+      "product": {
+        "name": "Dolce & Gabbana L'Imperatrice Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Dolce & Gabbana L'Imperatrice Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/1229/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/132/137/1229/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/132/137/1229/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/132/137/1229/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/dolce-and-gabbana/08721321371229.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08721321371229",
+        "ean13": "8721321371229",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8721321371229",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8721321371229"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08721321371229",
+        "qr_payload_text": "https://id.gs1.org/01/08721321371229",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08721321371229",
+          "code": "8721321371229",
+          "type": "EAN-13",
+          "brand": "Dolce and Gabbana",
+          "name": "Dolce & Gabbana L'Imperatrice Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/1229/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/dolce-and-gabbana/08721321371229.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8721321371229",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

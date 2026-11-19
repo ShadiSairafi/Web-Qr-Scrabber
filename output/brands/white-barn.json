@@ -1,0 +1,485 @@
+{
+  "brand_slug": "white-barn",
+  "display_name": "White Barn",
+  "letter_section": "W",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=White%20Barn",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00667553658050",
+      "product_name": "Gentle Gel Hand Soap",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "white-barn",
+        "display_name": "White Barn",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=White%20Barn",
+        "matched_raw_brands": [
+          "xx:white-barn"
+        ]
+      },
+      "product": {
+        "name": "Gentle Gel Hand Soap",
+        "source_names": {
+          "openbeautyfacts": "Gentle Gel Hand Soap"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00667553658050",
+        "ean13": "0667553658050",
+        "upc_a": "667553658050",
+        "ean8": null,
+        "primary_code": "667553658050",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0667553658050"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00667553658050",
+        "qr_payload_text": "https://id.gs1.org/01/00667553658050",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00667553658050",
+          "code": "667553658050",
+          "type": "UPC-A",
+          "brand": "White Barn",
+          "name": "Gentle Gel Hand Soap",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/white-barn/00667553658050.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0667553658050",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00667553705303",
+      "product_name": "Strawberry Pound Cake Foaming Soap",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "white-barn",
+        "display_name": "White Barn",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=White%20Barn",
+        "matched_raw_brands": [
+          "xx:white-barn"
+        ]
+      },
+      "product": {
+        "name": "Strawberry Pound Cake Foaming Soap",
+        "source_names": {
+          "openbeautyfacts": "Strawberry Pound Cake Foaming Soap"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00667553705303",
+        "ean13": "0667553705303",
+        "upc_a": "667553705303",
+        "ean8": null,
+        "primary_code": "667553705303",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0667553705303"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00667553705303",
+        "qr_payload_text": "https://id.gs1.org/01/00667553705303",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00667553705303",
+          "code": "667553705303",
+          "type": "UPC-A",
+          "brand": "White Barn",
+          "name": "Strawberry Pound Cake Foaming Soap",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/white-barn/00667553705303.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0667553705303",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00667556256925",
+      "product_name": "Champagne Toast",
+      "image_url": "https://images.openbeautyfacts.org/images/products/066/755/625/6925/front_en.4.400.jpg",
+      "local_image_path": "images/white-barn/00667556256925.jpg",
+      "brand": {
+        "slug": "white-barn",
+        "display_name": "White Barn",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=White%20Barn",
+        "matched_raw_brands": [
+          "xx:white-barn"
+        ]
+      },
+      "product": {
+        "name": "Champagne Toast",
+        "source_names": {
+          "openbeautyfacts": "Champagne Toast"
+        },
+        "alternate_names": [
+          "Handsoap"
+        ],
+        "quantity": "8 fl oz",
+        "categories": [
+          "Hygiene",
+          "Soaps"
+        ],
+        "description": "Handsoap",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/066/755/625/6925/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/066/755/625/6925/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/066/755/625/6925/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/066/755/625/6925/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/white-barn/00667556256925.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00667556256925",
+        "ean13": "0667556256925",
+        "upc_a": "667556256925",
+        "ean8": null,
+        "primary_code": "667556256925",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0667556256925"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00667556256925",
+        "qr_payload_text": "https://id.gs1.org/01/00667556256925",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00667556256925",
+          "code": "667556256925",
+          "type": "UPC-A",
+          "brand": "White Barn",
+          "name": "Champagne Toast",
+          "image_url": "https://images.openbeautyfacts.org/images/products/066/755/625/6925/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/white-barn/00667556256925.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0667556256925",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00667557015040",
+      "product_name": "White Tea & Sage Gentle Foaming Hand Soap with Essential Oils",
+      "image_url": "https://images.openbeautyfacts.org/images/products/066/755/701/5040/front_en.4.400.jpg",
+      "local_image_path": "images/white-barn/00667557015040.jpg",
+      "brand": {
+        "slug": "white-barn",
+        "display_name": "White Barn",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=White%20Barn",
+        "matched_raw_brands": [
+          "xx:white-barn"
+        ]
+      },
+      "product": {
+        "name": "White Tea & Sage Gentle Foaming Hand Soap with Essential Oils",
+        "source_names": {
+          "openbeautyfacts": "White Tea & Sage Gentle Foaming Hand Soap with Essential Oils"
+        },
+        "alternate_names": [],
+        "quantity": "259 mL",
+        "categories": [
+          "Hygiene",
+          "Soaps"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/066/755/701/5040/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/066/755/701/5040/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/066/755/701/5040/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/066/755/701/5040/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/white-barn/00667557015040.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00667557015040",
+        "ean13": "0667557015040",
+        "upc_a": "667557015040",
+        "ean8": null,
+        "primary_code": "667557015040",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0667557015040"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00667557015040",
+        "qr_payload_text": "https://id.gs1.org/01/00667557015040",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00667557015040",
+          "code": "667557015040",
+          "type": "UPC-A",
+          "brand": "White Barn",
+          "name": "White Tea & Sage Gentle Foaming Hand Soap with Essential Oils",
+          "image_url": "https://images.openbeautyfacts.org/images/products/066/755/701/5040/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/white-barn/00667557015040.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0667557015040",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00667559287339",
+      "product_name": "Champagne Toast Gentle & Clean Foaming Hand Soap",
+      "image_url": "https://images.openbeautyfacts.org/images/products/066/755/928/7339/front_en.8.400.jpg",
+      "local_image_path": "images/white-barn/00667559287339.jpg",
+      "brand": {
+        "slug": "white-barn",
+        "display_name": "White Barn",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=White%20Barn",
+        "matched_raw_brands": [
+          "xx:White Barn"
+        ]
+      },
+      "product": {
+        "name": "Champagne Toast Gentle & Clean Foaming Hand Soap",
+        "source_names": {
+          "openbeautyfacts": "Champagne Toast Gentle & Clean Foaming Hand Soap"
+        },
+        "alternate_names": [],
+        "quantity": "8.75FL OZ",
+        "categories": [
+          "Hygiene",
+          "Soaps"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/066/755/928/7339/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/066/755/928/7339/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/066/755/928/7339/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/066/755/928/7339/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/white-barn/00667559287339.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00667559287339",
+        "ean13": "0667559287339",
+        "upc_a": "667559287339",
+        "ean8": null,
+        "primary_code": "667559287339",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0667559287339"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00667559287339",
+        "qr_payload_text": "https://id.gs1.org/01/00667559287339",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00667559287339",
+          "code": "667559287339",
+          "type": "UPC-A",
+          "brand": "White Barn",
+          "name": "Champagne Toast Gentle & Clean Foaming Hand Soap",
+          "image_url": "https://images.openbeautyfacts.org/images/products/066/755/928/7339/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/white-barn/00667559287339.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0667559287339",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00667659361083",
+      "product_name": "Endless Weekend car fragrance refill",
+      "image_url": "https://images.openproductsfacts.org/images/products/066/765/936/1083/front_en.3.400.jpg",
+      "local_image_path": "images/white-barn/00667659361083.jpg",
+      "brand": {
+        "slug": "white-barn",
+        "display_name": "White Barn",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=White%20Barn",
+        "matched_raw_brands": [
+          "xx:White Barn"
+        ]
+      },
+      "product": {
+        "name": "Endless Weekend car fragrance refill",
+        "source_names": {
+          "openproductsfacts": "Endless Weekend car fragrance refill"
+        },
+        "alternate_names": [],
+        "quantity": "0.2 fl oz (6 mL)",
+        "categories": [
+          "Home Garden",
+          "Decor",
+          "Home Fragrances",
+          "Air Fresheners"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openproductsfacts.org/images/products/066/765/936/1083/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openproductsfacts.org/images/products/066/765/936/1083/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openproductsfacts.org/images/products/066/765/936/1083/front_en.3.400.jpg",
+          "https://images.openproductsfacts.org/images/products/066/765/936/1083/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/white-barn/00667659361083.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00667659361083",
+        "ean13": "0667659361083",
+        "upc_a": "667659361083",
+        "ean8": null,
+        "primary_code": "667659361083",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0667659361083"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00667659361083",
+        "qr_payload_text": "https://id.gs1.org/01/00667659361083",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00667659361083",
+          "code": "667659361083",
+          "type": "UPC-A",
+          "brand": "White Barn",
+          "name": "Endless Weekend car fragrance refill",
+          "image_url": "https://images.openproductsfacts.org/images/products/066/765/936/1083/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/white-barn/00667659361083.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.9,
+        "sources": [
+          "openproductsfacts"
+        ],
+        "match_methods": {
+          "openproductsfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z",
+        "openproductsfacts_url": "http://world-en.openproductsfacts.org/product/0667659361083/endless-weekend-car-fragrance-refill-white-barn"
+      }
+    }
+  ]
+}

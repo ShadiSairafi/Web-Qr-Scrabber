@@ -1,0 +1,485 @@
+{
+  "brand_slug": "the-inkey-list",
+  "display_name": "The INKEY List",
+  "letter_section": "T",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20INKEY%20List",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "05060422297346",
+      "product_name": "Vitamin B, C and E moisturizer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/042/229/7346/front_en.14.400.jpg",
+      "local_image_path": "images/the-inkey-list/05060422297346.jpg",
+      "brand": {
+        "slug": "the-inkey-list",
+        "display_name": "The INKEY List",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20INKEY%20List",
+        "matched_raw_brands": [
+          "xx:the-inkey-list"
+        ]
+      },
+      "product": {
+        "name": "Vitamin B, C and E moisturizer",
+        "source_names": {
+          "openbeautyfacts": "Vitamin B, C and E moisturizer"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Body",
+          "Face",
+          "Body Creams",
+          "Facial Creams",
+          "كريمات مرطبة"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/042/229/7346/front_en.14.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/042/229/7346/front_en.14.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/042/229/7346/front_en.14.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/042/229/7346/front_en.14.200.jpg"
+        ],
+        "local_image_path": "images/the-inkey-list/05060422297346.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060422297346",
+        "ean13": "5060422297346",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060422297346",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060422297346"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060422297346",
+        "qr_payload_text": "https://id.gs1.org/01/05060422297346",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060422297346",
+          "code": "5060422297346",
+          "type": "EAN-13",
+          "brand": "The INKEY List",
+          "name": "Vitamin B, C and E moisturizer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/042/229/7346/front_en.14.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-inkey-list/05060422297346.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060422297346",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060422298688",
+      "product_name": "Spf 30 Daily Sunscreen",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "the-inkey-list",
+        "display_name": "The INKEY List",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20INKEY%20List",
+        "matched_raw_brands": [
+          "xx:The inkey list"
+        ]
+      },
+      "product": {
+        "name": "Spf 30 Daily Sunscreen",
+        "source_names": {
+          "openbeautyfacts": "Spf 30 Daily Sunscreen"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "05060422298688",
+        "ean13": "5060422298688",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060422298688",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060422298688"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060422298688",
+        "qr_payload_text": "https://id.gs1.org/01/05060422298688",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060422298688",
+          "code": "5060422298688",
+          "type": "EAN-13",
+          "brand": "The INKEY List",
+          "name": "Spf 30 Daily Sunscreen",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-inkey-list/05060422298688.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060422298688",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060879820685",
+      "product_name": "Retinol Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/0685/front_en.3.400.jpg",
+      "local_image_path": "images/the-inkey-list/05060879820685.jpg",
+      "brand": {
+        "slug": "the-inkey-list",
+        "display_name": "The INKEY List",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20INKEY%20List",
+        "matched_raw_brands": [
+          "xx:the-inkey-list"
+        ]
+      },
+      "product": {
+        "name": "Retinol Serum",
+        "source_names": {
+          "openbeautyfacts": "Retinol Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/0685/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/087/982/0685/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/087/982/0685/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/087/982/0685/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-inkey-list/05060879820685.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060879820685",
+        "ean13": "5060879820685",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060879820685",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060879820685"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060879820685",
+        "qr_payload_text": "https://id.gs1.org/01/05060879820685",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060879820685",
+          "code": "5060879820685",
+          "type": "EAN-13",
+          "brand": "The INKEY List",
+          "name": "Retinol Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/0685/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-inkey-list/05060879820685.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060879820685",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060879821989",
+      "product_name": "Vitamin B, C and E moisturizer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/1989/front_en.3.400.jpg",
+      "local_image_path": "images/the-inkey-list/05060879821989.jpg",
+      "brand": {
+        "slug": "the-inkey-list",
+        "display_name": "The INKEY List",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20INKEY%20List",
+        "matched_raw_brands": [
+          "xx:the-inkey-list"
+        ]
+      },
+      "product": {
+        "name": "Vitamin B, C and E moisturizer",
+        "source_names": {
+          "openbeautyfacts": "Vitamin B, C and E moisturizer"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Body",
+          "Face",
+          "Body Creams",
+          "Facial Creams",
+          "كريمات مرطبة"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/1989/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/087/982/1989/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/087/982/1989/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/087/982/1989/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-inkey-list/05060879821989.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060879821989",
+        "ean13": "5060879821989",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060879821989",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060879821989"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060879821989",
+        "qr_payload_text": "https://id.gs1.org/01/05060879821989",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060879821989",
+          "code": "5060879821989",
+          "type": "EAN-13",
+          "brand": "The INKEY List",
+          "name": "Vitamin B, C and E moisturizer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/1989/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-inkey-list/05060879821989.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060879821989",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05060879828872",
+      "product_name": "Oat Balm Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/8872/front_en.3.400.jpg",
+      "local_image_path": "images/the-inkey-list/05060879828872.jpg",
+      "brand": {
+        "slug": "the-inkey-list",
+        "display_name": "The INKEY List",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20INKEY%20List",
+        "matched_raw_brands": [
+          "xx:THE INKEY LIST"
+        ]
+      },
+      "product": {
+        "name": "Oat Balm Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Oat Balm Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/8872/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/087/982/8872/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/087/982/8872/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/087/982/8872/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-inkey-list/05060879828872.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05060879828872",
+        "ean13": "5060879828872",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5060879828872",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5060879828872"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05060879828872",
+        "qr_payload_text": "https://id.gs1.org/01/05060879828872",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05060879828872",
+          "code": "5060879828872",
+          "type": "EAN-13",
+          "brand": "The INKEY List",
+          "name": "Oat Balm Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/087/982/8872/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-inkey-list/05060879828872.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5060879828872",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05061087560738",
+      "product_name": "Starter retinol serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/506/108/756/0738/front_en.3.400.jpg",
+      "local_image_path": "images/the-inkey-list/05061087560738.jpg",
+      "brand": {
+        "slug": "the-inkey-list",
+        "display_name": "The INKEY List",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20INKEY%20List",
+        "matched_raw_brands": [
+          "xx:the-inkey-list"
+        ]
+      },
+      "product": {
+        "name": "Starter retinol serum",
+        "source_names": {
+          "openbeautyfacts": "Starter retinol serum"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Anti Aging Face Care Products",
+          "Anti Wrinkles Creams",
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/506/108/756/0738/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/506/108/756/0738/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/506/108/756/0738/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/506/108/756/0738/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-inkey-list/05061087560738.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05061087560738",
+        "ean13": "5061087560738",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5061087560738",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5061087560738"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05061087560738",
+        "qr_payload_text": "https://id.gs1.org/01/05061087560738",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05061087560738",
+          "code": "5061087560738",
+          "type": "EAN-13",
+          "brand": "The INKEY List",
+          "name": "Starter retinol serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/506/108/756/0738/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-inkey-list/05061087560738.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5061087560738",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

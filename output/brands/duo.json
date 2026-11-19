@@ -1,0 +1,121 @@
+{
+  "brand_slug": "duo",
+  "display_name": "DUO",
+  "letter_section": "D",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=DUO",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00073930568964",
+      "product_name": "DUO Brush-On Strip Lash Adhesive Dark Tone 0.18 oz 2-Packs",
+      "image_url": "https://images.openbeautyfacts.org/images/products/007/393/056/8964/front_en.3.400.jpg",
+      "local_image_path": "images/duo/00073930568964.jpg",
+      "brand": {
+        "slug": "duo",
+        "display_name": "DUO",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=DUO",
+        "matched_raw_brands": [
+          "xx:duo",
+          "DUO"
+        ]
+      },
+      "product": {
+        "name": "DUO Brush-On Strip Lash Adhesive Dark Tone 0.18 oz 2-Packs",
+        "source_names": {
+          "openbeautyfacts": "Brush-on Striplash Adhesive with Vitamins - Dark",
+          "upcitemdb": "DUO Brush-On Strip Lash Adhesive Dark Tone 0.18 oz 2-Packs"
+        },
+        "alternate_names": [
+          "Brush-on Striplash Adhesive with Vitamins - Dark",
+          "Ardell Duo Dark Brush on Adhesive",
+          "Ardell Brush On Adhesive - 0.0 oz",
+          "DUO Brush On Striplash Adhesive - Dark Tone",
+          "Duo Brush On Adhesive, Dark, .18 oz",
+          "Duo Brush-On Eyelash Adhesive Glue"
+        ],
+        "quantity": "5 g",
+        "categories": [
+          "Makeup",
+          "Face",
+          "Face Makeup",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Eye Makeup",
+          "False Eyelashes"
+        ],
+        "description": "Applying lashes has never been easier with DUO Brush-on Striplash Adhesive! Perfect for people with darker lashes this DUO glue features a latex free hypoallergenic formula that provides a long-lasting strong hold for your false eyelashes. It dries faster with the same superior and effective lash bonding formula! Works best in all lash styles.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/007/393/056/8964/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/007/393/056/8964/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/007/393/056/8964/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/007/393/056/8964/front_en.3.200.jpg",
+          "http://www.sallybeauty.com/dw/image/v2/AABJ_PRD/on/demandware.static/-/Sites-SBS-SallyBeautySupply/default/dwf205b93d/images/large/SBS-240136.jpg?sw=200&sh=200&sm=fit&sfrm=png",
+          "https://pics.walgreens.com/prodimg/573285/450.jpg",
+          "http://pics2.ds-static.com/prodimg/573285/300.Jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/15301348_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/17cf5950-f300-429c-bb17-9c46a40004ea.8ecd2e9d9fa54d9c177f98fd208dbffd.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://i5.walmartimages.com/asr/e6306df9-7222-47fb-ab44-43797079497a.c3d67ad559ff359bdfe7ccbc7865d1f1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "http://images10.newegg.com/ProductImageCompressAll200/A536_1_20151111564268167.jpg",
+          "https://ii.beautybrands.com/fcgi-bin/iipsrv.fcgi?FIF=/images/beautybrands/source/20461_default.tif&wid=350&cvt=jpeg",
+          "https://cdn8.bigcommerce.com/s-hmhnh4h9/product_images/attribute_rule_images/224531_source_1472572257.jpg",
+          "https://www.cvs.com/bizcontent/merchandising/productimages/large/7393056896.jpg"
+        ],
+        "local_image_path": "images/duo/00073930568964.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00073930568964",
+        "ean13": "0073930568964",
+        "upc_a": "073930568964",
+        "ean8": null,
+        "primary_code": "073930568964",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0073930568964",
+          "073930568964"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00073930568964",
+        "qr_payload_text": "https://id.gs1.org/01/00073930568964",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00073930568964",
+          "code": "073930568964",
+          "type": "UPC-A",
+          "brand": "DUO",
+          "name": "DUO Brush-On Strip Lash Adhesive Dark Tone 0.18 oz 2-Packs",
+          "image_url": "https://images.openbeautyfacts.org/images/products/007/393/056/8964/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/duo/00073930568964.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 64.15
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0073930568964",
+        "upcitemdb_ean": "0073930568964",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

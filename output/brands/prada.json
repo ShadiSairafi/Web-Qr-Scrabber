@@ -1,0 +1,792 @@
+{
+  "brand_slug": "prada",
+  "display_name": "Prada",
+  "letter_section": "P",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+  "product_count": 10,
+  "canonical_product_count": 10,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "03614273478748",
+      "product_name": "Prada Luna Rossa Pour Homme - Eau de Toilette 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/347/8748/front_nl.3.400.jpg",
+      "local_image_path": "images/prada/03614273478748.jpg",
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada Luna Rossa Pour Homme - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Prada Luna Rossa Pour Homme - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/347/8748/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/347/8748/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/347/8748/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/347/8748/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/prada/03614273478748.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614273478748",
+        "ean13": "3614273478748",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273478748",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273478748"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273478748",
+        "qr_payload_text": "https://id.gs1.org/01/03614273478748",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273478748",
+          "code": "3614273478748",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada Luna Rossa Pour Homme - Eau de Toilette 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/347/8748/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/03614273478748.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273478748",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273478755",
+      "product_name": "Prada Luna Rossa Pour Homme - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada Luna Rossa Pour Homme - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Prada Luna Rossa Pour Homme - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273478755",
+        "ean13": "3614273478755",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273478755",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273478755"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273478755",
+        "qr_payload_text": "https://id.gs1.org/01/03614273478755",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273478755",
+          "code": "3614273478755",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada Luna Rossa Pour Homme - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/03614273478755.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273478755",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273544962",
+      "product_name": "Prada Luna Rossa Sport Pour Homme - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada Luna Rossa Sport Pour Homme - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Prada Luna Rossa Sport Pour Homme - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273544962",
+        "ean13": "3614273544962",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273544962",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273544962"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273544962",
+        "qr_payload_text": "https://id.gs1.org/01/03614273544962",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273544962",
+          "code": "3614273544962",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada Luna Rossa Sport Pour Homme - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/03614273544962.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273544962",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273556187",
+      "product_name": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273556187",
+        "ean13": "3614273556187",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273556187",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273556187"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273556187",
+        "qr_payload_text": "https://id.gs1.org/01/03614273556187",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273556187",
+          "code": "3614273556187",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/03614273556187.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273556187",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273556620",
+      "product_name": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273556620",
+        "ean13": "3614273556620",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273556620",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273556620"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273556620",
+        "qr_payload_text": "https://id.gs1.org/01/03614273556620",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273556620",
+          "code": "3614273556620",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada Luna Rossa Ocean Pour Homme - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/03614273556620.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273556620",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273768832",
+      "product_name": "Prada Luna Rossa Ocean Pour Homme - Eau de Parfum 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada Luna Rossa Ocean Pour Homme - Eau de Parfum 100ml",
+        "source_names": {
+          "openbeautyfacts": "Prada Luna Rossa Ocean Pour Homme - Eau de Parfum 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Herenparfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273768832",
+        "ean13": "3614273768832",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273768832",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273768832"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273768832",
+        "qr_payload_text": "https://id.gs1.org/01/03614273768832",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273768832",
+          "code": "3614273768832",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada Luna Rossa Ocean Pour Homme - Eau de Parfum 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/03614273768832.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273768832",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08435137737833",
+      "product_name": "Eau de toilette luna rossa",
+      "image_url": "https://images.openbeautyfacts.org/images/products/843/513/773/7833/front_fr.6.400.jpg",
+      "local_image_path": "images/prada/08435137737833.jpg",
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "xx:prada"
+        ]
+      },
+      "product": {
+        "name": "Eau de toilette luna rossa",
+        "source_names": {
+          "openbeautyfacts": "Eau de toilette luna rossa"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/843/513/773/7833/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/843/513/773/7833/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/843/513/773/7833/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/843/513/773/7833/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/prada/08435137737833.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08435137737833",
+        "ean13": "8435137737833",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8435137737833",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8435137737833"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08435137737833",
+        "qr_payload_text": "https://id.gs1.org/01/08435137737833",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08435137737833",
+          "code": "8435137737833",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Eau de toilette luna rossa",
+          "image_url": "https://images.openbeautyfacts.org/images/products/843/513/773/7833/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/08435137737833.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8435137737833",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08435137765362",
+      "product_name": "Prada L'Homme L'Eau - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada L'Homme L'Eau - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Prada L'Homme L'Eau - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08435137765362",
+        "ean13": "8435137765362",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8435137765362",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8435137765362"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08435137765362",
+        "qr_payload_text": "https://id.gs1.org/01/08435137765362",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08435137765362",
+          "code": "8435137765362",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada L'Homme L'Eau - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/08435137765362.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8435137765362",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847717542",
+      "product_name": "Prada L'Homme L'Eau Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7542/front_nl.3.400.jpg",
+      "local_image_path": "images/prada/08720847717542.jpg",
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada L'Homme L'Eau Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Prada L'Homme L'Eau Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7542/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7542/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/7542/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/7542/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/prada/08720847717542.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847717542",
+        "ean13": "8720847717542",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847717542",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847717542"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847717542",
+        "qr_payload_text": "https://id.gs1.org/01/08720847717542",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847717542",
+          "code": "8720847717542",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada L'Homme L'Eau Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7542/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/08720847717542.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847717542",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847717559",
+      "product_name": "Prada Ocean Luna Rossa Homme Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7559/front_nl.3.400.jpg",
+      "local_image_path": "images/prada/08720847717559.jpg",
+      "brand": {
+        "slug": "prada",
+        "display_name": "Prada",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Prada",
+        "matched_raw_brands": [
+          "prada"
+        ]
+      },
+      "product": {
+        "name": "Prada Ocean Luna Rossa Homme Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Prada Ocean Luna Rossa Homme Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7559/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7559/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/7559/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/7559/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/prada/08720847717559.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847717559",
+        "ean13": "8720847717559",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847717559",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847717559"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847717559",
+        "qr_payload_text": "https://id.gs1.org/01/08720847717559",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847717559",
+          "code": "8720847717559",
+          "type": "EAN-13",
+          "brand": "Prada",
+          "name": "Prada Ocean Luna Rossa Homme Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7559/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/prada/08720847717559.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847717559",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

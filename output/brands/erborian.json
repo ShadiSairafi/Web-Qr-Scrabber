@@ -1,0 +1,635 @@
+{
+  "brand_slug": "erborian",
+  "display_name": "Erborian",
+  "letter_section": "E",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+  "product_count": 8,
+  "canonical_product_count": 8,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00849055183265",
+      "product_name": "Black cleansing oil",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "Black cleansing oil",
+        "source_names": {
+          "openbeautyfacts": "Black cleansing oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Visage"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00849055183265",
+        "ean13": "0849055183265",
+        "upc_a": "849055183265",
+        "ean8": null,
+        "primary_code": "849055183265",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0849055183265"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00849055183265",
+        "qr_payload_text": "https://id.gs1.org/01/00849055183265",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00849055183265",
+          "code": "849055183265",
+          "type": "UPC-A",
+          "brand": "Erborian",
+          "name": "Black cleansing oil",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/00849055183265.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0849055183265",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03760239240987",
+      "product_name": "Solid Cleansing Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/376/023/924/0987/front_en.3.400.jpg",
+      "local_image_path": "images/erborian/03760239240987.jpg",
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "Solid Cleansing Oil",
+        "source_names": {
+          "openbeautyfacts": "Solid Cleansing Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/376/023/924/0987/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/376/023/924/0987/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/376/023/924/0987/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/376/023/924/0987/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/erborian/03760239240987.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03760239240987",
+        "ean13": "3760239240987",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3760239240987",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3760239240987"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03760239240987",
+        "qr_payload_text": "https://id.gs1.org/01/03760239240987",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03760239240987",
+          "code": "3760239240987",
+          "type": "EAN-13",
+          "brand": "Erborian",
+          "name": "Solid Cleansing Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/376/023/924/0987/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/03760239240987.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3760239240987",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03760239242035",
+      "product_name": "Masque visage sublimant au magnolia",
+      "image_url": "https://images.openbeautyfacts.org/images/products/376/023/924/2035/front_fr.4.400.jpg",
+      "local_image_path": "images/erborian/03760239242035.jpg",
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "Masque visage sublimant au magnolia",
+        "source_names": {
+          "openbeautyfacts": "Masque visage sublimant au magnolia"
+        },
+        "alternate_names": [],
+        "quantity": "200 mL",
+        "categories": [
+          "Face",
+          "Face Masks"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/376/023/924/2035/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/376/023/924/2035/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/376/023/924/2035/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/376/023/924/2035/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/erborian/03760239242035.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03760239242035",
+        "ean13": "3760239242035",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3760239242035",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3760239242035"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03760239242035",
+        "qr_payload_text": "https://id.gs1.org/01/03760239242035",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03760239242035",
+          "code": "3760239242035",
+          "type": "EAN-13",
+          "brand": "Erborian",
+          "name": "Masque visage sublimant au magnolia",
+          "image_url": "https://images.openbeautyfacts.org/images/products/376/023/924/2035/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/03760239242035.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3760239242035",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809255780338",
+      "product_name": "BB Eye",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_en.6.400.jpg",
+      "local_image_path": "images/erborian/08809255780338.jpg",
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "BB Eye",
+        "source_names": {
+          "openbeautyfacts": "BB Eye"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Face",
+          "Contours Des Yeux"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_en.6.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_fr.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_fr.9.200.jpg"
+        ],
+        "local_image_path": "images/erborian/08809255780338.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809255780338",
+        "ean13": "8809255780338",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809255780338",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809255780338"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809255780338",
+        "qr_payload_text": "https://id.gs1.org/01/08809255780338",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809255780338",
+          "code": "8809255780338",
+          "type": "EAN-13",
+          "brand": "Erborian",
+          "name": "BB Eye",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0338/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/08809255780338.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809255780338",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809255780376",
+      "product_name": "BB crème au ginseng korean formula",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_en.3.400.jpg",
+      "local_image_path": "images/erborian/08809255780376.jpg",
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "BB crème au ginseng korean formula",
+        "source_names": {
+          "openbeautyfacts": "BB crème au ginseng korean formula"
+        },
+        "alternate_names": [],
+        "quantity": "15 ml",
+        "categories": [
+          "Makeup",
+          "Face Makeup",
+          "Bb Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_en.3.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/erborian/08809255780376.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809255780376",
+        "ean13": "8809255780376",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809255780376",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809255780376"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809255780376",
+        "qr_payload_text": "https://id.gs1.org/01/08809255780376",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809255780376",
+          "code": "8809255780376",
+          "type": "EAN-13",
+          "brand": "Erborian",
+          "name": "BB crème au ginseng korean formula",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/0376/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/08809255780376.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809255780376",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809255781908",
+      "product_name": "Black Scrub MASK",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/1908/front_fr.4.400.jpg",
+      "local_image_path": "images/erborian/08809255781908.jpg",
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "Black Scrub MASK",
+        "source_names": {
+          "openbeautyfacts": "Black Scrub MASK"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/1908/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/925/578/1908/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/925/578/1908/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/1908/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/erborian/08809255781908.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809255781908",
+        "ean13": "8809255781908",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809255781908",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809255781908"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809255781908",
+        "qr_payload_text": "https://id.gs1.org/01/08809255781908",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809255781908",
+          "code": "8809255781908",
+          "type": "EAN-13",
+          "brand": "Erborian",
+          "name": "Black Scrub MASK",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/1908/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/08809255781908.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809255781908",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809255783698",
+      "product_name": "Matte crème au nymphéa alba",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3698/front_fr.5.400.jpg",
+      "local_image_path": "images/erborian/08809255783698.jpg",
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "Matte crème au nymphéa alba",
+        "source_names": {
+          "openbeautyfacts": "Matte crème au nymphéa alba"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3698/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3698/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/925/578/3698/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/3698/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/erborian/08809255783698.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809255783698",
+        "ean13": "8809255783698",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809255783698",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809255783698"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809255783698",
+        "qr_payload_text": "https://id.gs1.org/01/08809255783698",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809255783698",
+          "code": "8809255783698",
+          "type": "EAN-13",
+          "brand": "Erborian",
+          "name": "Matte crème au nymphéa alba",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3698/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/08809255783698.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809255783698",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809255783865",
+      "product_name": "Black Cleansing Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3865/front_en.3.400.jpg",
+      "local_image_path": "images/erborian/08809255783865.jpg",
+      "brand": {
+        "slug": "erborian",
+        "display_name": "Erborian",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Erborian",
+        "matched_raw_brands": [
+          "xx:erborian"
+        ]
+      },
+      "product": {
+        "name": "Black Cleansing Oil",
+        "source_names": {
+          "openbeautyfacts": "Black Cleansing Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3865/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3865/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/925/578/3865/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/925/578/3865/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/erborian/08809255783865.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809255783865",
+        "ean13": "8809255783865",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809255783865",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809255783865"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809255783865",
+        "qr_payload_text": "https://id.gs1.org/01/08809255783865",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809255783865",
+          "code": "8809255783865",
+          "type": "EAN-13",
+          "brand": "Erborian",
+          "name": "Black Cleansing Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/925/578/3865/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/erborian/08809255783865.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809255783865",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

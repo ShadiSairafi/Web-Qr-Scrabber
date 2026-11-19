@@ -1,0 +1,93 @@
+{
+  "brand_slug": "osea",
+  "display_name": "Osea",
+  "letter_section": "O",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Osea",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00615037000338",
+      "product_name": "Undaria algae body oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/061/503/700/0338/front_en.3.400.jpg",
+      "local_image_path": "images/osea/00615037000338.jpg",
+      "brand": {
+        "slug": "osea",
+        "display_name": "Osea",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Osea",
+        "matched_raw_brands": [
+          "xx:osea"
+        ]
+      },
+      "product": {
+        "name": "Undaria algae body oil",
+        "source_names": {
+          "openbeautyfacts": "Undaria algae body oil"
+        },
+        "alternate_names": [],
+        "quantity": "5oz",
+        "categories": [
+          "Body",
+          "Body Oils"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/061/503/700/0338/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/061/503/700/0338/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/061/503/700/0338/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/061/503/700/0338/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/osea/00615037000338.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00615037000338",
+        "ean13": "0615037000338",
+        "upc_a": "615037000338",
+        "ean8": null,
+        "primary_code": "615037000338",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0615037000338"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00615037000338",
+        "qr_payload_text": "https://id.gs1.org/01/00615037000338",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00615037000338",
+          "code": "615037000338",
+          "type": "UPC-A",
+          "brand": "Osea",
+          "name": "Undaria algae body oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/061/503/700/0338/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/osea/00615037000338.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0615037000338",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

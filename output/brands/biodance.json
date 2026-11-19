@@ -1,0 +1,410 @@
+{
+  "brand_slug": "biodance",
+  "display_name": "Biodance",
+  "letter_section": "B",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biodance",
+  "product_count": 5,
+  "canonical_product_count": 5,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "08809891184583",
+      "product_name": "Biodance Radiant Vita Niacinamide Mask",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4583/front_nl.3.400.jpg",
+      "local_image_path": "images/biodance/08809891184583.jpg",
+      "brand": {
+        "slug": "biodance",
+        "display_name": "Biodance",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biodance",
+        "matched_raw_brands": [
+          "biodance"
+        ]
+      },
+      "product": {
+        "name": "Biodance Radiant Vita Niacinamide Mask",
+        "source_names": {
+          "openbeautyfacts": "Biodance Radiant Vita Niacinamide Mask"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Gezichtsmaskers",
+          "Sheet Maskers",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4583/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4583/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/989/118/4583/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/989/118/4583/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/biodance/08809891184583.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809891184583",
+        "ean13": "8809891184583",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809891184583",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809891184583"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809891184583",
+        "qr_payload_text": "https://id.gs1.org/01/08809891184583",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809891184583",
+          "code": "8809891184583",
+          "type": "EAN-13",
+          "brand": "Biodance",
+          "name": "Biodance Radiant Vita Niacinamide Mask",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4583/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biodance/08809891184583.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809891184583",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809891184613",
+      "product_name": "Biodance Rejuvenating Caviar PDRN Real Deep Mask Pack (4 stuks)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4613/front_en.4.400.jpg",
+      "local_image_path": "images/biodance/08809891184613.jpg",
+      "brand": {
+        "slug": "biodance",
+        "display_name": "Biodance",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biodance",
+        "matched_raw_brands": [
+          "xx:Biodance"
+        ]
+      },
+      "product": {
+        "name": "Biodance Rejuvenating Caviar PDRN Real Deep Mask Pack (4 stuks)",
+        "source_names": {
+          "openbeautyfacts": "Biodance Rejuvenating Caviar PDRN Real Deep Mask Pack (4 stuks)"
+        },
+        "alternate_names": [],
+        "quantity": "4 ea",
+        "categories": [
+          "Beauty",
+          "Korean Beauty",
+          "Korean Skincare",
+          "Korean Gezichtsmaskers"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4613/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4613/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/989/118/4613/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/989/118/4613/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/biodance/08809891184613.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809891184613",
+        "ean13": "8809891184613",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809891184613",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809891184613"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809891184613",
+        "qr_payload_text": "https://id.gs1.org/01/08809891184613",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809891184613",
+          "code": "8809891184613",
+          "type": "EAN-13",
+          "brand": "Biodance",
+          "name": "Biodance Rejuvenating Caviar PDRN Real Deep Mask Pack (4 stuks)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/4613/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biodance/08809891184613.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809891184613",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809891186662",
+      "product_name": "Biodance Collagen Peptide Eye patches",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/6662/front_en.3.400.jpg",
+      "local_image_path": "images/biodance/08809891186662.jpg",
+      "brand": {
+        "slug": "biodance",
+        "display_name": "Biodance",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biodance",
+        "matched_raw_brands": [
+          "xx:biodance"
+        ]
+      },
+      "product": {
+        "name": "Biodance Collagen Peptide Eye patches",
+        "source_names": {
+          "openbeautyfacts": "Biodance Collagen Peptide Eye patches"
+        },
+        "alternate_names": [],
+        "quantity": "85g",
+        "categories": [
+          "Peptide Eye Patches"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/6662/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/989/118/6662/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/989/118/6662/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/989/118/6662/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/biodance/08809891186662.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809891186662",
+        "ean13": "8809891186662",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809891186662",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809891186662"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809891186662",
+        "qr_payload_text": "https://id.gs1.org/01/08809891186662",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809891186662",
+          "code": "8809891186662",
+          "type": "EAN-13",
+          "brand": "Biodance",
+          "name": "Biodance Collagen Peptide Eye patches",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/989/118/6662/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biodance/08809891186662.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809891186662",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809937361060",
+      "product_name": "Biodance Bio Collagen-Real Deep Mask",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1060/front_en.5.400.jpg",
+      "local_image_path": "images/biodance/08809937361060.jpg",
+      "brand": {
+        "slug": "biodance",
+        "display_name": "Biodance",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biodance",
+        "matched_raw_brands": [
+          "xx:Biodance"
+        ]
+      },
+      "product": {
+        "name": "Biodance Bio Collagen-Real Deep Mask",
+        "source_names": {
+          "openbeautyfacts": "Biodance Bio Collagen-Real Deep Mask"
+        },
+        "alternate_names": [],
+        "quantity": "4 ea",
+        "categories": [
+          "Facial Sheet Mask"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1060/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1060/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/993/736/1060/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/993/736/1060/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/biodance/08809937361060.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809937361060",
+        "ean13": "8809937361060",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809937361060",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809937361060"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809937361060",
+        "qr_payload_text": "https://id.gs1.org/01/08809937361060",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809937361060",
+          "code": "8809937361060",
+          "type": "EAN-13",
+          "brand": "Biodance",
+          "name": "Biodance Bio Collagen-Real Deep Mask",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1060/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biodance/08809937361060.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809937361060",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809937361466",
+      "product_name": "Biodance Radiant Vita Niacinamide Mask",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1466/front_en.3.400.jpg",
+      "local_image_path": "images/biodance/08809937361466.jpg",
+      "brand": {
+        "slug": "biodance",
+        "display_name": "Biodance",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Biodance",
+        "matched_raw_brands": [
+          "xx:Biodance"
+        ]
+      },
+      "product": {
+        "name": "Biodance Radiant Vita Niacinamide Mask",
+        "source_names": {
+          "openbeautyfacts": "Biodance Radiant Vita Niacinamide Mask"
+        },
+        "alternate_names": [],
+        "quantity": "4 ea",
+        "categories": [
+          "Facial Sheet Mask"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1466/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1466/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/993/736/1466/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/993/736/1466/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/biodance/08809937361466.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809937361466",
+        "ean13": "8809937361466",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809937361466",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809937361466"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809937361466",
+        "qr_payload_text": "https://id.gs1.org/01/08809937361466",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809937361466",
+          "code": "8809937361466",
+          "type": "EAN-13",
+          "brand": "Biodance",
+          "name": "Biodance Radiant Vita Niacinamide Mask",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/993/736/1466/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/biodance/08809937361466.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809937361466",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

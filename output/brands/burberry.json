@@ -1,0 +1,1185 @@
+{
+  "brand_slug": "burberry",
+  "display_name": "Burberry",
+  "letter_section": "B",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+  "product_count": 15,
+  "canonical_product_count": 15,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "03386460008747",
+      "product_name": "The Beat",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/646/000/8747/front_fr.6.400.jpg",
+      "local_image_path": "images/burberry/03386460008747.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "xx:burberry"
+        ]
+      },
+      "product": {
+        "name": "The Beat",
+        "source_names": {
+          "openbeautyfacts": "The Beat"
+        },
+        "alternate_names": [
+          "Lait parfumé pour le corps"
+        ],
+        "quantity": "100 mL",
+        "categories": [
+          "Body",
+          "Body Milks"
+        ],
+        "description": "Lait parfumé pour le corps",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/646/000/8747/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/646/000/8747/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/646/000/8747/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/646/000/8747/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/burberry/03386460008747.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03386460008747",
+        "ean13": "3386460008747",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3386460008747",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3386460008747"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03386460008747",
+        "qr_payload_text": "https://id.gs1.org/01/03386460008747",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03386460008747",
+          "code": "3386460008747",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "The Beat",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/646/000/8747/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03386460008747.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3386460008747",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614226904966",
+      "product_name": "Burberry Brit Sheer For Her - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Brit Sheer For Her - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Brit Sheer For Her - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614226904966",
+        "ean13": "3614226904966",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614226904966",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614226904966"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614226904966",
+        "qr_payload_text": "https://id.gs1.org/01/03614226904966",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614226904966",
+          "code": "3614226904966",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Brit Sheer For Her - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614226904966.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614226904966",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614226905062",
+      "product_name": "Brit For Her Eau de Parfum",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "xx:Burberry"
+        ]
+      },
+      "product": {
+        "name": "Brit For Her Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Brit For Her Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Eau De Parfum",
+          "Fragrances",
+          "Perfumes",
+          "Women'S Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614226905062",
+        "ean13": "3614226905062",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614226905062",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614226905062"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614226905062",
+        "qr_payload_text": "https://id.gs1.org/01/03614226905062",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614226905062",
+          "code": "3614226905062",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Brit For Her Eau de Parfum",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614226905062.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614226905062",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614226905253",
+      "product_name": "Burberry Brit For Women - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Brit For Women - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Brit For Women - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614226905253",
+        "ean13": "3614226905253",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614226905253",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614226905253"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614226905253",
+        "qr_payload_text": "https://id.gs1.org/01/03614226905253",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614226905253",
+          "code": "3614226905253",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Brit For Women - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614226905253.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614226905253",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614227552999",
+      "product_name": "Her body lotion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/755/2999/front_fr.3.400.jpg",
+      "local_image_path": "images/burberry/03614227552999.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "xx:burberry"
+        ]
+      },
+      "product": {
+        "name": "Her body lotion",
+        "source_names": {
+          "openbeautyfacts": "Her body lotion"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/755/2999/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/755/2999/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/755/2999/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/755/2999/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/burberry/03614227552999.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614227552999",
+        "ean13": "3614227552999",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614227552999",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614227552999"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614227552999",
+        "qr_payload_text": "https://id.gs1.org/01/03614227552999",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614227552999",
+          "code": "3614227552999",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Her body lotion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/755/2999/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614227552999.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614227552999",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614227693876",
+      "product_name": "Burberry Her - Eau de Parfum 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Her - Eau de Parfum 100ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Her - Eau de Parfum 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614227693876",
+        "ean13": "3614227693876",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614227693876",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614227693876"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614227693876",
+        "qr_payload_text": "https://id.gs1.org/01/03614227693876",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614227693876",
+          "code": "3614227693876",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Her - Eau de Parfum 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614227693876.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614227693876",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614227748446",
+      "product_name": "Weekend Eau De Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/774/8446/front_en.6.400.jpg",
+      "local_image_path": "images/burberry/03614227748446.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "xx:burberry"
+        ]
+      },
+      "product": {
+        "name": "Weekend Eau De Toilette",
+        "source_names": {
+          "openbeautyfacts": "Weekend Eau De Toilette"
+        },
+        "alternate_names": [
+          "Burberry Weekend For Men - Eau de Toilette 100ml"
+        ],
+        "quantity": "100",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Herenparfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/774/8446/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/774/8446/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/774/8446/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/774/8446/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/burberry/03614227748446.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614227748446",
+        "ean13": "3614227748446",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614227748446",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614227748446"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614227748446",
+        "qr_payload_text": "https://id.gs1.org/01/03614227748446",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614227748446",
+          "code": "3614227748446",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Weekend Eau De Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/774/8446/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614227748446.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614227748446",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614227748682",
+      "product_name": "Burberry Touch For Men - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Touch For Men - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Touch For Men - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614227748682",
+        "ean13": "3614227748682",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614227748682",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614227748682"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614227748682",
+        "qr_payload_text": "https://id.gs1.org/01/03614227748682",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614227748682",
+          "code": "3614227748682",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Touch For Men - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614227748682.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614227748682",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614229820782",
+      "product_name": "Burberry Hero - Eau de Toilette 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0782/front_nl.3.400.jpg",
+      "local_image_path": "images/burberry/03614229820782.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Hero - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Hero - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0782/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0782/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/982/0782/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/982/0782/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/burberry/03614229820782.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614229820782",
+        "ean13": "3614229820782",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614229820782",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614229820782"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614229820782",
+        "qr_payload_text": "https://id.gs1.org/01/03614229820782",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614229820782",
+          "code": "3614229820782",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Hero - Eau de Toilette 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0782/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614229820782.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614229820782",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614229820799",
+      "product_name": "Burberry Hero - Eau de Toilette 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0799/front_nl.3.400.jpg",
+      "local_image_path": "images/burberry/03614229820799.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Hero - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Hero - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "Refillable, 100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0799/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0799/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/982/0799/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/982/0799/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/burberry/03614229820799.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614229820799",
+        "ean13": "3614229820799",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614229820799",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614229820799"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614229820799",
+        "qr_payload_text": "https://id.gs1.org/01/03614229820799",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614229820799",
+          "code": "3614229820799",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Hero - Eau de Toilette 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/982/0799/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614229820799.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614229820799",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614229840124",
+      "product_name": "Burberry Mr. Burberry - Eau de Toilette 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/422/984/0124/front_nl.5.400.jpg",
+      "local_image_path": "images/burberry/03614229840124.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Mr. Burberry - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Mr. Burberry - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Perfumes",
+          "Open Beauty Facts",
+          "Beauty",
+          "Herenparfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/422/984/0124/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/422/984/0124/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/422/984/0124/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/422/984/0124/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/burberry/03614229840124.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614229840124",
+        "ean13": "3614229840124",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614229840124",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614229840124"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614229840124",
+        "qr_payload_text": "https://id.gs1.org/01/03614229840124",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614229840124",
+          "code": "3614229840124",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Mr. Burberry - Eau de Toilette 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/422/984/0124/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03614229840124.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614229840124",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616301838227",
+      "product_name": "Burberry Mr. Burberry - Eau de Parfum 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "burberry"
+        ]
+      },
+      "product": {
+        "name": "Burberry Mr. Burberry - Eau de Parfum 50ml",
+        "source_names": {
+          "openbeautyfacts": "Burberry Mr. Burberry - Eau de Parfum 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03616301838227",
+        "ean13": "3616301838227",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616301838227",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616301838227"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616301838227",
+        "qr_payload_text": "https://id.gs1.org/01/03616301838227",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616301838227",
+          "code": "3616301838227",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Burberry Mr. Burberry - Eau de Parfum 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03616301838227.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616301838227",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03616305947345",
+      "product_name": "Hero",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/630/594/7345/front_en.3.400.jpg",
+      "local_image_path": "images/burberry/03616305947345.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "xx:Burberry"
+        ]
+      },
+      "product": {
+        "name": "Hero",
+        "source_names": {
+          "openbeautyfacts": "Hero"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/630/594/7345/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/630/594/7345/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/630/594/7345/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/630/594/7345/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/burberry/03616305947345.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03616305947345",
+        "ean13": "3616305947345",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3616305947345",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3616305947345"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03616305947345",
+        "qr_payload_text": "https://id.gs1.org/01/03616305947345",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03616305947345",
+          "code": "3616305947345",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "Hero",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/630/594/7345/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/03616305947345.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3616305947345",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05045459792576",
+      "product_name": "burberry",
+      "image_url": "https://images.openbeautyfacts.org/images/products/504/545/979/2576/front_th.3.400.jpg",
+      "local_image_path": "images/burberry/05045459792576.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "xx:burberry"
+        ]
+      },
+      "product": {
+        "name": "burberry",
+        "source_names": {
+          "openbeautyfacts": "burberry"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/504/545/979/2576/front_th.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/504/545/979/2576/front_th.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/504/545/979/2576/front_th.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/504/545/979/2576/front_th.3.200.jpg"
+        ],
+        "local_image_path": "images/burberry/05045459792576.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05045459792576",
+        "ean13": "5045459792576",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5045459792576",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5045459792576"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05045459792576",
+        "qr_payload_text": "https://id.gs1.org/01/05045459792576",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05045459792576",
+          "code": "5045459792576",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "burberry",
+          "image_url": "https://images.openbeautyfacts.org/images/products/504/545/979/2576/front_th.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/05045459792576.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5045459792576",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05045498902158",
+      "product_name": "My Burberry - Blush - Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/504/549/890/2158/front_fr.6.400.jpg",
+      "local_image_path": "images/burberry/05045498902158.jpg",
+      "brand": {
+        "slug": "burberry",
+        "display_name": "Burberry",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Burberry",
+        "matched_raw_brands": [
+          "xx:burberry"
+        ]
+      },
+      "product": {
+        "name": "My Burberry - Blush - Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "My Burberry - Blush - Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/504/549/890/2158/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/504/549/890/2158/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/504/549/890/2158/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/504/549/890/2158/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/burberry/05045498902158.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05045498902158",
+        "ean13": "5045498902158",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5045498902158",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5045498902158"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05045498902158",
+        "qr_payload_text": "https://id.gs1.org/01/05045498902158",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05045498902158",
+          "code": "5045498902158",
+          "type": "EAN-13",
+          "brand": "Burberry",
+          "name": "My Burberry - Blush - Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/504/549/890/2158/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/burberry/05045498902158.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5045498902158",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

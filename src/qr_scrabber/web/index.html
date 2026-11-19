@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Glow &amp; Glare — Barcode &amp; QR Product Lookup</title>
+  <meta name="description" content="Instant single-search-bar product lookup for Glow and Glare brands by QR code serial number, GS1 Digital Link, barcode, or regex product name search.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23A34F39'/%3E%3Crect x='7' y='7' width='7' height='7' rx='1.5' fill='%23FAF7F2'/%3E%3Crect x='18' y='7' width='7' height='7' rx='1.5' fill='%23FAF7F2'/%3E%3Crect x='7' y='18' width='7' height='7' rx='1.5' fill='%23FAF7F2'/%3E%3Crect x='18' y='18' width='3' height='3' fill='%23FAF7F2'/%3E%3Crect x='22' y='22' width='3' height='3' fill='%23FAF7F2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-kicker">
+        <span class="kicker-dot" aria-hidden="true"></span>
+        <span>Glow &amp; Glare Catalog</span>
+        <span class="kicker-sep" aria-hidden="true">·</span>
+        <span id="catalog-stats">Loading catalog…</span>
+      </div>
+
+      <h1 class="hero-title">Barcode &amp; QR Lookup</h1>
+      <p class="hero-subtitle">
+        Paste any product QR code serial or GS1 Digital Link for an instant exact match, or type a name or regular expression to browse matching products.
+      </p>
+
+      <div class="search-stage" role="search">
+        <label class="visually-hidden" for="search-input">
+          Search by QR serial number, barcode, GS1 Digital Link, or regex product name
+        </label>
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="7.5"></circle>
+            <path d="M20.5 20.5l-4.2-4.2"></path>
+          </svg>
+          <input
+            id="search-input"
+            type="search"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="Scan or type a QR/barcode serial (e.g. 00887167485471) or regex (e.g. serum|lip)…"
+            aria-describedby="search-meta-bar"
+          >
+          <button
+            id="search-clear"
+            type="button"
+            class="search-clear-btn"
+            aria-label="Clear search"
+            hidden
+          >
+            Clear
+          </button>
+        </div>
+
+        <div id="search-meta-bar" class="search-meta-bar" aria-live="polite">
+          <div class="meta-pills">
+            <span id="search-mode-indicator" class="mode-pill mode-browse">Browsing Catalog</span>
+            <span id="regex-status" class="regex-status">Ready for serial or regex search</span>
+          </div>
+          <span id="results-count" class="results-count">0 products</span>
+        </div>
+
+        <div id="quick-hints" class="quick-hints" aria-label="Example searches">
+          <span class="hints-label">Try:</span>
+          <button type="button" class="hint-chip" data-query="serum|cream">serum|cream</button>
+          <button type="button" class="hint-chip" data-query="^lip">^lip</button>
+          <button type="button" class="hint-chip" id="sample-serial-chip" data-query="">Sample QR Serial</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="catalog-main">
+      <section
+        id="exact-match-card"
+        class="exact-match-card"
+        aria-label="Exact serial match"
+        hidden
+      ></section>
+
+      <section aria-label="Matching products">
+        <div id="results-grid" class="results-grid"></div>
+
+        <div id="empty-state" class="empty-state" hidden>
+          <div class="empty-icon" aria-hidden="true">
+            <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="8" y="8" width="12" height="12" rx="2"></rect>
+              <rect x="28" y="8" width="12" height="12" rx="2"></rect>
+              <rect x="8" y="28" width="12" height="12" rx="2"></rect>
+              <path d="M28 28h4v4h-4zM36 28h4v4h-4zM28 36h4v4h-4zM36 36h4v4h-4z"></path>
+            </svg>
+          </div>
+          <h2 class="empty-title">No matching products found</h2>
+          <p class="empty-copy">
+            Check the barcode digits or adjust your regex pattern. Both 8/12/13/14-digit serials and GS1 Digital Links are supported.
+          </p>
+          <button type="button" id="empty-reset-btn" class="secondary-btn">Show all products</button>
+        </div>
+
+        <div class="load-more-wrap">
+          <button type="button" id="load-more-btn" class="load-more-btn" hidden>
+            Load more products
+          </button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="page-footer">
+      <span>GS1 GTIN-14 &amp; ISO 18004 Digital Link QR Registry</span>
+      <span aria-hidden="true">·</span>
+      <span>Verified via Open Beauty Facts &amp; UPCitemdb</span>
+    </footer>
+  </div>
+
+  <dialog id="qr-modal" class="qr-modal" aria-labelledby="qr-modal-title">
+    <div class="qr-modal-panel">
+      <div class="qr-modal-header">
+        <div>
+          <p id="qr-modal-brand" class="qr-modal-brand"></p>
+          <h2 id="qr-modal-title" class="qr-modal-title"></h2>
+        </div>
+        <button type="button" id="qr-modal-close" class="modal-close-btn" aria-label="Close QR preview">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <path d="M6 6l12 12M18 6l-12 12"></path>
+          </svg>
+        </button>
+      </div>
+      <div class="qr-modal-body">
+        <div class="qr-modal-code-frame">
+          <img id="qr-modal-img" class="qr-modal-img" alt="Enlarged scannable product QR code">
+        </div>
+        <div class="qr-modal-meta">
+          <div class="qr-modal-row">
+            <span class="meta-label">Primary Serial</span>
+            <code id="qr-modal-primary" class="mono-code"></code>
+          </div>
+          <div class="qr-modal-row">
+            <span class="meta-label">GTIN-14</span>
+            <code id="qr-modal-gtin14" class="mono-code"></code>
+          </div>
+          <div class="qr-modal-row">
+            <span class="meta-label">GS1 Digital Link</span>
+            <code id="qr-modal-link" class="mono-code mono-wrap"></code>
+          </div>
+        </div>
+      </div>
+      <div class="qr-modal-actions">
+        <button type="button" id="qr-modal-copy" class="primary-btn">Copy Serial</button>
+        <a id="qr-modal-download" class="secondary-btn" download>Download SVG</a>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>

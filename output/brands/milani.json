@@ -1,0 +1,398 @@
+{
+  "brand_slug": "milani",
+  "display_name": "Milani",
+  "letter_section": "M",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Milani",
+  "product_count": 5,
+  "canonical_product_count": 5,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00717489000086",
+      "product_name": "Stay Put Liquid Lip Longwear Lipstick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/071/748/900/0086/front_en.3.400.jpg",
+      "local_image_path": "images/milani/00717489000086.jpg",
+      "brand": {
+        "slug": "milani",
+        "display_name": "Milani",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Milani",
+        "matched_raw_brands": [
+          "xx:Milani"
+        ]
+      },
+      "product": {
+        "name": "Stay Put Liquid Lip Longwear Lipstick",
+        "source_names": {
+          "openbeautyfacts": "Stay Put Liquid Lip Longwear Lipstick"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/071/748/900/0086/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/071/748/900/0086/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/071/748/900/0086/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/071/748/900/0086/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/milani/00717489000086.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00717489000086",
+        "ean13": "0717489000086",
+        "upc_a": "717489000086",
+        "ean8": null,
+        "primary_code": "717489000086",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0717489000086"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00717489000086",
+        "qr_payload_text": "https://id.gs1.org/01/00717489000086",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00717489000086",
+          "code": "717489000086",
+          "type": "UPC-A",
+          "brand": "Milani",
+          "name": "Stay Put Liquid Lip Longwear Lipstick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/071/748/900/0086/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/milani/00717489000086.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0717489000086",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00717489312806",
+      "product_name": "CONCEAL + PERFECT",
+      "image_url": "https://images.openbeautyfacts.org/images/products/071/748/931/2806/front_fr.3.400.jpg",
+      "local_image_path": "images/milani/00717489312806.jpg",
+      "brand": {
+        "slug": "milani",
+        "display_name": "Milani",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Milani",
+        "matched_raw_brands": [
+          "xx:milani"
+        ]
+      },
+      "product": {
+        "name": "CONCEAL + PERFECT",
+        "source_names": {
+          "openbeautyfacts": "CONCEAL + PERFECT"
+        },
+        "alternate_names": [],
+        "quantity": "13 g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/071/748/931/2806/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/071/748/931/2806/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/071/748/931/2806/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/071/748/931/2806/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/milani/00717489312806.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00717489312806",
+        "ean13": "0717489312806",
+        "upc_a": "717489312806",
+        "ean8": null,
+        "primary_code": "717489312806",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0717489312806"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00717489312806",
+        "qr_payload_text": "https://id.gs1.org/01/00717489312806",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00717489312806",
+          "code": "717489312806",
+          "type": "UPC-A",
+          "brand": "Milani",
+          "name": "CONCEAL + PERFECT",
+          "image_url": "https://images.openbeautyfacts.org/images/products/071/748/931/2806/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/milani/00717489312806.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0717489312806",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00717489812115",
+      "product_name": "Nude Touch",
+      "image_url": "https://images.openbeautyfacts.org/images/products/071/748/981/2115/front_en.3.400.jpg",
+      "local_image_path": "images/milani/00717489812115.jpg",
+      "brand": {
+        "slug": "milani",
+        "display_name": "Milani",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Milani",
+        "matched_raw_brands": [
+          "xx:milani"
+        ]
+      },
+      "product": {
+        "name": "Nude Touch",
+        "source_names": {
+          "openbeautyfacts": "Nude Touch"
+        },
+        "alternate_names": [],
+        "quantity": "0.21 oz",
+        "categories": [
+          "Lipgloss"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/071/748/981/2115/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/071/748/981/2115/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/071/748/981/2115/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/071/748/981/2115/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/milani/00717489812115.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00717489812115",
+        "ean13": "0717489812115",
+        "upc_a": "717489812115",
+        "ean8": null,
+        "primary_code": "717489812115",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0717489812115"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00717489812115",
+        "qr_payload_text": "https://id.gs1.org/01/00717489812115",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00717489812115",
+          "code": "717489812115",
+          "type": "UPC-A",
+          "brand": "Milani",
+          "name": "Nude Touch",
+          "image_url": "https://images.openbeautyfacts.org/images/products/071/748/981/2115/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/milani/00717489812115.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0717489812115",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00717489950015",
+      "product_name": "Milani Rose Powder Blush",
+      "image_url": "https://images.openbeautyfacts.org/images/products/071/748/995/0015/front_en.3.400.jpg",
+      "local_image_path": "images/milani/00717489950015.jpg",
+      "brand": {
+        "slug": "milani",
+        "display_name": "Milani",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Milani",
+        "matched_raw_brands": [
+          "xx:milani"
+        ]
+      },
+      "product": {
+        "name": "Milani Rose Powder Blush",
+        "source_names": {
+          "openbeautyfacts": "Milani Rose Powder Blush"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/071/748/995/0015/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/071/748/995/0015/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/071/748/995/0015/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/071/748/995/0015/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/milani/00717489950015.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00717489950015",
+        "ean13": "0717489950015",
+        "upc_a": "717489950015",
+        "ean8": null,
+        "primary_code": "717489950015",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0717489950015"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00717489950015",
+        "qr_payload_text": "https://id.gs1.org/01/00717489950015",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00717489950015",
+          "code": "717489950015",
+          "type": "UPC-A",
+          "brand": "Milani",
+          "name": "Milani Rose Powder Blush",
+          "image_url": "https://images.openbeautyfacts.org/images/products/071/748/995/0015/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/milani/00717489950015.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0717489950015",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08777799328012",
+      "product_name": "milani bronze make up",
+      "image_url": "https://images.openbeautyfacts.org/images/products/877/779/932/8012/front_en.6.400.jpg",
+      "local_image_path": "images/milani/08777799328012.jpg",
+      "brand": {
+        "slug": "milani",
+        "display_name": "Milani",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Milani",
+        "matched_raw_brands": [
+          "milani"
+        ]
+      },
+      "product": {
+        "name": "milani bronze make up",
+        "source_names": {
+          "openbeautyfacts": "milani bronze make up"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/877/779/932/8012/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/877/779/932/8012/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/877/779/932/8012/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/877/779/932/8012/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/milani/08777799328012.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08777799328012",
+        "ean13": "8777799328012",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8777799328012",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8777799328012"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08777799328012",
+        "qr_payload_text": "https://id.gs1.org/01/08777799328012",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08777799328012",
+          "code": "8777799328012",
+          "type": "EAN-13",
+          "brand": "Milani",
+          "name": "milani bronze make up",
+          "image_url": "https://images.openbeautyfacts.org/images/products/877/779/932/8012/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/milani/08777799328012.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8777799328012",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

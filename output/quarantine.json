@@ -1,0 +1,1358 @@
+{
+  "total_quarantined": 168,
+  "counts_by_reason": {
+    "NON_NUMERIC_OR_INVALID_LENGTH": 2,
+    "PLACEHOLDER_PATTERN": 0,
+    "INVALID_CHECK_DIGIT": 45,
+    "RESTRICTED_CIRCULATION_PREFIX": 18,
+    "CATEGORY_MISMATCH_EXCLUDED": 33,
+    "CROSS_SOURCE_BRAND_CONFLICT": 0,
+    "MISSING_PRODUCT_NAME": 70
+  },
+  "records": [
+    {
+      "raw_code": "0000527000057",
+      "gtin14": "00000527000057",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "kiehls",
+      "raw_title": "Kiehls - Cream #gel"
+    },
+    {
+      "raw_code": "3378872047131",
+      "gtin14": "03378872047131",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:sephora",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930000594",
+      "gtin14": "03522930000594",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600523232567",
+      "gtin14": "03600523232567",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600523232765",
+      "gtin14": "03600523232765",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600523232789",
+      "gtin14": "03600523232789",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3610340005947",
+      "gtin14": "03610340005947",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:elseve",
+      "raw_title": null
+    },
+    {
+      "raw_code": "4250587725919",
+      "gtin14": "04250587725919",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Essence",
+      "raw_title": "Make up"
+    },
+    {
+      "raw_code": "5060033779187",
+      "gtin14": "05060033779187",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Ren",
+      "raw_title": "Clarimatte"
+    },
+    {
+      "raw_code": "97478076",
+      "gtin14": "00000097478076",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "crest 3d white",
+      "raw_title": "Crest 3D White Toothpaste"
+    },
+    {
+      "raw_code": "3522930001782",
+      "gtin14": "03522930001782",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930001195",
+      "gtin14": "03522930001195",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "00152068",
+      "gtin14": "00000000152068",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:sephora",
+      "raw_title": "Baume main rose"
+    },
+    {
+      "raw_code": "4250947532096",
+      "gtin14": "04250947532096",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "I ♥ trends 03 I'm so fluffy"
+    },
+    {
+      "raw_code": "4250587775266",
+      "gtin14": "04250587775266",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "colour & go colour of the year 174 purple sugar"
+    },
+    {
+      "raw_code": "4059729040299",
+      "gtin14": "04059729040299",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "Ultra quick dry top coat"
+    },
+    {
+      "raw_code": "3605975038132",
+      "gtin14": "03605975038132",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:kiehl-s",
+      "raw_title": null
+    },
+    {
+      "raw_code": "4059729195692",
+      "gtin14": "04059729195692",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "Shine last & go! 44 on air!"
+    },
+    {
+      "raw_code": "4059729195395",
+      "gtin14": "04059729195395",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "shine last & go! 14 do you speak love?"
+    },
+    {
+      "raw_code": "0602004111616",
+      "gtin14": "00602004111616",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Benefit",
+      "raw_title": "Anti-cernes"
+    },
+    {
+      "raw_code": "0773602543878",
+      "gtin14": "00773602543878",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "M.A.C",
+      "raw_title": "Brushstroke 24-hour liner"
+    },
+    {
+      "raw_code": "0769915195644",
+      "gtin14": "00769915195644",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:the-ordinary",
+      "raw_title": null
+    },
+    {
+      "raw_code": "02567220",
+      "gtin14": "00000002567220",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:sephora",
+      "raw_title": "masque yeux concombre"
+    },
+    {
+      "raw_code": "3378872158066",
+      "gtin14": "03378872158066",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:sephora",
+      "raw_title": null
+    },
+    {
+      "raw_code": "09600033",
+      "gtin14": "00000009600033",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:mac",
+      "raw_title": "Lipstick"
+    },
+    {
+      "raw_code": "3522930000976",
+      "gtin14": "03522930000976",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930000419",
+      "gtin14": "03522930000419",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "4059729195289",
+      "gtin14": "04059729195289",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "Pintura"
+    },
+    {
+      "raw_code": "11552907",
+      "gtin14": "00000011552907",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:elseve",
+      "raw_title": "dream long"
+    },
+    {
+      "raw_code": "0207146744762",
+      "gtin14": "00207146744762",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clinique",
+      "raw_title": "Clinique For Men Charcoal Face Wash"
+    },
+    {
+      "raw_code": "8944766219134",
+      "gtin14": "08944766219134",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Pixi",
+      "raw_title": "Double Cleanse"
+    },
+    {
+      "raw_code": "3522930003151",
+      "gtin14": "03522930003151",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930003052",
+      "gtin14": "03522930003052",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "09233195",
+      "gtin14": "00000009233195",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:kerastase",
+      "raw_title": "curl manifiesto"
+    },
+    {
+      "raw_code": "4059729360786",
+      "gtin14": "04059729360786",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Essence",
+      "raw_title": "HELLO, GOOD STUFF!"
+    },
+    {
+      "raw_code": "3666057026300",
+      "gtin14": "03666057026300",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600523606528",
+      "gtin14": "03600523606528",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600524070762",
+      "gtin14": "03600524070762",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-men-expert",
+      "raw_title": null
+    },
+    {
+      "raw_code": "13614273559065",
+      "gtin14": "13614273559065",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "lancome",
+      "raw_title": "LANCOME"
+    },
+    {
+      "raw_code": "3522930001805",
+      "gtin14": "03522930001805",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930002055",
+      "gtin14": "03522930002055",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930002505",
+      "gtin14": "03522930002505",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930002802",
+      "gtin14": "03522930002802",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930003274",
+      "gtin14": "03522930003274",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930003366",
+      "gtin14": "03522930003366",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930003441",
+      "gtin14": "03522930003441",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930003571",
+      "gtin14": "03522930003571",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "4059729038340",
+      "gtin14": "04059729038340",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Essence",
+      "raw_title": "Camouflage+ Matt"
+    },
+    {
+      "raw_code": "4059729038333",
+      "gtin14": "04059729038333",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Essence",
+      "raw_title": "Camouflage+ Matt"
+    },
+    {
+      "raw_code": "3600523700943",
+      "gtin14": "03600523700943",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:elseve",
+      "raw_title": null
+    },
+    {
+      "raw_code": "10303748",
+      "gtin14": "00000010303748",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": "creme cachemire resveratrol"
+    },
+    {
+      "raw_code": "06697541",
+      "gtin14": "00000006697541",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": "Elseve"
+    },
+    {
+      "raw_code": "3666057159329",
+      "gtin14": "03666057159329",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600541358553",
+      "gtin14": "03600541358553",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0773602055357",
+      "gtin14": "00773602055357",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "M.A.C",
+      "raw_title": "Fard à paupières"
+    },
+    {
+      "raw_code": "22801241",
+      "gtin14": "00000022801241",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": "argile modelante look decoiffé"
+    },
+    {
+      "raw_code": "8901526592432",
+      "gtin14": "08901526592432",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0071249210826",
+      "gtin14": "00071249210826",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "01277528",
+      "gtin14": "00000001277528",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": "shampooing nutrition légère"
+    },
+    {
+      "raw_code": "3054080018797",
+      "gtin14": "03054080018797",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0000933257014",
+      "gtin14": "00000933257014",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:elf",
+      "raw_title": "Elf eye cream"
+    },
+    {
+      "raw_code": "0113111611194",
+      "gtin14": "00113111611194",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:lancome",
+      "raw_title": "Lancime gel"
+    },
+    {
+      "raw_code": "00204940",
+      "gtin14": "00000000204940",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": "Caudalie"
+    },
+    {
+      "raw_code": "08185037",
+      "gtin14": "00000008185037",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:roc",
+      "raw_title": "keops soin anti transpirant transpiration excessive"
+    },
+    {
+      "raw_code": "3600524029593",
+      "gtin14": "03600524029593",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:elseve",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600524068295",
+      "gtin14": "03600524068295",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0056100079095",
+      "gtin14": "00056100079095",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:crest",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0071249239988",
+      "gtin14": "00071249239988",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "2000000151846",
+      "gtin14": "02000000151846",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:ilia-beauty",
+      "raw_title": "Limitless Lash Mascara"
+    },
+    {
+      "raw_code": "2000000151852",
+      "gtin14": "02000000151852",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:drunk-elephant",
+      "raw_title": "Lala Retro Whipped Cream"
+    },
+    {
+      "raw_code": "3380810032901",
+      "gtin14": "03380810032901",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930003625",
+      "gtin14": "03522930003625",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "9660583724116",
+      "gtin14": "09660583724116",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3378872227953",
+      "gtin14": "03378872227953",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:sephora",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0411123588804",
+      "gtin14": "00411123588804",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:sephora",
+      "raw_title": "Colorful mono-24 shimmer 221 T"
+    },
+    {
+      "raw_code": "3522930004561",
+      "gtin14": "03522930004561",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "2000000152355",
+      "gtin14": "02000000152355",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:OleHenriksen",
+      "raw_title": "Banana Bright Vitamin C Serum"
+    },
+    {
+      "raw_code": "2000000152356",
+      "gtin14": "02000000152356",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:paula-s-choice",
+      "raw_title": "Skin Perfecting 6% Mandelic Acid + 2% Lactic Acid Liquid Exfoliant"
+    },
+    {
+      "raw_code": "2000000152396",
+      "gtin14": "02000000152396",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:ole-henriksen",
+      "raw_title": "Banana Bright+ Eye Crème"
+    },
+    {
+      "raw_code": "2000000152405",
+      "gtin14": "02000000152405",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:olehenriksen",
+      "raw_title": "Banana Bright+ Instant Glow Moisturizer"
+    },
+    {
+      "raw_code": "0885190821549",
+      "gtin14": "00885190821549",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "pixi",
+      "raw_title": "Clarity Tonic"
+    },
+    {
+      "raw_code": "10101345300062204250099000003395",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": "Crème réparatrice Mains & Ongles"
+    },
+    {
+      "raw_code": "3522930004066",
+      "gtin14": "03522930004066",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "8411061954331512247635025",
+      "gtin14": null,
+      "reason": "NON_NUMERIC_OR_INVALID_LENGTH",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:carolina-herrera",
+      "raw_title": "Chic for men"
+    },
+    {
+      "raw_code": "09490864",
+      "gtin14": "00000009490864",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:bath-body-works",
+      "raw_title": "Banana, bananas, passionfruit, and banana flour"
+    },
+    {
+      "raw_code": "5011842107128",
+      "gtin14": "05011842107128",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "MAC",
+      "raw_title": "Sore Throat Honey & Lemon Flavour Lozenges"
+    },
+    {
+      "raw_code": "4059729491671",
+      "gtin14": "04059729491671",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "Vernis à ongle Faux Pearl"
+    },
+    {
+      "raw_code": "4059729490315",
+      "gtin14": "04059729490315",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Essence",
+      "raw_title": "Bayby got Holo Glow - Holy Apricotly"
+    },
+    {
+      "raw_code": "01432909",
+      "gtin14": "00000001432909",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": "Remix Pâte Fibre Remodelable"
+    },
+    {
+      "raw_code": "3522930004158",
+      "gtin14": "03522930004158",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3474636692231",
+      "gtin14": "03474636692231",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:kerastase",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0896364002374",
+      "gtin14": "00896364002374",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:olaplex",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0008548068237",
+      "gtin14": "00008548068237",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "clarins",
+      "raw_title": "Clarins men antirides"
+    },
+    {
+      "raw_code": "3700194715038",
+      "gtin14": "03700194715038",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:kiehl-s",
+      "raw_title": null
+    },
+    {
+      "raw_code": "11033661",
+      "gtin14": "00000011033661",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:kiehl-s",
+      "raw_title": "Ultra facial cream"
+    },
+    {
+      "raw_code": "8410175076786",
+      "gtin14": "08410175076786",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Hero",
+      "raw_title": "suero rehidratacion oral"
+    },
+    {
+      "raw_code": "01678832",
+      "gtin14": "00000001678832",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:e-l-f",
+      "raw_title": "eyeliner pen (coffee)"
+    },
+    {
+      "raw_code": "06183981",
+      "gtin14": "00000006183981",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:byoma",
+      "raw_title": "Moisturizing Gel Cream"
+    },
+    {
+      "raw_code": "4059729409225",
+      "gtin14": "04059729409225",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "red-y TO GO"
+    },
+    {
+      "raw_code": "3522930003861",
+      "gtin14": "03522930003861",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3666057202445",
+      "gtin14": "03666057202445",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930004554",
+      "gtin14": "03522930004554",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3666057025822",
+      "gtin14": "03666057025822",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3348901683555",
+      "gtin14": "03348901683555",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:dior",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930004387",
+      "gtin14": "03522930004387",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600524190095",
+      "gtin14": "03600524190095",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "4059729348784",
+      "gtin14": "04059729348784",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Essence",
+      "raw_title": "Pink-ventures"
+    },
+    {
+      "raw_code": "3522930004394",
+      "gtin14": "03522930004394",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3666057381935",
+      "gtin14": "03666057381935",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3666057364839",
+      "gtin14": "03666057364839",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930004172",
+      "gtin14": "03522930004172",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "8003170078604",
+      "gtin14": "08003170078604",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "Essence",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3666057288142",
+      "gtin14": "03666057288142",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:clarins",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0360052224899",
+      "gtin14": "00360052224899",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Crème Anti-âge Triple Action Jour Lisse les Rides Raffermit Illumine Acide Hyaluronique Pro-Rétinol Revitalift Laser"
+    },
+    {
+      "raw_code": "0360052321642",
+      "gtin14": "00360052321642",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Crème Anti-âge Jour Visage Peau Mature Re-Fortifiant Anti-relâchement Cellules Natives de Pivoine et Calcium B3 Fps 20 Age Perfect Golden Age"
+    },
+    {
+      "raw_code": "0360052406653",
+      "gtin14": "00360052406653",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Crème Anti-âge Régénérante Protectrice Anti-oxydante Midnight Crème"
+    },
+    {
+      "raw_code": "0360052248008",
+      "gtin14": "00360052248008",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Crème Anti-âge Triple Action Nuit Acide Hyaluronique Pro-Rétinol Vitamine C"
+    },
+    {
+      "raw_code": "0360052387382",
+      "gtin14": "00360052387382",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Sérum Anti-rides Visage 1.5% Acide Hyaluronique Pur Renforce l'Hydratation"
+    },
+    {
+      "raw_code": "0360052411983",
+      "gtin14": "00360052411983",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Sérum Visage Anti-Tâches Niacinamide Bright Reveal"
+    },
+    {
+      "raw_code": "0360052402549",
+      "gtin14": "00360052402549",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Sérum Anti-rides Yeux Hydratant Repulpe Triple Action Acide Hyaluronique et Caféine"
+    },
+    {
+      "raw_code": "0360052406982",
+      "gtin14": "00360052406982",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Sérum Anti-âge Visage 12% Vitamine C Pure Acide Salicylique Vitamine E Revitalift Clinical"
+    },
+    {
+      "raw_code": "0360052289247",
+      "gtin14": "00360052289247",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Crème Anti-rides Revolumisant Jour Visage et Cou Acide Hyaluronique Revitalift Filler"
+    },
+    {
+      "raw_code": "0360052320152",
+      "gtin14": "00360052320152",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Crème Anti-rides Nuit Visage Peau Mature Revolumisant Acide Hyaluronique Revitalift Filler"
+    },
+    {
+      "raw_code": "0360052308224",
+      "gtin14": "00360052308224",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal-paris",
+      "raw_title": "Crème Jour Hydratant Anti-rides Extra Fermeté Pro-Rétinol Avancé Fibrelastyl Revitalift"
+    },
+    {
+      "raw_code": "0192333184073",
+      "gtin14": "00192333184073",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Clinique",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3522930005377",
+      "gtin14": "03522930005377",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:caudalie",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600542359764",
+      "gtin14": "03600542359764",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "7509552979558",
+      "gtin14": "07509552979558",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:elvive",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600524121815",
+      "gtin14": "03600524121815",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Loréal Paris",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0850018802840",
+      "gtin14": "00850018802840",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:olaplex",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600524189907",
+      "gtin14": "03600524189907",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Elseve",
+      "raw_title": null
+    },
+    {
+      "raw_code": "06614504",
+      "gtin14": "00000006614504",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Elseve",
+      "raw_title": "Elseve shamp. repair"
+    },
+    {
+      "raw_code": "01693791",
+      "gtin14": "00000001693791",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Casting Créme Gloss 634 Donker Goud Koperblond Semi-Permanente Haarkleuring"
+    },
+    {
+      "raw_code": "2514010044087",
+      "gtin14": "02514010044087",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:kit·sch",
+      "raw_title": "Strengthening Solid Conditioner Rice Water Protein"
+    },
+    {
+      "raw_code": "01850073",
+      "gtin14": "00000001850073",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Men Expert Fresh Extreme Deodorant Spray"
+    },
+    {
+      "raw_code": "00018026",
+      "gtin14": "00000000018026",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 5.5 Licht Mahonie Bruin Permanente Haarverf"
+    },
+    {
+      "raw_code": "00016745",
+      "gtin14": "00000000016745",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 4 Middenbruin Permanente Haarverf"
+    },
+    {
+      "raw_code": "00016738",
+      "gtin14": "00000000016738",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 7.3 Goudblond Permanente Haarverf"
+    },
+    {
+      "raw_code": "00016737",
+      "gtin14": "00000000016737",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 7 Middenblond Permanente Haarverf"
+    },
+    {
+      "raw_code": "00016735",
+      "gtin14": "00000000016735",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 8.1 Licht Asblond Permanente Haarverf"
+    },
+    {
+      "raw_code": "00016732",
+      "gtin14": "00000000016732",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 9 Zeer Lichtblond Permanente Haarverf"
+    },
+    {
+      "raw_code": "00016690",
+      "gtin14": "00000000016690",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Préférence 7 Middenblond Permanente Haarkleuring"
+    },
+    {
+      "raw_code": "00016683",
+      "gtin14": "00000000016683",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Préférence 4 Middenbruin Permanente Haarkleuring"
+    },
+    {
+      "raw_code": "00016682",
+      "gtin14": "00000000016682",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Préférence 3 Donkerbruin Permanente Haarkleuring"
+    },
+    {
+      "raw_code": "01357322",
+      "gtin14": "00000001357322",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Préférence 7.4 Dublin Permanente Haarkleuring"
+    },
+    {
+      "raw_code": "00016742",
+      "gtin14": "00000000016742",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 5 Lichtbruin Permanente Haarverf"
+    },
+    {
+      "raw_code": "00018057",
+      "gtin14": "00000000018057",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Excellence Crème 10 Extra Lichtblond Permanente Haarverf"
+    },
+    {
+      "raw_code": "01070042",
+      "gtin14": "00000001070042",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Casting Créme Gloss 600 Donkerblond Semi-Permanente Haarkleuring"
+    },
+    {
+      "raw_code": "01070049",
+      "gtin14": "00000001070049",
+      "reason": "INVALID_CHECK_DIGIT",
+      "source": "openbeautyfacts",
+      "raw_brand": "l'oreal paris",
+      "raw_title": "L'Oréal Paris Casting Crème Gloss 300 Donkerbruin Semi-Permanente Haarkleuring"
+    },
+    {
+      "raw_code": "04086680",
+      "gtin14": "00000004086680",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Tarte",
+      "raw_title": "Shape Tape Ultra Creamy"
+    },
+    {
+      "raw_code": "0810112569551",
+      "gtin14": "00810112569551",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "/kitsch/",
+      "raw_title": "Sea Salt Spray"
+    },
+    {
+      "raw_code": "0020714462710",
+      "gtin14": "00020714462710",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Clinique",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0020714195786",
+      "gtin14": "00020714195786",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Clinique",
+      "raw_title": null
+    },
+    {
+      "raw_code": "3600523827817",
+      "gtin14": "03600523827817",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:l-oreal",
+      "raw_title": null
+    },
+    {
+      "raw_code": "4059729618320",
+      "gtin14": "04059729618320",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openbeautyfacts",
+      "raw_brand": "essence",
+      "raw_title": "Milky Glazed Glass Skin Spray"
+    },
+    {
+      "raw_code": "24420792",
+      "gtin14": "00000024420792",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "openbeautyfacts",
+      "raw_brand": "xx:Essence",
+      "raw_title": "Disco Glitter"
+    },
+    {
+      "raw_code": "00136587",
+      "gtin14": "00000000136587",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openproductsfacts",
+      "raw_brand": "crest",
+      "raw_title": "crest scope mouth wash"
+    },
+    {
+      "raw_code": "0022506516250",
+      "gtin14": "00022506516250",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openproductsfacts",
+      "raw_brand": "spectrum",
+      "raw_title": "Fish Oil Omega 3"
+    },
+    {
+      "raw_code": "0037000945703",
+      "gtin14": "00037000945703",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openproductsfacts",
+      "raw_brand": "crest",
+      "raw_title": "multi-protection"
+    },
+    {
+      "raw_code": "0667557976464",
+      "gtin14": "00667557976464",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openproductsfacts",
+      "raw_brand": "xx:Bath & Body Works",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0667557979915",
+      "gtin14": "00667557979915",
+      "reason": "MISSING_PRODUCT_NAME",
+      "source": "openproductsfacts",
+      "raw_brand": "xx:Bath & Body Works",
+      "raw_title": null
+    },
+    {
+      "raw_code": "0667659358199",
+      "gtin14": "00667659358199",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openproductsfacts",
+      "raw_brand": "white-barn",
+      "raw_title": "sun drenched linen"
+    },
+    {
+      "raw_code": "4184144421573",
+      "gtin14": "04184144421573",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openproductsfacts",
+      "raw_brand": "gucci",
+      "raw_title": "hello"
+    },
+    {
+      "raw_code": "4800552073028",
+      "gtin14": "04800552073028",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openproductsfacts",
+      "raw_brand": "Spectrum",
+      "raw_title": "Copier Paper Hard Copy"
+    },
+    {
+      "raw_code": "8710259022921",
+      "gtin14": "08710259022921",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "openproductsfacts",
+      "raw_brand": "spectrum",
+      "raw_title": "clear varnish gloss"
+    },
+    {
+      "raw_code": "0400000006093",
+      "gtin14": "00400000006093",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "upcitemdb",
+      "raw_brand": "Morphe",
+      "raw_title": "MORPHE BRUSHES Bam Lip Palette - 10LN"
+    },
+    {
+      "raw_code": "0467463651093",
+      "gtin14": "00467463651093",
+      "reason": "CATEGORY_MISMATCH_EXCLUDED",
+      "source": "upcitemdb",
+      "raw_brand": "Aliona L. Gibson",
+      "raw_title": "Pre-Owned Nappy: Growing Up Black and Female in America Hardcover 086316322X 9780863163227 Aliona L. Gibson"
+    },
+    {
+      "raw_code": "0400018236406",
+      "gtin14": "00400018236406",
+      "reason": "RESTRICTED_CIRCULATION_PREFIX",
+      "source": "upcitemdb",
+      "raw_brand": "Sephora Collection",
+      "raw_title": "Sephora False Eye Lashes New In Box (Lashes Collection)"
+    }
+  ]
+}

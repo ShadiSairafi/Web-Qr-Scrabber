@@ -1,0 +1,4573 @@
+{
+  "brand_slug": "clarins",
+  "display_name": "Clarins",
+  "letter_section": "C",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+  "product_count": 59,
+  "canonical_product_count": 59,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "03380810006681",
+      "product_name": "Mission Perfection Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/000/6681/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380810006681.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins",
+          "Clarins"
+        ]
+      },
+      "product": {
+        "name": "Mission Perfection Serum",
+        "source_names": {
+          "openbeautyfacts": "mission perfection",
+          "upcitemdb": "Mission Perfection Serum"
+        },
+        "alternate_names": [
+          "mission perfection",
+          "Clarins - Mission Perfection Serum 30ml/1oz",
+          "ClarinsMission Perfection Serum 30ml/1oz",
+          "CLSR4-A 1.0 oz mission Perfection Serum",
+          "Clarins Mission Perfection Serum-NO COLOUR-30 ml",
+          "Clarins Mission Perfection Serum"
+        ],
+        "quantity": "30ml",
+        "categories": [
+          "Face",
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care",
+          "Lotion & Moisturizer"
+        ],
+        "description": "Mission Perfection Serum",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/000/6681/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/000/6681/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/000/6681/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/000/6681/front_fr.4.200.jpg",
+          "http://s.cdnsbn.com/images/products/19613980301.jpg",
+          "http://s7d4.scene7.com/is/image/BonTon/946216?$ibm_large$",
+          "http://n.nordstrommedia.com/imagegallery/store/product/large/18/_12621558.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/13505209_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/e5273459-ede8-4840-b094-e66793f54cd0_1.123cb74f258123a5f5f6da0451ad00f2.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://c1.neweggimages.com/NeweggImage/productimage/ACK0_1_201808051814115556.jpg",
+          "http://site.unbeatablesale.com/CSMP6700.JPG",
+          "http://s7d9.scene7.com/is/image/TheBay/3380810006681_main?$PDPLARGE$",
+          "https://tshop.r10s.com/3a5/2cb/4c4f/61c6/9042/4e18/148f/1191e8869f2c600c737442.jpg?_ex=512x512",
+          "http://www.parfumery.com/pictures/large/3380810006681.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810006681.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810006681",
+        "ean13": "3380810006681",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810006681",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810006681"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810006681",
+        "qr_payload_text": "https://id.gs1.org/01/03380810006681",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810006681",
+          "code": "3380810006681",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Mission Perfection Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/000/6681/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810006681.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810006681",
+        "upcitemdb_ean": "3380810006681",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810011647",
+      "product_name": "Clarins lait démaquillant",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "clarins"
+        ]
+      },
+      "product": {
+        "name": "Clarins lait démaquillant",
+        "source_names": {
+          "openbeautyfacts": "Clarins lait démaquillant"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03380810011647",
+        "ean13": "3380810011647",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810011647",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810011647"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810011647",
+        "qr_payload_text": "https://id.gs1.org/01/03380810011647",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810011647",
+          "code": "3380810011647",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Clarins lait démaquillant",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810011647.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810011647",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810034530",
+      "product_name": "Lait démaquillant velours",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/003/4530/front_fr.3.400.jpg",
+      "local_image_path": "images/clarins/03380810034530.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Lait démaquillant velours",
+        "source_names": {
+          "openbeautyfacts": "Lait démaquillant velours"
+        },
+        "alternate_names": [],
+        "quantity": "200ml",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/003/4530/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/003/4530/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/003/4530/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/003/4530/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810034530.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810034530",
+        "ean13": "3380810034530",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810034530",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810034530"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810034530",
+        "qr_payload_text": "https://id.gs1.org/01/03380810034530",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810034530",
+          "code": "3380810034530",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Lait démaquillant velours",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/003/4530/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810034530.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810034530",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810040227",
+      "product_name": "Clarins Men Anti-rides fermeté",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0227/front_fr.5.400.jpg",
+      "local_image_path": "images/clarins/03380810040227.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Clarins Men Anti-rides fermeté",
+        "source_names": {
+          "openbeautyfacts": "Clarins Men Anti-rides fermeté"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0227/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0227/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/004/0227/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/004/0227/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810040227.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810040227",
+        "ean13": "3380810040227",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810040227",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810040227"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810040227",
+        "qr_payload_text": "https://id.gs1.org/01/03380810040227",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810040227",
+          "code": "3380810040227",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Clarins Men Anti-rides fermeté",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0227/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810040227.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810040227",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810040463",
+      "product_name": "Baume super hydratant Clarins Men",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0463/front_fr.5.400.jpg",
+      "local_image_path": "images/clarins/03380810040463.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Baume super hydratant Clarins Men",
+        "source_names": {
+          "openbeautyfacts": "Baume super hydratant Clarins Men"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0463/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0463/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/004/0463/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/004/0463/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810040463.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810040463",
+        "ean13": "3380810040463",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810040463",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810040463"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810040463",
+        "qr_payload_text": "https://id.gs1.org/01/03380810040463",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810040463",
+          "code": "3380810040463",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Baume super hydratant Clarins Men",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/0463/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810040463.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810040463",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810045277",
+      "product_name": "Multi-active Jour,50 ML,Peaux Sèches",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/5277/1.400.jpg",
+      "local_image_path": "images/clarins/03380810045277.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Multi-active Jour,50 ML,Peaux Sèches",
+        "source_names": {
+          "openbeautyfacts": "Multi-active Jour,50 ML,Peaux Sèches"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/5277/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/004/5277/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/004/5277/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/004/5277/1.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810045277.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810045277",
+        "ean13": "3380810045277",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810045277",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810045277"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810045277",
+        "qr_payload_text": "https://id.gs1.org/01/03380810045277",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810045277",
+          "code": "3380810045277",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Multi-active Jour,50 ML,Peaux Sèches",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/004/5277/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810045277.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810045277",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810055108",
+      "product_name": "Démaquillant tonic express à la sève d orange",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Démaquillant tonic express à la sève d orange",
+        "source_names": {
+          "openbeautyfacts": "Démaquillant tonic express à la sève d orange"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03380810055108",
+        "ean13": "3380810055108",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810055108",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810055108"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810055108",
+        "qr_payload_text": "https://id.gs1.org/01/03380810055108",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810055108",
+          "code": "3380810055108",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Démaquillant tonic express à la sève d orange",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810055108.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810055108",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810056105",
+      "product_name": "Water Comfort One-Step Cleanser",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Water Comfort One-Step Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Water Comfort One-Step Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03380810056105",
+        "ean13": "3380810056105",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810056105",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810056105"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810056105",
+        "qr_payload_text": "https://id.gs1.org/01/03380810056105",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810056105",
+          "code": "3380810056105",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Water Comfort One-Step Cleanser",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810056105.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810056105",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810060447",
+      "product_name": "Mascara supra volume",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/006/0447/front_es.11.400.jpg",
+      "local_image_path": "images/clarins/03380810060447.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Mascara supra volume",
+        "source_names": {
+          "openbeautyfacts": "Mascara supra volume"
+        },
+        "alternate_names": [],
+        "quantity": "8ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/006/0447/front_es.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/006/0447/front_es.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/006/0447/front_es.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/006/0447/front_es.11.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810060447.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810060447",
+        "ean13": "3380810060447",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810060447",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810060447"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810060447",
+        "qr_payload_text": "https://id.gs1.org/01/03380810060447",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810060447",
+          "code": "3380810060447",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Mascara supra volume",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/006/0447/front_es.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810060447.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810060447",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810108996",
+      "product_name": "Hydra-Essentiel Bi-Sérum Intensif Anti-Soif",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/010/8996/front_fr.5.400.jpg",
+      "local_image_path": "images/clarins/03380810108996.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Hydra-Essentiel Bi-Sérum Intensif Anti-Soif",
+        "source_names": {
+          "openbeautyfacts": "Hydra-Essentiel Bi-Sérum Intensif Anti-Soif"
+        },
+        "alternate_names": [
+          "Crème hydratante"
+        ],
+        "quantity": null,
+        "categories": [
+          "Body",
+          "Body Creams",
+          "Cremes Hydratantes"
+        ],
+        "description": "Crème hydratante",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/010/8996/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/010/8996/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/010/8996/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/010/8996/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810108996.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810108996",
+        "ean13": "3380810108996",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810108996",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810108996"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810108996",
+        "qr_payload_text": "https://id.gs1.org/01/03380810108996",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810108996",
+          "code": "3380810108996",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Hydra-Essentiel Bi-Sérum Intensif Anti-Soif",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/010/8996/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810108996.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810108996",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810109016",
+      "product_name": "Hydra-essentiel Gel Sorbet Désaltérant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/010/9016/1.400.jpg",
+      "local_image_path": "images/clarins/03380810109016.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Hydra-essentiel Gel Sorbet Désaltérant",
+        "source_names": {
+          "openbeautyfacts": "Hydra-essentiel Gel Sorbet Désaltérant"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/010/9016/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/010/9016/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/010/9016/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/010/9016/1.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810109016.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810109016",
+        "ean13": "3380810109016",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810109016",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810109016"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810109016",
+        "qr_payload_text": "https://id.gs1.org/01/03380810109016",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810109016",
+          "code": "3380810109016",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Hydra-essentiel Gel Sorbet Désaltérant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/010/9016/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810109016.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810109016",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810120325",
+      "product_name": "Body Fit",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/012/0325/front_fr.8.400.jpg",
+      "local_image_path": "images/clarins/03380810120325.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Body Fit",
+        "source_names": {
+          "openbeautyfacts": "Body Fit"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/012/0325/front_fr.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/012/0325/front_fr.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/012/0325/front_fr.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/012/0325/front_fr.8.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810120325.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810120325",
+        "ean13": "3380810120325",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810120325",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810120325"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810120325",
+        "qr_payload_text": "https://id.gs1.org/01/03380810120325",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810120325",
+          "code": "3380810120325",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Body Fit",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/012/0325/front_fr.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810120325.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810120325",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810137866",
+      "product_name": "Hydra Essentiel",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Hydra Essentiel",
+        "source_names": {
+          "openbeautyfacts": "Hydra Essentiel"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03380810137866",
+        "ean13": "3380810137866",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810137866",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810137866"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810137866",
+        "qr_payload_text": "https://id.gs1.org/01/03380810137866",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810137866",
+          "code": "3380810137866",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Hydra Essentiel",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810137866.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810137866",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810149661",
+      "product_name": "Double Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/014/9661/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380810149661.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Double Serum",
+        "source_names": {
+          "openbeautyfacts": "Double Serum"
+        },
+        "alternate_names": [
+          "Crème de soin"
+        ],
+        "quantity": "100 ml",
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": "Crème de soin",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/014/9661/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/014/9661/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/014/9661/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/014/9661/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810149661.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810149661",
+        "ean13": "3380810149661",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810149661",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810149661"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810149661",
+        "qr_payload_text": "https://id.gs1.org/01/03380810149661",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810149661",
+          "code": "3380810149661",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Double Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/014/9661/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810149661.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810149661",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810185249",
+      "product_name": "CLARINS SOS PRIMER 00 - Booste l'éclat",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/018/5249/front_fr.11.400.jpg",
+      "local_image_path": "images/clarins/03380810185249.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "CLARINS SOS PRIMER 00 - Booste l'éclat",
+        "source_names": {
+          "openbeautyfacts": "CLARINS SOS PRIMER 00 - Booste l'éclat"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/018/5249/front_fr.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/018/5249/front_fr.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/018/5249/front_fr.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/018/5249/front_fr.11.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810185249.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810185249",
+        "ean13": "3380810185249",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810185249",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810185249"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810185249",
+        "qr_payload_text": "https://id.gs1.org/01/03380810185249",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810185249",
+          "code": "3380810185249",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "CLARINS SOS PRIMER 00 - Booste l'éclat",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/018/5249/front_fr.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810185249.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810185249",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810194784",
+      "product_name": "Extra Firming Jour",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/4784/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380810194784.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Extra Firming Jour",
+        "source_names": {
+          "openbeautyfacts": "Extra Firming Jour"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Day Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/4784/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/019/4784/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/019/4784/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/019/4784/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810194784.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810194784",
+        "ean13": "3380810194784",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810194784",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810194784"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810194784",
+        "qr_payload_text": "https://id.gs1.org/01/03380810194784",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810194784",
+          "code": "3380810194784",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Extra Firming Jour",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/4784/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810194784.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810194784",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810195057",
+      "product_name": "Extra-firming nuit",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/5057/front_fr.3.400.jpg",
+      "local_image_path": "images/clarins/03380810195057.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Extra-firming nuit",
+        "source_names": {
+          "openbeautyfacts": "Extra-firming nuit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/5057/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/019/5057/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/019/5057/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/019/5057/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810195057.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810195057",
+        "ean13": "3380810195057",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810195057",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810195057"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810195057",
+        "qr_payload_text": "https://id.gs1.org/01/03380810195057",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810195057",
+          "code": "3380810195057",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Extra-firming nuit",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/5057/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810195057.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810195057",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810197396",
+      "product_name": "Hydra Sculpt Soin Restructurant ClarinsMen",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/7396/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380810197396.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Hydra Sculpt Soin Restructurant ClarinsMen",
+        "source_names": {
+          "openbeautyfacts": "Hydra Sculpt Soin Restructurant ClarinsMen"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/7396/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/019/7396/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/019/7396/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/019/7396/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810197396.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810197396",
+        "ean13": "3380810197396",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810197396",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810197396"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810197396",
+        "qr_payload_text": "https://id.gs1.org/01/03380810197396",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810197396",
+          "code": "3380810197396",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Hydra Sculpt Soin Restructurant ClarinsMen",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/7396/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810197396.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810197396",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810199802",
+      "product_name": "Lait corps hydratant velours à l’Aloe Vera",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/9802/front_fr.3.400.jpg",
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Lait corps hydratant velours à l’Aloe Vera",
+        "source_names": {
+          "openbeautyfacts": "Lait corps hydratant velours à l’Aloe Vera"
+        },
+        "alternate_names": [],
+        "quantity": "400ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/9802/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/019/9802/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/019/9802/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/019/9802/front_fr.3.200.jpg"
+        ],
+        "local_image_path": null,
+        "image_status": "remote_only"
+      },
+      "barcode": {
+        "gtin14": "03380810199802",
+        "ean13": "3380810199802",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810199802",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810199802"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810199802",
+        "qr_payload_text": "https://id.gs1.org/01/03380810199802",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810199802",
+          "code": "3380810199802",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Lait corps hydratant velours à l’Aloe Vera",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/019/9802/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810199802.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810199802",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810205190",
+      "product_name": "Gentle Foaming Cleanser (with cottonseed)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/020/5190/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03380810205190.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:CLARINS"
+        ]
+      },
+      "product": {
+        "name": "Gentle Foaming Cleanser (with cottonseed)",
+        "source_names": {
+          "openbeautyfacts": "Gentle Foaming Cleanser (with cottonseed)"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/020/5190/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/020/5190/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/020/5190/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/020/5190/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810205190.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810205190",
+        "ean13": "3380810205190",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810205190",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810205190"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810205190",
+        "qr_payload_text": "https://id.gs1.org/01/03380810205190",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810205190",
+          "code": "3380810205190",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Gentle Foaming Cleanser (with cottonseed)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/020/5190/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810205190.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810205190",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810232424",
+      "product_name": "ClarinsMen Shampooing Douche",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/023/2424/front_fr.5.400.jpg",
+      "local_image_path": "images/clarins/03380810232424.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "ClarinsMen Shampooing Douche",
+        "source_names": {
+          "openbeautyfacts": "ClarinsMen Shampooing Douche"
+        },
+        "alternate_names": [],
+        "quantity": "200ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/023/2424/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/023/2424/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/023/2424/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/023/2424/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810232424.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810232424",
+        "ean13": "3380810232424",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810232424",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810232424"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810232424",
+        "qr_payload_text": "https://id.gs1.org/01/03380810232424",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810232424",
+          "code": "3380810232424",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "ClarinsMen Shampooing Douche",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/023/2424/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810232424.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810232424",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810234985",
+      "product_name": "handcreme",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/023/4985/front_de.3.400.jpg",
+      "local_image_path": "images/clarins/03380810234985.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "handcreme",
+        "source_names": {
+          "openbeautyfacts": "handcreme"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/023/4985/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/023/4985/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/023/4985/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/023/4985/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810234985.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810234985",
+        "ean13": "3380810234985",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810234985",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810234985"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810234985",
+        "qr_payload_text": "https://id.gs1.org/01/03380810234985",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810234985",
+          "code": "3380810234985",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "handcreme",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/023/4985/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810234985.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810234985",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810288094",
+      "product_name": "Beaume Super Hydratant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/028/8094/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380810288094.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Beaume Super Hydratant",
+        "source_names": {
+          "openbeautyfacts": "Beaume Super Hydratant"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/028/8094/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/028/8094/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/028/8094/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/028/8094/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810288094.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810288094",
+        "ean13": "3380810288094",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810288094",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810288094"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810288094",
+        "qr_payload_text": "https://id.gs1.org/01/03380810288094",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810288094",
+          "code": "3380810288094",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Beaume Super Hydratant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/028/8094/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810288094.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810288094",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810354447",
+      "product_name": "Nutri-Lumière Jour",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/035/4447/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03380810354447.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Nutri-Lumière Jour",
+        "source_names": {
+          "openbeautyfacts": "Nutri-Lumière Jour"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/035/4447/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/035/4447/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/035/4447/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/035/4447/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810354447.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810354447",
+        "ean13": "3380810354447",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810354447",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810354447"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810354447",
+        "qr_payload_text": "https://id.gs1.org/01/03380810354447",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810354447",
+          "code": "3380810354447",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Nutri-Lumière Jour",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/035/4447/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810354447.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810354447",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810354614",
+      "product_name": "Nutri lumiere jour",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Nutri lumiere jour",
+        "source_names": {
+          "openbeautyfacts": "Nutri lumiere jour"
+        },
+        "alternate_names": [],
+        "quantity": "0.06 oz",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03380810354614",
+        "ean13": "3380810354614",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810354614",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810354614"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810354614",
+        "qr_payload_text": "https://id.gs1.org/01/03380810354614",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810354614",
+          "code": "3380810354614",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Nutri lumiere jour",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810354614.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810354614",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810368932",
+      "product_name": "Milky Boost 02 Lait Maquillant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/036/8932/front_de.3.400.jpg",
+      "local_image_path": "images/clarins/03380810368932.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Milky Boost 02 Lait Maquillant",
+        "source_names": {
+          "openbeautyfacts": "Milky Boost 02 Lait Maquillant"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/036/8932/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/036/8932/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/036/8932/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/036/8932/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810368932.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810368932",
+        "ean13": "3380810368932",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810368932",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810368932"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810368932",
+        "qr_payload_text": "https://id.gs1.org/01/03380810368932",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810368932",
+          "code": "3380810368932",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Milky Boost 02 Lait Maquillant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/036/8932/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810368932.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810368932",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810368949",
+      "product_name": "Milky Boost 03 Lait Maquillant",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Milky Boost 03 Lait Maquillant",
+        "source_names": {
+          "openbeautyfacts": "Milky Boost 03 Lait Maquillant"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03380810368949",
+        "ean13": "3380810368949",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810368949",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810368949"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810368949",
+        "qr_payload_text": "https://id.gs1.org/01/03380810368949",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810368949",
+          "code": "3380810368949",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Milky Boost 03 Lait Maquillant",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810368949.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810368949",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810378795",
+      "product_name": "Velvet Cleansing Milk",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8795/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03380810378795.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Velvet Cleansing Milk",
+        "source_names": {
+          "openbeautyfacts": "Velvet Cleansing Milk"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8795/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8795/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/037/8795/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/037/8795/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810378795.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810378795",
+        "ean13": "3380810378795",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810378795",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810378795"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810378795",
+        "qr_payload_text": "https://id.gs1.org/01/03380810378795",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810378795",
+          "code": "3380810378795",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Velvet Cleansing Milk",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8795/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810378795.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810378795",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810378818",
+      "product_name": "Lotion Tonique Purifiante",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8818/front_de.4.400.jpg",
+      "local_image_path": "images/clarins/03380810378818.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Lotion Tonique Purifiante",
+        "source_names": {
+          "openbeautyfacts": "Lotion Tonique Purifiante"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8818/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8818/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/037/8818/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/037/8818/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810378818.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810378818",
+        "ean13": "3380810378818",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810378818",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810378818"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810378818",
+        "qr_payload_text": "https://id.gs1.org/01/03380810378818",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810378818",
+          "code": "3380810378818",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Lotion Tonique Purifiante",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/037/8818/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810378818.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810378818",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810427318",
+      "product_name": "Purifying Gentle Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7318/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03380810427318.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Purifying Gentle Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Purifying Gentle Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7318/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7318/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7318/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7318/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810427318.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810427318",
+        "ean13": "3380810427318",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810427318",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810427318"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810427318",
+        "qr_payload_text": "https://id.gs1.org/01/03380810427318",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810427318",
+          "code": "3380810427318",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Purifying Gentle Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7318/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810427318.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810427318",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810427325",
+      "product_name": "Hydrating Gentle Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7325/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03380810427325.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Hydrating Gentle Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Hydrating Gentle Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7325/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7325/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7325/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7325/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810427325.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810427325",
+        "ean13": "3380810427325",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810427325",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810427325"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810427325",
+        "qr_payload_text": "https://id.gs1.org/01/03380810427325",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810427325",
+          "code": "3380810427325",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Hydrating Gentle Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7325/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810427325.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810427325",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810427332",
+      "product_name": "Soothing Gentle Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7332/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03380810427332.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Soothing Gentle Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Soothing Gentle Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7332/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7332/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7332/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7332/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810427332.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810427332",
+        "ean13": "3380810427332",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810427332",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810427332"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810427332",
+        "qr_payload_text": "https://id.gs1.org/01/03380810427332",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810427332",
+          "code": "3380810427332",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Soothing Gentle Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7332/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810427332.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810427332",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810427349",
+      "product_name": "Gentle Renewing Cleansing Mousse",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7349/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03380810427349.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Gentle Renewing Cleansing Mousse",
+        "source_names": {
+          "openbeautyfacts": "Gentle Renewing Cleansing Mousse"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7349/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7349/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7349/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/042/7349/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810427349.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810427349",
+        "ean13": "3380810427349",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810427349",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810427349"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810427349",
+        "qr_payload_text": "https://id.gs1.org/01/03380810427349",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810427349",
+          "code": "3380810427349",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Gentle Renewing Cleansing Mousse",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/042/7349/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810427349.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810427349",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810454192",
+      "product_name": "CLARINS",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/045/4192/front_es.6.400.jpg",
+      "local_image_path": "images/clarins/03380810454192.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "clarins"
+        ]
+      },
+      "product": {
+        "name": "CLARINS",
+        "source_names": {
+          "openbeautyfacts": "CLARINS"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/045/4192/front_es.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/045/4192/front_es.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/045/4192/front_es.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/045/4192/front_es.6.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810454192.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810454192",
+        "ean13": "3380810454192",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810454192",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810454192"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810454192",
+        "qr_payload_text": "https://id.gs1.org/01/03380810454192",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810454192",
+          "code": "3380810454192",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "CLARINS",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/045/4192/front_es.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810454192.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810454192",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810469684",
+      "product_name": "Hand and nail treatment cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/046/9684/front_fr.3.400.jpg",
+      "local_image_path": "images/clarins/03380810469684.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Hand and nail treatment cream",
+        "source_names": {
+          "openbeautyfacts": "Hand and nail treatment cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/046/9684/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/046/9684/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/046/9684/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/046/9684/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810469684.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810469684",
+        "ean13": "3380810469684",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810469684",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810469684"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810469684",
+        "qr_payload_text": "https://id.gs1.org/01/03380810469684",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810469684",
+          "code": "3380810469684",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Hand and nail treatment cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/046/9684/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810469684.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810469684",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810506105",
+      "product_name": "ClarinsMen Stick Anti-Transpirant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/050/6105/front_fr.5.400.jpg",
+      "local_image_path": "images/clarins/03380810506105.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "ClarinsMen Stick Anti-Transpirant",
+        "source_names": {
+          "openbeautyfacts": "ClarinsMen Stick Anti-Transpirant"
+        },
+        "alternate_names": [],
+        "quantity": "75g",
+        "categories": [
+          "Deodorants Anti Transpirants"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/050/6105/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/050/6105/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/050/6105/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/050/6105/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810506105.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810506105",
+        "ean13": "3380810506105",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810506105",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810506105"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810506105",
+        "qr_payload_text": "https://id.gs1.org/01/03380810506105",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810506105",
+          "code": "3380810506105",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "ClarinsMen Stick Anti-Transpirant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/050/6105/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810506105.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810506105",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810553109",
+      "product_name": "Gommage &quot;Tonic&quot; Corps",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/055/3109/front_fr.3.400.jpg",
+      "local_image_path": "images/clarins/03380810553109.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Gommage &quot;Tonic&quot; Corps",
+        "source_names": {
+          "openbeautyfacts": "Gommage &quot;Tonic&quot; Corps"
+        },
+        "alternate_names": [],
+        "quantity": "250g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/055/3109/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/055/3109/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/055/3109/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/055/3109/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810553109.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810553109",
+        "ean13": "3380810553109",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810553109",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810553109"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810553109",
+        "qr_payload_text": "https://id.gs1.org/01/03380810553109",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810553109",
+          "code": "3380810553109",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Gommage &quot;Tonic&quot; Corps",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/055/3109/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810553109.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810553109",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380810646108",
+      "product_name": "Eau dynamisante",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/064/6108/front_fr.11.400.jpg",
+      "local_image_path": "images/clarins/03380810646108.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Eau dynamisante",
+        "source_names": {
+          "openbeautyfacts": "Eau dynamisante"
+        },
+        "alternate_names": [
+          "Doux déodorant"
+        ],
+        "quantity": "100 ml",
+        "categories": [
+          "Hygiene",
+          "Deodorants"
+        ],
+        "description": "Doux déodorant",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/064/6108/front_fr.11.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/064/6108/front_fr.11.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/064/6108/front_fr.11.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/064/6108/front_fr.11.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380810646108.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380810646108",
+        "ean13": "3380810646108",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380810646108",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380810646108"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380810646108",
+        "qr_payload_text": "https://id.gs1.org/01/03380810646108",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380810646108",
+          "code": "3380810646108",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Eau dynamisante",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/064/6108/front_fr.11.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380810646108.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380810646108",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380811094106",
+      "product_name": "Haute Exigence Jour",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/109/4106/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380811094106.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Haute Exigence Jour",
+        "source_names": {
+          "openbeautyfacts": "Haute Exigence Jour"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Day Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/109/4106/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/109/4106/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/109/4106/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/109/4106/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380811094106.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380811094106",
+        "ean13": "3380811094106",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380811094106",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380811094106"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380811094106",
+        "qr_payload_text": "https://id.gs1.org/01/03380811094106",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380811094106",
+          "code": "3380811094106",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Haute Exigence Jour",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/109/4106/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380811094106.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380811094106",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380811164106",
+      "product_name": "Capital lumière jour SPF 15",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/116/4106/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380811164106.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Capital lumière jour SPF 15",
+        "source_names": {
+          "openbeautyfacts": "Capital lumière jour SPF 15"
+        },
+        "alternate_names": [
+          "Soin anti âge unifiant"
+        ],
+        "quantity": "50 ml",
+        "categories": [
+          "Face",
+          "Facial Creams",
+          "Suncare",
+          "Anti Aging Face Care Products",
+          "In Sun Protections"
+        ],
+        "description": "Soin anti âge unifiant",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/116/4106/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/116/4106/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/116/4106/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/116/4106/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380811164106.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380811164106",
+        "ean13": "3380811164106",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380811164106",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380811164106"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380811164106",
+        "qr_payload_text": "https://id.gs1.org/01/03380811164106",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380811164106",
+          "code": "3380811164106",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Capital lumière jour SPF 15",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/116/4106/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380811164106.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380811164106",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380811183107",
+      "product_name": "démaquillant express yeux sensibles",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/118/3107/front_fr.7.400.jpg",
+      "local_image_path": "images/clarins/03380811183107.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "démaquillant express yeux sensibles",
+        "source_names": {
+          "openbeautyfacts": "démaquillant express yeux sensibles"
+        },
+        "alternate_names": [],
+        "quantity": "125 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/118/3107/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/118/3107/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/118/3107/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/118/3107/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380811183107.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380811183107",
+        "ean13": "3380811183107",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380811183107",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380811183107"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380811183107",
+        "qr_payload_text": "https://id.gs1.org/01/03380811183107",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380811183107",
+          "code": "3380811183107",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "démaquillant express yeux sensibles",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/118/3107/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380811183107.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380811183107",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380811241104",
+      "product_name": "Doux nettoyant moussant",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/124/1104/1.400.jpg",
+      "local_image_path": "images/clarins/03380811241104.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins-paris"
+        ]
+      },
+      "product": {
+        "name": "Doux nettoyant moussant",
+        "source_names": {
+          "openbeautyfacts": "Doux nettoyant moussant"
+        },
+        "alternate_names": [],
+        "quantity": "125 ml",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts",
+          "Soin"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/124/1104/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/124/1104/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/124/1104/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/124/1104/1.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380811241104.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380811241104",
+        "ean13": "3380811241104",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380811241104",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380811241104"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380811241104",
+        "qr_payload_text": "https://id.gs1.org/01/03380811241104",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380811241104",
+          "code": "3380811241104",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Doux nettoyant moussant",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/124/1104/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380811241104.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380811241104",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380811454108",
+      "product_name": "Spray Solaire Lait Fluide Sécurité",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/145/4108/front_fr.5.400.jpg",
+      "local_image_path": "images/clarins/03380811454108.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Spray Solaire Lait Fluide Sécurité",
+        "source_names": {
+          "openbeautyfacts": "Spray Solaire Lait Fluide Sécurité"
+        },
+        "alternate_names": [],
+        "quantity": "150 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/145/4108/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/145/4108/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/145/4108/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/145/4108/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380811454108.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380811454108",
+        "ean13": "3380811454108",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380811454108",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380811454108"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380811454108",
+        "qr_payload_text": "https://id.gs1.org/01/03380811454108",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380811454108",
+          "code": "3380811454108",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Spray Solaire Lait Fluide Sécurité",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/145/4108/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380811454108.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380811454108",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380813033103",
+      "product_name": "ClarinsMen Lotion Après-Rasage",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/303/3103/front_fr.4.400.jpg",
+      "local_image_path": "images/clarins/03380813033103.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "ClarinsMen Lotion Après-Rasage",
+        "source_names": {
+          "openbeautyfacts": "ClarinsMen Lotion Après-Rasage"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/303/3103/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/303/3103/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/303/3103/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/303/3103/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380813033103.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380813033103",
+        "ean13": "3380813033103",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380813033103",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380813033103"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380813033103",
+        "qr_payload_text": "https://id.gs1.org/01/03380813033103",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380813033103",
+          "code": "3380813033103",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "ClarinsMen Lotion Après-Rasage",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/303/3103/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380813033103.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380813033103",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03380814213511",
+      "product_name": "Crayon sourcils",
+      "image_url": "https://images.openbeautyfacts.org/images/products/338/081/421/3511/front_fr.3.400.jpg",
+      "local_image_path": "images/clarins/03380814213511.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Crayon sourcils",
+        "source_names": {
+          "openbeautyfacts": "Crayon sourcils"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/338/081/421/3511/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/338/081/421/3511/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/338/081/421/3511/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/338/081/421/3511/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03380814213511.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03380814213511",
+        "ean13": "3380814213511",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3380814213511",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3380814213511"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03380814213511",
+        "qr_payload_text": "https://id.gs1.org/01/03380814213511",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03380814213511",
+          "code": "3380814213511",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Crayon sourcils",
+          "image_url": "https://images.openbeautyfacts.org/images/products/338/081/421/3511/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03380814213511.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3380814213511",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057013577",
+      "product_name": "Natural Lip Perfector 01 Rose Shimmer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/701/3577/front_de.3.400.jpg",
+      "local_image_path": "images/clarins/03666057013577.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Natural Lip Perfector 01 Rose Shimmer",
+        "source_names": {
+          "openbeautyfacts": "Natural Lip Perfector 01 Rose Shimmer"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/701/3577/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/701/3577/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/701/3577/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/701/3577/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057013577.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057013577",
+        "ean13": "3666057013577",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057013577",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057013577"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057013577",
+        "qr_payload_text": "https://id.gs1.org/01/03666057013577",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057013577",
+          "code": "3666057013577",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Natural Lip Perfector 01 Rose Shimmer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/701/3577/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057013577.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057013577",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057039881",
+      "product_name": "Re-Charge",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Re-Charge",
+        "source_names": {
+          "openbeautyfacts": "Re-Charge"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03666057039881",
+        "ean13": "3666057039881",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057039881",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057039881"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057039881",
+        "qr_payload_text": "https://id.gs1.org/01/03666057039881",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057039881",
+          "code": "3666057039881",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Re-Charge",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057039881.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057039881",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057162459",
+      "product_name": "Crème jeunesse main",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/716/2459/front_fr.3.400.jpg",
+      "local_image_path": "images/clarins/03666057162459.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Crème jeunesse main",
+        "source_names": {
+          "openbeautyfacts": "Crème jeunesse main"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/716/2459/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/716/2459/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/716/2459/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/716/2459/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057162459.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057162459",
+        "ean13": "3666057162459",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057162459",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057162459"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057162459",
+        "qr_payload_text": "https://id.gs1.org/01/03666057162459",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057162459",
+          "code": "3666057162459",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Crème jeunesse main",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/716/2459/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057162459.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057162459",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057177811",
+      "product_name": "Multi-Active Jour",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/717/7811/front_en.5.400.jpg",
+      "local_image_path": "images/clarins/03666057177811.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:CLARINS"
+        ]
+      },
+      "product": {
+        "name": "Multi-Active Jour",
+        "source_names": {
+          "openbeautyfacts": "Multi-Active Jour"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/717/7811/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/717/7811/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/717/7811/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/717/7811/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057177811.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057177811",
+        "ean13": "3666057177811",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057177811",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057177811"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057177811",
+        "qr_payload_text": "https://id.gs1.org/01/03666057177811",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057177811",
+          "code": "3666057177811",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Multi-Active Jour",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/717/7811/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057177811.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057177811",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057191886",
+      "product_name": "Re-Boost",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/719/1886/front_fr.5.400.jpg",
+      "local_image_path": "images/clarins/03666057191886.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Re-Boost",
+        "source_names": {
+          "openbeautyfacts": "Re-Boost"
+        },
+        "alternate_names": [],
+        "quantity": "1pcs",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/719/1886/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/719/1886/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/719/1886/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/719/1886/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057191886.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057191886",
+        "ean13": "3666057191886",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057191886",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057191886"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057191886",
+        "qr_payload_text": "https://id.gs1.org/01/03666057191886",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057191886",
+          "code": "3666057191886",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Re-Boost",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/719/1886/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057191886.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057191886",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057216503",
+      "product_name": "Hydrating Gentle Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6503/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03666057216503.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Hydrating Gentle Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Hydrating Gentle Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": "125 mL",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6503/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6503/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/721/6503/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/721/6503/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057216503.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057216503",
+        "ean13": "3666057216503",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057216503",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057216503"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057216503",
+        "qr_payload_text": "https://id.gs1.org/01/03666057216503",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057216503",
+          "code": "3666057216503",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Hydrating Gentle Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6503/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057216503.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057216503",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057216718",
+      "product_name": "Purifying Toning Lotion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6718/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03666057216718.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Purifying Toning Lotion",
+        "source_names": {
+          "openbeautyfacts": "Purifying Toning Lotion"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Face Toner"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6718/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6718/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/721/6718/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/721/6718/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057216718.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057216718",
+        "ean13": "3666057216718",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057216718",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057216718"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057216718",
+        "qr_payload_text": "https://id.gs1.org/01/03666057216718",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057216718",
+          "code": "3666057216718",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Purifying Toning Lotion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/721/6718/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057216718.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057216718",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057272684",
+      "product_name": "Clarins Extra Firming Jour SPF15",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "clarins"
+        ]
+      },
+      "product": {
+        "name": "Clarins Extra Firming Jour SPF15",
+        "source_names": {
+          "openbeautyfacts": "Clarins Extra Firming Jour SPF15"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03666057272684",
+        "ean13": "3666057272684",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057272684",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057272684"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057272684",
+        "qr_payload_text": "https://id.gs1.org/01/03666057272684",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057272684",
+          "code": "3666057272684",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Clarins Extra Firming Jour SPF15",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057272684.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057272684",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057272967",
+      "product_name": "Extra-Firming Emulsion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/727/2967/front_en.5.400.jpg",
+      "local_image_path": "images/clarins/03666057272967.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Extra-Firming Emulsion",
+        "source_names": {
+          "openbeautyfacts": "Extra-Firming Emulsion"
+        },
+        "alternate_names": [],
+        "quantity": "3 mL",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/727/2967/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/727/2967/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/727/2967/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/727/2967/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057272967.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057272967",
+        "ean13": "3666057272967",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057272967",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057272967"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057272967",
+        "qr_payload_text": "https://id.gs1.org/01/03666057272967",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057272967",
+          "code": "3666057272967",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Extra-Firming Emulsion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/727/2967/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057272967.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057272967",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057285806",
+      "product_name": "Clarins Men Antiperspirant Deo Roll-On 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "clarins"
+        ]
+      },
+      "product": {
+        "name": "Clarins Men Antiperspirant Deo Roll-On 50ml",
+        "source_names": {
+          "openbeautyfacts": "Clarins Men Antiperspirant Deo Roll-On 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Deodorant",
+          "Deoroller",
+          "Verzorging"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03666057285806",
+        "ean13": "3666057285806",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057285806",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057285806"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057285806",
+        "qr_payload_text": "https://id.gs1.org/01/03666057285806",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057285806",
+          "code": "3666057285806",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Clarins Men Antiperspirant Deo Roll-On 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057285806.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057285806",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057297519",
+      "product_name": "Clarins Hydra Essential Day Cream Giftset",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "clarins"
+        ]
+      },
+      "product": {
+        "name": "Clarins Hydra Essential Day Cream Giftset",
+        "source_names": {
+          "openbeautyfacts": "Clarins Hydra Essential Day Cream Giftset"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Geschenkset Voor Haar",
+          "Geschenksets",
+          "Skincare Geschenksets"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03666057297519",
+        "ean13": "3666057297519",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057297519",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057297519"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057297519",
+        "qr_payload_text": "https://id.gs1.org/01/03666057297519",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057297519",
+          "code": "3666057297519",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Clarins Hydra Essential Day Cream Giftset",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057297519.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057297519",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057332968",
+      "product_name": "Trio Belle Peau",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/733/2968/front_de.7.400.jpg",
+      "local_image_path": "images/clarins/03666057332968.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:clarins"
+        ]
+      },
+      "product": {
+        "name": "Trio Belle Peau",
+        "source_names": {
+          "openbeautyfacts": "Trio Belle Peau"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/733/2968/front_de.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/733/2968/front_de.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/733/2968/front_de.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/733/2968/front_de.7.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057332968.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057332968",
+        "ean13": "3666057332968",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057332968",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057332968"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057332968",
+        "qr_payload_text": "https://id.gs1.org/01/03666057332968",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057332968",
+          "code": "3666057332968",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Trio Belle Peau",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/733/2968/front_de.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057332968.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057332968",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057350085",
+      "product_name": "Multi-Active Glow Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/735/0085/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03666057350085.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Multi-Active Glow Serum",
+        "source_names": {
+          "openbeautyfacts": "Multi-Active Glow Serum"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/735/0085/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/735/0085/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/735/0085/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/735/0085/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057350085.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057350085",
+        "ean13": "3666057350085",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057350085",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057350085"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057350085",
+        "qr_payload_text": "https://id.gs1.org/01/03666057350085",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057350085",
+          "code": "3666057350085",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Multi-Active Glow Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/735/0085/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057350085.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057350085",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03666057353048",
+      "product_name": "Skin Illusion All-In-One Concealer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/366/605/735/3048/front_en.3.400.jpg",
+      "local_image_path": "images/clarins/03666057353048.jpg",
+      "brand": {
+        "slug": "clarins",
+        "display_name": "Clarins",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Clarins",
+        "matched_raw_brands": [
+          "xx:Clarins"
+        ]
+      },
+      "product": {
+        "name": "Skin Illusion All-In-One Concealer",
+        "source_names": {
+          "openbeautyfacts": "Skin Illusion All-In-One Concealer"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/366/605/735/3048/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/366/605/735/3048/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/366/605/735/3048/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/366/605/735/3048/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/clarins/03666057353048.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03666057353048",
+        "ean13": "3666057353048",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3666057353048",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3666057353048"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03666057353048",
+        "qr_payload_text": "https://id.gs1.org/01/03666057353048",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03666057353048",
+          "code": "3666057353048",
+          "type": "EAN-13",
+          "brand": "Clarins",
+          "name": "Skin Illusion All-In-One Concealer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/366/605/735/3048/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/clarins/03666057353048.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3666057353048",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

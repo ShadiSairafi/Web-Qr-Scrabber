@@ -1,0 +1,244 @@
+{
+  "brand_slug": "hero",
+  "display_name": "Hero.",
+  "letter_section": "H",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Hero.",
+  "product_count": 3,
+  "canonical_product_count": 3,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00196270000502",
+      "product_name": "Original",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/627/000/0502/front_en.3.400.jpg",
+      "local_image_path": "images/hero/00196270000502.jpg",
+      "brand": {
+        "slug": "hero",
+        "display_name": "Hero.",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Hero.",
+        "matched_raw_brands": [
+          "xx:Mighty Patch"
+        ]
+      },
+      "product": {
+        "name": "Original",
+        "source_names": {
+          "openbeautyfacts": "Original"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/627/000/0502/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/627/000/0502/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/627/000/0502/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/627/000/0502/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/hero/00196270000502.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00196270000502",
+        "ean13": "0196270000502",
+        "upc_a": "196270000502",
+        "ean8": null,
+        "primary_code": "196270000502",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0196270000502"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00196270000502",
+        "qr_payload_text": "https://id.gs1.org/01/00196270000502",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00196270000502",
+          "code": "196270000502",
+          "type": "UPC-A",
+          "brand": "Hero.",
+          "name": "Original",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/627/000/0502/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/hero/00196270000502.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0196270000502",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00196270100851",
+      "product_name": "Mighty Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/627/010/0851/front_en.3.400.jpg",
+      "local_image_path": "images/hero/00196270100851.jpg",
+      "brand": {
+        "slug": "hero",
+        "display_name": "Hero.",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Hero.",
+        "matched_raw_brands": [
+          "xx:Hero"
+        ]
+      },
+      "product": {
+        "name": "Mighty Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Mighty Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/627/010/0851/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/627/010/0851/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/627/010/0851/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/627/010/0851/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/hero/00196270100851.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00196270100851",
+        "ean13": "0196270100851",
+        "upc_a": "196270100851",
+        "ean8": null,
+        "primary_code": "196270100851",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0196270100851"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00196270100851",
+        "qr_payload_text": "https://id.gs1.org/01/00196270100851",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00196270100851",
+          "code": "196270100851",
+          "type": "UPC-A",
+          "brand": "Hero.",
+          "name": "Mighty Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/627/010/0851/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/hero/00196270100851.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0196270100851",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05010724006115",
+      "product_name": "Mighty Patch Day + Night",
+      "image_url": "https://images.openbeautyfacts.org/images/products/501/072/400/6115/front_fr.3.400.jpg",
+      "local_image_path": "images/hero/05010724006115.jpg",
+      "brand": {
+        "slug": "hero",
+        "display_name": "Hero.",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Hero.",
+        "matched_raw_brands": [
+          "xx:hero"
+        ]
+      },
+      "product": {
+        "name": "Mighty Patch Day + Night",
+        "source_names": {
+          "openbeautyfacts": "Mighty Patch Day + Night"
+        },
+        "alternate_names": [],
+        "quantity": "24 patchs",
+        "categories": [
+          "Patchs Pour Les Boutons"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/501/072/400/6115/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/501/072/400/6115/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/501/072/400/6115/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/501/072/400/6115/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/hero/05010724006115.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05010724006115",
+        "ean13": "5010724006115",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5010724006115",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5010724006115"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05010724006115",
+        "qr_payload_text": "https://id.gs1.org/01/05010724006115",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05010724006115",
+          "code": "5010724006115",
+          "type": "EAN-13",
+          "brand": "Hero.",
+          "name": "Mighty Patch Day + Night",
+          "image_url": "https://images.openbeautyfacts.org/images/products/501/072/400/6115/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/hero/05010724006115.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5010724006115",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

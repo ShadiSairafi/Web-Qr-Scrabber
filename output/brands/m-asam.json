@@ -1,0 +1,646 @@
+{
+  "brand_slug": "m-asam",
+  "display_name": "M. Asam",
+  "letter_section": "M",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+  "product_count": 8,
+  "canonical_product_count": 8,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "01008639443822",
+      "product_name": "Instant dry drops",
+      "image_url": "https://images.openbeautyfacts.org/images/products/100/863/944/3822/front_de.3.400.jpg",
+      "local_image_path": "images/m-asam/01008639443822.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:M. Asam"
+        ]
+      },
+      "product": {
+        "name": "Instant dry drops",
+        "source_names": {
+          "openbeautyfacts": "Instant dry drops"
+        },
+        "alternate_names": [],
+        "quantity": "5 ml",
+        "categories": [
+          "Nail Products",
+          "Nail Polish Drying Drops Sprays"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/100/863/944/3822/front_de.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/100/863/944/3822/front_de.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/100/863/944/3822/front_de.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/100/863/944/3822/front_de.3.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/01008639443822.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "01008639443822",
+        "ean13": "1008639443822",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "1008639443822",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "1008639443822"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/01008639443822",
+        "qr_payload_text": "https://id.gs1.org/01/01008639443822",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "01008639443822",
+          "code": "1008639443822",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "Instant dry drops",
+          "image_url": "https://images.openbeautyfacts.org/images/products/100/863/944/3822/front_de.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/01008639443822.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/1008639443822",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04049639411609",
+      "product_name": "M.Asam Aqua Intense Hyaluron Yüz Temizleme Jeli",
+      "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/1609/front_en.4.400.jpg",
+      "local_image_path": "images/m-asam/04049639411609.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:M.Asam"
+        ]
+      },
+      "product": {
+        "name": "M.Asam Aqua Intense Hyaluron Yüz Temizleme Jeli",
+        "source_names": {
+          "openbeautyfacts": "M.Asam Aqua Intense Hyaluron Yüz Temizleme Jeli"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [
+          "Face",
+          "Cleansers"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/1609/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/404/963/941/1609/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/404/963/941/1609/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/404/963/941/1609/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/04049639411609.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04049639411609",
+        "ean13": "4049639411609",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4049639411609",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4049639411609"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04049639411609",
+        "qr_payload_text": "https://id.gs1.org/01/04049639411609",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04049639411609",
+          "code": "4049639411609",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "M.Asam Aqua Intense Hyaluron Yüz Temizleme Jeli",
+          "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/1609/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/04049639411609.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4049639411609",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04049639412507",
+      "product_name": "Magic Finish",
+      "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2507/front_de.4.400.jpg",
+      "local_image_path": "images/m-asam/04049639412507.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:m-asam"
+        ]
+      },
+      "product": {
+        "name": "Magic Finish",
+        "source_names": {
+          "openbeautyfacts": "Magic Finish"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [
+          "Makeup",
+          "Face Makeup",
+          "Foundations"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2507/front_de.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2507/front_de.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/404/963/941/2507/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/404/963/941/2507/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/04049639412507.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04049639412507",
+        "ean13": "4049639412507",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4049639412507",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4049639412507"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04049639412507",
+        "qr_payload_text": "https://id.gs1.org/01/04049639412507",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04049639412507",
+          "code": "4049639412507",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "Magic Finish",
+          "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2507/front_de.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/04049639412507.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4049639412507",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04049639412903",
+      "product_name": "M.Asam Vinolift Temizleme Kremi",
+      "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2903/front_en.4.400.jpg",
+      "local_image_path": "images/m-asam/04049639412903.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:M.Asam"
+        ]
+      },
+      "product": {
+        "name": "M.Asam Vinolift Temizleme Kremi",
+        "source_names": {
+          "openbeautyfacts": "M.Asam Vinolift Temizleme Kremi"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [
+          "Face",
+          "Cleansers"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2903/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2903/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/404/963/941/2903/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/404/963/941/2903/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/04049639412903.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04049639412903",
+        "ean13": "4049639412903",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4049639412903",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4049639412903"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04049639412903",
+        "qr_payload_text": "https://id.gs1.org/01/04049639412903",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04049639412903",
+          "code": "4049639412903",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "M.Asam Vinolift Temizleme Kremi",
+          "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/2903/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/04049639412903.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4049639412903",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04049639413689",
+      "product_name": "Perfect teint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/3689/front_fr.3.400.jpg",
+      "local_image_path": "images/m-asam/04049639413689.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:m-asam"
+        ]
+      },
+      "product": {
+        "name": "Perfect teint",
+        "source_names": {
+          "openbeautyfacts": "Perfect teint"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/3689/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/404/963/941/3689/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/404/963/941/3689/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/404/963/941/3689/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/04049639413689.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04049639413689",
+        "ean13": "4049639413689",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4049639413689",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4049639413689"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04049639413689",
+        "qr_payload_text": "https://id.gs1.org/01/04049639413689",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04049639413689",
+          "code": "4049639413689",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "Perfect teint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/3689/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/04049639413689.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4049639413689",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04049639419728",
+      "product_name": "M.Asam Vinolift Sıkılaştırıcı Yüz Kremi",
+      "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/9728/front_en.4.400.jpg",
+      "local_image_path": "images/m-asam/04049639419728.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:M.Asam"
+        ]
+      },
+      "product": {
+        "name": "M.Asam Vinolift Sıkılaştırıcı Yüz Kremi",
+        "source_names": {
+          "openbeautyfacts": "M.Asam Vinolift Sıkılaştırıcı Yüz Kremi"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/9728/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/404/963/941/9728/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/404/963/941/9728/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/404/963/941/9728/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/04049639419728.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04049639419728",
+        "ean13": "4049639419728",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4049639419728",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4049639419728"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04049639419728",
+        "qr_payload_text": "https://id.gs1.org/01/04049639419728",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04049639419728",
+          "code": "4049639419728",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "M.Asam Vinolift Sıkılaştırıcı Yüz Kremi",
+          "image_url": "https://images.openbeautyfacts.org/images/products/404/963/941/9728/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/04049639419728.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4049639419728",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04049639449503",
+      "product_name": "M.Asam Clear Skin Yüz Temizleme Jeli",
+      "image_url": "https://images.openbeautyfacts.org/images/products/404/963/944/9503/front_en.4.400.jpg",
+      "local_image_path": "images/m-asam/04049639449503.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:M.Asam"
+        ]
+      },
+      "product": {
+        "name": "M.Asam Clear Skin Yüz Temizleme Jeli",
+        "source_names": {
+          "openbeautyfacts": "M.Asam Clear Skin Yüz Temizleme Jeli"
+        },
+        "alternate_names": [],
+        "quantity": "200 ml",
+        "categories": [
+          "Face",
+          "Cleansers"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/404/963/944/9503/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/404/963/944/9503/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/404/963/944/9503/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/404/963/944/9503/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/04049639449503.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04049639449503",
+        "ean13": "4049639449503",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4049639449503",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4049639449503"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04049639449503",
+        "qr_payload_text": "https://id.gs1.org/01/04049639449503",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04049639449503",
+          "code": "4049639449503",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "M.Asam Clear Skin Yüz Temizleme Jeli",
+          "image_url": "https://images.openbeautyfacts.org/images/products/404/963/944/9503/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/04049639449503.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4049639449503",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04049639451803",
+      "product_name": "M.Asam Aqua Intense Supreme Hyaluron Yüz Kremi",
+      "image_url": "https://images.openbeautyfacts.org/images/products/404/963/945/1803/front_en.4.400.jpg",
+      "local_image_path": "images/m-asam/04049639451803.jpg",
+      "brand": {
+        "slug": "m-asam",
+        "display_name": "M. Asam",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=M.%20Asam",
+        "matched_raw_brands": [
+          "xx:M.Asam"
+        ]
+      },
+      "product": {
+        "name": "M.Asam Aqua Intense Supreme Hyaluron Yüz Kremi",
+        "source_names": {
+          "openbeautyfacts": "M.Asam Aqua Intense Supreme Hyaluron Yüz Kremi"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Face",
+          "Facial Creams"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/404/963/945/1803/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/404/963/945/1803/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/404/963/945/1803/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/404/963/945/1803/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/m-asam/04049639451803.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04049639451803",
+        "ean13": "4049639451803",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4049639451803",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4049639451803"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04049639451803",
+        "qr_payload_text": "https://id.gs1.org/01/04049639451803",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04049639451803",
+          "code": "4049639451803",
+          "type": "EAN-13",
+          "brand": "M. Asam",
+          "name": "M.Asam Aqua Intense Supreme Hyaluron Yüz Kremi",
+          "image_url": "https://images.openbeautyfacts.org/images/products/404/963/945/1803/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/m-asam/04049639451803.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4049639451803",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "brand_slug": "carolina-herrera",
+  "display_name": "Carolina Herrera",
+  "letter_section": "C",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+  "product_count": 8,
+  "canonical_product_count": 8,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "08411061056769",
+      "product_name": "Carolina Herrera Good Girl Blush Eau de Parfum, 1.7 oz.",
+      "image_url": "https://images.openbeautyfacts.org/images/products/841/106/105/6769/front_fr.3.400.jpg",
+      "local_image_path": "images/carolina-herrera/08411061056769.jpg",
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "xx:carolina-herrera",
+          "Carolina Herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera Good Girl Blush Eau de Parfum, 1.7 oz.",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera Good Girl Blush - Eau de Parfum 50ml",
+          "upcitemdb": "Carolina Herrera Good Girl Blush Eau de Parfum, 1.7 oz."
+        },
+        "alternate_names": [
+          "Carolina Herrera Good Girl Blush - Eau de Parfum 50ml",
+          "Good Girl Blush 50 ml",
+          "Carolina Herrera Good Girl Blush Eau de Parfum with Floral Vanilla, Size: 1.7 FL Oz",
+          "Carolina HerreraGood Girl Blush Eau De Parfum Spray 50ml/1.7 oz",
+          "307107 50 ml Good Girl Blush Eau De Parfum Spray for Womens",
+          "Carolina Herrera Good Girl Blush Eau de Parfum at Nordstrom, Size 1.7 Oz",
+          "Carolina Herrera Good Girl Blush Eau de Parfum 1.7 oz."
+        ],
+        "quantity": "50",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Damesparfum"
+        ],
+        "description": "Good Girl Blush Eau de Parfum by Carolina Herrera is a fresh and floral explosion of contrasts that forms a powdery expression of femininity. This radiant woman's perfume is a re-invention of the iconic Good Girl scent. Housed in a blush-pink stiletto, Good Girl Blush reveals the multifaceted nature of modern womanhood with a double dose of vanilla and the pastel romanticism of peony, evoked with two forms of ylang ylang and upcycled rosewater.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/841/106/105/6769/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/841/106/105/6769/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/841/106/105/6769/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/841/106/105/6769/front_fr.3.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/989e59073ce3a7544424adcbd2c5a80f63e01049?wid=800&hei=800&op_sharpen=1&ver=15",
+          "https://s.cdnsbn.com/images/products/30710770306.jpg",
+          "http://site.unbeatablesale.com/STRBN134568.JPG",
+          "https://n.nordstrommedia.com/id/sr3/7eee4777-011e-4af3-9192-7133a31c8717.jpeg?w=500",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/5/optimized/12827135_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/23731931_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/54c99a44-d8de-4343-8ec7-1c2efc73309a.5746766401411e5bbf05d711404800bb.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://img.fragrancex.com/images/products/sku/large/GOOCPV.jpg",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/9/optimized/16925979_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://cdn3.ykso.co/images/2023/08/02/05/64c4cc7896d0bf3c560faec7-transformed.jpeg"
+        ],
+        "local_image_path": "images/carolina-herrera/08411061056769.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08411061056769",
+        "ean13": "8411061056769",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061056769",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061056769"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061056769",
+        "qr_payload_text": "https://id.gs1.org/01/08411061056769",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061056769",
+          "code": "8411061056769",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera Good Girl Blush Eau de Parfum, 1.7 oz.",
+          "image_url": "https://images.openbeautyfacts.org/images/products/841/106/105/6769/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061056769.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 88.89
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061056769",
+        "upcitemdb_ean": "8411061056769",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08411061088180",
+      "product_name": "Carolina Herrera 212 NYC Women - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "carolina herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera 212 NYC Women - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera 212 NYC Women - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08411061088180",
+        "ean13": "8411061088180",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061088180",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061088180"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061088180",
+        "qr_payload_text": "https://id.gs1.org/01/08411061088180",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061088180",
+          "code": "8411061088180",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera 212 NYC Women - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061088180.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061088180",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08411061099735",
+      "product_name": "Carolina Herrera Bad Boy - Eau de Toilette 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "carolina herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera Bad Boy - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera Bad Boy - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08411061099735",
+        "ean13": "8411061099735",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061099735",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061099735"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061099735",
+        "qr_payload_text": "https://id.gs1.org/01/08411061099735",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061099735",
+          "code": "8411061099735",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera Bad Boy - Eau de Toilette 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061099735.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061099735",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08411061124802",
+      "product_name": "Carolina Herrera Very Good Girl - Eau de Parfum 80ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "carolina herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera Very Good Girl - Eau de Parfum 80ml",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera Very Good Girl - Eau de Parfum 80ml"
+        },
+        "alternate_names": [],
+        "quantity": "80",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08411061124802",
+        "ean13": "8411061124802",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061124802",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061124802"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061124802",
+        "qr_payload_text": "https://id.gs1.org/01/08411061124802",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061124802",
+          "code": "8411061124802",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera Very Good Girl - Eau de Parfum 80ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061124802.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061124802",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08411061853207",
+      "product_name": "Carolina Herrera 212 NYC Men - Eau de Toilette 200ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "carolina herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera 212 NYC Men - Eau de Toilette 200ml",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera 212 NYC Men - Eau de Toilette 200ml"
+        },
+        "alternate_names": [],
+        "quantity": "200",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08411061853207",
+        "ean13": "8411061853207",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061853207",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061853207"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061853207",
+        "qr_payload_text": "https://id.gs1.org/01/08411061853207",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061853207",
+          "code": "8411061853207",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera 212 NYC Men - Eau de Toilette 200ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061853207.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061853207",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08411061894026",
+      "product_name": "Carolina Herrera 212 NYC Women - Eau de Toilette 60ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "carolina herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera 212 NYC Women - Eau de Toilette 60ml",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera 212 NYC Women - Eau de Toilette 60ml"
+        },
+        "alternate_names": [],
+        "quantity": "60",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08411061894026",
+        "ean13": "8411061894026",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061894026",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061894026"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061894026",
+        "qr_payload_text": "https://id.gs1.org/01/08411061894026",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061894026",
+          "code": "8411061894026",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera 212 NYC Women - Eau de Toilette 60ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061894026.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061894026",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08411061896259",
+      "product_name": "Carolina Herrera 212 NYC Men - Eau de Toilette 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "carolina herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera 212 NYC Men - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera 212 NYC Men - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08411061896259",
+        "ean13": "8411061896259",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061896259",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061896259"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061896259",
+        "qr_payload_text": "https://id.gs1.org/01/08411061896259",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061896259",
+          "code": "8411061896259",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera 212 NYC Men - Eau de Toilette 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061896259.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061896259",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08411061954331",
+      "product_name": "Carolina Herrera Chic For Men - Eau de Toilette 60ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "carolina-herrera",
+        "display_name": "Carolina Herrera",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Carolina%20Herrera",
+        "matched_raw_brands": [
+          "carolina herrera"
+        ]
+      },
+      "product": {
+        "name": "Carolina Herrera Chic For Men - Eau de Toilette 60ml",
+        "source_names": {
+          "openbeautyfacts": "Carolina Herrera Chic For Men - Eau de Toilette 60ml"
+        },
+        "alternate_names": [],
+        "quantity": "60",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08411061954331",
+        "ean13": "8411061954331",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8411061954331",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8411061954331"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08411061954331",
+        "qr_payload_text": "https://id.gs1.org/01/08411061954331",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08411061954331",
+          "code": "8411061954331",
+          "type": "EAN-13",
+          "brand": "Carolina Herrera",
+          "name": "Carolina Herrera Chic For Men - Eau de Toilette 60ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/carolina-herrera/08411061954331.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8411061954331",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

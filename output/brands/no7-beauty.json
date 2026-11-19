@@ -1,0 +1,474 @@
+{
+  "brand_slug": "no7-beauty",
+  "display_name": "No7 BEAUTY",
+  "letter_section": "N",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=No7%20BEAUTY",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "05000167365078",
+      "product_name": "Flawless loose powder",
+      "image_url": "https://images.openbeautyfacts.org/images/products/500/016/736/5078/front_fr.3.400.jpg",
+      "local_image_path": "images/no7-beauty/05000167365078.jpg",
+      "brand": {
+        "slug": "no7-beauty",
+        "display_name": "No7 BEAUTY",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=No7%20BEAUTY",
+        "matched_raw_brands": [
+          "xx:no-7"
+        ]
+      },
+      "product": {
+        "name": "Flawless loose powder",
+        "source_names": {
+          "openbeautyfacts": "Flawless loose powder"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/500/016/736/5078/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/500/016/736/5078/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/500/016/736/5078/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/500/016/736/5078/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/no7-beauty/05000167365078.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05000167365078",
+        "ean13": "5000167365078",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5000167365078",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5000167365078"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05000167365078",
+        "qr_payload_text": "https://id.gs1.org/01/05000167365078",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05000167365078",
+          "code": "5000167365078",
+          "type": "EAN-13",
+          "brand": "No7 BEAUTY",
+          "name": "Flawless loose powder",
+          "image_url": "https://images.openbeautyfacts.org/images/products/500/016/736/5078/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/no7-beauty/05000167365078.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5000167365078",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05045091726540",
+      "product_name": "Energising face scrub",
+      "image_url": "https://images.openbeautyfacts.org/images/products/504/509/172/6540/front_en.7.400.jpg",
+      "local_image_path": "images/no7-beauty/05045091726540.jpg",
+      "brand": {
+        "slug": "no7-beauty",
+        "display_name": "No7 BEAUTY",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=No7%20BEAUTY",
+        "matched_raw_brands": [
+          "xx:no7"
+        ]
+      },
+      "product": {
+        "name": "Energising face scrub",
+        "source_names": {
+          "openbeautyfacts": "Energising face scrub"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/504/509/172/6540/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/504/509/172/6540/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/504/509/172/6540/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/504/509/172/6540/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/no7-beauty/05045091726540.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05045091726540",
+        "ean13": "5045091726540",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5045091726540",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5045091726540"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05045091726540",
+        "qr_payload_text": "https://id.gs1.org/01/05045091726540",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05045091726540",
+          "code": "5045091726540",
+          "type": "EAN-13",
+          "brand": "No7 BEAUTY",
+          "name": "Energising face scrub",
+          "image_url": "https://images.openbeautyfacts.org/images/products/504/509/172/6540/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/no7-beauty/05045091726540.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5045091726540",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05045096038921",
+      "product_name": "Protect & Perfect Night Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/504/509/603/8921/front_en.6.400.jpg",
+      "local_image_path": "images/no7-beauty/05045096038921.jpg",
+      "brand": {
+        "slug": "no7-beauty",
+        "display_name": "No7 BEAUTY",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=No7%20BEAUTY",
+        "matched_raw_brands": [
+          "xx:no7"
+        ]
+      },
+      "product": {
+        "name": "Protect & Perfect Night Cream",
+        "source_names": {
+          "openbeautyfacts": "Protect & Perfect Night Cream"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/504/509/603/8921/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/504/509/603/8921/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/504/509/603/8921/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/504/509/603/8921/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/no7-beauty/05045096038921.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05045096038921",
+        "ean13": "5045096038921",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5045096038921",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5045096038921"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05045096038921",
+        "qr_payload_text": "https://id.gs1.org/01/05045096038921",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05045096038921",
+          "code": "5045096038921",
+          "type": "EAN-13",
+          "brand": "No7 BEAUTY",
+          "name": "Protect & Perfect Night Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/504/509/603/8921/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/no7-beauty/05045096038921.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5045096038921",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05045096269608",
+      "product_name": "Protect & Perfect Sun Protection Stick 50 SPF",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "no7-beauty",
+        "display_name": "No7 BEAUTY",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=No7%20BEAUTY",
+        "matched_raw_brands": [
+          "xx:no7"
+        ]
+      },
+      "product": {
+        "name": "Protect & Perfect Sun Protection Stick 50 SPF",
+        "source_names": {
+          "openbeautyfacts": "Protect & Perfect Sun Protection Stick 50 SPF"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "05045096269608",
+        "ean13": "5045096269608",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5045096269608",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5045096269608"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05045096269608",
+        "qr_payload_text": "https://id.gs1.org/01/05045096269608",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05045096269608",
+          "code": "5045096269608",
+          "type": "EAN-13",
+          "brand": "No7 BEAUTY",
+          "name": "Protect & Perfect Sun Protection Stick 50 SPF",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/no7-beauty/05045096269608.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5045096269608",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05045098644212",
+      "product_name": "Biodegradable cleansing wipes",
+      "image_url": "https://images.openbeautyfacts.org/images/products/504/509/864/4212/front_fr.3.400.jpg",
+      "local_image_path": "images/no7-beauty/05045098644212.jpg",
+      "brand": {
+        "slug": "no7-beauty",
+        "display_name": "No7 BEAUTY",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=No7%20BEAUTY",
+        "matched_raw_brands": [
+          "xx:no-7"
+        ]
+      },
+      "product": {
+        "name": "Biodegradable cleansing wipes",
+        "source_names": {
+          "openbeautyfacts": "Biodegradable cleansing wipes"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/504/509/864/4212/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/504/509/864/4212/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/504/509/864/4212/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/504/509/864/4212/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/no7-beauty/05045098644212.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05045098644212",
+        "ean13": "5045098644212",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5045098644212",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5045098644212"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05045098644212",
+        "qr_payload_text": "https://id.gs1.org/01/05045098644212",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05045098644212",
+          "code": "5045098644212",
+          "type": "EAN-13",
+          "brand": "No7 BEAUTY",
+          "name": "Biodegradable cleansing wipes",
+          "image_url": "https://images.openbeautyfacts.org/images/products/504/509/864/4212/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/no7-beauty/05045098644212.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5045098644212",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05055654044110",
+      "product_name": "No. 7 Eau de Toilette Natural Spray",
+      "image_url": "https://images.openbeautyfacts.org/images/products/505/565/404/4110/front_en.8.400.jpg",
+      "local_image_path": "images/no7-beauty/05055654044110.jpg",
+      "brand": {
+        "slug": "no7-beauty",
+        "display_name": "No7 BEAUTY",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=No7%20BEAUTY",
+        "matched_raw_brands": [
+          "xx:no-7"
+        ]
+      },
+      "product": {
+        "name": "No. 7 Eau de Toilette Natural Spray",
+        "source_names": {
+          "openbeautyfacts": "No. 7 Eau de Toilette Natural Spray"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/505/565/404/4110/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/505/565/404/4110/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/505/565/404/4110/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/505/565/404/4110/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/no7-beauty/05055654044110.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05055654044110",
+        "ean13": "5055654044110",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5055654044110",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5055654044110"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05055654044110",
+        "qr_payload_text": "https://id.gs1.org/01/05055654044110",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05055654044110",
+          "code": "5055654044110",
+          "type": "EAN-13",
+          "brand": "No7 BEAUTY",
+          "name": "No. 7 Eau de Toilette Natural Spray",
+          "image_url": "https://images.openbeautyfacts.org/images/products/505/565/404/4110/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/no7-beauty/05055654044110.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5055654044110",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

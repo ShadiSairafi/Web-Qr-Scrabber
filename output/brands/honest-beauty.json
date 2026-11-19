@@ -1,0 +1,242 @@
+{
+  "brand_slug": "honest-beauty",
+  "display_name": "Honest Beauty",
+  "letter_section": "H",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Honest%20Beauty",
+  "product_count": 3,
+  "canonical_product_count": 3,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00810022912010",
+      "product_name": "Calm On Foaming Cream Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/002/291/2010/front_en.3.400.jpg",
+      "local_image_path": "images/honest-beauty/00810022912010.jpg",
+      "brand": {
+        "slug": "honest-beauty",
+        "display_name": "Honest Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Honest%20Beauty",
+        "matched_raw_brands": [
+          "xx:honest-beauty"
+        ]
+      },
+      "product": {
+        "name": "Calm On Foaming Cream Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Calm On Foaming Cream Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/002/291/2010/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/002/291/2010/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/002/291/2010/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/002/291/2010/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/honest-beauty/00810022912010.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810022912010",
+        "ean13": "0810022912010",
+        "upc_a": "810022912010",
+        "ean8": null,
+        "primary_code": "810022912010",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810022912010"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810022912010",
+        "qr_payload_text": "https://id.gs1.org/01/00810022912010",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810022912010",
+          "code": "810022912010",
+          "type": "UPC-A",
+          "brand": "Honest Beauty",
+          "name": "Calm On Foaming Cream Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/002/291/2010/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/honest-beauty/00810022912010.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810022912010",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810425035873",
+      "product_name": "Magic Gel-to-Milk Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/042/503/5873/front_en.3.400.jpg",
+      "local_image_path": "images/honest-beauty/00810425035873.jpg",
+      "brand": {
+        "slug": "honest-beauty",
+        "display_name": "Honest Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Honest%20Beauty",
+        "matched_raw_brands": [
+          "xx:honest-beauty"
+        ]
+      },
+      "product": {
+        "name": "Magic Gel-to-Milk Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Magic Gel-to-Milk Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/042/503/5873/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/042/503/5873/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/042/503/5873/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/042/503/5873/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/honest-beauty/00810425035873.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810425035873",
+        "ean13": "0810425035873",
+        "upc_a": "810425035873",
+        "ean8": null,
+        "primary_code": "810425035873",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810425035873"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810425035873",
+        "qr_payload_text": "https://id.gs1.org/01/00810425035873",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810425035873",
+          "code": "810425035873",
+          "type": "UPC-A",
+          "brand": "Honest Beauty",
+          "name": "Magic Gel-to-Milk Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/042/503/5873/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/honest-beauty/00810425035873.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810425035873",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00816645029012",
+      "product_name": "Gentle Gel Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/664/502/9012/front_en.3.400.jpg",
+      "local_image_path": "images/honest-beauty/00816645029012.jpg",
+      "brand": {
+        "slug": "honest-beauty",
+        "display_name": "Honest Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Honest%20Beauty",
+        "matched_raw_brands": [
+          "xx:honest-beauty"
+        ]
+      },
+      "product": {
+        "name": "Gentle Gel Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Gentle Gel Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/664/502/9012/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/664/502/9012/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/664/502/9012/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/664/502/9012/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/honest-beauty/00816645029012.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00816645029012",
+        "ean13": "0816645029012",
+        "upc_a": "816645029012",
+        "ean8": null,
+        "primary_code": "816645029012",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0816645029012"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00816645029012",
+        "qr_payload_text": "https://id.gs1.org/01/00816645029012",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00816645029012",
+          "code": "816645029012",
+          "type": "UPC-A",
+          "brand": "Honest Beauty",
+          "name": "Gentle Gel Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/664/502/9012/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/honest-beauty/00816645029012.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0816645029012",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

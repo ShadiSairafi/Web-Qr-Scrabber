@@ -1,0 +1,357 @@
+{
+  "brand_slug": "briogeo",
+  "display_name": "Briogeo",
+  "letter_section": "B",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Briogeo",
+  "product_count": 4,
+  "canonical_product_count": 4,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00752830426238",
+      "product_name": "Briogeo - Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo Nutrient-Rich Green Juice Inspired Shampoo for Dull Dry and Lifeless Hair 12.5 oz",
+      "image_url": "https://images.openbeautyfacts.org/images/products/075/283/042/6238/front_fr.4.400.jpg",
+      "local_image_path": "images/briogeo/00752830426238.jpg",
+      "brand": {
+        "slug": "briogeo",
+        "display_name": "Briogeo",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Briogeo",
+        "matched_raw_brands": [
+          "xx:briogeo",
+          "Briogeo"
+        ]
+      },
+      "product": {
+        "name": "Briogeo - Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo Nutrient-Rich Green Juice Inspired Shampoo for Dull Dry and Lifeless Hair 12.5 oz",
+        "source_names": {
+          "openbeautyfacts": "Shampooing revigorant et ultra nourrissant au matcha et à la pomme",
+          "upcitemdb": "Briogeo - Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo Nutrient-Rich Green Juice Inspired Shampoo for Dull Dry and Lifeless Hair 12.5 oz"
+        },
+        "alternate_names": [
+          "Shampooing revigorant et ultra nourrissant au matcha et à la pomme",
+          "Briogeo Superfoods Matcha + Apple Replenishing Shampoo, Size: 12.5 FL Oz, None",
+          "Briogeo Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo 369ml/12.5oz",
+          "227280 12.5 oz Be Gentle Be Kind Matcha Plus Apple Replenishing Superfood Shampoo",
+          "Briogeo Be Gentle Be Kind Matcha + Apple Shampoo 12.5 oz",
+          "Briogeo Be Gentle, Be Kind Matcha + Apple Replenishing Superfood Shampoo at Nordstrom"
+        ],
+        "quantity": "369 ml",
+        "categories": [
+          "Hair",
+          "Shampoos",
+          "Health & Beauty",
+          "Personal Care",
+          "Hair Care",
+          "Shampoo & Conditioner",
+          "Shampoo"
+        ],
+        "description": "Briogeo - Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo Nutrient-Rich Green Juice Inspired Shampoo for Dull Dry and Lifeless Hair 12.5 oz",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/075/283/042/6238/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/075/283/042/6238/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/075/283/042/6238/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/075/283/042/6238/front_fr.4.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/9d4355a3cddf3d38f26bed3d1778d8f69e8c7e24?wid=800&hei=800&op_sharpen=1",
+          "http://s.cdnsbn.com/images/products/22728070144.jpg",
+          "https://images.qvc.com/is/image/a/76/a413376.001?$uslarge$",
+          "https://n.nordstrommedia.com/id/sr3/287fd869-f764-42e2-8f2e-c92efdf209cb.jpeg?w=500",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/0/optimized/9943210_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://i5.walmartimages.com/asr/cf0e8b59-1133-48dd-b70c-92102d285bb6_1.c0f2adc4a498c16edbc892ded6241264.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://s7d9.scene7.com/is/image/JCPenney/52ef68b2-6338-11e8-b8cb-79f432177e02?wid=800&hei=800&op_sharpen=1",
+          "http://site.unbeatablesale.com/STRBN80774.JPG",
+          "https://static.storeautomator.com/c/JP4EEJ/media/0f3a4d5b-c1c7-4c02-9c8e-135d8fe3fb54.jpg"
+        ],
+        "local_image_path": "images/briogeo/00752830426238.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00752830426238",
+        "ean13": "0752830426238",
+        "upc_a": "752830426238",
+        "ean8": null,
+        "primary_code": "752830426238",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0752830426238",
+          "752830426238"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00752830426238",
+        "qr_payload_text": "https://id.gs1.org/01/00752830426238",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00752830426238",
+          "code": "752830426238",
+          "type": "UPC-A",
+          "brand": "Briogeo",
+          "name": "Briogeo - Be Gentle Be Kind Matcha + Apple Replenishing Superfood Shampoo Nutrient-Rich Green Juice Inspired Shampoo for Dull Dry and Lifeless Hair 12.5 oz",
+          "image_url": "https://images.openbeautyfacts.org/images/products/075/283/042/6238/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/briogeo/00752830426238.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 40.58
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0752830426238",
+        "upcitemdb_ean": "0752830426238",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00752830891760",
+      "product_name": "Briogeo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/075/283/089/1760/front_fr.3.400.jpg",
+      "local_image_path": "images/briogeo/00752830891760.jpg",
+      "brand": {
+        "slug": "briogeo",
+        "display_name": "Briogeo",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Briogeo",
+        "matched_raw_brands": [
+          "xx:briogeo"
+        ]
+      },
+      "product": {
+        "name": "Briogeo",
+        "source_names": {
+          "openbeautyfacts": "Briogeo"
+        },
+        "alternate_names": [],
+        "quantity": "473ml",
+        "categories": [
+          "Shampoing"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/075/283/089/1760/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/075/283/089/1760/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/075/283/089/1760/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/075/283/089/1760/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/briogeo/00752830891760.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00752830891760",
+        "ean13": "0752830891760",
+        "upc_a": "752830891760",
+        "ean8": null,
+        "primary_code": "752830891760",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0752830891760"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00752830891760",
+        "qr_payload_text": "https://id.gs1.org/01/00752830891760",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00752830891760",
+          "code": "752830891760",
+          "type": "UPC-A",
+          "brand": "Briogeo",
+          "name": "Briogeo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/075/283/089/1760/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/briogeo/00752830891760.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0752830891760",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00787790589761",
+      "product_name": "Scalp Revival",
+      "image_url": "https://images.openbeautyfacts.org/images/products/078/779/058/9761/front_en.3.400.jpg",
+      "local_image_path": "images/briogeo/00787790589761.jpg",
+      "brand": {
+        "slug": "briogeo",
+        "display_name": "Briogeo",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Briogeo",
+        "matched_raw_brands": [
+          "xx:briogeo"
+        ]
+      },
+      "product": {
+        "name": "Scalp Revival",
+        "source_names": {
+          "openbeautyfacts": "Scalp Revival"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoo"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/078/779/058/9761/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/078/779/058/9761/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/078/779/058/9761/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/078/779/058/9761/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/briogeo/00787790589761.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00787790589761",
+        "ean13": "0787790589761",
+        "upc_a": "787790589761",
+        "ean8": null,
+        "primary_code": "787790589761",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0787790589761"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00787790589761",
+        "qr_payload_text": "https://id.gs1.org/01/00787790589761",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00787790589761",
+          "code": "787790589761",
+          "type": "UPC-A",
+          "brand": "Briogeo",
+          "name": "Scalp Revival",
+          "image_url": "https://images.openbeautyfacts.org/images/products/078/779/058/9761/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/briogeo/00787790589761.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0787790589761",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00787790794998",
+      "product_name": "Briogeo Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
+      "image_url": "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_en.21.400.jpg",
+      "local_image_path": "images/briogeo/00787790794998.jpg",
+      "brand": {
+        "slug": "briogeo",
+        "display_name": "Briogeo",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Briogeo",
+        "matched_raw_brands": [
+          "xx:briogeo"
+        ]
+      },
+      "product": {
+        "name": "Briogeo Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
+        "source_names": {
+          "openbeautyfacts": "Briogeo Farewell Frizz Blow Dry Perfection & Heat Protectant Crème"
+        },
+        "alternate_names": [],
+        "quantity": "118 mL",
+        "categories": [
+          "Hair",
+          "Hair Care",
+          "Hair Masks"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_en.21.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_en.21.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_en.21.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_en.21.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_fr.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_fr.12.200.jpg"
+        ],
+        "local_image_path": "images/briogeo/00787790794998.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00787790794998",
+        "ean13": "0787790794998",
+        "upc_a": "787790794998",
+        "ean8": null,
+        "primary_code": "787790794998",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0787790794998"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00787790794998",
+        "qr_payload_text": "https://id.gs1.org/01/00787790794998",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00787790794998",
+          "code": "787790794998",
+          "type": "UPC-A",
+          "brand": "Briogeo",
+          "name": "Briogeo Farewell Frizz Blow Dry Perfection & Heat Protectant Crème",
+          "image_url": "https://images.openbeautyfacts.org/images/products/078/779/079/4998/front_en.21.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/briogeo/00787790794998.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0787790794998",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

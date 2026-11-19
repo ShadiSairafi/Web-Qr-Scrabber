@@ -1,0 +1,3126 @@
+{
+  "brand_slug": "lancome",
+  "display_name": "Lancôme",
+  "letter_section": "L",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+  "product_count": 40,
+  "canonical_product_count": 40,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "03147758014709",
+      "product_name": "Lancome Bocage Deo Gentle Smooth Cream 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome Bocage Deo Gentle Smooth Cream 50ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome Bocage Deo Gentle Smooth Cream 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "For use On Sensitive Or Depilated Skins, 50",
+        "categories": [
+          "Deodorant",
+          "Deodorant Creme",
+          "Verzorging"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03147758014709",
+        "ean13": "3147758014709",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3147758014709",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3147758014709"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03147758014709",
+        "qr_payload_text": "https://id.gs1.org/01/03147758014709",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03147758014709",
+          "code": "3147758014709",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome Bocage Deo Gentle Smooth Cream 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03147758014709.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3147758014709",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03147758029390",
+      "product_name": "Miracle",
+      "image_url": "https://images.openbeautyfacts.org/images/products/314/775/802/9390/front_fr.3.400.jpg",
+      "local_image_path": "images/lancome/03147758029390.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Miracle",
+        "source_names": {
+          "openbeautyfacts": "Miracle"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/314/775/802/9390/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/314/775/802/9390/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/314/775/802/9390/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/314/775/802/9390/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03147758029390.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03147758029390",
+        "ean13": "3147758029390",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3147758029390",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3147758029390"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03147758029390",
+        "qr_payload_text": "https://id.gs1.org/01/03147758029390",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03147758029390",
+          "code": "3147758029390",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Miracle",
+          "image_url": "https://images.openbeautyfacts.org/images/products/314/775/802/9390/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03147758029390.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3147758029390",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03147758034929",
+      "product_name": "Lancome Tresor - Eau de Parfum 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/314/775/803/4929/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/03147758034929.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome Tresor - Eau de Parfum 100ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome Tresor - Eau de Parfum 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/314/775/803/4929/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/314/775/803/4929/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/314/775/803/4929/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/314/775/803/4929/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03147758034929.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03147758034929",
+        "ean13": "3147758034929",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3147758034929",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3147758034929"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03147758034929",
+        "qr_payload_text": "https://id.gs1.org/01/03147758034929",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03147758034929",
+          "code": "3147758034929",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome Tresor - Eau de Parfum 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/314/775/803/4929/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03147758034929.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3147758034929",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03147758155358",
+      "product_name": "Lancome O De Lancome - Eau de Toilette 125 ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome O De Lancome - Eau de Toilette 125 ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome O De Lancome - Eau de Toilette 125 ml"
+        },
+        "alternate_names": [],
+        "quantity": "125",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03147758155358",
+        "ean13": "3147758155358",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3147758155358",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3147758155358"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03147758155358",
+        "qr_payload_text": "https://id.gs1.org/01/03147758155358",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03147758155358",
+          "code": "3147758155358",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome O De Lancome - Eau de Toilette 125 ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03147758155358.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3147758155358",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03147758235500",
+      "product_name": "Hypnôse Eau de Parfum",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Hypnôse Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Hypnôse Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "75 ml",
+        "categories": [
+          "Perfumes",
+          "Cosmetics",
+          "Eau De Parfum",
+          "Women'S Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03147758235500",
+        "ean13": "3147758235500",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3147758235500",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3147758235500"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03147758235500",
+        "qr_payload_text": "https://id.gs1.org/01/03147758235500",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03147758235500",
+          "code": "3147758235500",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Hypnôse Eau de Parfum",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03147758235500.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3147758235500",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605530314114",
+      "product_name": "Nutrix royal body",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/553/031/4114/front_de.9.400.jpg",
+      "local_image_path": "images/lancome/03605530314114.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Nutrix royal body",
+        "source_names": {
+          "openbeautyfacts": "Nutrix royal body"
+        },
+        "alternate_names": [],
+        "quantity": "400 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/553/031/4114/front_de.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/553/031/4114/front_de.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/553/031/4114/front_de.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/553/031/4114/front_de.9.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03605530314114.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605530314114",
+        "ean13": "3605530314114",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605530314114",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605530314114"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605530314114",
+        "qr_payload_text": "https://id.gs1.org/01/03605530314114",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605530314114",
+          "code": "3605530314114",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Nutrix royal body",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/553/031/4114/front_de.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605530314114.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605530314114",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605532533919",
+      "product_name": "Hydra Zen Nuit",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/553/253/3919/front_fr.8.400.jpg",
+      "local_image_path": "images/lancome/03605532533919.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Hydra Zen Nuit",
+        "source_names": {
+          "openbeautyfacts": "Hydra Zen Nuit"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/553/253/3919/front_fr.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/553/253/3919/front_fr.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/553/253/3919/front_fr.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/553/253/3919/front_fr.8.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03605532533919.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605532533919",
+        "ean13": "3605532533919",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605532533919",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605532533919"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605532533919",
+        "qr_payload_text": "https://id.gs1.org/01/03605532533919",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605532533919",
+          "code": "3605532533919",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Hydra Zen Nuit",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/553/253/3919/front_fr.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605532533919.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605532533919",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605532612690",
+      "product_name": "Lancôme La Vie Est Belle Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2690/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/03605532612690.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme La Vie Est Belle Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme La Vie Est Belle Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2690/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2690/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/553/261/2690/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/553/261/2690/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03605532612690.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605532612690",
+        "ean13": "3605532612690",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605532612690",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605532612690"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605532612690",
+        "qr_payload_text": "https://id.gs1.org/01/03605532612690",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605532612690",
+          "code": "3605532612690",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme La Vie Est Belle Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2690/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605532612690.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605532612690",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605532612768",
+      "product_name": "La Vie est Belle 50 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2768/front_en.6.400.jpg",
+      "local_image_path": "images/lancome/03605532612768.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "La Vie est Belle 50 ml",
+        "source_names": {
+          "openbeautyfacts": "La Vie est Belle 50 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2768/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2768/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/553/261/2768/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/553/261/2768/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03605532612768.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605532612768",
+        "ean13": "3605532612768",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605532612768",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605532612768"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605532612768",
+        "qr_payload_text": "https://id.gs1.org/01/03605532612768",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605532612768",
+          "code": "3605532612768",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "La Vie est Belle 50 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/553/261/2768/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605532612768.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605532612768",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605532612836",
+      "product_name": "Lancome La Vie Est Belle - Eau de Parfum 75 ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle - Eau de Parfum 75 ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle - Eau de Parfum 75 ml"
+        },
+        "alternate_names": [],
+        "quantity": "Refillable, 75",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Damesparfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03605532612836",
+        "ean13": "3605532612836",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605532612836",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605532612836"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605532612836",
+        "qr_payload_text": "https://id.gs1.org/01/03605532612836",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605532612836",
+          "code": "3605532612836",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle - Eau de Parfum 75 ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605532612836.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605532612836",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605532697321",
+      "product_name": "Tient visionnaire",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/553/269/7321/front_fr.3.400.jpg",
+      "local_image_path": "images/lancome/03605532697321.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome-paris"
+        ]
+      },
+      "product": {
+        "name": "Tient visionnaire",
+        "source_names": {
+          "openbeautyfacts": "Tient visionnaire"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/553/269/7321/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/553/269/7321/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/553/269/7321/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/553/269/7321/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03605532697321.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605532697321",
+        "ean13": "3605532697321",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605532697321",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605532697321"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605532697321",
+        "qr_payload_text": "https://id.gs1.org/01/03605532697321",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605532697321",
+          "code": "3605532697321",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Tient visionnaire",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/553/269/7321/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605532697321.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605532697321",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605533286555",
+      "product_name": "Lancome La Vie Est Belle EDP Kadın Parfüm 100 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/553/328/6555/front_en.4.400.jpg",
+      "local_image_path": "images/lancome/03605533286555.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle EDP Kadın Parfüm 100 ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle EDP Kadın Parfüm 100 ml"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [
+          "Perfumes",
+          "Cosmetics",
+          "Eau De Parfum",
+          "Women'S Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/553/328/6555/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/553/328/6555/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/553/328/6555/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/553/328/6555/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03605533286555.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605533286555",
+        "ean13": "3605533286555",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605533286555",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605533286555"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605533286555",
+        "qr_payload_text": "https://id.gs1.org/01/03605533286555",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605533286555",
+          "code": "3605533286555",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle EDP Kadın Parfüm 100 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/553/328/6555/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605533286555.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605533286555",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605533315224",
+      "product_name": "Lancome La Nuit Tresor - Eau de Parfum 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Nuit Tresor - Eau de Parfum 50ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Nuit Tresor - Eau de Parfum 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03605533315224",
+        "ean13": "3605533315224",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605533315224",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605533315224"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605533315224",
+        "qr_payload_text": "https://id.gs1.org/01/03605533315224",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605533315224",
+          "code": "3605533315224",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Nuit Tresor - Eau de Parfum 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605533315224.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605533315224",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03605533315347",
+      "product_name": "La nuit trésor",
+      "image_url": "https://images.openbeautyfacts.org/images/products/360/553/331/5347/front_fr.3.400.jpg",
+      "local_image_path": "images/lancome/03605533315347.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "La nuit trésor",
+        "source_names": {
+          "openbeautyfacts": "La nuit trésor"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/360/553/331/5347/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/360/553/331/5347/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/360/553/331/5347/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/360/553/331/5347/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03605533315347.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03605533315347",
+        "ean13": "3605533315347",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3605533315347",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3605533315347"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03605533315347",
+        "qr_payload_text": "https://id.gs1.org/01/03605533315347",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03605533315347",
+          "code": "3605533315347",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "La nuit trésor",
+          "image_url": "https://images.openbeautyfacts.org/images/products/360/553/331/5347/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03605533315347.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3605533315347",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614270263903",
+      "product_name": "lancome renergie multi-lift",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/026/3903/front_en.8.400.jpg",
+      "local_image_path": "images/lancome/03614270263903.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "lancome renergie multi-lift",
+        "source_names": {
+          "openbeautyfacts": "lancome renergie multi-lift"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/026/3903/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/026/3903/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/026/3903/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/026/3903/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03614270263903.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614270263903",
+        "ean13": "3614270263903",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614270263903",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614270263903"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614270263903",
+        "qr_payload_text": "https://id.gs1.org/01/03614270263903",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614270263903",
+          "code": "3614270263903",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "lancome renergie multi-lift",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/026/3903/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614270263903.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614270263903",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271309914",
+      "product_name": "Grandiose extrême",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/130/9914/front_fr.3.400.jpg",
+      "local_image_path": "images/lancome/03614271309914.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Grandiose extrême",
+        "source_names": {
+          "openbeautyfacts": "Grandiose extrême"
+        },
+        "alternate_names": [],
+        "quantity": "10 g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/130/9914/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/130/9914/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/130/9914/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/130/9914/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03614271309914.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271309914",
+        "ean13": "3614271309914",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271309914",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271309914"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271309914",
+        "qr_payload_text": "https://id.gs1.org/01/03614271309914",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271309914",
+          "code": "3614271309914",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Grandiose extrême",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/130/9914/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614271309914.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271309914",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271768735",
+      "product_name": "Lancome",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome",
+        "source_names": {
+          "openbeautyfacts": "Lancome"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614271768735",
+        "ean13": "3614271768735",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271768735",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271768735"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271768735",
+        "qr_payload_text": "https://id.gs1.org/01/03614271768735",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271768735",
+          "code": "3614271768735",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614271768735.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271768735",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272639638",
+      "product_name": "Lancome Idole - Eau de Parfum Refillable 25 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/263/9638/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/03614272639638.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome Idole - Eau de Parfum Refillable 25 ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome Idole - Eau de Parfum Refillable 25 ml"
+        },
+        "alternate_names": [],
+        "quantity": "Refillable Bottle, 25",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/263/9638/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/263/9638/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/263/9638/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/263/9638/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03614272639638.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272639638",
+        "ean13": "3614272639638",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272639638",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272639638"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272639638",
+        "qr_payload_text": "https://id.gs1.org/01/03614272639638",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272639638",
+          "code": "3614272639638",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome Idole - Eau de Parfum Refillable 25 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/263/9638/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614272639638.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272639638",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272783478",
+      "product_name": "Advanced genifique",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/278/3478/front_en.6.400.jpg",
+      "local_image_path": "images/lancome/03614272783478.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Advanced genifique",
+        "source_names": {
+          "openbeautyfacts": "Advanced genifique"
+        },
+        "alternate_names": [],
+        "quantity": "3.88",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/278/3478/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/278/3478/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/278/3478/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/278/3478/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03614272783478.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272783478",
+        "ean13": "3614272783478",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272783478",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272783478"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272783478",
+        "qr_payload_text": "https://id.gs1.org/01/03614272783478",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272783478",
+          "code": "3614272783478",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Advanced genifique",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/278/3478/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614272783478.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272783478",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273069175",
+      "product_name": "Lancome Idole - Eau de Parfum Refillable 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome Idole - Eau de Parfum Refillable 100ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome Idole - Eau de Parfum Refillable 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "Refillable, 100",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273069175",
+        "ean13": "3614273069175",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273069175",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273069175"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273069175",
+        "qr_payload_text": "https://id.gs1.org/01/03614273069175",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273069175",
+          "code": "3614273069175",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome Idole - Eau de Parfum Refillable 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614273069175.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273069175",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273074469",
+      "product_name": "Teint Idole Ultra Concealer - 01 Beige Albâtre",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/307/4469/front_en.4.400.jpg",
+      "local_image_path": "images/lancome/03614273074469.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Teint Idole Ultra Concealer - 01 Beige Albâtre",
+        "source_names": {
+          "openbeautyfacts": "Teint Idole Ultra Concealer - 01 Beige Albâtre"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/307/4469/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/307/4469/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/307/4469/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/307/4469/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03614273074469.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614273074469",
+        "ean13": "3614273074469",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273074469",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273074469"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273074469",
+        "qr_payload_text": "https://id.gs1.org/01/03614273074469",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273074469",
+          "code": "3614273074469",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Teint Idole Ultra Concealer - 01 Beige Albâtre",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/307/4469/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614273074469.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273074469",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273749381",
+      "product_name": "Lancome La Vie Est Belle - Eau de Parfum Refill 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle - Eau de Parfum Refill 100ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle - Eau de Parfum Refill 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273749381",
+        "ean13": "3614273749381",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273749381",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273749381"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273749381",
+        "qr_payload_text": "https://id.gs1.org/01/03614273749381",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273749381",
+          "code": "3614273749381",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle - Eau de Parfum Refill 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614273749381.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273749381",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273882644",
+      "product_name": "Lancome La Vie Est Belle Giftset",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle Giftset",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle Giftset"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273882644",
+        "ean13": "3614273882644",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273882644",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273882644"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273882644",
+        "qr_payload_text": "https://id.gs1.org/01/03614273882644",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273882644",
+          "code": "3614273882644",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle Giftset",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614273882644.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273882644",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273962100",
+      "product_name": "L’Absolu Rouge Drama Matte lipstick #230 Unleash The Drama",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/396/2100/front_en.5.400.jpg",
+      "local_image_path": "images/lancome/03614273962100.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "L’Absolu Rouge Drama Matte lipstick #230 Unleash The Drama",
+        "source_names": {
+          "openbeautyfacts": "L’Absolu Rouge Drama Matte lipstick #230 Unleash The Drama"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [
+          "Lipstick"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/396/2100/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/396/2100/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/396/2100/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/396/2100/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03614273962100.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614273962100",
+        "ean13": "3614273962100",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273962100",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273962100"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273962100",
+        "qr_payload_text": "https://id.gs1.org/01/03614273962100",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273962100",
+          "code": "3614273962100",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "L’Absolu Rouge Drama Matte lipstick #230 Unleash The Drama",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/396/2100/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614273962100.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273962100",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614274169652",
+      "product_name": "La vie est belle",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/416/9652/front_fr.3.400.jpg",
+      "local_image_path": "images/lancome/03614274169652.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "La vie est belle",
+        "source_names": {
+          "openbeautyfacts": "La vie est belle"
+        },
+        "alternate_names": [
+          "L'Eau de Parfum"
+        ],
+        "quantity": null,
+        "categories": [
+          "Eau De Parfum"
+        ],
+        "description": "L'Eau de Parfum",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/416/9652/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/416/9652/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/416/9652/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/416/9652/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/03614274169652.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614274169652",
+        "ean13": "3614274169652",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614274169652",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614274169652"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614274169652",
+        "qr_payload_text": "https://id.gs1.org/01/03614274169652",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614274169652",
+          "code": "3614274169652",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "La vie est belle",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/416/9652/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614274169652.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614274169652",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614274169720",
+      "product_name": "Lancome La Vie Est Belle Elixir - Eau de Parfum 30ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle Elixir - Eau de Parfum 30ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle Elixir - Eau de Parfum 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "30",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614274169720",
+        "ean13": "3614274169720",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614274169720",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614274169720"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614274169720",
+        "qr_payload_text": "https://id.gs1.org/01/03614274169720",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614274169720",
+          "code": "3614274169720",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle Elixir - Eau de Parfum 30ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614274169720.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614274169720",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614274299229",
+      "product_name": "Lancome Idole Power - Eau de Parfum 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome Idole Power - Eau de Parfum 100ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome Idole Power - Eau de Parfum 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614274299229",
+        "ean13": "3614274299229",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614274299229",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614274299229"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614274299229",
+        "qr_payload_text": "https://id.gs1.org/01/03614274299229",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614274299229",
+          "code": "3614274299229",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome Idole Power - Eau de Parfum 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614274299229.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614274299229",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614274397239",
+      "product_name": "Lancome La Vie Est Belle Vanille Nude - Eau de Parfum 30ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle Vanille Nude - Eau de Parfum 30ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle Vanille Nude - Eau de Parfum 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "30",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614274397239",
+        "ean13": "3614274397239",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614274397239",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614274397239"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614274397239",
+        "qr_payload_text": "https://id.gs1.org/01/03614274397239",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614274397239",
+          "code": "3614274397239",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle Vanille Nude - Eau de Parfum 30ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03614274397239.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614274397239",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03660732009541",
+      "product_name": "Lancome La Vie Est Belle Giftset 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle Giftset 100ml",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle Giftset 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "Edp Spray 50ml Refillable/Body Lotion 50ml, 100",
+        "categories": [
+          "Beauty",
+          "Geschenksets",
+          "Parfum Geschenkset Voor Haar"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03660732009541",
+        "ean13": "3660732009541",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3660732009541",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3660732009541"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03660732009541",
+        "qr_payload_text": "https://id.gs1.org/01/03660732009541",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03660732009541",
+          "code": "3660732009541",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle Giftset 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/03660732009541.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3660732009541",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04935421707626",
+      "product_name": "Clarifique Pore Refining Cleansing Foam",
+      "image_url": "https://images.openbeautyfacts.org/images/products/493/542/170/7626/front_en.4.400.jpg",
+      "local_image_path": "images/lancome/04935421707626.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "xx:lancome"
+        ]
+      },
+      "product": {
+        "name": "Clarifique Pore Refining Cleansing Foam",
+        "source_names": {
+          "openbeautyfacts": "Clarifique Pore Refining Cleansing Foam"
+        },
+        "alternate_names": [],
+        "quantity": "4.2 FL.OZ",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/493/542/170/7626/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/493/542/170/7626/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/493/542/170/7626/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/493/542/170/7626/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/lancome/04935421707626.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04935421707626",
+        "ean13": "4935421707626",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4935421707626",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4935421707626"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04935421707626",
+        "qr_payload_text": "https://id.gs1.org/01/04935421707626",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04935421707626",
+          "code": "4935421707626",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Clarifique Pore Refining Cleansing Foam",
+          "image_url": "https://images.openbeautyfacts.org/images/products/493/542/170/7626/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/04935421707626.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4935421707626",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04936968810282",
+      "product_name": "Lancome clarifique",
+      "image_url": "https://images.openbeautyfacts.org/images/products/493/696/881/0282/1.400.jpg",
+      "local_image_path": "images/lancome/04936968810282.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome clarifique",
+        "source_names": {
+          "openbeautyfacts": "Lancome clarifique"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/493/696/881/0282/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/493/696/881/0282/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/493/696/881/0282/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/493/696/881/0282/1.200.jpg"
+        ],
+        "local_image_path": "images/lancome/04936968810282.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "04936968810282",
+        "ean13": "4936968810282",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4936968810282",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4936968810282"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04936968810282",
+        "qr_payload_text": "https://id.gs1.org/01/04936968810282",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04936968810282",
+          "code": "4936968810282",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome clarifique",
+          "image_url": "https://images.openbeautyfacts.org/images/products/493/696/881/0282/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/04936968810282.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4936968810282",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720168307279",
+      "product_name": "Lancôme Trésor L'Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/7279/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08720168307279.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme Trésor L'Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme Trésor L'Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/7279/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/016/830/7279/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/016/830/7279/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/016/830/7279/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08720168307279.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720168307279",
+        "ean13": "8720168307279",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720168307279",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720168307279"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720168307279",
+        "qr_payload_text": "https://id.gs1.org/01/08720168307279",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720168307279",
+          "code": "8720168307279",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme Trésor L'Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/016/830/7279/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08720168307279.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720168307279",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720574571202",
+      "product_name": "Lancôme Miracle Woman Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1202/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08720574571202.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme Miracle Woman Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme Miracle Woman Eau de Parfum"
+        },
+        "alternate_names": [
+          "Ruik sprankelend, bloemig, fris en verrukkelijk met de Lancome Miracle Woman Eau de Parfum. Deze geur is gemaakt voor de vrouw die volop van het leven geniet en geboren is voor het geluk dat zij graag deelt."
+        ],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": "Ruik sprankelend, bloemig, fris en verrukkelijk met de Lancome Miracle Woman Eau de Parfum. Deze geur is gemaakt voor de vrouw die volop van het leven geniet en geboren is voor het geluk dat zij graag deelt.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1202/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1202/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/057/457/1202/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/057/457/1202/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08720574571202.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720574571202",
+        "ean13": "8720574571202",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720574571202",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720574571202"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720574571202",
+        "qr_payload_text": "https://id.gs1.org/01/08720574571202",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720574571202",
+          "code": "8720574571202",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme Miracle Woman Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1202/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08720574571202.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720574571202",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720574571554",
+      "product_name": "Lancôme La Vie Est Belle L'Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1554/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08720574571554.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme La Vie Est Belle L'Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme La Vie Est Belle L'Eau de Parfum"
+        },
+        "alternate_names": [
+          "Deze heerlijke Lancôme La Vie Est Belle L'Eau de Parfum is samengesteld met pure extracten van sambac jasmijn, oranjebloesem en patchouli. De topnoten zijn peer en bramen."
+        ],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": "Deze heerlijke Lancôme La Vie Est Belle L'Eau de Parfum is samengesteld met pure extracten van sambac jasmijn, oranjebloesem en patchouli. De topnoten zijn peer en bramen.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1554/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1554/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/057/457/1554/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/057/457/1554/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08720574571554.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720574571554",
+        "ean13": "8720574571554",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720574571554",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720574571554"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720574571554",
+        "qr_payload_text": "https://id.gs1.org/01/08720574571554",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720574571554",
+          "code": "8720574571554",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme La Vie Est Belle L'Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/1554/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08720574571554.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720574571554",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720574575255",
+      "product_name": "Lancome La Vie Est Belle Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/5255/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08720574575255.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancome La Vie Est Belle Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancome La Vie Est Belle Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/5255/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/057/457/5255/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/057/457/5255/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/057/457/5255/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08720574575255.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720574575255",
+        "ean13": "8720574575255",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720574575255",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720574575255"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720574575255",
+        "qr_payload_text": "https://id.gs1.org/01/08720574575255",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720574575255",
+          "code": "8720574575255",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancome La Vie Est Belle Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/057/457/5255/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08720574575255.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720574575255",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847712646",
+      "product_name": "Lancôme Idôle Le Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/2646/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08720847712646.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme Idôle Le Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme Idôle Le Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "25ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/2646/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/2646/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/2646/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/2646/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08720847712646.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847712646",
+        "ean13": "8720847712646",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847712646",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847712646"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847712646",
+        "qr_payload_text": "https://id.gs1.org/01/08720847712646",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847712646",
+          "code": "8720847712646",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme Idôle Le Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/2646/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08720847712646.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847712646",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847716095",
+      "product_name": "Lancôme La Nuit Trésor Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/6095/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08720847716095.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme La Nuit Trésor Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme La Nuit Trésor Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/6095/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/6095/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/6095/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/6095/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08720847716095.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847716095",
+        "ean13": "8720847716095",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847716095",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847716095"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847716095",
+        "qr_payload_text": "https://id.gs1.org/01/08720847716095",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847716095",
+          "code": "8720847716095",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme La Nuit Trésor Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/6095/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08720847716095.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847716095",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847717146",
+      "product_name": "Lancôme La Vie Est Belle L'Extrait de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7146/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08720847717146.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme La Vie Est Belle L'Extrait de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme La Vie Est Belle L'Extrait de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7146/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7146/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/7146/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/7146/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08720847717146.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847717146",
+        "ean13": "8720847717146",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847717146",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847717146"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847717146",
+        "qr_payload_text": "https://id.gs1.org/01/08720847717146",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847717146",
+          "code": "8720847717146",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme La Vie Est Belle L'Extrait de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/7146/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08720847717146.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847717146",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08721321372479",
+      "product_name": "Lancôme La Vie Est Belle Geschenkset",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/2479/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08721321372479.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme La Vie Est Belle Geschenkset",
+        "source_names": {
+          "openbeautyfacts": "Lancôme La Vie Est Belle Geschenkset"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Beauty",
+          "Geschenksets",
+          "Parfum Geschenkset Voor Haar"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/2479/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/132/137/2479/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/132/137/2479/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/132/137/2479/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08721321372479.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08721321372479",
+        "ean13": "8721321372479",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8721321372479",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8721321372479"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08721321372479",
+        "qr_payload_text": "https://id.gs1.org/01/08721321372479",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08721321372479",
+          "code": "8721321372479",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme La Vie Est Belle Geschenkset",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/2479/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08721321372479.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8721321372479",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08721321373087",
+      "product_name": "Lancôme La Vie Est Belle Vanille Nude Eau de Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/3087/front_nl.3.400.jpg",
+      "local_image_path": "images/lancome/08721321373087.jpg",
+      "brand": {
+        "slug": "lancome",
+        "display_name": "Lancôme",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Lanc%C3%B4me",
+        "matched_raw_brands": [
+          "lancome"
+        ]
+      },
+      "product": {
+        "name": "Lancôme La Vie Est Belle Vanille Nude Eau de Parfum",
+        "source_names": {
+          "openbeautyfacts": "Lancôme La Vie Est Belle Vanille Nude Eau de Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/3087/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/132/137/3087/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/132/137/3087/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/132/137/3087/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/lancome/08721321373087.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08721321373087",
+        "ean13": "8721321373087",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8721321373087",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8721321373087"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08721321373087",
+        "qr_payload_text": "https://id.gs1.org/01/08721321373087",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08721321373087",
+          "code": "8721321373087",
+          "type": "EAN-13",
+          "brand": "Lancôme",
+          "name": "Lancôme La Vie Est Belle Vanille Nude Eau de Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/3087/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/lancome/08721321373087.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8721321373087",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

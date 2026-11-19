@@ -1,0 +1,90 @@
+{
+  "brand_slug": "real-techniques",
+  "display_name": "Real Techniques",
+  "letter_section": "R",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Real%20Techniques",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00079625018998",
+      "product_name": "Real Techniques Custom Complexion Fondöten/Kapatıcı Fırçası",
+      "image_url": "https://images.openbeautyfacts.org/images/products/007/962/501/8998/front_en.4.400.jpg",
+      "local_image_path": "images/real-techniques/00079625018998.jpg",
+      "brand": {
+        "slug": "real-techniques",
+        "display_name": "Real Techniques",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Real%20Techniques",
+        "matched_raw_brands": [
+          "xx:Real Techniques"
+        ]
+      },
+      "product": {
+        "name": "Real Techniques Custom Complexion Fondöten/Kapatıcı Fırçası",
+        "source_names": {
+          "openbeautyfacts": "Real Techniques Custom Complexion Fondöten/Kapatıcı Fırçası"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/007/962/501/8998/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/007/962/501/8998/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/007/962/501/8998/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/007/962/501/8998/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/real-techniques/00079625018998.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00079625018998",
+        "ean13": "0079625018998",
+        "upc_a": "079625018998",
+        "ean8": null,
+        "primary_code": "079625018998",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0079625018998"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00079625018998",
+        "qr_payload_text": "https://id.gs1.org/01/00079625018998",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00079625018998",
+          "code": "079625018998",
+          "type": "UPC-A",
+          "brand": "Real Techniques",
+          "name": "Real Techniques Custom Complexion Fondöten/Kapatıcı Fırçası",
+          "image_url": "https://images.openbeautyfacts.org/images/products/007/962/501/8998/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/real-techniques/00079625018998.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0079625018998",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "brand_slug": "huda-beauty",
+  "display_name": "Huda Beauty",
+  "letter_section": "H",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+  "product_count": 12,
+  "canonical_product_count": 12,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00000088176321",
+      "product_name": "Blush Filter",
+      "image_url": "https://images.openbeautyfacts.org/images/products/000/008/817/6321/front_en.3.400.jpg",
+      "local_image_path": "images/huda-beauty/00000088176321.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "xx:Huda Beauty"
+        ]
+      },
+      "product": {
+        "name": "Blush Filter",
+        "source_names": {
+          "openbeautyfacts": "Blush Filter"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/000/008/817/6321/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/000/008/817/6321/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/000/008/817/6321/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/000/008/817/6321/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/00000088176321.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00000088176321",
+        "ean13": null,
+        "upc_a": null,
+        "ean8": "88176321",
+        "primary_code": "88176321",
+        "barcode_type": "EAN-8",
+        "raw_codes": [
+          "88176321"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00000088176321",
+        "qr_payload_text": "https://id.gs1.org/01/00000088176321",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00000088176321",
+          "code": "88176321",
+          "type": "EAN-8",
+          "brand": "Huda Beauty",
+          "name": "Blush Filter",
+          "image_url": "https://images.openbeautyfacts.org/images/products/000/008/817/6321/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/00000088176321.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/88176321",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00600173536223",
+      "product_name": "huda beauty lip strobe metallic lip gloss - ritzy",
+      "image_url": "https://i5.walmartimages.com/asr/ce3f7020-b071-45c4-9ac1-ab8b03dfe519_1.bfe51b284c6fef4be39a8d29a254c9a3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/huda-beauty/00600173536223.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "huda beauty"
+        ]
+      },
+      "product": {
+        "name": "huda beauty lip strobe metallic lip gloss - ritzy",
+        "source_names": {
+          "upcitemdb": "huda beauty lip strobe metallic lip gloss - ritzy"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup",
+          "Lipstick"
+        ],
+        "description": "huda beauty lip strobe metallic lip gloss - ritzy",
+        "primary_image_url": "https://i5.walmartimages.com/asr/ce3f7020-b071-45c4-9ac1-ab8b03dfe519_1.bfe51b284c6fef4be39a8d29a254c9a3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/ce3f7020-b071-45c4-9ac1-ab8b03dfe519_1.bfe51b284c6fef4be39a8d29a254c9a3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/ce3f7020-b071-45c4-9ac1-ab8b03dfe519_1.bfe51b284c6fef4be39a8d29a254c9a3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/WG2dCW1baZsA4XMMWN08L6p.MD256.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/00600173536223.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00600173536223",
+        "ean13": "0600173536223",
+        "upc_a": "600173536223",
+        "ean8": null,
+        "primary_code": "600173536223",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0600173536223",
+          "600173536223"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00600173536223",
+        "qr_payload_text": "https://id.gs1.org/01/00600173536223",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00600173536223",
+          "code": "600173536223",
+          "type": "UPC-A",
+          "brand": "Huda Beauty",
+          "name": "huda beauty lip strobe metallic lip gloss - ritzy",
+          "image_url": "https://i5.walmartimages.com/asr/ce3f7020-b071-45c4-9ac1-ab8b03dfe519_1.bfe51b284c6fef4be39a8d29a254c9a3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/00600173536223.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0600173536223",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00723649519558",
+      "product_name": "Huda Beauty Mini Glow Obsessions Highlighter Face Palette",
+      "image_url": "https://i5.walmartimages.com/asr/63335b47-e34e-4abb-a8a9-667d338208aa.6fde00bcce1654fad403ded043520d43.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/huda-beauty/00723649519558.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "Huda Beauty"
+        ]
+      },
+      "product": {
+        "name": "Huda Beauty Mini Glow Obsessions Highlighter Face Palette",
+        "source_names": {
+          "upcitemdb": "Huda Beauty Mini Glow Obsessions Highlighter Face Palette"
+        },
+        "alternate_names": [],
+        "quantity": "0.22 oz (6.4g)",
+        "categories": [],
+        "description": "Huda Beauty Mini Glow Obsessions Highlighter Face Palette is a must-have for any makeup lover looking to achieve a radiant luminous glow. This stunning palette features four complimentary shades of highlighter that are perfect for all skin tones. Whether you re going for a subtle natural glow or a more intense blinding highlight this palette has you covered. The shades in this palette are incredibly versatile and can be used to highlight your cheekbones brow bone nose cupid s bow and anywhere else you want to add a touch of luminosity. The silky smooth formula blends effortlessly into the skin leaving a radiant finish that lasts all day. The compact size of this palette makes it perfect for on-the-go touch-ups or for travel. Slip it into your purse or makeup bag and you ll always have your favorite highlighters at your fingertips. Not only are the shades in this palette beautiful but they are also highly pigmented and long-lasting. You won t have to worry about your highlight fading or melting away",
+        "primary_image_url": "https://i5.walmartimages.com/asr/63335b47-e34e-4abb-a8a9-667d338208aa.6fde00bcce1654fad403ded043520d43.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/63335b47-e34e-4abb-a8a9-667d338208aa.6fde00bcce1654fad403ded043520d43.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/63335b47-e34e-4abb-a8a9-667d338208aa.6fde00bcce1654fad403ded043520d43.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/huda-beauty/00723649519558.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00723649519558",
+        "ean13": "0723649519558",
+        "upc_a": "723649519558",
+        "ean8": null,
+        "primary_code": "723649519558",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0723649519558",
+          "723649519558"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00723649519558",
+        "qr_payload_text": "https://id.gs1.org/01/00723649519558",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00723649519558",
+          "code": "723649519558",
+          "type": "UPC-A",
+          "brand": "Huda Beauty",
+          "name": "Huda Beauty Mini Glow Obsessions Highlighter Face Palette",
+          "image_url": "https://i5.walmartimages.com/asr/63335b47-e34e-4abb-a8a9-667d338208aa.6fde00bcce1654fad403ded043520d43.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/00723649519558.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0723649519558",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00788329495126",
+      "product_name": "Huda Beauty Liquid Matte Lipstick - Gossip Gurl",
+      "image_url": "https://i5.walmartimages.com/asr/81eefd10-5033-47b5-8ad0-28b02b886f55.c7e2cfa921b54abb6831c4aa1c1d8e46.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/huda-beauty/00788329495126.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "Huda Beauty"
+        ]
+      },
+      "product": {
+        "name": "Huda Beauty Liquid Matte Lipstick - Gossip Gurl",
+        "source_names": {
+          "upcitemdb": "Huda Beauty Liquid Matte Lipstick - Gossip Gurl"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup",
+          "Lipstick"
+        ],
+        "description": "Huda Beauty Liquid Matte Lipstick - Gossip Gurl",
+        "primary_image_url": "https://i5.walmartimages.com/asr/81eefd10-5033-47b5-8ad0-28b02b886f55.c7e2cfa921b54abb6831c4aa1c1d8e46.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/81eefd10-5033-47b5-8ad0-28b02b886f55.c7e2cfa921b54abb6831c4aa1c1d8e46.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/81eefd10-5033-47b5-8ad0-28b02b886f55.c7e2cfa921b54abb6831c4aa1c1d8e46.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/avKGFVEVnRTK0rXbExdG86b.MD256.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/00788329495126.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00788329495126",
+        "ean13": "0788329495126",
+        "upc_a": "788329495126",
+        "ean8": null,
+        "primary_code": "788329495126",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0788329495126",
+          "788329495126"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00788329495126",
+        "qr_payload_text": "https://id.gs1.org/01/00788329495126",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00788329495126",
+          "code": "788329495126",
+          "type": "UPC-A",
+          "brand": "Huda Beauty",
+          "name": "Huda Beauty Liquid Matte Lipstick - Gossip Gurl",
+          "image_url": "https://i5.walmartimages.com/asr/81eefd10-5033-47b5-8ad0-28b02b886f55.c7e2cfa921b54abb6831c4aa1c1d8e46.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/00788329495126.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0788329495126",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "01625325468220",
+      "product_name": "huda beauty lemon face mask",
+      "image_url": "https://images.openbeautyfacts.org/images/products/162/532/546/8220/front_xx.7.400.jpg",
+      "local_image_path": "images/huda-beauty/01625325468220.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "xx:hudabeauty"
+        ]
+      },
+      "product": {
+        "name": "huda beauty lemon face mask",
+        "source_names": {
+          "openbeautyfacts": "huda beauty lemon face mask"
+        },
+        "alternate_names": [],
+        "quantity": "212ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/162/532/546/8220/front_xx.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/162/532/546/8220/front_xx.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/162/532/546/8220/front_xx.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/162/532/546/8220/front_xx.7.200.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/01625325468220.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "01625325468220",
+        "ean13": "1625325468220",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "1625325468220",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "1625325468220"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/01625325468220",
+        "qr_payload_text": "https://id.gs1.org/01/01625325468220",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "01625325468220",
+          "code": "1625325468220",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "huda beauty lemon face mask",
+          "image_url": "https://images.openbeautyfacts.org/images/products/162/532/546/8220/front_xx.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/01625325468220.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/1625325468220",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04806524541656",
+      "product_name": "conditioner",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "xx:huda-beauty"
+        ]
+      },
+      "product": {
+        "name": "conditioner",
+        "source_names": {
+          "openbeautyfacts": "conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "04806524541656",
+        "ean13": "4806524541656",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4806524541656",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4806524541656"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04806524541656",
+        "qr_payload_text": "https://id.gs1.org/01/04806524541656",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04806524541656",
+          "code": "4806524541656",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "conditioner",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/04806524541656.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4806524541656",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05454465496581",
+      "product_name": "lipstic",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "xx:huda-beauty"
+        ]
+      },
+      "product": {
+        "name": "lipstic",
+        "source_names": {
+          "openbeautyfacts": "lipstic"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "05454465496581",
+        "ean13": "5454465496581",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5454465496581",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5454465496581"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05454465496581",
+        "qr_payload_text": "https://id.gs1.org/01/05454465496581",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05454465496581",
+          "code": "5454465496581",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "lipstic",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/05454465496581.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5454465496581",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "06291106031065",
+      "product_name": "Huda Beauty Golden Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box",
+      "image_url": "http://s.cdnsbn.com/images/products/25508581414.jpg",
+      "local_image_path": "images/huda-beauty/06291106031065.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "Huda Beauty"
+        ]
+      },
+      "product": {
+        "name": "Huda Beauty Golden Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box",
+        "source_names": {
+          "upcitemdb": "Huda Beauty Golden Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box"
+        },
+        "alternate_names": [
+          "Huda Beauty3D Highlighter Palette (4x Highlighter) - # Golden Sands 30g/1.05oz",
+          "255085 1.05 oz 3D Highlighter Palette - No.Golden Sands"
+        ],
+        "quantity": "1.00 lbs",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Face Makeup"
+        ],
+        "description": "Huda Kattans iconic Highlighter Palette is introduced with a fresh twist for summer in a vibrantly reimagined color combination.",
+        "primary_image_url": "http://s.cdnsbn.com/images/products/25508581414.jpg",
+        "thumbnail_url": "http://s.cdnsbn.com/images/products/25508581414.jpg",
+        "image_urls": [
+          "http://s.cdnsbn.com/images/products/25508581414.jpg",
+          "https://i5.walmartimages.com/asr/e7cf27e0-2e5c-4581-9726-a13f5fbae03c_1.3a1317db4d755346530cdd39904bf097.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://site.unbeatablesale.com/STRBN92609.JPG",
+          "https://tshop.r10s.com/11a/417/00ac/0cfb/8094/4d27/a583/1132e983990242ac110006.JPG?_ex=512x512",
+          "https://jetimages.jetcdn.net/md5/fb830de96262a55d9fa8a5cddc481fb1.500",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/MWugu5b0MM6nXoyeZ.MD256.JPEG",
+          "https://i14.onbuy.com/product/941c679c8f6c4fffad812bd372654a56-l16533951.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/06291106031065.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "06291106031065",
+        "ean13": "6291106031065",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "6291106031065",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "6291106031065"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/06291106031065",
+        "qr_payload_text": "https://id.gs1.org/01/06291106031065",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "06291106031065",
+          "code": "6291106031065",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "Huda Beauty Golden Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box",
+          "image_url": "http://s.cdnsbn.com/images/products/25508581414.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/06291106031065.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "6291106031065",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "06291106031072",
+      "product_name": "Huda Beauty Pink Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box",
+      "image_url": "http://s.cdnsbn.com/images/products/25508181414.jpg",
+      "local_image_path": "images/huda-beauty/06291106031072.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "Huda Beauty"
+        ]
+      },
+      "product": {
+        "name": "Huda Beauty Pink Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box",
+        "source_names": {
+          "upcitemdb": "Huda Beauty Pink Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box"
+        },
+        "alternate_names": [
+          "Huda Beauty3D Highlighter Palette (4x Highlighter) - # Pink Sands 30g/1.05oz",
+          "255081 1.05 oz 3D Highlighter Palette - No.Pink Sands"
+        ],
+        "quantity": "1.00 lbs",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Face Makeup"
+        ],
+        "description": "Inspired by Huda Kattans hack of layering oil with powder highlighter to amplify her glow, this palette is packed with two different textures.",
+        "primary_image_url": "http://s.cdnsbn.com/images/products/25508181414.jpg",
+        "thumbnail_url": "http://s.cdnsbn.com/images/products/25508181414.jpg",
+        "image_urls": [
+          "http://s.cdnsbn.com/images/products/25508181414.jpg",
+          "https://i5.walmartimages.com/asr/48a908ff-87f1-40af-813c-a0a0ff8408dd_1.cbe60cb66d59ab61103828c20e7c8e48.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://site.unbeatablesale.com/STRBN92610.JPG",
+          "https://tshop.r10s.com/059/236/16b0/a122/5004/4dc2/a541/114ce999130242ac110004.JPG?_ex=512x512",
+          "https://jetimages.jetcdn.net/md5/3dde3ef8208e27d3f0db1326cb14910f.500",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/zMuEuG3Q2KRpvPbYr.MD256.JPEG",
+          "https://i22.onbuy.com/product/9ee978bf516f4263847a6de201c2c809-l16533347.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/06291106031072.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "06291106031072",
+        "ean13": "6291106031072",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "6291106031072",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "6291106031072"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/06291106031072",
+        "qr_payload_text": "https://id.gs1.org/01/06291106031072",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "06291106031072",
+          "code": "6291106031072",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "Huda Beauty Pink Sands 3D Edition Highlighter Palette 1.11oz/31.5g New In Box",
+          "image_url": "http://s.cdnsbn.com/images/products/25508181414.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/06291106031072.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "6291106031072",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "06291106031454",
+      "product_name": "Desert Dusk Palette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/629/110/603/1454/1.400.jpg",
+      "local_image_path": "images/huda-beauty/06291106031454.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "xx:huda-beauty"
+        ]
+      },
+      "product": {
+        "name": "Desert Dusk Palette",
+        "source_names": {
+          "openbeautyfacts": "Desert Dusk Palette"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/629/110/603/1454/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/629/110/603/1454/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/629/110/603/1454/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/629/110/603/1454/1.200.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/06291106031454.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "06291106031454",
+        "ean13": "6291106031454",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "6291106031454",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "6291106031454"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/06291106031454",
+        "qr_payload_text": "https://id.gs1.org/01/06291106031454",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "06291106031454",
+          "code": "6291106031454",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "Desert Dusk Palette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/629/110/603/1454/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/06291106031454.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/6291106031454",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "06291106034264",
+      "product_name": "Nude light",
+      "image_url": "https://images.openbeautyfacts.org/images/products/629/110/603/4264/front_fr.4.400.jpg",
+      "local_image_path": "images/huda-beauty/06291106034264.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "xx:hudabeauty"
+        ]
+      },
+      "product": {
+        "name": "Nude light",
+        "source_names": {
+          "openbeautyfacts": "Nude light"
+        },
+        "alternate_names": [],
+        "quantity": "9,9",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/629/110/603/4264/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/629/110/603/4264/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/629/110/603/4264/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/629/110/603/4264/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/06291106034264.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "06291106034264",
+        "ean13": "6291106034264",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "6291106034264",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "6291106034264"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/06291106034264",
+        "qr_payload_text": "https://id.gs1.org/01/06291106034264",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "06291106034264",
+          "code": "6291106034264",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "Nude light",
+          "image_url": "https://images.openbeautyfacts.org/images/products/629/110/603/4264/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/06291106034264.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/6291106034264",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "06294018409120",
+      "product_name": "Baby Blush Duo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/629/401/840/9120/front_en.3.400.jpg",
+      "local_image_path": "images/huda-beauty/06294018409120.jpg",
+      "brand": {
+        "slug": "huda-beauty",
+        "display_name": "Huda Beauty",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Huda%20Beauty",
+        "matched_raw_brands": [
+          "xx:Huda Beauty"
+        ]
+      },
+      "product": {
+        "name": "Baby Blush Duo",
+        "source_names": {
+          "openbeautyfacts": "Baby Blush Duo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/629/401/840/9120/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/629/401/840/9120/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/629/401/840/9120/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/629/401/840/9120/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/huda-beauty/06294018409120.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "06294018409120",
+        "ean13": "6294018409120",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "6294018409120",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "6294018409120"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/06294018409120",
+        "qr_payload_text": "https://id.gs1.org/01/06294018409120",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "06294018409120",
+          "code": "6294018409120",
+          "type": "EAN-13",
+          "brand": "Huda Beauty",
+          "name": "Baby Blush Duo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/629/401/840/9120/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/huda-beauty/06294018409120.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/6294018409120",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1767 @@
+{
+  "brand_slug": "shiseido",
+  "display_name": "Shiseido",
+  "letter_section": "S",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+  "product_count": 23,
+  "canonical_product_count": 23,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00195106517917",
+      "product_name": "Clear Sunscreen Stick",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/510/651/7917/front_en.3.400.jpg",
+      "local_image_path": "images/shiseido/00195106517917.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:Shiseido"
+        ]
+      },
+      "product": {
+        "name": "Clear Sunscreen Stick",
+        "source_names": {
+          "openbeautyfacts": "Clear Sunscreen Stick"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/510/651/7917/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/510/651/7917/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/510/651/7917/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/510/651/7917/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00195106517917.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00195106517917",
+        "ean13": "0195106517917",
+        "upc_a": "195106517917",
+        "ean8": null,
+        "primary_code": "195106517917",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0195106517917"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00195106517917",
+        "qr_payload_text": "https://id.gs1.org/01/00195106517917",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00195106517917",
+          "code": "195106517917",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Clear Sunscreen Stick",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/510/651/7917/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00195106517917.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0195106517917",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00689551299240",
+      "product_name": "Complete Cleansing Microfoam",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/955/129/9240/front_en.3.400.jpg",
+      "local_image_path": "images/shiseido/00689551299240.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Complete Cleansing Microfoam",
+        "source_names": {
+          "openbeautyfacts": "Complete Cleansing Microfoam"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/955/129/9240/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/955/129/9240/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/955/129/9240/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/955/129/9240/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00689551299240.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00689551299240",
+        "ean13": "0689551299240",
+        "upc_a": "689551299240",
+        "ean8": null,
+        "primary_code": "689551299240",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0689551299240"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00689551299240",
+        "qr_payload_text": "https://id.gs1.org/01/00689551299240",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00689551299240",
+          "code": "689551299240",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Complete Cleansing Microfoam",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/955/129/9240/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00689551299240.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0689551299240",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00689551708537",
+      "product_name": "Clarifying Cleansing Foam",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/955/170/8537/front_en.3.400.jpg",
+      "local_image_path": "images/shiseido/00689551708537.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Clarifying Cleansing Foam",
+        "source_names": {
+          "openbeautyfacts": "Clarifying Cleansing Foam"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/955/170/8537/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/955/170/8537/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/955/170/8537/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/955/170/8537/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00689551708537.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00689551708537",
+        "ean13": "0689551708537",
+        "upc_a": "689551708537",
+        "ean8": null,
+        "primary_code": "689551708537",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0689551708537"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00689551708537",
+        "qr_payload_text": "https://id.gs1.org/01/00689551708537",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00689551708537",
+          "code": "689551708537",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Clarifying Cleansing Foam",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/955/170/8537/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00689551708537.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0689551708537",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00729238102057",
+      "product_name": "Bénéfiance NutriPerfect - Lotion Adoucissante Pro-reconstituante",
+      "image_url": "https://images.openbeautyfacts.org/images/products/072/923/810/2057/front_fr.4.400.jpg",
+      "local_image_path": "images/shiseido/00729238102057.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Bénéfiance NutriPerfect - Lotion Adoucissante Pro-reconstituante",
+        "source_names": {
+          "openbeautyfacts": "Bénéfiance NutriPerfect - Lotion Adoucissante Pro-reconstituante"
+        },
+        "alternate_names": [],
+        "quantity": "150ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/072/923/810/2057/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/072/923/810/2057/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/072/923/810/2057/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/072/923/810/2057/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00729238102057.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00729238102057",
+        "ean13": "0729238102057",
+        "upc_a": "729238102057",
+        "ean8": null,
+        "primary_code": "729238102057",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0729238102057"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00729238102057",
+        "qr_payload_text": "https://id.gs1.org/01/00729238102057",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00729238102057",
+          "code": "729238102057",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Bénéfiance NutriPerfect - Lotion Adoucissante Pro-reconstituante",
+          "image_url": "https://images.openbeautyfacts.org/images/products/072/923/810/2057/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00729238102057.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0729238102057",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00729238119895",
+      "product_name": "Perfect Cleansing Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/072/923/811/9895/front_en.3.400.jpg",
+      "local_image_path": "images/shiseido/00729238119895.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Perfect Cleansing Oil",
+        "source_names": {
+          "openbeautyfacts": "Perfect Cleansing Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/072/923/811/9895/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/072/923/811/9895/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/072/923/811/9895/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/072/923/811/9895/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00729238119895.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00729238119895",
+        "ean13": "0729238119895",
+        "upc_a": "729238119895",
+        "ean8": null,
+        "primary_code": "729238119895",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0729238119895"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00729238119895",
+        "qr_payload_text": "https://id.gs1.org/01/00729238119895",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00729238119895",
+          "code": "729238119895",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Perfect Cleansing Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/072/923/811/9895/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00729238119895.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0729238119895",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00729238125551",
+      "product_name": "Lait Réparateur Intensif Après Soleil",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Lait Réparateur Intensif Après Soleil",
+        "source_names": {
+          "openbeautyfacts": "Lait Réparateur Intensif Après Soleil"
+        },
+        "alternate_names": [],
+        "quantity": "150 ml",
+        "categories": [
+          "Apres Solaires"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00729238125551",
+        "ean13": "0729238125551",
+        "upc_a": "729238125551",
+        "ean8": null,
+        "primary_code": "729238125551",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0729238125551"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00729238125551",
+        "qr_payload_text": "https://id.gs1.org/01/00729238125551",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00729238125551",
+          "code": "729238125551",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Lait Réparateur Intensif Après Soleil",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00729238125551.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0729238125551",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00729238139237",
+      "product_name": "Future Solution LX Sérum Intensif Contours Fermeté Shiseido",
+      "image_url": "https://images.openbeautyfacts.org/images/products/072/923/813/9237/front_fr.3.400.jpg",
+      "local_image_path": "images/shiseido/00729238139237.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Future Solution LX Sérum Intensif Contours Fermeté Shiseido",
+        "source_names": {
+          "openbeautyfacts": "Future Solution LX Sérum Intensif Contours Fermeté Shiseido"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/072/923/813/9237/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/072/923/813/9237/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/072/923/813/9237/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/072/923/813/9237/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00729238139237.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00729238139237",
+        "ean13": "0729238139237",
+        "upc_a": "729238139237",
+        "ean8": null,
+        "primary_code": "729238139237",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0729238139237"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00729238139237",
+        "qr_payload_text": "https://id.gs1.org/01/00729238139237",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00729238139237",
+          "code": "729238139237",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Future Solution LX Sérum Intensif Contours Fermeté Shiseido",
+          "image_url": "https://images.openbeautyfacts.org/images/products/072/923/813/9237/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00729238139237.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0729238139237",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00729238212640",
+      "product_name": "Shiseido FSLX Total Regenerating Night Cream 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "Shiseido FSLX Total Regenerating Night Cream 50ml",
+        "source_names": {
+          "openbeautyfacts": "Shiseido FSLX Total Regenerating Night Cream 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Nachtcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00729238212640",
+        "ean13": "0729238212640",
+        "upc_a": "729238212640",
+        "ean8": null,
+        "primary_code": "729238212640",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0729238212640"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00729238212640",
+        "qr_payload_text": "https://id.gs1.org/01/00729238212640",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00729238212640",
+          "code": "729238212640",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Shiseido FSLX Total Regenerating Night Cream 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00729238212640.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0729238212640",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00730852118768",
+      "product_name": "Soin traitant protecteur lèvres SPF 10",
+      "image_url": "https://images.openbeautyfacts.org/images/products/073/085/211/8768/front_fr.3.400.jpg",
+      "local_image_path": "images/shiseido/00730852118768.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Soin traitant protecteur lèvres SPF 10",
+        "source_names": {
+          "openbeautyfacts": "Soin traitant protecteur lèvres SPF 10"
+        },
+        "alternate_names": [],
+        "quantity": "4g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/073/085/211/8768/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/073/085/211/8768/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/073/085/211/8768/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/073/085/211/8768/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00730852118768.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00730852118768",
+        "ean13": "0730852118768",
+        "upc_a": "730852118768",
+        "ean8": null,
+        "primary_code": "730852118768",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0730852118768"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00730852118768",
+        "qr_payload_text": "https://id.gs1.org/01/00730852118768",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00730852118768",
+          "code": "730852118768",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Soin traitant protecteur lèvres SPF 10",
+          "image_url": "https://images.openbeautyfacts.org/images/products/073/085/211/8768/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00730852118768.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0730852118768",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00730852167094",
+      "product_name": "Pureness Gel-Crème hydratant Shiseido",
+      "image_url": "https://images.openbeautyfacts.org/images/products/073/085/216/7094/front_fr.4.400.jpg",
+      "local_image_path": "images/shiseido/00730852167094.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Pureness Gel-Crème hydratant Shiseido",
+        "source_names": {
+          "openbeautyfacts": "Pureness Gel-Crème hydratant Shiseido"
+        },
+        "alternate_names": [],
+        "quantity": "40ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/073/085/216/7094/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/073/085/216/7094/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/073/085/216/7094/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/073/085/216/7094/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00730852167094.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00730852167094",
+        "ean13": "0730852167094",
+        "upc_a": "730852167094",
+        "ean8": null,
+        "primary_code": "730852167094",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0730852167094"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00730852167094",
+        "qr_payload_text": "https://id.gs1.org/01/00730852167094",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00730852167094",
+          "code": "730852167094",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Pureness Gel-Crème hydratant Shiseido",
+          "image_url": "https://images.openbeautyfacts.org/images/products/073/085/216/7094/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00730852167094.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0730852167094",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614114895",
+      "product_name": "Expert Anti-Age Solaire Crème Protectrice SPF 30",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Expert Anti-Age Solaire Crème Protectrice SPF 30",
+        "source_names": {
+          "openbeautyfacts": "Expert Anti-Age Solaire Crème Protectrice SPF 30"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00768614114895",
+        "ean13": "0768614114895",
+        "upc_a": "768614114895",
+        "ean8": null,
+        "primary_code": "768614114895",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614114895"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614114895",
+        "qr_payload_text": "https://id.gs1.org/01/00768614114895",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614114895",
+          "code": "768614114895",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Expert Anti-Age Solaire Crème Protectrice SPF 30",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614114895.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614114895",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614126119",
+      "product_name": "Lait Bronzant SPF 6",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Lait Bronzant SPF 6",
+        "source_names": {
+          "openbeautyfacts": "Lait Bronzant SPF 6"
+        },
+        "alternate_names": [],
+        "quantity": "150 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00768614126119",
+        "ean13": "0768614126119",
+        "upc_a": "768614126119",
+        "ean8": null,
+        "primary_code": "768614126119",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614126119"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614126119",
+        "qr_payload_text": "https://id.gs1.org/01/00768614126119",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614126119",
+          "code": "768614126119",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Lait Bronzant SPF 6",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614126119.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614126119",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614138129",
+      "product_name": "Benefiance mousse nettoyante confort absolu",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/8129/front_fr.4.400.jpg",
+      "local_image_path": "images/shiseido/00768614138129.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Benefiance mousse nettoyante confort absolu",
+        "source_names": {
+          "openbeautyfacts": "Benefiance mousse nettoyante confort absolu"
+        },
+        "alternate_names": [],
+        "quantity": "125 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/8129/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/861/413/8129/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/861/413/8129/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/861/413/8129/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00768614138129.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00768614138129",
+        "ean13": "0768614138129",
+        "upc_a": "768614138129",
+        "ean8": null,
+        "primary_code": "768614138129",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614138129"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614138129",
+        "qr_payload_text": "https://id.gs1.org/01/00768614138129",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614138129",
+          "code": "768614138129",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Benefiance mousse nettoyante confort absolu",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/8129/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614138129.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614138129",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614139218",
+      "product_name": "Future solution LX",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9218/front_fr.5.400.jpg",
+      "local_image_path": "images/shiseido/00768614139218.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Future solution LX",
+        "source_names": {
+          "openbeautyfacts": "Future solution LX"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9218/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9218/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/861/413/9218/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/861/413/9218/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00768614139218.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00768614139218",
+        "ean13": "0768614139218",
+        "upc_a": "768614139218",
+        "ean8": null,
+        "primary_code": "768614139218",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614139218"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614139218",
+        "qr_payload_text": "https://id.gs1.org/01/00768614139218",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614139218",
+          "code": "768614139218",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Future solution LX",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9218/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614139218.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614139218",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614139584",
+      "product_name": "Crème ultra-hydratante invisible Shiseido",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9584/front_fr.5.400.jpg",
+      "local_image_path": "images/shiseido/00768614139584.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Crème ultra-hydratante invisible Shiseido",
+        "source_names": {
+          "openbeautyfacts": "Crème ultra-hydratante invisible Shiseido"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9584/front_fr.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9584/front_fr.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/861/413/9584/front_fr.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/861/413/9584/front_fr.5.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00768614139584.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00768614139584",
+        "ean13": "0768614139584",
+        "upc_a": "768614139584",
+        "ean8": null,
+        "primary_code": "768614139584",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614139584"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614139584",
+        "qr_payload_text": "https://id.gs1.org/01/00768614139584",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614139584",
+          "code": "768614139584",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Crème ultra-hydratante invisible Shiseido",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/861/413/9584/front_fr.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614139584.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614139584",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614149545",
+      "product_name": "Shiseido Benefiance Wrinkle Smoothing Cream Enriched 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "Shiseido Benefiance Wrinkle Smoothing Cream Enriched 50ml",
+        "source_names": {
+          "openbeautyfacts": "Shiseido Benefiance Wrinkle Smoothing Cream Enriched 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00768614149545",
+        "ean13": "0768614149545",
+        "upc_a": "768614149545",
+        "ean8": null,
+        "primary_code": "768614149545",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614149545"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614149545",
+        "qr_payload_text": "https://id.gs1.org/01/00768614149545",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614149545",
+          "code": "768614149545",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Shiseido Benefiance Wrinkle Smoothing Cream Enriched 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614149545.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614149545",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614171546",
+      "product_name": "Shiseido Men Energizing Moisturizer Extra Light Fluid 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/861/417/1546/front_nl.8.400.jpg",
+      "local_image_path": "images/shiseido/00768614171546.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "Shiseido Men Energizing Moisturizer Extra Light Fluid 100ml",
+        "source_names": {
+          "openbeautyfacts": "Shiseido Men Energizing Moisturizer Extra Light Fluid 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Gezichtscreme Mannen",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/861/417/1546/front_nl.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/861/417/1546/front_nl.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/861/417/1546/front_nl.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/861/417/1546/front_nl.8.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00768614171546.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00768614171546",
+        "ean13": "0768614171546",
+        "upc_a": "768614171546",
+        "ean8": null,
+        "primary_code": "768614171546",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614171546"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614171546",
+        "qr_payload_text": "https://id.gs1.org/01/00768614171546",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614171546",
+          "code": "768614171546",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Shiseido Men Energizing Moisturizer Extra Light Fluid 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/861/417/1546/front_nl.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614171546.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614171546",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614191100",
+      "product_name": "Benefiance NutriPerfect Crème de Jour SPF15 Shiseido",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/861/419/1100/front_fr.7.400.jpg",
+      "local_image_path": "images/shiseido/00768614191100.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "xx:shiseido"
+        ]
+      },
+      "product": {
+        "name": "Benefiance NutriPerfect Crème de Jour SPF15 Shiseido",
+        "source_names": {
+          "openbeautyfacts": "Benefiance NutriPerfect Crème de Jour SPF15 Shiseido"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/861/419/1100/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/861/419/1100/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/861/419/1100/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/861/419/1100/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00768614191100.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00768614191100",
+        "ean13": "0768614191100",
+        "upc_a": "768614191100",
+        "ean8": null,
+        "primary_code": "768614191100",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614191100"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614191100",
+        "qr_payload_text": "https://id.gs1.org/01/00768614191100",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614191100",
+          "code": "768614191100",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Benefiance NutriPerfect Crème de Jour SPF15 Shiseido",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/861/419/1100/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614191100.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614191100",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614212584",
+      "product_name": "Shiseido FSLX Regenerating Eye And Lip Contour Cream 17 ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "Shiseido FSLX Regenerating Eye And Lip Contour Cream 17 ml",
+        "source_names": {
+          "openbeautyfacts": "Shiseido FSLX Regenerating Eye And Lip Contour Cream 17 ml"
+        },
+        "alternate_names": [],
+        "quantity": "17",
+        "categories": [
+          "Beauty",
+          "Oogcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00768614212584",
+        "ean13": "0768614212584",
+        "upc_a": "768614212584",
+        "ean8": null,
+        "primary_code": "768614212584",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614212584"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614212584",
+        "qr_payload_text": "https://id.gs1.org/01/00768614212584",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614212584",
+          "code": "768614212584",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Shiseido FSLX Regenerating Eye And Lip Contour Cream 17 ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614212584.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614212584",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614222828",
+      "product_name": "Shiseido Vital Perfection Uplifting And Firming Eye Cream 15 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/861/422/2828/front_fr.3.400.jpg",
+      "local_image_path": "images/shiseido/00768614222828.jpg",
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "Shiseido Vital Perfection Uplifting And Firming Eye Cream 15 ml",
+        "source_names": {
+          "openbeautyfacts": "Shiseido Vital Perfection Uplifting And Firming Eye Cream 15 ml"
+        },
+        "alternate_names": [],
+        "quantity": "15",
+        "categories": [
+          "Beauty",
+          "Oogcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/861/422/2828/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/861/422/2828/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/861/422/2828/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/861/422/2828/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/shiseido/00768614222828.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00768614222828",
+        "ean13": "0768614222828",
+        "upc_a": "768614222828",
+        "ean8": null,
+        "primary_code": "768614222828",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614222828"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614222828",
+        "qr_payload_text": "https://id.gs1.org/01/00768614222828",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614222828",
+          "code": "768614222828",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Shiseido Vital Perfection Uplifting And Firming Eye Cream 15 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/861/422/2828/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614222828.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614222828",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614223900",
+      "product_name": "Shiseido Ultimune Power Infusing Serum 50ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "Shiseido Ultimune Power Infusing Serum 50ml",
+        "source_names": {
+          "openbeautyfacts": "Shiseido Ultimune Power Infusing Serum 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Gezichtsserum",
+          "Serum",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00768614223900",
+        "ean13": "0768614223900",
+        "upc_a": "768614223900",
+        "ean8": null,
+        "primary_code": "768614223900",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614223900"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614223900",
+        "qr_payload_text": "https://id.gs1.org/01/00768614223900",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614223900",
+          "code": "768614223900",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Shiseido Ultimune Power Infusing Serum 50ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614223900.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614223900",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00768614224457",
+      "product_name": "Shiseido Ultimune Power Infusing Serum 30ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "Shiseido Ultimune Power Infusing Serum 30ml",
+        "source_names": {
+          "openbeautyfacts": "Shiseido Ultimune Power Infusing Serum 30ml"
+        },
+        "alternate_names": [],
+        "quantity": "30",
+        "categories": [
+          "Beauty",
+          "Gezichtsserum",
+          "Serum",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00768614224457",
+        "ean13": "0768614224457",
+        "upc_a": "768614224457",
+        "ean8": null,
+        "primary_code": "768614224457",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0768614224457"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00768614224457",
+        "qr_payload_text": "https://id.gs1.org/01/00768614224457",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00768614224457",
+          "code": "768614224457",
+          "type": "UPC-A",
+          "brand": "Shiseido",
+          "name": "Shiseido Ultimune Power Infusing Serum 30ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/00768614224457.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0768614224457",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "04909978191825",
+      "product_name": "shiseido revitalise treatment pre-makeup lotion",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "shiseido",
+        "display_name": "Shiseido",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Shiseido",
+        "matched_raw_brands": [
+          "shiseido"
+        ]
+      },
+      "product": {
+        "name": "shiseido revitalise treatment pre-makeup lotion",
+        "source_names": {
+          "openbeautyfacts": "shiseido revitalise treatment pre-makeup lotion"
+        },
+        "alternate_names": [],
+        "quantity": "40 g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "04909978191825",
+        "ean13": "4909978191825",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "4909978191825",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "4909978191825"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/04909978191825",
+        "qr_payload_text": "https://id.gs1.org/01/04909978191825",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "04909978191825",
+          "code": "4909978191825",
+          "type": "EAN-13",
+          "brand": "Shiseido",
+          "name": "shiseido revitalise treatment pre-makeup lotion",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/shiseido/04909978191825.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/4909978191825",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

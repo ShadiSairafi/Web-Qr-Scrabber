@@ -1,0 +1,892 @@
+{
+  "brand_slug": "tarte",
+  "display_name": "Tarte",
+  "letter_section": "T",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+  "product_count": 11,
+  "canonical_product_count": 11,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00197689018362",
+      "product_name": "tarte Creaseless Setting & Brightening Powder Pink - 0.24oz - Ulta Beauty: Normal, Oily, Combination Skin",
+      "image_url": "https://images.openbeautyfacts.org/images/products/019/768/901/8362/front_fr.3.400.jpg",
+      "local_image_path": "images/tarte/00197689018362.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "xx:tarte",
+          "tarte"
+        ]
+      },
+      "product": {
+        "name": "tarte Creaseless Setting & Brightening Powder Pink - 0.24oz - Ulta Beauty: Normal, Oily, Combination Skin",
+        "source_names": {
+          "openbeautyfacts": "Creaseless setting powder",
+          "upcitemdb": "tarte Creaseless Setting & Brightening Powder Pink - 0.24oz - Ulta Beauty: Normal, Oily, Combination Skin"
+        },
+        "alternate_names": [
+          "Creaseless setting powder",
+          "tarte creaseless loose setting & brightening powder, Size: 0.24 Oz, Pink",
+          "tarte creaseless setting & brightening powder Color: Pink Size: N/A"
+        ],
+        "quantity": null,
+        "categories": [],
+        "description": "Get SET with tarte's new setting powder that locks your look for up to 16 hrs. The non-drying formula smooths out the look of undereyes, helps to control shine & gives you a sweatproof finish that leaves you camera-ready. Formulated with Amazonian clay for better, truer, longer wear. How to use: Apply your fave foundation & concealer. Dip the included set point puff into the set net sifter. Tap off excess powder. Press puff onto skin in a rolling motion, focusing on undereyes, t-zone & anywhere you want to mattify.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/019/768/901/8362/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/019/768/901/8362/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/019/768/901/8362/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/019/768/901/8362/front_fr.3.200.jpg",
+          "https://media.kohlsimg.com/is/image/kohls/9d0009f94911fe1d892081003f91671f073f7fd5?wid=800&hei=800&op_sharpen=1&ver=12",
+          "https://target.scene7.com/is/image/Target/GUEST_222bfb0f-3b93-4449-ae5f-c2da420fe105?wid=1000&hei=1000",
+          "https://i5.walmartimages.com/asr/bec1080d-25e2-49d0-a389-57488caf5937.ce4133230997b67b2c3fc756ca4176a9.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/tarte/00197689018362.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00197689018362",
+        "ean13": "0197689018362",
+        "upc_a": "197689018362",
+        "ean8": null,
+        "primary_code": "197689018362",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0197689018362",
+          "197689018362"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00197689018362",
+        "qr_payload_text": "https://id.gs1.org/01/00197689018362",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00197689018362",
+          "code": "197689018362",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "tarte Creaseless Setting & Brightening Powder Pink - 0.24oz - Ulta Beauty: Normal, Oily, Combination Skin",
+          "image_url": "https://images.openbeautyfacts.org/images/products/019/768/901/8362/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00197689018362.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0197689018362",
+        "upcitemdb_ean": "0197689018362",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733022953",
+      "product_name": "Tartelette toasted",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/673/302/2953/front_fr.6.400.jpg",
+      "local_image_path": "images/tarte/00846733022953.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "xx:tarte"
+        ]
+      },
+      "product": {
+        "name": "Tartelette toasted",
+        "source_names": {
+          "openbeautyfacts": "Tartelette toasted"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/673/302/2953/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/673/302/2953/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/673/302/2953/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/673/302/2953/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/tarte/00846733022953.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733022953",
+        "ean13": "0846733022953",
+        "upc_a": "846733022953",
+        "ean8": null,
+        "primary_code": "846733022953",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733022953"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733022953",
+        "qr_payload_text": "https://id.gs1.org/01/00846733022953",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733022953",
+          "code": "846733022953",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "Tartelette toasted",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/673/302/2953/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733022953.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0846733022953",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733024285",
+      "product_name": "Palette de fards à paupières",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/673/302/4285/front_fr.3.400.jpg",
+      "local_image_path": "images/tarte/00846733024285.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "xx:tarte"
+        ]
+      },
+      "product": {
+        "name": "Palette de fards à paupières",
+        "source_names": {
+          "openbeautyfacts": "Palette de fards à paupières"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/673/302/4285/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/673/302/4285/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/673/302/4285/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/673/302/4285/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/tarte/00846733024285.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733024285",
+        "ean13": "0846733024285",
+        "upc_a": "846733024285",
+        "ean8": null,
+        "primary_code": "846733024285",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733024285"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733024285",
+        "qr_payload_text": "https://id.gs1.org/01/00846733024285",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733024285",
+          "code": "846733024285",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "Palette de fards à paupières",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/673/302/4285/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733024285.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0846733024285",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733030125",
+      "product_name": "Creaseless Concealer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/0125/front_en.3.400.jpg",
+      "local_image_path": "images/tarte/00846733030125.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "xx:tarte"
+        ]
+      },
+      "product": {
+        "name": "Creaseless Concealer",
+        "source_names": {
+          "openbeautyfacts": "Creaseless Concealer"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/0125/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/673/303/0125/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/673/303/0125/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/673/303/0125/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/tarte/00846733030125.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733030125",
+        "ean13": "0846733030125",
+        "upc_a": "846733030125",
+        "ean8": null,
+        "primary_code": "846733030125",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733030125"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733030125",
+        "qr_payload_text": "https://id.gs1.org/01/00846733030125",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733030125",
+          "code": "846733030125",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "Creaseless Concealer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/0125/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733030125.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0846733030125",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733031467",
+      "product_name": "Sugar Rush - Mini Squeezy Clean Face Wash",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/1467/front_en.3.400.jpg",
+      "local_image_path": "images/tarte/00846733031467.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "xx:tarte"
+        ]
+      },
+      "product": {
+        "name": "Sugar Rush - Mini Squeezy Clean Face Wash",
+        "source_names": {
+          "openbeautyfacts": "Sugar Rush - Mini Squeezy Clean Face Wash"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/1467/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/673/303/1467/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/673/303/1467/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/673/303/1467/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/tarte/00846733031467.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733031467",
+        "ean13": "0846733031467",
+        "upc_a": "846733031467",
+        "ean8": null,
+        "primary_code": "846733031467",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733031467"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733031467",
+        "qr_payload_text": "https://id.gs1.org/01/00846733031467",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733031467",
+          "code": "846733031467",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "Sugar Rush - Mini Squeezy Clean Face Wash",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/1467/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733031467.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0846733031467",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733034703",
+      "product_name": "Sugar Rush - Squeezy Clean Face Wash",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/4703/front_en.3.400.jpg",
+      "local_image_path": "images/tarte/00846733034703.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "xx:tarte"
+        ]
+      },
+      "product": {
+        "name": "Sugar Rush - Squeezy Clean Face Wash",
+        "source_names": {
+          "openbeautyfacts": "Sugar Rush - Squeezy Clean Face Wash"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/4703/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/673/303/4703/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/673/303/4703/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/673/303/4703/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/tarte/00846733034703.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733034703",
+        "ean13": "0846733034703",
+        "upc_a": "846733034703",
+        "ean8": null,
+        "primary_code": "846733034703",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733034703"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733034703",
+        "qr_payload_text": "https://id.gs1.org/01/00846733034703",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733034703",
+          "code": "846733034703",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "Sugar Rush - Squeezy Clean Face Wash",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/673/303/4703/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733034703.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0846733034703",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733036608",
+      "product_name": "Tarte 2-Pc. ExteriorGlam x Tarte Lash Set",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/13502855_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+      "local_image_path": "images/tarte/00846733036608.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "Tarte"
+        ]
+      },
+      "product": {
+        "name": "Tarte 2-Pc. ExteriorGlam x Tarte Lash Set",
+        "source_names": {
+          "upcitemdb": "Tarte 2-Pc. ExteriorGlam x Tarte Lash Set"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "Tarte has teamed up with New York City-based makeup artist and social media superstar Foinika aka @ExteriorGlam to create two limited-edition lash styles that take any look to high intensity. The bona fide lash goddess and beauty influencer loves to take it from soft glam to high intensity in one hot city minute. That s why falsies are her secret weapon. Now they can be yours too.",
+        "primary_image_url": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/13502855_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+        "thumbnail_url": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/13502855_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+        "image_urls": [
+          "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/13502855_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/867f58bb-bbfb-4eaf-933d-ec99ff7490ae.49354cab9d109f011f168eb3ddcce97a.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/tarte/00846733036608.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733036608",
+        "ean13": "0846733036608",
+        "upc_a": "846733036608",
+        "ean8": null,
+        "primary_code": "846733036608",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733036608",
+          "846733036608"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733036608",
+        "qr_payload_text": "https://id.gs1.org/01/00846733036608",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733036608",
+          "code": "846733036608",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "Tarte 2-Pc. ExteriorGlam x Tarte Lash Set",
+          "image_url": "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/13502855_fpx.tif?wid=300&fmt=jpeg&qlt=100"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733036608.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0846733036608",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733038565",
+      "product_name": "hygge & kisses tarteist™ REMIX lip gloss trio hygge & kisses tarteist™ REMIX lip gloss trio",
+      "image_url": "https://images.qvc.com/is/image/s/98/s9598.001?$uslarge$",
+      "local_image_path": "images/tarte/00846733038565.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "Tarte"
+        ]
+      },
+      "product": {
+        "name": "hygge & kisses tarteist™ REMIX lip gloss trio hygge & kisses tarteist™ REMIX lip gloss trio",
+        "source_names": {
+          "upcitemdb": "hygge & kisses tarteist™ REMIX lip gloss trio hygge & kisses tarteist™ REMIX lip gloss trio"
+        },
+        "alternate_names": [
+          "tarte Hygge & Kisses Tartiest REMIX Lipgloss Trio",
+          "Tarte 3-Pc. Fall Feels Hygge & Kisses Tarteist Remix Lip Gloss Set",
+          "Tarte Hygge & Kisses Tarteis REMIX Lipgloss Trio"
+        ],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "WHAT IT IS Sweater weather is better together with this Fall-favorite lip gloss trio featuring 3 gleamin shades that make lips appear fuller more luscious & ready for Autumn activities. available in",
+        "primary_image_url": "https://images.qvc.com/is/image/s/98/s9598.001?$uslarge$",
+        "thumbnail_url": "https://images.qvc.com/is/image/s/98/s9598.001?$uslarge$",
+        "image_urls": [
+          "https://images.qvc.com/is/image/s/98/s9598.001?$uslarge$",
+          "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/14424736_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/4d234d12-7145-450b-9939-1fabfad41388.0be5c13ee1a6d430768260d6d472ef4e.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://ii.beautybrands.com/fcgi-bin/iipsrv.fcgi?FIF=/images/beautybrands/source/21615_default.tif&wid=350&cvt=jpeg"
+        ],
+        "local_image_path": "images/tarte/00846733038565.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733038565",
+        "ean13": "0846733038565",
+        "upc_a": "846733038565",
+        "ean8": null,
+        "primary_code": "846733038565",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733038565",
+          "846733038565"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733038565",
+        "qr_payload_text": "https://id.gs1.org/01/00846733038565",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733038565",
+          "code": "846733038565",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "hygge & kisses tarteist™ REMIX lip gloss trio hygge & kisses tarteist™ REMIX lip gloss trio",
+          "image_url": "https://images.qvc.com/is/image/s/98/s9598.001?$uslarge$"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733038565.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0846733038565",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733040797",
+      "product_name": "tarte x Lele Pons Lipgloss",
+      "image_url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/15451016_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+      "local_image_path": "images/tarte/00846733040797.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "Tarte"
+        ]
+      },
+      "product": {
+        "name": "tarte x Lele Pons Lipgloss",
+        "source_names": {
+          "upcitemdb": "tarte x Lele Pons Lipgloss"
+        },
+        "alternate_names": [
+          "Tarte Lele Pons x Tarte Lipgloss"
+        ],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "I can t leave my house without lipgloss. Same Lele. This vegan ultra-comfortable non-sticky gloss helps nourish the lips leaving them lookin juicy. Gloss is the best way to make your lips look luscious and pop in photos!",
+        "primary_image_url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/15451016_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+        "thumbnail_url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/15451016_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+        "image_urls": [
+          "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/15451016_fpx.tif?wid=300&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/79d786d2-cb95-485b-9e4b-b15a99485be8.9b67eede4c5a7a7e4ab092fae001f987.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://ii.beautybrands.com/fcgi-bin/iipsrv.fcgi?FIF=/images/beautybrands/source/22513_default.tif&wid=350&cvt=jpeg"
+        ],
+        "local_image_path": "images/tarte/00846733040797.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733040797",
+        "ean13": "0846733040797",
+        "upc_a": "846733040797",
+        "ean8": null,
+        "primary_code": "846733040797",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733040797",
+          "846733040797"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733040797",
+        "qr_payload_text": "https://id.gs1.org/01/00846733040797",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733040797",
+          "code": "846733040797",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "tarte x Lele Pons Lipgloss",
+          "image_url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/15451016_fpx.tif?wid=300&fmt=jpeg&qlt=100"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733040797.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0846733040797",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733046362",
+      "product_name": "Tarte Shape Tape Ultra Creamy Concealer",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/cb1dde1009394108efea75ead70c037100dc4d31?wid=800&hei=800&op_sharpen=1&ver=7",
+      "local_image_path": "images/tarte/00846733046362.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "Tarte"
+        ]
+      },
+      "product": {
+        "name": "Tarte Shape Tape Ultra Creamy Concealer",
+        "source_names": {
+          "upcitemdb": "Tarte Shape Tape Ultra Creamy Concealer"
+        },
+        "alternate_names": [
+          "tarte shape tape hydrating full coverage creamy concealer, Size: 0.338 FLOz, 35n Medium"
+        ],
+        "quantity": null,
+        "categories": [],
+        "description": "Tarte Shape Tape Ultra Creamy Concealer - 35N Medium 0.33 oz Short Description: Tarte Shape Tape Ultra Creamy Concealer in 35N Medium offers full-coverage hydration for medium skin tones with neutral undertones. Its ultra-creamy formula conceals imperfections brightens under-eyes and leaves a radiant finish. Key Features: Ultra-Creamy Formula: Provides 24-hour hydration with a crease-proof smooth finish. Full-Coverage Concealer: Hides dark circles redness and blemishes effortlessly. 35N Medium Shade: Perfect for medium skin tones with neutral undertones. Enriched with hyaluronic acid shea butter and licorice root extract for hydration and nourishment. Vegan cruelty-free and dermatologist-tested for all skin types including sensitive skin. How to Use: Apply under the eyes to blemishes or anywhere needing coverage. Blend with a sponge brush or fingertips for a seamless finish. Use as a highlighter or brightener with lighter shades if desired. Ingredients: Key Ingredients: Hyaluronic Acid (for hy",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/cb1dde1009394108efea75ead70c037100dc4d31?wid=800&hei=800&op_sharpen=1&ver=7",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/cb1dde1009394108efea75ead70c037100dc4d31?wid=800&hei=800&op_sharpen=1&ver=7",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/cb1dde1009394108efea75ead70c037100dc4d31?wid=800&hei=800&op_sharpen=1&ver=7",
+          "https://i5.walmartimages.com/asr/691c28b6-f068-4274-ad75-c58ee5dc7212.2f061016b9a7322f8993ef801ebd0676.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/tarte/00846733046362.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733046362",
+        "ean13": "0846733046362",
+        "upc_a": "846733046362",
+        "ean8": null,
+        "primary_code": "846733046362",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733046362",
+          "846733046362"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733046362",
+        "qr_payload_text": "https://id.gs1.org/01/00846733046362",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733046362",
+          "code": "846733046362",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "Tarte Shape Tape Ultra Creamy Concealer",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/cb1dde1009394108efea75ead70c037100dc4d31?wid=800&hei=800&op_sharpen=1&ver=7"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733046362.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0846733046362",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00846733083428",
+      "product_name": "tarte Maracuja Juicy Lip Plump - Peachy Beige - 0.095oz - Ulta Beauty: Balm, Moisturizing, Single Container, Medium Tones",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/d63c97f6bdbd56f37681e13b6ed8ed6cff9d5781?wid=800&hei=800&op_sharpen=1&ver=18",
+      "local_image_path": "images/tarte/00846733083428.jpg",
+      "brand": {
+        "slug": "tarte",
+        "display_name": "Tarte",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Tarte",
+        "matched_raw_brands": [
+          "tarte"
+        ]
+      },
+      "product": {
+        "name": "tarte Maracuja Juicy Lip Plump - Peachy Beige - 0.095oz - Ulta Beauty: Balm, Moisturizing, Single Container, Medium Tones",
+        "source_names": {
+          "upcitemdb": "tarte Maracuja Juicy Lip Plump - Peachy Beige - 0.095oz - Ulta Beauty: Balm, Moisturizing, Single Container, Medium Tones"
+        },
+        "alternate_names": [
+          "tarte maracuja juicy lip plumping gloss, Size: 0.095 Oz, Peachy Beige",
+          "tarte Maracuja Juicy Lip Plump",
+          "Alba Botanica Very Emollient Body Lotion Unscented Original 32 Oz"
+        ],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "Juicy lips are in? with tarte's? maracuja juicy lip, an all-in-1 vegan balm, gloss, color & hydrating treatment! Cushion Comfort Complex instantly plumps the appearance of lips & smooths the look of lip lines. The mirror-shine formula feels comfortable, never sticky, formulated without petrolatum or lanolin. Powered by maracuja, which drenches lips in moisture, this product provides customizable coverage in a clean click-up packaging. Formulated without: Parabens, Mineral Oil, Phthalates, Triclosan, Sodium Lauryl Sulfate, Gluten. How to use: The non-retractable click reveals the perfect amount of product every time, so click up once. Apply 1 swipe as a hydrating treatment balm (perfect for under a mask or at bedtime) or swipe on multiple layers for the perfect pop of color.",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/d63c97f6bdbd56f37681e13b6ed8ed6cff9d5781?wid=800&hei=800&op_sharpen=1&ver=18",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/d63c97f6bdbd56f37681e13b6ed8ed6cff9d5781?wid=800&hei=800&op_sharpen=1&ver=18",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/d63c97f6bdbd56f37681e13b6ed8ed6cff9d5781?wid=800&hei=800&op_sharpen=1&ver=18",
+          "https://target.scene7.com/is/image/Target/GUEST_3a5c2304-b870-4692-bcb1-00c7eec6b592?wid=1000&hei=1000",
+          "https://slimages.macysassets.com/is/image/MCY/products/5/optimized/21272382_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/f8d44d38-62f7-4550-93c6-f16aa895b580.bc2ccac45d5027424133b1b6ccc99a19.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/tarte/00846733083428.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00846733083428",
+        "ean13": "0846733083428",
+        "upc_a": "846733083428",
+        "ean8": null,
+        "primary_code": "846733083428",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0846733083428",
+          "846733083428"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00846733083428",
+        "qr_payload_text": "https://id.gs1.org/01/00846733083428",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00846733083428",
+          "code": "846733083428",
+          "type": "UPC-A",
+          "brand": "Tarte",
+          "name": "tarte Maracuja Juicy Lip Plump - Peachy Beige - 0.095oz - Ulta Beauty: Balm, Moisturizing, Single Container, Medium Tones",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/d63c97f6bdbd56f37681e13b6ed8ed6cff9d5781?wid=800&hei=800&op_sharpen=1&ver=18"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/tarte/00846733083428.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0846733083428",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

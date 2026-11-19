@@ -1,0 +1,485 @@
+{
+  "brand_slug": "valentino",
+  "display_name": "Valentino",
+  "letter_section": "V",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Valentino",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "03614272732230",
+      "product_name": "Valentino Uomo - Eau de Toilette 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/273/2230/front_nl.3.400.jpg",
+      "local_image_path": "images/valentino/03614272732230.jpg",
+      "brand": {
+        "slug": "valentino",
+        "display_name": "Valentino",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Valentino",
+        "matched_raw_brands": [
+          "valentino"
+        ]
+      },
+      "product": {
+        "name": "Valentino Uomo - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Valentino Uomo - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/273/2230/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/273/2230/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/273/2230/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/273/2230/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/valentino/03614272732230.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272732230",
+        "ean13": "3614272732230",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272732230",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272732230"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272732230",
+        "qr_payload_text": "https://id.gs1.org/01/03614272732230",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272732230",
+          "code": "3614272732230",
+          "type": "EAN-13",
+          "brand": "Valentino",
+          "name": "Valentino Uomo - Eau de Toilette 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/273/2230/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/valentino/03614272732230.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272732230",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272761452",
+      "product_name": "Valentino Uomo Born In Roma - Eau de Toilette 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/276/1452/front_nl.5.400.jpg",
+      "local_image_path": "images/valentino/03614272761452.jpg",
+      "brand": {
+        "slug": "valentino",
+        "display_name": "Valentino",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Valentino",
+        "matched_raw_brands": [
+          "valentino"
+        ]
+      },
+      "product": {
+        "name": "Valentino Uomo Born In Roma - Eau de Toilette 50ml",
+        "source_names": {
+          "openbeautyfacts": "Valentino Uomo Born In Roma - Eau de Toilette 50ml"
+        },
+        "alternate_names": [],
+        "quantity": "50",
+        "categories": [
+          "Perfumes",
+          "Open Beauty Facts",
+          "Beauty",
+          "Herenparfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/276/1452/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/276/1452/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/276/1452/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/276/1452/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/valentino/03614272761452.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272761452",
+        "ean13": "3614272761452",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272761452",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272761452"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272761452",
+        "qr_payload_text": "https://id.gs1.org/01/03614272761452",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272761452",
+          "code": "3614272761452",
+          "type": "EAN-13",
+          "brand": "Valentino",
+          "name": "Valentino Uomo Born In Roma - Eau de Toilette 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/276/1452/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/valentino/03614272761452.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272761452",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272761469",
+      "product_name": "Valentino Uomo Born In Roma - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "valentino",
+        "display_name": "Valentino",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Valentino",
+        "matched_raw_brands": [
+          "valentino"
+        ]
+      },
+      "product": {
+        "name": "Valentino Uomo Born In Roma - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Valentino Uomo Born In Roma - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614272761469",
+        "ean13": "3614272761469",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272761469",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272761469"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272761469",
+        "qr_payload_text": "https://id.gs1.org/01/03614272761469",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272761469",
+          "code": "3614272761469",
+          "type": "EAN-13",
+          "brand": "Valentino",
+          "name": "Valentino Uomo Born In Roma - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/valentino/03614272761469.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272761469",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273261425",
+      "product_name": "Valentino Uomo Born In Roma Yellow Dream - Eau de Toilette 100ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/326/1425/front_nl.3.400.jpg",
+      "local_image_path": "images/valentino/03614273261425.jpg",
+      "brand": {
+        "slug": "valentino",
+        "display_name": "Valentino",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Valentino",
+        "matched_raw_brands": [
+          "valentino"
+        ]
+      },
+      "product": {
+        "name": "Valentino Uomo Born In Roma Yellow Dream - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Valentino Uomo Born In Roma Yellow Dream - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/326/1425/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/326/1425/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/326/1425/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/326/1425/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/valentino/03614273261425.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614273261425",
+        "ean13": "3614273261425",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273261425",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273261425"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273261425",
+        "qr_payload_text": "https://id.gs1.org/01/03614273261425",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273261425",
+          "code": "3614273261425",
+          "type": "EAN-13",
+          "brand": "Valentino",
+          "name": "Valentino Uomo Born In Roma Yellow Dream - Eau de Toilette 100ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/326/1425/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/valentino/03614273261425.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273261425",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614273672412",
+      "product_name": "Valentino Uomo Born in Roma Coral Fantasy - Eau de Toilette 100ml",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "valentino",
+        "display_name": "Valentino",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Valentino",
+        "matched_raw_brands": [
+          "valentino"
+        ]
+      },
+      "product": {
+        "name": "Valentino Uomo Born in Roma Coral Fantasy - Eau de Toilette 100ml",
+        "source_names": {
+          "openbeautyfacts": "Valentino Uomo Born in Roma Coral Fantasy - Eau de Toilette 100ml"
+        },
+        "alternate_names": [],
+        "quantity": "100",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614273672412",
+        "ean13": "3614273672412",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614273672412",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614273672412"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614273672412",
+        "qr_payload_text": "https://id.gs1.org/01/03614273672412",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614273672412",
+          "code": "3614273672412",
+          "type": "EAN-13",
+          "brand": "Valentino",
+          "name": "Valentino Uomo Born in Roma Coral Fantasy - Eau de Toilette 100ml",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/valentino/03614273672412.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614273672412",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847719232",
+      "product_name": "Valentino Uomo Born In Roma Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/9232/front_nl.3.400.jpg",
+      "local_image_path": "images/valentino/08720847719232.jpg",
+      "brand": {
+        "slug": "valentino",
+        "display_name": "Valentino",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Valentino",
+        "matched_raw_brands": [
+          "valentino"
+        ]
+      },
+      "product": {
+        "name": "Valentino Uomo Born In Roma Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Valentino Uomo Born In Roma Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/9232/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/9232/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/9232/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/9232/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/valentino/08720847719232.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847719232",
+        "ean13": "8720847719232",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847719232",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847719232"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847719232",
+        "qr_payload_text": "https://id.gs1.org/01/08720847719232",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847719232",
+          "code": "8720847719232",
+          "type": "EAN-13",
+          "brand": "Valentino",
+          "name": "Valentino Uomo Born In Roma Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/9232/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/valentino/08720847719232.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847719232",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

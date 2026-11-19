@@ -1,0 +1,1059 @@
+{
+  "brand_slug": "cosrx",
+  "display_name": "COSRX",
+  "letter_section": "C",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+  "product_count": 13,
+  "canonical_product_count": 13,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "08809416470054",
+      "product_name": "Cosrx BHA Blackhead Power Liquid",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0054/front_en.3.400.jpg",
+      "local_image_path": "images/cosrx/08809416470054.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:Cosrx",
+          "Cosrx"
+        ]
+      },
+      "product": {
+        "name": "Cosrx BHA Blackhead Power Liquid",
+        "source_names": {
+          "openbeautyfacts": "Cosrx BHA Blackhead Power Liquid",
+          "upcitemdb": "Cosrx Bha Blackhead Power Liquid"
+        },
+        "alternate_names": [
+          "312681 BHA Blackhead Power Liquid",
+          "COSRX BHA Blackhead Power Liquid 100ml",
+          "Cosrx Bha Blackhead Power Liquid 100ml Clear",
+          "COSRX BHA Blackhead Power Liquid 100ml/3.38oz",
+          "CosRx BHA Blackhead Power Liquid, 3.3 Fl Oz"
+        ],
+        "quantity": "100mL",
+        "categories": [
+          "Apparel & Accessories"
+        ],
+        "description": "The Bha blackhead power liquid not only gets rid of blackheads and sebum from pores but, it also prevents sebum from turning into blackheads. This essence's lightweight texture effortlessly exfoliates and clarifies the skin.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0054/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0054/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/941/647/0054/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/941/647/0054/front_en.3.200.jpg",
+          "https://s4.thcdn.com/productimg/960/960/11401180-2004456615394271.jpg",
+          "https://n.nordstrommedia.com/id/c324636d-7b90-4fca-93de-83a773d920c5.jpeg",
+          "https://slimages.macysassets.com/is/image/MCY/products/4/optimized/15130924_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/3fb80ab2-3770-4cf4-bc38-5cd4ed6dbbf7_1.d744bb80252e0816a797ca35eb5da819.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://i5.walmartimages.com/asr/162d0bc1-fa96-400d-a7d9-37fbaebc08d0.dd162988e8b1685945343ca2274553e7.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://images10.newegg.com/ProductImageCompressAll200/AA1G_1_201701171596384163.jpg",
+          "http://site.unbeatablesale.com/STRBN136864.JPG",
+          "https://tshop.r10s.com/81f/256/1e8a/960b/d05d/54ec/a88c/1127e8869f2c600c737442.jpg?_ex=512x512",
+          "https://cdn3.ykso.co/images/2023/09/21/15/6506c411db640158c404448d-transformed.jpeg",
+          "https://cdn11.bigcommerce.com/s-6c800/products/7550/images/21241/blackhead-liquid__98813.1697662104.1280.1280.jpg?c=2"
+        ],
+        "local_image_path": "images/cosrx/08809416470054.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809416470054",
+        "ean13": "8809416470054",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809416470054",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809416470054"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809416470054",
+        "qr_payload_text": "https://id.gs1.org/01/08809416470054",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809416470054",
+          "code": "8809416470054",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Cosrx BHA Blackhead Power Liquid",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0054/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809416470054.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809416470054",
+        "upcitemdb_ean": "8809416470054",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809416470184",
+      "product_name": "Cosrx Hyaluronic Acid Hydra Power Essence",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:COSRX"
+        ]
+      },
+      "product": {
+        "name": "Cosrx Hyaluronic Acid Hydra Power Essence",
+        "source_names": {
+          "openbeautyfacts": "Cosrx Hyaluronic Acid Hydra Power Essence"
+        },
+        "alternate_names": [
+          "Hydrating Facial Gel Essence"
+        ],
+        "quantity": "100 ml",
+        "categories": [
+          "Cosmetics",
+          "Face Care",
+          "Facial Essences",
+          "Facial Serums",
+          "Hydrating Treatments",
+          "Skin Care"
+        ],
+        "description": "Hydrating Facial Gel Essence",
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08809416470184",
+        "ean13": "8809416470184",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809416470184",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809416470184"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809416470184",
+        "qr_payload_text": "https://id.gs1.org/01/08809416470184",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809416470184",
+          "code": "8809416470184",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Cosrx Hyaluronic Acid Hydra Power Essence",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809416470184.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809416470184",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809416470511",
+      "product_name": "Low PH good morning gel cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0511/front_en.15.400.jpg",
+      "local_image_path": "images/cosrx/08809416470511.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:COSRX"
+        ]
+      },
+      "product": {
+        "name": "Low PH good morning gel cleanser",
+        "source_names": {
+          "openbeautyfacts": "Low PH good morning gel cleanser"
+        },
+        "alternate_names": [],
+        "quantity": "150ml",
+        "categories": [
+          "Face",
+          "Cleansers"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0511/front_en.15.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0511/front_en.15.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/941/647/0511/front_en.15.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/941/647/0511/front_en.15.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809416470511.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809416470511",
+        "ean13": "8809416470511",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809416470511",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809416470511"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809416470511",
+        "qr_payload_text": "https://id.gs1.org/01/08809416470511",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809416470511",
+          "code": "8809416470511",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Low PH good morning gel cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/941/647/0511/front_en.15.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809416470511.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809416470511",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809416471655",
+      "product_name": "Two in One Poreless Power Liquid",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:COSRX"
+        ]
+      },
+      "product": {
+        "name": "Two in One Poreless Power Liquid",
+        "source_names": {
+          "openbeautyfacts": "Two in One Poreless Power Liquid"
+        },
+        "alternate_names": [
+          "Pore-Refining Facial Toner / Gentle BHA Liquid"
+        ],
+        "quantity": "100 ml",
+        "categories": [
+          "Exfoliating Liquids",
+          "Face Care",
+          "Facial Toners",
+          "Pore Treatments",
+          "Skin Care"
+        ],
+        "description": "Pore-Refining Facial Toner / Gentle BHA Liquid",
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08809416471655",
+        "ean13": "8809416471655",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809416471655",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809416471655"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809416471655",
+        "qr_payload_text": "https://id.gs1.org/01/08809416471655",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809416471655",
+          "code": "8809416471655",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Two in One Poreless Power Liquid",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809416471655.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809416471655",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598450912",
+      "product_name": "cosrx cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/0912/front_en.7.400.jpg",
+      "local_image_path": "images/cosrx/08809598450912.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:cosrx"
+        ]
+      },
+      "product": {
+        "name": "cosrx cream",
+        "source_names": {
+          "openbeautyfacts": "cosrx cream"
+        },
+        "alternate_names": [],
+        "quantity": "80ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/0912/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/0912/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/0912/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/0912/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598450912.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598450912",
+        "ean13": "8809598450912",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598450912",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598450912"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598450912",
+        "qr_payload_text": "https://id.gs1.org/01/08809598450912",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598450912",
+          "code": "8809598450912",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "cosrx cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/0912/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598450912.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598450912",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598451926",
+      "product_name": "Hydrium Triple Hyaluronic Moisturizing Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/1926/front_en.3.400.jpg",
+      "local_image_path": "images/cosrx/08809598451926.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:cosrx"
+        ]
+      },
+      "product": {
+        "name": "Hydrium Triple Hyaluronic Moisturizing Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Hydrium Triple Hyaluronic Moisturizing Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/1926/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/1926/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/1926/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/1926/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598451926.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598451926",
+        "ean13": "8809598451926",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598451926",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598451926"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598451926",
+        "qr_payload_text": "https://id.gs1.org/01/08809598451926",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598451926",
+          "code": "8809598451926",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Hydrium Triple Hyaluronic Moisturizing Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/1926/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598451926.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598451926",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598452053",
+      "product_name": "Advanced Snail Radiance Dual Essence",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/2053/front_en.5.400.jpg",
+      "local_image_path": "images/cosrx/08809598452053.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:COSRX"
+        ]
+      },
+      "product": {
+        "name": "Advanced Snail Radiance Dual Essence",
+        "source_names": {
+          "openbeautyfacts": "Advanced Snail Radiance Dual Essence"
+        },
+        "alternate_names": [],
+        "quantity": "80ml",
+        "categories": [
+          "Essence"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/2053/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/2053/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/2053/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/2053/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598452053.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598452053",
+        "ean13": "8809598452053",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598452053",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598452053"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598452053",
+        "qr_payload_text": "https://id.gs1.org/01/08809598452053",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598452053",
+          "code": "8809598452053",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Advanced Snail Radiance Dual Essence",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/2053/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598452053.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598452053",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598453388",
+      "product_name": "Ceramic lip butter sleeping mask",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3388/front_en.3.400.jpg",
+      "local_image_path": "images/cosrx/08809598453388.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:COSRX"
+        ]
+      },
+      "product": {
+        "name": "Ceramic lip butter sleeping mask",
+        "source_names": {
+          "openbeautyfacts": "Ceramic lip butter sleeping mask"
+        },
+        "alternate_names": [],
+        "quantity": "20gr",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3388/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3388/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/3388/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/3388/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598453388.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598453388",
+        "ean13": "8809598453388",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598453388",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598453388"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598453388",
+        "qr_payload_text": "https://id.gs1.org/01/08809598453388",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598453388",
+          "code": "8809598453388",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Ceramic lip butter sleeping mask",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3388/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598453388.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598453388",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598453661",
+      "product_name": "salicylic acid daily gentle cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3661/1.400.jpg",
+      "local_image_path": "images/cosrx/08809598453661.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:cosrx"
+        ]
+      },
+      "product": {
+        "name": "salicylic acid daily gentle cleanser",
+        "source_names": {
+          "openbeautyfacts": "salicylic acid daily gentle cleanser"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3661/1.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3661/1.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/3661/1.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/3661/1.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598453661.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598453661",
+        "ean13": "8809598453661",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598453661",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598453661"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598453661",
+        "qr_payload_text": "https://id.gs1.org/01/08809598453661",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598453661",
+          "code": "8809598453661",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "salicylic acid daily gentle cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/3661/1.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598453661.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598453661",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598454354",
+      "product_name": "Aloe Soothing Sun Cream",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_en.9.400.jpg",
+      "local_image_path": "images/cosrx/08809598454354.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:cosrx"
+        ]
+      },
+      "product": {
+        "name": "Aloe Soothing Sun Cream",
+        "source_names": {
+          "openbeautyfacts": "Aloe Soothing Sun Cream"
+        },
+        "alternate_names": [],
+        "quantity": "50 ml",
+        "categories": [
+          "Protezione Solare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_en.9.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_it.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_it.4.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598454354.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598454354",
+        "ean13": "8809598454354",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598454354",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598454354"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598454354",
+        "qr_payload_text": "https://id.gs1.org/01/08809598454354",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598454354",
+          "code": "8809598454354",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Aloe Soothing Sun Cream",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/4354/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598454354.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598454354",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598455399",
+      "product_name": "Cosrx AHA BHA Vitamin C Daily Toner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5399/front_nl.3.400.jpg",
+      "local_image_path": "images/cosrx/08809598455399.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:Cosrx"
+        ]
+      },
+      "product": {
+        "name": "Cosrx AHA BHA Vitamin C Daily Toner",
+        "source_names": {
+          "openbeautyfacts": "Cosrx AHA BHA Vitamin C Daily Toner"
+        },
+        "alternate_names": [],
+        "quantity": "150ml",
+        "categories": [
+          "Beauty",
+          "Korean Beauty",
+          "Korean Skincare",
+          "Korean Gezichtsreiniging",
+          "Korean Toner"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5399/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5399/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/5399/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/5399/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598455399.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598455399",
+        "ean13": "8809598455399",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598455399",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598455399"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598455399",
+        "qr_payload_text": "https://id.gs1.org/01/08809598455399",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598455399",
+          "code": "8809598455399",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Cosrx AHA BHA Vitamin C Daily Toner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5399/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598455399.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598455399",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598455658",
+      "product_name": "Cosrx The 6 Peptide Skin Booster Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.400.jpg",
+      "local_image_path": "images/cosrx/08809598455658.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "xx:Cosrx"
+        ]
+      },
+      "product": {
+        "name": "Cosrx The 6 Peptide Skin Booster Serum",
+        "source_names": {
+          "openbeautyfacts": "Cosrx The 6 Peptide Skin Booster Serum"
+        },
+        "alternate_names": [],
+        "quantity": "150ml",
+        "categories": [
+          "Beauty",
+          "Korean Beauty",
+          "Korean Skincare",
+          "Korean Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598455658.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598455658",
+        "ean13": "8809598455658",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598455658",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598455658"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598455658",
+        "qr_payload_text": "https://id.gs1.org/01/08809598455658",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598455658",
+          "code": "8809598455658",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Cosrx The 6 Peptide Skin Booster Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/5658/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598455658.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598455658",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08809598456242",
+      "product_name": "Cosrx SPF50 Ultra-Light Invisible Sunscreen",
+      "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/6242/front_nl.5.400.jpg",
+      "local_image_path": "images/cosrx/08809598456242.jpg",
+      "brand": {
+        "slug": "cosrx",
+        "display_name": "COSRX",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=COSRX",
+        "matched_raw_brands": [
+          "cosrx"
+        ]
+      },
+      "product": {
+        "name": "Cosrx SPF50 Ultra-Light Invisible Sunscreen",
+        "source_names": {
+          "openbeautyfacts": "Cosrx SPF50 Ultra-Light Invisible Sunscreen"
+        },
+        "alternate_names": [],
+        "quantity": "50ml",
+        "categories": [
+          "Beauty",
+          "Dagcreme",
+          "Skincare"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/6242/front_nl.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/880/959/845/6242/front_nl.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/880/959/845/6242/front_nl.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/880/959/845/6242/front_nl.5.200.jpg"
+        ],
+        "local_image_path": "images/cosrx/08809598456242.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08809598456242",
+        "ean13": "8809598456242",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8809598456242",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8809598456242"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08809598456242",
+        "qr_payload_text": "https://id.gs1.org/01/08809598456242",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08809598456242",
+          "code": "8809598456242",
+          "type": "EAN-13",
+          "brand": "COSRX",
+          "name": "Cosrx SPF50 Ultra-Light Invisible Sunscreen",
+          "image_url": "https://images.openbeautyfacts.org/images/products/880/959/845/6242/front_nl.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/cosrx/08809598456242.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8809598456242",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

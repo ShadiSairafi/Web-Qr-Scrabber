@@ -1,0 +1,482 @@
+{
+  "brand_slug": "rhode",
+  "display_name": "rhode",
+  "letter_section": "R",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=rhode",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00810175610375",
+      "product_name": "Rhode Peptide Lip Treatment Rhode Vanilla",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0375/front_en.3.400.jpg",
+      "local_image_path": "images/rhode/00810175610375.jpg",
+      "brand": {
+        "slug": "rhode",
+        "display_name": "rhode",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=rhode",
+        "matched_raw_brands": [
+          "xx:Rhode"
+        ]
+      },
+      "product": {
+        "name": "Rhode Peptide Lip Treatment Rhode Vanilla",
+        "source_names": {
+          "openbeautyfacts": "Rhode Peptide Lip Treatment Rhode Vanilla"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Lip Treatment"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0375/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0375/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0375/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0375/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rhode/00810175610375.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810175610375",
+        "ean13": "0810175610375",
+        "upc_a": "810175610375",
+        "ean8": null,
+        "primary_code": "810175610375",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810175610375"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810175610375",
+        "qr_payload_text": "https://id.gs1.org/01/00810175610375",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810175610375",
+          "code": "810175610375",
+          "type": "UPC-A",
+          "brand": "rhode",
+          "name": "Rhode Peptide Lip Treatment Rhode Vanilla",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0375/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rhode/00810175610375.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810175610375",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810175610443",
+      "product_name": "Rhode Peptide Lip Tint Salty Tan",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0443/front_en.3.400.jpg",
+      "local_image_path": "images/rhode/00810175610443.jpg",
+      "brand": {
+        "slug": "rhode",
+        "display_name": "rhode",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=rhode",
+        "matched_raw_brands": [
+          "xx:Rhode"
+        ]
+      },
+      "product": {
+        "name": "Rhode Peptide Lip Tint Salty Tan",
+        "source_names": {
+          "openbeautyfacts": "Rhode Peptide Lip Tint Salty Tan"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Lip Tint"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0443/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0443/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0443/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0443/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rhode/00810175610443.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810175610443",
+        "ean13": "0810175610443",
+        "upc_a": "810175610443",
+        "ean8": null,
+        "primary_code": "810175610443",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810175610443"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810175610443",
+        "qr_payload_text": "https://id.gs1.org/01/00810175610443",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810175610443",
+          "code": "810175610443",
+          "type": "UPC-A",
+          "brand": "rhode",
+          "name": "Rhode Peptide Lip Tint Salty Tan",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0443/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rhode/00810175610443.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810175610443",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810175610634",
+      "product_name": "Rhode Peptide Lip Tint toast",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0634/front_en.3.400.jpg",
+      "local_image_path": "images/rhode/00810175610634.jpg",
+      "brand": {
+        "slug": "rhode",
+        "display_name": "rhode",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=rhode",
+        "matched_raw_brands": [
+          "xx:Rhode"
+        ]
+      },
+      "product": {
+        "name": "Rhode Peptide Lip Tint toast",
+        "source_names": {
+          "openbeautyfacts": "Rhode Peptide Lip Tint toast"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Lip Tint"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0634/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0634/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0634/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0634/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rhode/00810175610634.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810175610634",
+        "ean13": "0810175610634",
+        "upc_a": "810175610634",
+        "ean8": null,
+        "primary_code": "810175610634",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810175610634"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810175610634",
+        "qr_payload_text": "https://id.gs1.org/01/00810175610634",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810175610634",
+          "code": "810175610634",
+          "type": "UPC-A",
+          "brand": "rhode",
+          "name": "Rhode Peptide Lip Tint toast",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0634/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rhode/00810175610634.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810175610634",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810175610641",
+      "product_name": "Rhode Peptide Lip Tint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0641/front_en.3.400.jpg",
+      "local_image_path": "images/rhode/00810175610641.jpg",
+      "brand": {
+        "slug": "rhode",
+        "display_name": "rhode",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=rhode",
+        "matched_raw_brands": [
+          "xx:Rhode"
+        ]
+      },
+      "product": {
+        "name": "Rhode Peptide Lip Tint",
+        "source_names": {
+          "openbeautyfacts": "Rhode Peptide Lip Tint"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Lip Tint"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0641/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0641/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0641/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/017/561/0641/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rhode/00810175610641.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810175610641",
+        "ean13": "0810175610641",
+        "upc_a": "810175610641",
+        "ean8": null,
+        "primary_code": "810175610641",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810175610641"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810175610641",
+        "qr_payload_text": "https://id.gs1.org/01/00810175610641",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810175610641",
+          "code": "810175610641",
+          "type": "UPC-A",
+          "brand": "rhode",
+          "name": "Rhode Peptide Lip Tint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/0641/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rhode/00810175610641.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810175610641",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810175611136",
+      "product_name": "Rhode Peptide Lip Tint Pretzel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/1136/front_en.3.400.jpg",
+      "local_image_path": "images/rhode/00810175611136.jpg",
+      "brand": {
+        "slug": "rhode",
+        "display_name": "rhode",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=rhode",
+        "matched_raw_brands": [
+          "xx:Rhode"
+        ]
+      },
+      "product": {
+        "name": "Rhode Peptide Lip Tint Pretzel",
+        "source_names": {
+          "openbeautyfacts": "Rhode Peptide Lip Tint Pretzel"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Lip Tint"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/1136/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/017/561/1136/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/017/561/1136/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/017/561/1136/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rhode/00810175611136.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810175611136",
+        "ean13": "0810175611136",
+        "upc_a": "810175611136",
+        "ean8": null,
+        "primary_code": "810175611136",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810175611136"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810175611136",
+        "qr_payload_text": "https://id.gs1.org/01/00810175611136",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810175611136",
+          "code": "810175611136",
+          "type": "UPC-A",
+          "brand": "rhode",
+          "name": "Rhode Peptide Lip Tint Pretzel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/017/561/1136/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rhode/00810175611136.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810175611136",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00850055527508",
+      "product_name": "Rhode Peptide Lip Treatment Salted Caramel",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/005/552/7508/front_en.3.400.jpg",
+      "local_image_path": "images/rhode/00850055527508.jpg",
+      "brand": {
+        "slug": "rhode",
+        "display_name": "rhode",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=rhode",
+        "matched_raw_brands": [
+          "xx:Rhode"
+        ]
+      },
+      "product": {
+        "name": "Rhode Peptide Lip Treatment Salted Caramel",
+        "source_names": {
+          "openbeautyfacts": "Rhode Peptide Lip Treatment Salted Caramel"
+        },
+        "alternate_names": [],
+        "quantity": "10ml",
+        "categories": [
+          "Lip Treatment"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/005/552/7508/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/005/552/7508/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/005/552/7508/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/005/552/7508/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/rhode/00850055527508.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850055527508",
+        "ean13": "0850055527508",
+        "upc_a": "850055527508",
+        "ean8": null,
+        "primary_code": "850055527508",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0850055527508"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850055527508",
+        "qr_payload_text": "https://id.gs1.org/01/00850055527508",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850055527508",
+          "code": "850055527508",
+          "type": "UPC-A",
+          "brand": "rhode",
+          "name": "Rhode Peptide Lip Treatment Salted Caramel",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/005/552/7508/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/rhode/00850055527508.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850055527508",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

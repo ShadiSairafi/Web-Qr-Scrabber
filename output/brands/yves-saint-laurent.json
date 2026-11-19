@@ -1,0 +1,1738 @@
+{
+  "brand_slug": "yves-saint-laurent",
+  "display_name": "Yves Saint Laurent",
+  "letter_section": "Y",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+  "product_count": 22,
+  "canonical_product_count": 22,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "03365440003866",
+      "product_name": "Kouros",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/544/000/3866/front_fr.7.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03365440003866.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Kouros",
+        "source_names": {
+          "openbeautyfacts": "Kouros"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/544/000/3866/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/544/000/3866/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/544/000/3866/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/544/000/3866/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03365440003866.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03365440003866",
+        "ean13": "3365440003866",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3365440003866",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3365440003866"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03365440003866",
+        "qr_payload_text": "https://id.gs1.org/01/03365440003866",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03365440003866",
+          "code": "3365440003866",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Kouros",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/544/000/3866/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03365440003866.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3365440003866",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03365440043732",
+      "product_name": "Y",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/544/004/3732/front_fr.4.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03365440043732.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Y",
+        "source_names": {
+          "openbeautyfacts": "Y"
+        },
+        "alternate_names": [
+          "Eau de toilette"
+        ],
+        "quantity": "80 ml",
+        "categories": [
+          "Perfumes",
+          "Eau De Toilette"
+        ],
+        "description": "Eau de toilette",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/544/004/3732/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/544/004/3732/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/544/004/3732/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/544/004/3732/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03365440043732.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03365440043732",
+        "ean13": "3365440043732",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3365440043732",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3365440043732"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03365440043732",
+        "qr_payload_text": "https://id.gs1.org/01/03365440043732",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03365440043732",
+          "code": "3365440043732",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Y",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/544/004/3732/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03365440043732.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3365440043732",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03365440396715",
+      "product_name": "Déodorant La Nuit de l'Homme",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/544/039/6715/front_fr.3.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03365440396715.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Déodorant La Nuit de l'Homme",
+        "source_names": {
+          "openbeautyfacts": "Déodorant La Nuit de l'Homme"
+        },
+        "alternate_names": [
+          "Déodorant"
+        ],
+        "quantity": "75 g",
+        "categories": [],
+        "description": "Déodorant",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/544/039/6715/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/544/039/6715/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/544/039/6715/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/544/039/6715/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03365440396715.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03365440396715",
+        "ean13": "3365440396715",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3365440396715",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3365440396715"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03365440396715",
+        "qr_payload_text": "https://id.gs1.org/01/03365440396715",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03365440396715",
+          "code": "3365440396715",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Déodorant La Nuit de l'Homme",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/544/039/6715/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03365440396715.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3365440396715",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03365440621053",
+      "product_name": "La Nuit De L'Homme Le Parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/544/062/1053/front_en.10.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03365440621053.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:Yves Saint Laurent"
+        ]
+      },
+      "product": {
+        "name": "La Nuit De L'Homme Le Parfum",
+        "source_names": {
+          "openbeautyfacts": "La Nuit De L'Homme Le Parfum"
+        },
+        "alternate_names": [],
+        "quantity": "Le Parfum, 100 ML",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Herenparfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/544/062/1053/front_en.10.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/544/062/1053/front_en.10.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/544/062/1053/front_en.10.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/544/062/1053/front_en.10.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03365440621053.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03365440621053",
+        "ean13": "3365440621053",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3365440621053",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3365440621053"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03365440621053",
+        "qr_payload_text": "https://id.gs1.org/01/03365440621053",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03365440621053",
+          "code": "3365440621053",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "La Nuit De L'Homme Le Parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/544/062/1053/front_en.10.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03365440621053.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3365440621053",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03365440718272",
+      "product_name": "La nuit de l’homme",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/544/071/8272/front_fr.3.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03365440718272.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "La nuit de l’homme",
+        "source_names": {
+          "openbeautyfacts": "La nuit de l’homme"
+        },
+        "alternate_names": [],
+        "quantity": "Déodorant spray 150ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/544/071/8272/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/544/071/8272/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/544/071/8272/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/544/071/8272/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03365440718272.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03365440718272",
+        "ean13": "3365440718272",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3365440718272",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3365440718272"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03365440718272",
+        "qr_payload_text": "https://id.gs1.org/01/03365440718272",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03365440718272",
+          "code": "3365440718272",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "La nuit de l’homme",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/544/071/8272/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03365440718272.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3365440718272",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03365440787858",
+      "product_name": "Black Opium 30 ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/336/544/078/7858/front_en.5.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03365440787858.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:Yves Saint Laurent"
+        ]
+      },
+      "product": {
+        "name": "Black Opium 30 ml",
+        "source_names": {
+          "openbeautyfacts": "Black Opium 30 ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/336/544/078/7858/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/336/544/078/7858/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/336/544/078/7858/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/336/544/078/7858/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03365440787858.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03365440787858",
+        "ean13": "3365440787858",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3365440787858",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3365440787858"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03365440787858",
+        "qr_payload_text": "https://id.gs1.org/01/03365440787858",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03365440787858",
+          "code": "3365440787858",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Black Opium 30 ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/336/544/078/7858/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03365440787858.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3365440787858",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614270561634",
+      "product_name": "YSL Mon Paris - Eau de Parfum 90ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/056/1634/front_nl.12.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614270561634.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "YSL Mon Paris - Eau de Parfum 90ml",
+        "source_names": {
+          "openbeautyfacts": "YSL Mon Paris - Eau de Parfum 90ml"
+        },
+        "alternate_names": [
+          "Mon Paris 90 ml"
+        ],
+        "quantity": "90",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Damesparfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/056/1634/front_nl.12.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/056/1634/front_nl.12.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/056/1634/front_nl.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/056/1634/front_nl.12.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614270561634.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614270561634",
+        "ean13": "3614270561634",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614270561634",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614270561634"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614270561634",
+        "qr_payload_text": "https://id.gs1.org/01/03614270561634",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614270561634",
+          "code": "3614270561634",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "YSL Mon Paris - Eau de Parfum 90ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/056/1634/front_nl.12.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614270561634.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614270561634",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614270638060",
+      "product_name": "Top Secrets - Hydratant éclat instantané",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/063/8060/front_fr.8.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614270638060.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Top Secrets - Hydratant éclat instantané",
+        "source_names": {
+          "openbeautyfacts": "Top Secrets - Hydratant éclat instantané"
+        },
+        "alternate_names": [
+          "soin hydratant visage"
+        ],
+        "quantity": "40 ml",
+        "categories": [
+          "Hydratant Visage"
+        ],
+        "description": "soin hydratant visage",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/063/8060/front_fr.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/063/8060/front_fr.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/063/8060/front_fr.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/063/8060/front_fr.8.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614270638060.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614270638060",
+        "ean13": "3614270638060",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614270638060",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614270638060"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614270638060",
+        "qr_payload_text": "https://id.gs1.org/01/03614270638060",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614270638060",
+          "code": "3614270638060",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Top Secrets - Hydratant éclat instantané",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/063/8060/front_fr.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614270638060.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614270638060",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614270988660",
+      "product_name": "La nuit de l'homme",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "La nuit de l'homme",
+        "source_names": {
+          "openbeautyfacts": "La nuit de l'homme"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03614270988660",
+        "ean13": "3614270988660",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614270988660",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614270988660"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614270988660",
+        "qr_payload_text": "https://id.gs1.org/01/03614270988660",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614270988660",
+          "code": "3614270988660",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "La nuit de l'homme",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614270988660.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614270988660",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614270988677",
+      "product_name": "La Nuit de L'Homme Le Parfum Intense",
+      "image_url": "https://images.openproductsfacts.org/images/products/361/427/098/8677/front_fr.7.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614270988677.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "La Nuit de L'Homme Le Parfum Intense",
+        "source_names": {
+          "openproductsfacts": "La Nuit de L'Homme Le Parfum Intense"
+        },
+        "alternate_names": [
+          "Eau de Parfum"
+        ],
+        "quantity": "60 ml",
+        "categories": [
+          "Eau De Parfum"
+        ],
+        "description": "Eau de Parfum",
+        "primary_image_url": "https://images.openproductsfacts.org/images/products/361/427/098/8677/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openproductsfacts.org/images/products/361/427/098/8677/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openproductsfacts.org/images/products/361/427/098/8677/front_fr.7.400.jpg",
+          "https://images.openproductsfacts.org/images/products/361/427/098/8677/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614270988677.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614270988677",
+        "ean13": "3614270988677",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614270988677",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614270988677"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614270988677",
+        "qr_payload_text": "https://id.gs1.org/01/03614270988677",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614270988677",
+          "code": "3614270988677",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "La Nuit de L'Homme Le Parfum Intense",
+          "image_url": "https://images.openproductsfacts.org/images/products/361/427/098/8677/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614270988677.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.9,
+        "sources": [
+          "openproductsfacts"
+        ],
+        "match_methods": {
+          "openproductsfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z",
+        "openproductsfacts_url": "http://world-en.openproductsfacts.org/product/3614270988677/la-nuit-de-l-homme-le-parfum-intense-yves-saint-laurent"
+      }
+    },
+    {
+      "gtin14": "03614271093738",
+      "product_name": "Touche éclat le teint",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/109/3738/front_fr.3.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614271093738.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Touche éclat le teint",
+        "source_names": {
+          "openbeautyfacts": "Touche éclat le teint"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/109/3738/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/109/3738/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/109/3738/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/109/3738/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614271093738.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271093738",
+        "ean13": "3614271093738",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271093738",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271093738"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271093738",
+        "qr_payload_text": "https://id.gs1.org/01/03614271093738",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271093738",
+          "code": "3614271093738",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Touche éclat le teint",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/109/3738/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614271093738.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271093738",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271333971",
+      "product_name": "L’Homme ultime eau de parfum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/133/3971/front_fr.9.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614271333971.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "L’Homme ultime eau de parfum",
+        "source_names": {
+          "openbeautyfacts": "L’Homme ultime eau de parfum"
+        },
+        "alternate_names": [
+          "eau de parfum"
+        ],
+        "quantity": "100 ml",
+        "categories": [
+          "Perfumes"
+        ],
+        "description": "eau de parfum",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/133/3971/front_fr.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/133/3971/front_fr.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/133/3971/front_fr.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/133/3971/front_fr.9.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614271333971.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271333971",
+        "ean13": "3614271333971",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271333971",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271333971"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271333971",
+        "qr_payload_text": "https://id.gs1.org/01/03614271333971",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271333971",
+          "code": "3614271333971",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "L’Homme ultime eau de parfum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/133/3971/front_fr.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614271333971.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271333971",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271567765",
+      "product_name": "Mascara volume effet faux cils",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/156/7765/front_fr.4.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614271567765.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Mascara volume effet faux cils",
+        "source_names": {
+          "openbeautyfacts": "Mascara volume effet faux cils"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/156/7765/front_fr.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/156/7765/front_fr.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/156/7765/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/156/7765/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614271567765.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271567765",
+        "ean13": "3614271567765",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271567765",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271567765"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271567765",
+        "qr_payload_text": "https://id.gs1.org/01/03614271567765",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271567765",
+          "code": "3614271567765",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Mascara volume effet faux cils",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/156/7765/front_fr.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614271567765.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271567765",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614271664761",
+      "product_name": "la nuit de l'homme",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/166/4761/front_fr.10.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614271664761.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "la nuit de l'homme",
+        "source_names": {
+          "openbeautyfacts": "la nuit de l'homme"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Liquide"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/166/4761/front_fr.10.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/166/4761/front_fr.10.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/166/4761/front_fr.10.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/166/4761/front_fr.10.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614271664761.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614271664761",
+        "ean13": "3614271664761",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614271664761",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614271664761"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614271664761",
+        "qr_payload_text": "https://id.gs1.org/01/03614271664761",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614271664761",
+          "code": "3614271664761",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "la nuit de l'homme",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/166/4761/front_fr.10.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614271664761.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614271664761",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272050358",
+      "product_name": "Y",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/205/0358/front_fr.7.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614272050358.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:Yves Saint-Laurent"
+        ]
+      },
+      "product": {
+        "name": "Y",
+        "source_names": {
+          "openbeautyfacts": "Y"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/205/0358/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/205/0358/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/205/0358/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/205/0358/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614272050358.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272050358",
+        "ean13": "3614272050358",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272050358",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272050358"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272050358",
+        "qr_payload_text": "https://id.gs1.org/01/03614272050358",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272050358",
+          "code": "3614272050358",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Y",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/205/0358/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614272050358.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272050358",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272547964",
+      "product_name": "Y live",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_en.9.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614272547964.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Y live",
+        "source_names": {
+          "openbeautyfacts": "Y live"
+        },
+        "alternate_names": [],
+        "quantity": "60 ml",
+        "categories": [
+          "Perfumes",
+          "Eau De Toilette"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_en.9.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_fr.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_fr.4.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614272547964.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272547964",
+        "ean13": "3614272547964",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272547964",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272547964"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272547964",
+        "qr_payload_text": "https://id.gs1.org/01/03614272547964",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272547964",
+          "code": "3614272547964",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Y live",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/254/7964/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614272547964.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272547964",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614272648418",
+      "product_name": "YSL Libre - Eau de Parfum Rechargeable 50ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/264/8418/front_nl.12.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614272648418.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "YSL Libre - Eau de Parfum Rechargeable 50ml",
+        "source_names": {
+          "openbeautyfacts": "YSL Libre - Eau de Parfum Rechargeable 50ml"
+        },
+        "alternate_names": [
+          "Libre 50 ml"
+        ],
+        "quantity": "50",
+        "categories": [
+          "Perfumes",
+          "Beauty",
+          "Damesparfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/264/8418/front_nl.12.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/264/8418/front_nl.12.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/264/8418/front_nl.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/264/8418/front_nl.12.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614272648418.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614272648418",
+        "ean13": "3614272648418",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614272648418",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614272648418"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614272648418",
+        "qr_payload_text": "https://id.gs1.org/01/03614272648418",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614272648418",
+          "code": "3614272648418",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "YSL Libre - Eau de Parfum Rechargeable 50ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/264/8418/front_nl.12.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614272648418.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614272648418",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03614274473643",
+      "product_name": "Yves Saint Laurent - Myself - Parfum - Recharge",
+      "image_url": "https://images.openbeautyfacts.org/images/products/361/427/447/3643/front_fr.7.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/03614274473643.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "Yves Saint Laurent - Myself - Parfum - Recharge",
+        "source_names": {
+          "openbeautyfacts": "Yves Saint Laurent - Myself - Parfum - Recharge"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/361/427/447/3643/front_fr.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/361/427/447/3643/front_fr.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/361/427/447/3643/front_fr.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/361/427/447/3643/front_fr.7.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/03614274473643.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "03614274473643",
+        "ean13": "3614274473643",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3614274473643",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3614274473643"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03614274473643",
+        "qr_payload_text": "https://id.gs1.org/01/03614274473643",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03614274473643",
+          "code": "3614274473643",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent - Myself - Parfum - Recharge",
+          "image_url": "https://images.openbeautyfacts.org/images/products/361/427/447/3643/front_fr.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03614274473643.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3614274473643",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "03660732049509",
+      "product_name": "make-up icons kit",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:yves-saint-laurent"
+        ]
+      },
+      "product": {
+        "name": "make-up icons kit",
+        "source_names": {
+          "openbeautyfacts": "make-up icons kit"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "03660732049509",
+        "ean13": "3660732049509",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "3660732049509",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "3660732049509"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/03660732049509",
+        "qr_payload_text": "https://id.gs1.org/01/03660732049509",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "03660732049509",
+          "code": "3660732049509",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "make-up icons kit",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/03660732049509.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/3660732049509",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08711263318956",
+      "product_name": "L HOMME",
+      "image_url": "https://images.openbeautyfacts.org/images/products/871/126/331/8956/front_en.5.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/08711263318956.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "xx:ysl"
+        ]
+      },
+      "product": {
+        "name": "L HOMME",
+        "source_names": {
+          "openbeautyfacts": "L HOMME"
+        },
+        "alternate_names": [],
+        "quantity": "1",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/871/126/331/8956/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/871/126/331/8956/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/871/126/331/8956/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/871/126/331/8956/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/08711263318956.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08711263318956",
+        "ean13": "8711263318956",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8711263318956",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8711263318956"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08711263318956",
+        "qr_payload_text": "https://id.gs1.org/01/08711263318956",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08711263318956",
+          "code": "8711263318956",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "L HOMME",
+          "image_url": "https://images.openbeautyfacts.org/images/products/871/126/331/8956/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/08711263318956.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8711263318956",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08720847713421",
+      "product_name": "Yves Saint Laurent Y For Men Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3421/front_nl.3.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/08720847713421.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "yves saint laurent"
+        ]
+      },
+      "product": {
+        "name": "Yves Saint Laurent Y For Men Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Yves Saint Laurent Y For Men Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Beauty",
+          "Herenparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3421/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3421/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/084/771/3421/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/084/771/3421/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/08720847713421.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08720847713421",
+        "ean13": "8720847713421",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8720847713421",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8720847713421"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08720847713421",
+        "qr_payload_text": "https://id.gs1.org/01/08720847713421",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08720847713421",
+          "code": "8720847713421",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Y For Men Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/084/771/3421/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/08720847713421.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8720847713421",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "08721321370864",
+      "product_name": "Yves Saint Laurent Opium Eau de Toilette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/0864/front_nl.3.400.jpg",
+      "local_image_path": "images/yves-saint-laurent/08721321370864.jpg",
+      "brand": {
+        "slug": "yves-saint-laurent",
+        "display_name": "Yves Saint Laurent",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Yves%20Saint%20Laurent",
+        "matched_raw_brands": [
+          "yves saint laurent"
+        ]
+      },
+      "product": {
+        "name": "Yves Saint Laurent Opium Eau de Toilette",
+        "source_names": {
+          "openbeautyfacts": "Yves Saint Laurent Opium Eau de Toilette"
+        },
+        "alternate_names": [],
+        "quantity": "90ml",
+        "categories": [
+          "Beauty",
+          "Damesparfum",
+          "Parfum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/0864/front_nl.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/872/132/137/0864/front_nl.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/872/132/137/0864/front_nl.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/872/132/137/0864/front_nl.3.200.jpg"
+        ],
+        "local_image_path": "images/yves-saint-laurent/08721321370864.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "08721321370864",
+        "ean13": "8721321370864",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8721321370864",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8721321370864"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08721321370864",
+        "qr_payload_text": "https://id.gs1.org/01/08721321370864",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08721321370864",
+          "code": "8721321370864",
+          "type": "EAN-13",
+          "brand": "Yves Saint Laurent",
+          "name": "Yves Saint Laurent Opium Eau de Toilette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/872/132/137/0864/front_nl.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/yves-saint-laurent/08721321370864.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8721321370864",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

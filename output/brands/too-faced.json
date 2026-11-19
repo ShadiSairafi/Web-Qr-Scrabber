@@ -1,0 +1,732 @@
+{
+  "brand_slug": "too-faced",
+  "display_name": "Too Faced",
+  "letter_section": "T",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+  "product_count": 9,
+  "canonical_product_count": 9,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00011436910702",
+      "product_name": "Too Faced Cosmetics Brightening Blush 0.23 oz.",
+      "image_url": "http://www.perfume-worldwide.com/products/Cosmetic/11436910702large.jpg",
+      "local_image_path": null,
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "Too Faced Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Too Faced Cosmetics Brightening Blush 0.23 oz.",
+        "source_names": {
+          "upcitemdb": "Too Faced Cosmetics Brightening Blush 0.23 oz."
+        },
+        "alternate_names": [
+          "Mocha Mi Amore Blush by Too Faced for Women - 0.23 oz Blush",
+          "Too Faced - Blush - Mocha Mi Amore 6.69g/0.23oz",
+          "Too Faced Blush Mocha Mi Amore 6 69g 0 23oz"
+        ],
+        "quantity": "0.850",
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "Mocha Mi Amore Blush",
+        "primary_image_url": "http://www.perfume-worldwide.com/products/Cosmetic/11436910702large.jpg",
+        "thumbnail_url": "http://www.perfume-worldwide.com/products/Cosmetic/11436910702large.jpg",
+        "image_urls": [
+          "http://www.perfume-worldwide.com/products/Cosmetic/11436910702large.jpg",
+          "https://d29pz51ispcyrv.cloudfront.net/images/I/RAnSqv5E8SWyvpdAgVqznE.MD256.jpg",
+          "https://i20.onbuy.com/product/1cd3693d28c24fdaaa83e3ada60eace6-l14217868.jpg"
+        ],
+        "local_image_path": null,
+        "image_status": "remote_only"
+      },
+      "barcode": {
+        "gtin14": "00011436910702",
+        "ean13": "0011436910702",
+        "upc_a": "011436910702",
+        "ean8": null,
+        "primary_code": "011436910702",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0011436910702",
+          "011436910702"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00011436910702",
+        "qr_payload_text": "https://id.gs1.org/01/00011436910702",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00011436910702",
+          "code": "011436910702",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Too Faced Cosmetics Brightening Blush 0.23 oz.",
+          "image_url": "http://www.perfume-worldwide.com/products/Cosmetic/11436910702large.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00011436910702.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0011436910702",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00651986007479",
+      "product_name": "Too Faced Shadow Insurance 24 Hour Environmental Defense Primer",
+      "image_url": "https://i5.walmartimages.com/asr/831e778f-f044-44a1-924a-8a0c51076365.5edfa5532685c7db29e52c3f2dba01d3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/too-faced/00651986007479.jpg",
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "Too Faced"
+        ]
+      },
+      "product": {
+        "name": "Too Faced Shadow Insurance 24 Hour Environmental Defense Primer",
+        "source_names": {
+          "upcitemdb": "Too Faced Shadow Insurance 24 Hour Environmental Defense Primer"
+        },
+        "alternate_names": [],
+        "quantity": "6 mL / 0.20 Fl Oz",
+        "categories": [],
+        "description": "Too Faced Shadow Insurance 24 Hour Environmental Defense Primer 6 mL / 0.20 Fl Oz.Too Faced Shadow Insurance 24 Hour Environmental Defense Primer",
+        "primary_image_url": "https://i5.walmartimages.com/asr/831e778f-f044-44a1-924a-8a0c51076365.5edfa5532685c7db29e52c3f2dba01d3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/831e778f-f044-44a1-924a-8a0c51076365.5edfa5532685c7db29e52c3f2dba01d3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/831e778f-f044-44a1-924a-8a0c51076365.5edfa5532685c7db29e52c3f2dba01d3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/too-faced/00651986007479.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00651986007479",
+        "ean13": "0651986007479",
+        "upc_a": "651986007479",
+        "ean8": null,
+        "primary_code": "651986007479",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0651986007479",
+          "651986007479"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00651986007479",
+        "qr_payload_text": "https://id.gs1.org/01/00651986007479",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00651986007479",
+          "code": "651986007479",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Too Faced Shadow Insurance 24 Hour Environmental Defense Primer",
+          "image_url": "https://i5.walmartimages.com/asr/831e778f-f044-44a1-924a-8a0c51076365.5edfa5532685c7db29e52c3f2dba01d3.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00651986007479.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0651986007479",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00651986101207",
+      "product_name": "Too Faced Metallic Sparkle Lipstick Hot Flash 0.1oz/3ml New In Box",
+      "image_url": "https://images.openbeautyfacts.org/images/products/065/198/610/1207/front_fr.3.400.jpg",
+      "local_image_path": "images/too-faced/00651986101207.jpg",
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "xx:too-faced",
+          "Too Faced"
+        ]
+      },
+      "product": {
+        "name": "Too Faced Metallic Sparkle Lipstick Hot Flash 0.1oz/3ml New In Box",
+        "source_names": {
+          "openbeautyfacts": "Metallic Sparkle Lipstick",
+          "upcitemdb": "Too Faced Metallic Sparkle Lipstick Hot Flash 0.1oz/3ml New In Box"
+        },
+        "alternate_names": [
+          "Metallic Sparkle Lipstick",
+          "Too Faced Throw Back Lipstick - Cheers to 20 Years Collection"
+        ],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Lip Makeup"
+        ],
+        "description": "A sparkle lipstick in 10 throwback shades inspired by Too Faced?s originals.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/065/198/610/1207/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/065/198/610/1207/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/065/198/610/1207/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/198/610/1207/front_fr.3.200.jpg",
+          "https://i5.walmartimages.com/asr/39edf1fd-1254-4fce-a71a-a4b69eefd89d_2.cc682a6791561fa62c5468f681af439f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://s7d9.scene7.com/is/image/JCPenney/DP0830201820385730C?wid=800&hei=800&op_sharpen=1",
+          "https://tshop.r10s.com/b8d/dbc/9e6c/913f/108f/07c9/d070/1110ea93870242ac110004.JPG?_ex=512x512"
+        ],
+        "local_image_path": "images/too-faced/00651986101207.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00651986101207",
+        "ean13": "0651986101207",
+        "upc_a": "651986101207",
+        "ean8": null,
+        "primary_code": "651986101207",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0651986101207",
+          "651986101207"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00651986101207",
+        "qr_payload_text": "https://id.gs1.org/01/00651986101207",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00651986101207",
+          "code": "651986101207",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Too Faced Metallic Sparkle Lipstick Hot Flash 0.1oz/3ml New In Box",
+          "image_url": "https://images.openbeautyfacts.org/images/products/065/198/610/1207/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00651986101207.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 100.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0651986101207",
+        "upcitemdb_ean": "0651986101207",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00651986701308",
+      "product_name": "Born this way",
+      "image_url": "https://images.openbeautyfacts.org/images/products/065/198/670/1308/front_en.13.400.jpg",
+      "local_image_path": "images/too-faced/00651986701308.jpg",
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "xx:too-faced-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Born this way",
+        "source_names": {
+          "openbeautyfacts": "Born this way"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/065/198/670/1308/front_en.13.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/065/198/670/1308/front_en.13.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/065/198/670/1308/front_en.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/198/670/1308/front_en.13.200.jpg"
+        ],
+        "local_image_path": "images/too-faced/00651986701308.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00651986701308",
+        "ean13": "0651986701308",
+        "upc_a": "651986701308",
+        "ean8": null,
+        "primary_code": "651986701308",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0651986701308"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00651986701308",
+        "qr_payload_text": "https://id.gs1.org/01/00651986701308",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00651986701308",
+          "code": "651986701308",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Born this way",
+          "image_url": "https://images.openbeautyfacts.org/images/products/065/198/670/1308/front_en.13.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00651986701308.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0651986701308",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00651986703753",
+      "product_name": "Too Faced Peach Perfect Comfort Matte Foundation Chai 1.6oz/48ml New With Box",
+      "image_url": "https://i5.walmartimages.com/asr/5cb0f56b-57f1-4c83-898d-a3bcec6d3cac.eb2c3ffa9dcc441e08d9045d67abbe42.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/too-faced/00651986703753.jpg",
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "Too Faced"
+        ]
+      },
+      "product": {
+        "name": "Too Faced Peach Perfect Comfort Matte Foundation Chai 1.6oz/48ml New With Box",
+        "source_names": {
+          "upcitemdb": "Too Faced Peach Perfect Comfort Matte Foundation Chai 1.6oz/48ml New With Box"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Makeup",
+          "Face Makeup"
+        ],
+        "description": "Too Faced Peach Perfect Comfort Matte Foundation Chai 1.6oz/48ml New With Box",
+        "primary_image_url": "https://i5.walmartimages.com/asr/5cb0f56b-57f1-4c83-898d-a3bcec6d3cac.eb2c3ffa9dcc441e08d9045d67abbe42.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/5cb0f56b-57f1-4c83-898d-a3bcec6d3cac.eb2c3ffa9dcc441e08d9045d67abbe42.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/5cb0f56b-57f1-4c83-898d-a3bcec6d3cac.eb2c3ffa9dcc441e08d9045d67abbe42.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/too-faced/00651986703753.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00651986703753",
+        "ean13": "0651986703753",
+        "upc_a": "651986703753",
+        "ean8": null,
+        "primary_code": "651986703753",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0651986703753",
+          "651986703753"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00651986703753",
+        "qr_payload_text": "https://id.gs1.org/01/00651986703753",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00651986703753",
+          "code": "651986703753",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Too Faced Peach Perfect Comfort Matte Foundation Chai 1.6oz/48ml New With Box",
+          "image_url": "https://i5.walmartimages.com/asr/5cb0f56b-57f1-4c83-898d-a3bcec6d3cac.eb2c3ffa9dcc441e08d9045d67abbe42.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00651986703753.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0651986703753",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00651986704897",
+      "product_name": "Hangover Wash The Day Away Gentle Foaming Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/065/198/670/4897/front_en.3.400.jpg",
+      "local_image_path": "images/too-faced/00651986704897.jpg",
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "xx:too-faced"
+        ]
+      },
+      "product": {
+        "name": "Hangover Wash The Day Away Gentle Foaming Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Hangover Wash The Day Away Gentle Foaming Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/065/198/670/4897/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/065/198/670/4897/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/065/198/670/4897/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/198/670/4897/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/too-faced/00651986704897.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00651986704897",
+        "ean13": "0651986704897",
+        "upc_a": "651986704897",
+        "ean8": null,
+        "primary_code": "651986704897",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0651986704897"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00651986704897",
+        "qr_payload_text": "https://id.gs1.org/01/00651986704897",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00651986704897",
+          "code": "651986704897",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Hangover Wash The Day Away Gentle Foaming Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/065/198/670/4897/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00651986704897.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0651986704897",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00651986800216",
+      "product_name": "Better Than Sex Mascara",
+      "image_url": "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_en.21.400.jpg",
+      "local_image_path": "images/too-faced/00651986800216.jpg",
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "xx:too-faced-cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Better Than Sex Mascara",
+        "source_names": {
+          "openbeautyfacts": "Better Than Sex Mascara"
+        },
+        "alternate_names": [],
+        "quantity": "8 ml, 0.27 fl oz",
+        "categories": [
+          "Makeup",
+          "Eyes Makeup",
+          "Mascara"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_en.21.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_en.21.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_en.21.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_en.21.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_de.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_de.4.200.jpg"
+        ],
+        "local_image_path": "images/too-faced/00651986800216.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00651986800216",
+        "ean13": "0651986800216",
+        "upc_a": "651986800216",
+        "ean8": null,
+        "primary_code": "651986800216",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0651986800216"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00651986800216",
+        "qr_payload_text": "https://id.gs1.org/01/00651986800216",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00651986800216",
+          "code": "651986800216",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Better Than Sex Mascara",
+          "image_url": "https://images.openbeautyfacts.org/images/products/065/198/680/0216/front_en.21.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00651986800216.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0651986800216",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00651986972074",
+      "product_name": "Lip Injection Extrême",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "xx:too-faced"
+        ]
+      },
+      "product": {
+        "name": "Lip Injection Extrême",
+        "source_names": {
+          "openbeautyfacts": "Lip Injection Extrême"
+        },
+        "alternate_names": [],
+        "quantity": "1.5g",
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00651986972074",
+        "ean13": "0651986972074",
+        "upc_a": "651986972074",
+        "ean8": null,
+        "primary_code": "651986972074",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0651986972074"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00651986972074",
+        "qr_payload_text": "https://id.gs1.org/01/00651986972074",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00651986972074",
+          "code": "651986972074",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Lip Injection Extrême",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00651986972074.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0651986972074",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00723649517653",
+      "product_name": "Too Faced Moon Crush Out of This World Highlighter Shooting Star",
+      "image_url": "https://i5.walmartimages.com/asr/66120db2-600e-4252-9550-15a3413549cb.a255b7fa9bf839fb41365f4363f76162.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "local_image_path": "images/too-faced/00723649517653.jpg",
+      "brand": {
+        "slug": "too-faced",
+        "display_name": "Too Faced",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Too%20Faced",
+        "matched_raw_brands": [
+          "Too Faced"
+        ]
+      },
+      "product": {
+        "name": "Too Faced Moon Crush Out of This World Highlighter Shooting Star",
+        "source_names": {
+          "upcitemdb": "Too Faced Moon Crush Out of This World Highlighter Shooting Star"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": "Too Faced presents the Moon Crush Out of This World Highlighter a stunning addition to their makeup line that will take your glow to new celestial heights. This innovative powder formula effortlessly enhances your features with a radiant and luminous shimmer creating a breathtaking moonlit luminescence that is truly out of this world. The Moon Crush Highlighter is designed to be user-friendly allowing for quick and seamless application. Its finely milled texture glides on smoothly and evenly ensuring a flawless finish every time. The pigmented formula can be built up for a subtle glow or intensified for a more dramatic ethereal effect giving you the versatility to create an otherworldly radiance that suits any occasion. But the magic does not end there ? Too Faced has infused this enchanting highlighter with the delightful scent of fresh crisp apples. As you glide the Moon Crush Highlighter onto your skin a subtle irresistible aroma will envelop your senses enhancing your makeup experience and lea",
+        "primary_image_url": "https://i5.walmartimages.com/asr/66120db2-600e-4252-9550-15a3413549cb.a255b7fa9bf839fb41365f4363f76162.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/66120db2-600e-4252-9550-15a3413549cb.a255b7fa9bf839fb41365f4363f76162.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/66120db2-600e-4252-9550-15a3413549cb.a255b7fa9bf839fb41365f4363f76162.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/too-faced/00723649517653.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00723649517653",
+        "ean13": "0723649517653",
+        "upc_a": "723649517653",
+        "ean8": null,
+        "primary_code": "723649517653",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0723649517653",
+          "723649517653"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00723649517653",
+        "qr_payload_text": "https://id.gs1.org/01/00723649517653",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00723649517653",
+          "code": "723649517653",
+          "type": "UPC-A",
+          "brand": "Too Faced",
+          "name": "Too Faced Moon Crush Out of This World Highlighter Shooting Star",
+          "image_url": "https://i5.walmartimages.com/asr/66120db2-600e-4252-9550-15a3413549cb.a255b7fa9bf839fb41365f4363f76162.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/too-faced/00723649517653.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0723649517653",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

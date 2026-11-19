@@ -1,0 +1,1020 @@
+{
+  "brand_slug": "amika",
+  "display_name": "Amika",
+  "letter_section": "A",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+  "product_count": 13,
+  "canonical_product_count": 13,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00810905039742",
+      "product_name": "Amika Hair Care Products (Hair Care:1.01 oz Un.Done Volume & Matte Texture Spray;)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/090/503/9742/front_en.4.400.jpg",
+      "local_image_path": "images/amika/00810905039742.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika",
+          "Amika"
+        ]
+      },
+      "product": {
+        "name": "Amika Hair Care Products (Hair Care:1.01 oz Un.Done Volume & Matte Texture Spray;)",
+        "source_names": {
+          "openbeautyfacts": "Un.Done Volume and Matte Texture Spray",
+          "upcitemdb": "Amika Hair Care Products (Hair Care:1.01 oz Un.Done Volume & Matte Texture Spray;)"
+        },
+        "alternate_names": [
+          "Un.Done Volume and Matte Texture Spray"
+        ],
+        "quantity": "27 mL (21 g)",
+        "categories": [
+          "Hair",
+          "Coiffants",
+          "Hair Sprays",
+          "Health & Beauty",
+          "Personal Care",
+          "Hair Care",
+          "Hair Styling Products"
+        ],
+        "description": "Amika un.done volume and matte texture spray 27ml *TRAVEL SIZE *",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/090/503/9742/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/090/503/9742/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/090/503/9742/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/090/503/9742/front_en.4.200.jpg",
+          "https://i5.walmartimages.com/asr/fdd9a045-f897-4ebc-8791-b0f28e7d18db.b454b9bf6907a46fcc867c76d1db86f2.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/amika/00810905039742.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810905039742",
+        "ean13": "0810905039742",
+        "upc_a": "810905039742",
+        "ean8": null,
+        "primary_code": "810905039742",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810905039742",
+          "810905039742"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810905039742",
+        "qr_payload_text": "https://id.gs1.org/01/00810905039742",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810905039742",
+          "code": "810905039742",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Amika Hair Care Products (Hair Care:1.01 oz Un.Done Volume & Matte Texture Spray;)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/090/503/9742/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00810905039742.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 84.85
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810905039742",
+        "upcitemdb_ean": "0810905039742",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00815151020520",
+      "product_name": "Masque Triple R",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/515/102/0520/front_fr.3.400.jpg",
+      "local_image_path": "images/amika/00815151020520.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Masque Triple R",
+        "source_names": {
+          "openbeautyfacts": "Masque Triple R"
+        },
+        "alternate_names": [],
+        "quantity": "250ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/515/102/0520/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/515/102/0520/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/515/102/0520/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/515/102/0520/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00815151020520.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00815151020520",
+        "ean13": "0815151020520",
+        "upc_a": "815151020520",
+        "ean8": null,
+        "primary_code": "815151020520",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0815151020520"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00815151020520",
+        "qr_payload_text": "https://id.gs1.org/01/00815151020520",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00815151020520",
+          "code": "815151020520",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Masque Triple R",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/515/102/0520/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00815151020520.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0815151020520",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00815151024573",
+      "product_name": "Amika Bust Your Brass Cool Blonde Conditioner Sea Buckthorn Berry (Obliphica)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/515/102/4573/front_en.3.400.jpg",
+      "local_image_path": "images/amika/00815151024573.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Amika Bust Your Brass Cool Blonde Conditioner Sea Buckthorn Berry (Obliphica)",
+        "source_names": {
+          "openbeautyfacts": "Amika Bust Your Brass Cool Blonde Conditioner Sea Buckthorn Berry (Obliphica)"
+        },
+        "alternate_names": [],
+        "quantity": "300 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/515/102/4573/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/515/102/4573/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/515/102/4573/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/515/102/4573/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00815151024573.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00815151024573",
+        "ean13": "0815151024573",
+        "upc_a": "815151024573",
+        "ean8": null,
+        "primary_code": "815151024573",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0815151024573"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00815151024573",
+        "qr_payload_text": "https://id.gs1.org/01/00815151024573",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00815151024573",
+          "code": "815151024573",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Amika Bust Your Brass Cool Blonde Conditioner Sea Buckthorn Berry (Obliphica)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/515/102/4573/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00815151024573.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0815151024573",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00817574011598",
+      "product_name": "Oil treatment",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/1598/front_es.3.400.jpg",
+      "local_image_path": "images/amika/00817574011598.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Oil treatment",
+        "source_names": {
+          "openbeautyfacts": "Oil treatment"
+        },
+        "alternate_names": [],
+        "quantity": "10 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/1598/front_es.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/757/401/1598/front_es.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/757/401/1598/front_es.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/757/401/1598/front_es.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00817574011598.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817574011598",
+        "ean13": "0817574011598",
+        "upc_a": "817574011598",
+        "ean8": null,
+        "primary_code": "817574011598",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0817574011598"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817574011598",
+        "qr_payload_text": "https://id.gs1.org/01/00817574011598",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817574011598",
+          "code": "817574011598",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Oil treatment",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/1598/front_es.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00817574011598.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0817574011598",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00817574015831",
+      "product_name": "Amika Triple Rx Shampoo Sea Buckthorn Berry (Obliphica)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/5831/front_en.3.400.jpg",
+      "local_image_path": "images/amika/00817574015831.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Amika Triple Rx Shampoo Sea Buckthorn Berry (Obliphica)",
+        "source_names": {
+          "openbeautyfacts": "Amika Triple Rx Shampoo Sea Buckthorn Berry (Obliphica)"
+        },
+        "alternate_names": [],
+        "quantity": "300 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/5831/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/757/401/5831/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/757/401/5831/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/757/401/5831/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00817574015831.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817574015831",
+        "ean13": "0817574015831",
+        "upc_a": "817574015831",
+        "ean8": null,
+        "primary_code": "817574015831",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0817574015831"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817574015831",
+        "qr_payload_text": "https://id.gs1.org/01/00817574015831",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817574015831",
+          "code": "817574015831",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Amika Triple Rx Shampoo Sea Buckthorn Berry (Obliphica)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/5831/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00817574015831.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0817574015831",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00817574018801",
+      "product_name": "Amika Triple Rx Conditioner Sea Buckthorn Berry (Obliphica)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/8801/front_en.5.400.jpg",
+      "local_image_path": "images/amika/00817574018801.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Amika Triple Rx Conditioner Sea Buckthorn Berry (Obliphica)",
+        "source_names": {
+          "openbeautyfacts": "Amika Triple Rx Conditioner Sea Buckthorn Berry (Obliphica)"
+        },
+        "alternate_names": [],
+        "quantity": "250 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/8801/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/757/401/8801/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/757/401/8801/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/757/401/8801/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/amika/00817574018801.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00817574018801",
+        "ean13": "0817574018801",
+        "upc_a": "817574018801",
+        "ean8": null,
+        "primary_code": "817574018801",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0817574018801"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00817574018801",
+        "qr_payload_text": "https://id.gs1.org/01/00817574018801",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00817574018801",
+          "code": "817574018801",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Amika Triple Rx Conditioner Sea Buckthorn Berry (Obliphica)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/757/401/8801/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00817574018801.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0817574018801",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840117807334",
+      "product_name": "Hydro Rush Intense Moisture Shampoo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7334/front_en.3.400.jpg",
+      "local_image_path": "images/amika/00840117807334.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Hydro Rush Intense Moisture Shampoo",
+        "source_names": {
+          "openbeautyfacts": "Hydro Rush Intense Moisture Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7334/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7334/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/011/780/7334/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/011/780/7334/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00840117807334.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840117807334",
+        "ean13": "0840117807334",
+        "upc_a": "840117807334",
+        "ean8": null,
+        "primary_code": "840117807334",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840117807334"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840117807334",
+        "qr_payload_text": "https://id.gs1.org/01/00840117807334",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840117807334",
+          "code": "840117807334",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Hydro Rush Intense Moisture Shampoo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7334/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00840117807334.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840117807334",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840117807426",
+      "product_name": "the wizard Silicone-Free Detangling Primer",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7426/front_en.3.400.jpg",
+      "local_image_path": "images/amika/00840117807426.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:Amika"
+        ]
+      },
+      "product": {
+        "name": "the wizard Silicone-Free Detangling Primer",
+        "source_names": {
+          "openbeautyfacts": "the wizard Silicone-Free Detangling Primer"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7426/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7426/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/011/780/7426/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/011/780/7426/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00840117807426.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840117807426",
+        "ean13": "0840117807426",
+        "upc_a": "840117807426",
+        "ean8": null,
+        "primary_code": "840117807426",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840117807426"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840117807426",
+        "qr_payload_text": "https://id.gs1.org/01/00840117807426",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840117807426",
+          "code": "840117807426",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "the wizard Silicone-Free Detangling Primer",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/011/780/7426/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00840117807426.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840117807426",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840117812086",
+      "product_name": "big hit Volumizing Conditioner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/2086/front_en.3.400.jpg",
+      "local_image_path": "images/amika/00840117812086.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:Amika"
+        ]
+      },
+      "product": {
+        "name": "big hit Volumizing Conditioner",
+        "source_names": {
+          "openbeautyfacts": "big hit Volumizing Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/2086/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/011/781/2086/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/011/781/2086/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/011/781/2086/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00840117812086.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840117812086",
+        "ean13": "0840117812086",
+        "upc_a": "840117812086",
+        "ean8": null,
+        "primary_code": "840117812086",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840117812086"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840117812086",
+        "qr_payload_text": "https://id.gs1.org/01/00840117812086",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840117812086",
+          "code": "840117812086",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "big hit Volumizing Conditioner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/2086/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00840117812086.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840117812086",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840117813373",
+      "product_name": "Superfruit Star",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/3373/front_en.3.400.jpg",
+      "local_image_path": "images/amika/00840117813373.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Superfruit Star",
+        "source_names": {
+          "openbeautyfacts": "Superfruit Star"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair Styling Oil"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/3373/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/011/781/3373/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/011/781/3373/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/011/781/3373/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00840117813373.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840117813373",
+        "ean13": "0840117813373",
+        "upc_a": "840117813373",
+        "ean8": null,
+        "primary_code": "840117813373",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840117813373"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840117813373",
+        "qr_payload_text": "https://id.gs1.org/01/00840117813373",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840117813373",
+          "code": "840117813373",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Superfruit Star",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/3373/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00840117813373.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840117813373",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00840117815063",
+      "product_name": "Perk Up Dry Shampoo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/5063/front_en.3.400.jpg",
+      "local_image_path": "images/amika/00840117815063.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:Amika"
+        ]
+      },
+      "product": {
+        "name": "Perk Up Dry Shampoo",
+        "source_names": {
+          "openbeautyfacts": "Perk Up Dry Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/5063/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/011/781/5063/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/011/781/5063/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/011/781/5063/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/amika/00840117815063.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00840117815063",
+        "ean13": "0840117815063",
+        "upc_a": "840117815063",
+        "ean8": null,
+        "primary_code": "840117815063",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0840117815063"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00840117815063",
+        "qr_payload_text": "https://id.gs1.org/01/00840117815063",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00840117815063",
+          "code": "840117815063",
+          "type": "UPC-A",
+          "brand": "Amika",
+          "name": "Perk Up Dry Shampoo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/011/781/5063/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/00840117815063.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0840117815063",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05283157084559",
+      "product_name": "Amika Bust Your Brass Cool Blonde Shampoo Sea Buckthorn Berry (Obliphica)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/528/315/708/4559/front_en.4.400.jpg",
+      "local_image_path": "images/amika/05283157084559.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Amika Bust Your Brass Cool Blonde Shampoo Sea Buckthorn Berry (Obliphica)",
+        "source_names": {
+          "openbeautyfacts": "Amika Bust Your Brass Cool Blonde Shampoo Sea Buckthorn Berry (Obliphica)"
+        },
+        "alternate_names": [],
+        "quantity": "300 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/528/315/708/4559/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/528/315/708/4559/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/528/315/708/4559/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/528/315/708/4559/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/amika/05283157084559.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "05283157084559",
+        "ean13": "5283157084559",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5283157084559",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5283157084559"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05283157084559",
+        "qr_payload_text": "https://id.gs1.org/01/05283157084559",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05283157084559",
+          "code": "5283157084559",
+          "type": "EAN-13",
+          "brand": "Amika",
+          "name": "Amika Bust Your Brass Cool Blonde Shampoo Sea Buckthorn Berry (Obliphica)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/528/315/708/4559/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/05283157084559.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5283157084559",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "07114610313580",
+      "product_name": "Sea Buckthorn Berry Nourishing Mask",
+      "image_url": "https://images.openbeautyfacts.org/images/products/711/461/031/3580/front_en.5.400.jpg",
+      "local_image_path": "images/amika/07114610313580.jpg",
+      "brand": {
+        "slug": "amika",
+        "display_name": "Amika",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Amika",
+        "matched_raw_brands": [
+          "xx:amika"
+        ]
+      },
+      "product": {
+        "name": "Sea Buckthorn Berry Nourishing Mask",
+        "source_names": {
+          "openbeautyfacts": "Sea Buckthorn Berry Nourishing Mask"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/711/461/031/3580/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/711/461/031/3580/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/711/461/031/3580/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/711/461/031/3580/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/amika/07114610313580.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "07114610313580",
+        "ean13": "7114610313580",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "7114610313580",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "7114610313580"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/07114610313580",
+        "qr_payload_text": "https://id.gs1.org/01/07114610313580",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "07114610313580",
+          "code": "7114610313580",
+          "type": "EAN-13",
+          "brand": "Amika",
+          "name": "Sea Buckthorn Berry Nourishing Mask",
+          "image_url": "https://images.openbeautyfacts.org/images/products/711/461/031/3580/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/amika/07114610313580.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/7114610313580",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

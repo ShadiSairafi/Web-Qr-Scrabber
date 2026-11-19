@@ -1,0 +1,98 @@
+{
+  "brand_slug": "grande-cosmetics",
+  "display_name": "Grande Cosmetics",
+  "letter_section": "G",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Grande%20Cosmetics",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00843246110153",
+      "product_name": "Grande Cosmetics GrandeMASCARA Conditioning Peptide Mascara",
+      "image_url": "https://images.openbeautyfacts.org/images/products/084/324/611/0153/front_en.3.400.jpg",
+      "local_image_path": "images/grande-cosmetics/00843246110153.jpg",
+      "brand": {
+        "slug": "grande-cosmetics",
+        "display_name": "Grande Cosmetics",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Grande%20Cosmetics",
+        "matched_raw_brands": [
+          "xx:Grande Cosmetics",
+          "Grande Cosmetics"
+        ]
+      },
+      "product": {
+        "name": "Grande Cosmetics GrandeMASCARA Conditioning Peptide Mascara",
+        "source_names": {
+          "openbeautyfacts": "GrandeMASCARA Conditioning Peptide Mascara Brown",
+          "upcitemdb": "Grande Cosmetics GrandeMASCARA Conditioning Peptide Mascara"
+        },
+        "alternate_names": [
+          "GrandeMASCARA Conditioning Peptide Mascara Brown"
+        ],
+        "quantity": null,
+        "categories": [],
+        "description": "Condition while you coat! This exclusive mascara not only provides extreme volume and length, but is infused with a lash-loving blend of peptides, panthenols, and natural waxes.",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/084/324/611/0153/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/084/324/611/0153/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/084/324/611/0153/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/084/324/611/0153/front_en.3.200.jpg",
+          "https://www.beautybrands.com/on/demandware.static/-/Sites-bb-master/default/dw51944654/images/product/27000/27800/27885_NA_brown.jpg"
+        ],
+        "local_image_path": "images/grande-cosmetics/00843246110153.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00843246110153",
+        "ean13": "0843246110153",
+        "upc_a": "843246110153",
+        "ean8": null,
+        "primary_code": "843246110153",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0843246110153",
+          "843246110153"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00843246110153",
+        "qr_payload_text": "https://id.gs1.org/01/00843246110153",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00843246110153",
+          "code": "843246110153",
+          "type": "UPC-A",
+          "brand": "Grande Cosmetics",
+          "name": "Grande Cosmetics GrandeMASCARA Conditioning Peptide Mascara",
+          "image_url": "https://images.openbeautyfacts.org/images/products/084/324/611/0153/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/grande-cosmetics/00843246110153.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 93.33
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0843246110153",
+        "upcitemdb_ean": "0843246110153",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

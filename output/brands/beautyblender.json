@@ -1,0 +1,487 @@
+{
+  "brand_slug": "beautyblender",
+  "display_name": "beautyblender",
+  "letter_section": "B",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=beautyblender",
+  "product_count": 5,
+  "canonical_product_count": 5,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00019962002717",
+      "product_name": "beautyblender blotterazzi",
+      "image_url": "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC022-beautyblender-blotterazzi-blotting-sponges-and-compact.jpg",
+      "local_image_path": "images/beautyblender/00019962002717.jpg",
+      "brand": {
+        "slug": "beautyblender",
+        "display_name": "beautyblender",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=beautyblender",
+        "matched_raw_brands": [
+          "beautyblender"
+        ]
+      },
+      "product": {
+        "name": "beautyblender blotterazzi",
+        "source_names": {
+          "upcitemdb": "beautyblender blotterazzi"
+        },
+        "alternate_names": [
+          "Beautyblender blotterazzi, 1 ea",
+          "Beautyblender Blotterazzi Blotting Sponges and Compact 2 ct",
+          "beautyblender 'blotterazzi' Blotting Sponge",
+          "Beautyblender Blotterazzi Compact Mirror-NO COLOUR-One Size"
+        ],
+        "quantity": "Blotterazzi",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Cosmetic Tools",
+          "Makeup Tools",
+          "Makeup Sponges"
+        ],
+        "description": "blotterazzi by beautyblender",
+        "primary_image_url": "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC022-beautyblender-blotterazzi-blotting-sponges-and-compact.jpg",
+        "thumbnail_url": "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC022-beautyblender-blotterazzi-blotting-sponges-and-compact.jpg",
+        "image_urls": [
+          "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC022-beautyblender-blotterazzi-blotting-sponges-and-compact.jpg",
+          "http://content.nordstrom.com/imagegallery/store/product/large/15/_10960555.jpg",
+          "https://i5.walmartimages.com/asr/f74b9f7e-6493-4cb7-bfc1-dd1a82313af3_1.782f91040c33cf60917186c27dadff93.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://img1.r10.io/PIC/95759450/0/1/250/95759450.jpg",
+          "http://s7d2.scene7.com/is/image/Drugstore/558980?wid=300&hei=300&op_sharpen=1",
+          "http://s7d9.scene7.com/is/image/TheBay/019962002717_main?$PDPLARGE$",
+          "http://www.parfumery.com/pictures/large/019962002717.JPG",
+          "https://jetimages.jetcdn.net/md5/faa0c8a90ce22b252def19e52e8f3d5d.500"
+        ],
+        "local_image_path": "images/beautyblender/00019962002717.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00019962002717",
+        "ean13": "0019962002717",
+        "upc_a": "019962002717",
+        "ean8": null,
+        "primary_code": "019962002717",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0019962002717",
+          "019962002717"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00019962002717",
+        "qr_payload_text": "https://id.gs1.org/01/00019962002717",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00019962002717",
+          "code": "019962002717",
+          "type": "UPC-A",
+          "brand": "beautyblender",
+          "name": "beautyblender blotterazzi",
+          "image_url": "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC022-beautyblender-blotterazzi-blotting-sponges-and-compact.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/beautyblender/00019962002717.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0019962002717",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00689076300292",
+      "product_name": "BeautyBlender The Ultimate Makeup Sponge Applicator 1 Sponge",
+      "image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2504623114?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeulmaupspap.jpg&d=96288ebffcf738442f711e75e0fe82badc614b92",
+      "local_image_path": "images/beautyblender/00689076300292.jpg",
+      "brand": {
+        "slug": "beautyblender",
+        "display_name": "beautyblender",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=beautyblender",
+        "matched_raw_brands": [
+          "BeautyBlender"
+        ]
+      },
+      "product": {
+        "name": "BeautyBlender The Ultimate Makeup Sponge Applicator 1 Sponge",
+        "source_names": {
+          "upcitemdb": "BeautyBlender The Ultimate Makeup Sponge Applicator 1 Sponge"
+        },
+        "alternate_names": [
+          "beautyblender original PRO single",
+          "Beautyblender The Ultimate Make Up Sponge Applicator",
+          "BEAUTYBLENDER The Original Single Beautyblender Sponge - PURPLE",
+          "Beautyblender",
+          "Beauty Blender The Original Beauty Blender Single (N/A) Treatment Cosmetics"
+        ],
+        "quantity": "1 Pack",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Cosmetic Tools",
+          "Makeup Tools",
+          "Makeup Sponges"
+        ],
+        "description": "BeautyBlender The Ultimate Makeup Sponge Applicator 1 Sponge",
+        "primary_image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2504623114?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeulmaupspap.jpg&d=96288ebffcf738442f711e75e0fe82badc614b92",
+        "thumbnail_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2504623114?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeulmaupspap.jpg&d=96288ebffcf738442f711e75e0fe82badc614b92",
+        "image_urls": [
+          "http://c.shld.net/rpx/i/s/pi/mp/28847/2504623114?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeulmaupspap.jpg&d=96288ebffcf738442f711e75e0fe82badc614b92",
+          "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC001-beautyblender.jpg",
+          "http://www.6pm.com/images/z/2/1/1/6/6/5/2116658-p-MULTIVIEW.jpg",
+          "http://content.nordstrom.com/imagegallery/store/product/large/17/_9286817.jpg",
+          "https://i5.walmartimages.com/asr/0536a89a-4db2-4d31-a846-30976a04206b_1.bd9201528a21783601b2d396b64dfb7a.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://images10.newegg.com/ProductImageCompressAll200/A3VT_1_20140107402116809.jpg",
+          "http://s7d9.scene7.com/is/image/TheBay/689076300292_main?$PDPLARGE$",
+          "http://www.parfumery.com/pictures/large/689076300292.jpg",
+          "http://static.beautybridge.com/beulmaupspap.jpg",
+          "http://s7d2.scene7.com/is/image/Drugstore/166475?wid=300&hei=300&op_sharpen=1"
+        ],
+        "local_image_path": "images/beautyblender/00689076300292.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00689076300292",
+        "ean13": "0689076300292",
+        "upc_a": "689076300292",
+        "ean8": null,
+        "primary_code": "689076300292",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0689076300292",
+          "689076300292"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00689076300292",
+        "qr_payload_text": "https://id.gs1.org/01/00689076300292",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00689076300292",
+          "code": "689076300292",
+          "type": "UPC-A",
+          "brand": "beautyblender",
+          "name": "BeautyBlender The Ultimate Makeup Sponge Applicator 1 Sponge",
+          "image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2504623114?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeulmaupspap.jpg&d=96288ebffcf738442f711e75e0fe82badc614b92"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/beautyblender/00689076300292.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0689076300292",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00718122705214",
+      "product_name": "Beautyblender - Double Blender Sponge & Cleanser Kit",
+      "image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2492063814?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeseofloblsp.jpg&d=278c45d71477ad7aac73097b8fcfecd68ac6d398",
+      "local_image_path": "images/beautyblender/00718122705214.jpg",
+      "brand": {
+        "slug": "beautyblender",
+        "display_name": "beautyblender",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=beautyblender",
+        "matched_raw_brands": [
+          "BeautyBlender"
+        ]
+      },
+      "product": {
+        "name": "Beautyblender - Double Blender Sponge & Cleanser Kit",
+        "source_names": {
+          "upcitemdb": "Beautyblender - Double Blender Sponge & Cleanser Kit"
+        },
+        "alternate_names": [
+          "beautyblender original double + cleanser kit",
+          "Beautyblender Double Blender Sponge & Cleanser Kit",
+          "BEAUTYBLENDER The Original Double Beautyblender Sponge And Blendercleanser Kit - NO COLOUR",
+          "Beautyblender Duo with Cleanser",
+          "Beauty Blender The Original Beauty Blender Double + Cleanser Kit (N/A) Treatment Cosmetics"
+        ],
+        "quantity": "Brand New Products from Authori",
+        "categories": [
+          "Health & Beauty",
+          "Personal Care",
+          "Cosmetics",
+          "Skin Care",
+          "Makeup Removers"
+        ],
+        "description": "<b>Modernize the way you make up</b><p>Kit Includes: </p><p><b>Beautyblender Make Up Sponge Applicator</b> (2 each)<br><br><b>Beautyblender Blendercleanser</b> (5 fl oz/150 ml) </p><p> The Ultimate Make Up Sponge Cleanser - You wouldn't eat dinner without first washing your hands, so don't use your Beautyblender repeatedly without first cleaning it. Hygiene is a must when it comes to keeping your skin fresh and healthy. Oil and dirt from your face will stay on your applicators if you don't take a moment to...",
+        "primary_image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2492063814?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeseofloblsp.jpg&d=278c45d71477ad7aac73097b8fcfecd68ac6d398",
+        "thumbnail_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2492063814?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeseofloblsp.jpg&d=278c45d71477ad7aac73097b8fcfecd68ac6d398",
+        "image_urls": [
+          "http://c.shld.net/rpx/i/s/pi/mp/28847/2492063814?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeseofloblsp.jpg&d=278c45d71477ad7aac73097b8fcfecd68ac6d398",
+          "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC003-beautyblender-duo-with-cleanser.jpg",
+          "http://www.6pm.com/images/z/2/1/1/6/6/5/2116659-p-MULTIVIEW.jpg",
+          "http://images10.newegg.com/ProductImageCompressAll200/A3VT_1_20140107402100645.jpg",
+          "http://s7d9.scene7.com/is/image/TheBay/718122705214_main?$PDPLARGE$",
+          "http://www.parfumery.com/pictures/large/718122705214.jpg",
+          "http://static.beautybridge.com/beseofloblsp.jpg",
+          "http://img1.r10.io/PIC/54742692/0/1/250/54742692.jpg"
+        ],
+        "local_image_path": "images/beautyblender/00718122705214.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00718122705214",
+        "ean13": "0718122705214",
+        "upc_a": "718122705214",
+        "ean8": null,
+        "primary_code": "718122705214",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0718122705214",
+          "718122705214"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00718122705214",
+        "qr_payload_text": "https://id.gs1.org/01/00718122705214",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00718122705214",
+          "code": "718122705214",
+          "type": "UPC-A",
+          "brand": "beautyblender",
+          "name": "Beautyblender - Double Blender Sponge & Cleanser Kit",
+          "image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/2492063814?src=http%3A%2F%2Fstatic.cosmethings.com%2Fbeseofloblsp.jpg&d=278c45d71477ad7aac73097b8fcfecd68ac6d398"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/beautyblender/00718122705214.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0718122705214",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00748252930323",
+      "product_name": "beautyblender &reg; micro. mini",
+      "image_url": "http://content.nordstrom.com/imagegallery/store/product/large/9/_10819009.jpg",
+      "local_image_path": "images/beautyblender/00748252930323.jpg",
+      "brand": {
+        "slug": "beautyblender",
+        "display_name": "beautyblender",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=beautyblender",
+        "matched_raw_brands": [
+          "beautyblender"
+        ]
+      },
+      "product": {
+        "name": "beautyblender &reg; micro. mini",
+        "source_names": {
+          "upcitemdb": "beautyblender &reg; micro. mini"
+        },
+        "alternate_names": [
+          "Beautyblender Beautyblender Micro.Mini",
+          "beautyblender 'micro. mini' Makeup Sponge Applicator (2-Pack) One Size",
+          "Beautyblender - Beautyblender Micro. mini",
+          "Beautyblender Micro. Mini, 1 ea",
+          "Beautyblender Micro Mini Duo"
+        ],
+        "quantity": "Brand New Products from Authori",
+        "categories": [
+          "Luggage & Bags",
+          "Cosmetic & Toiletry Bags"
+        ],
+        "description": "Ensures impeccable, streak-free application with minimum product waste. Features an open cell structure that fills with small amounts of water when wet. Handcrafted in the USA. A great item for every fancy, beauty-loving girl you knowEasy to use: simply wet. squeeze. bounceA duo of mini sponge applicators that double in size once wet? making them easy to contour, highlightPrecisely apply makeup onto the smallest parts of the face",
+        "primary_image_url": "http://content.nordstrom.com/imagegallery/store/product/large/9/_10819009.jpg",
+        "thumbnail_url": "http://content.nordstrom.com/imagegallery/store/product/large/9/_10819009.jpg",
+        "image_urls": [
+          "http://content.nordstrom.com/imagegallery/store/product/large/9/_10819009.jpg",
+          "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC015-beautyblender-micro-mini-duo.jpg",
+          "http://c.shld.net/rpx/i/s/pi/mp/28847/4997023221?src=http%3A%2F%2Fstatic.cosmethings.com%2Febay%2Fbebemi.jpg&d=e22a0bc6f97abfae7e778625ad23809851186d46",
+          "https://i5.walmartimages.com/asr/3ebf07f7-c91d-48f0-8a48-f2f90843e59e_1.3e6f15709d98e16f13a5ec80c7e52bfb.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "http://images10.newegg.com/ProductImageCompressAll200/A3VT_1_2014093042195407.jpg",
+          "http://static.beautybridge.com/bebemi.jpg",
+          "http://s7d2.scene7.com/is/image/Drugstore/527020?wid=300&hei=300&op_sharpen=1",
+          "http://www.parfumery.com/pictures/large/748252930323.jpg",
+          "http://img1.r10.io/PIC/85436683/0/1/250/85436683.jpg",
+          "http://s7d9.scene7.com/is/image/TheBay/748252930323_main?$PDPLARGE$"
+        ],
+        "local_image_path": "images/beautyblender/00748252930323.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00748252930323",
+        "ean13": "0748252930323",
+        "upc_a": "748252930323",
+        "ean8": null,
+        "primary_code": "748252930323",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0748252930323",
+          "748252930323"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00748252930323",
+        "qr_payload_text": "https://id.gs1.org/01/00748252930323",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00748252930323",
+          "code": "748252930323",
+          "type": "UPC-A",
+          "brand": "beautyblender",
+          "name": "beautyblender &reg; micro. mini",
+          "image_url": "http://content.nordstrom.com/imagegallery/store/product/large/9/_10819009.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/beautyblender/00748252930323.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0748252930323",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00748252930620",
+      "product_name": "beautyblender Makeup Sponge Set (Limited Edition) One Size",
+      "image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/4997023521?src=http%3A%2F%2Fstatic.cosmethings.com%2Febay%2Fbeorbesomi.jpg&d=3aaedac31bd041c422f01f191a3e1d169519ca73",
+      "local_image_path": "images/beautyblender/00748252930620.jpg",
+      "brand": {
+        "slug": "beautyblender",
+        "display_name": "beautyblender",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=beautyblender",
+        "matched_raw_brands": [
+          "beautyblender"
+        ]
+      },
+      "product": {
+        "name": "beautyblender Makeup Sponge Set (Limited Edition) One Size",
+        "source_names": {
+          "upcitemdb": "beautyblender Makeup Sponge Set (Limited Edition) One Size"
+        },
+        "alternate_names": [
+          "Beautyblender The Original Beautyblender - Solid Mini",
+          "Beautyblender - The Original Beautyblender + Solid Mini",
+          "Beautyblender show. girl beautyblender + blendercleanser solid, 1 ea",
+          "Beauty Blender Beautyblender w/ Mini Solid (N/A) Treatment Cosmetics",
+          "Beautyblender with Mini Blendercleanser Solid"
+        ],
+        "quantity": null,
+        "categories": [
+          "Apparel & Accessories"
+        ],
+        "description": "NORDSTROM.com",
+        "primary_image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/4997023521?src=http%3A%2F%2Fstatic.cosmethings.com%2Febay%2Fbeorbesomi.jpg&d=3aaedac31bd041c422f01f191a3e1d169519ca73",
+        "thumbnail_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/4997023521?src=http%3A%2F%2Fstatic.cosmethings.com%2Febay%2Fbeorbesomi.jpg&d=3aaedac31bd041c422f01f191a3e1d169519ca73",
+        "image_urls": [
+          "http://c.shld.net/rpx/i/s/pi/mp/28847/4997023521?src=http%3A%2F%2Fstatic.cosmethings.com%2Febay%2Fbeorbesomi.jpg&d=3aaedac31bd041c422f01f191a3e1d169519ca73",
+          "http://www.6pm.com/images/z/2/8/6/0/7/4/2860744-p-MULTIVIEW.jpg",
+          "http://content.nordstrom.com/imagegallery/store/product/large/17/_9636497.jpg",
+          "http://skincare-img.skinstore.com/resources/dynamic/store/products/YC017-beautyblender-with-mini-blendercleanser-solid.jpg",
+          "http://images10.newegg.com/ProductImageCompressAll200/A3VT_1_2014093042195417.jpg",
+          "http://static.beautybridge.com/beorbesomi.jpg",
+          "http://s7d2.scene7.com/is/image/Drugstore/531755?wid=300&hei=300&op_sharpen=1",
+          "http://img1.r10.io/PIC/79053542/0/1/250/79053542.jpg"
+        ],
+        "local_image_path": "images/beautyblender/00748252930620.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00748252930620",
+        "ean13": "0748252930620",
+        "upc_a": "748252930620",
+        "ean8": null,
+        "primary_code": "748252930620",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0748252930620",
+          "748252930620"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00748252930620",
+        "qr_payload_text": "https://id.gs1.org/01/00748252930620",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00748252930620",
+          "code": "748252930620",
+          "type": "UPC-A",
+          "brand": "beautyblender",
+          "name": "beautyblender Makeup Sponge Set (Limited Edition) One Size",
+          "image_url": "http://c.shld.net/rpx/i/s/pi/mp/28847/4997023521?src=http%3A%2F%2Fstatic.cosmethings.com%2Febay%2Fbeorbesomi.jpg&d=3aaedac31bd041c422f01f191a3e1d169519ca73"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/beautyblender/00748252930620.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0748252930620",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,744 @@
+{
+  "brand_slug": "sol-de-janeiro",
+  "display_name": "Sol de Janeiro",
+  "letter_section": "S",
+  "is_most_loved": true,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+  "product_count": 9,
+  "canonical_product_count": 9,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00500912036543",
+      "product_name": "Brume et crème sol de Janeiro 62",
+      "image_url": "https://images.openbeautyfacts.org/images/products/050/091/203/6543/front_fr.3.400.jpg",
+      "local_image_path": "images/sol-de-janeiro/00500912036543.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "xx:sol-de-janeiro"
+        ]
+      },
+      "product": {
+        "name": "Brume et crème sol de Janeiro 62",
+        "source_names": {
+          "openbeautyfacts": "Brume et crème sol de Janeiro 62"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Perfumes",
+          "Women Perfumes"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/050/091/203/6543/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/050/091/203/6543/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/050/091/203/6543/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/050/091/203/6543/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00500912036543.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00500912036543",
+        "ean13": "0500912036543",
+        "upc_a": "500912036543",
+        "ean8": null,
+        "primary_code": "500912036543",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0500912036543"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00500912036543",
+        "qr_payload_text": "https://id.gs1.org/01/00500912036543",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00500912036543",
+          "code": "500912036543",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Brume et crème sol de Janeiro 62",
+          "image_url": "https://images.openbeautyfacts.org/images/products/050/091/203/6543/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00500912036543.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0500912036543",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00767194347938",
+      "product_name": "Sol de Janeiro Brazilian Bum Bum Cream 2.5 oz",
+      "image_url": "https://i5.walmartimages.com/asr/2fe08c28-601b-4e85-bfc1-94e935663f1e.136b9f76c4bc6e465f4390ad35a8d569.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+      "local_image_path": "images/sol-de-janeiro/00767194347938.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "Sol De Janeiro"
+        ]
+      },
+      "product": {
+        "name": "Sol de Janeiro Brazilian Bum Bum Cream 2.5 oz",
+        "source_names": {
+          "upcitemdb": "Sol de Janeiro Brazilian Bum Bum Cream 2.5 oz"
+        },
+        "alternate_names": [],
+        "quantity": "75ml/2.5oz",
+        "categories": [],
+        "description": "The Sol de Janeiro Brazilian Bum Bum Cream is a fast-absorbing body moisturizer enriched with nourishing ingredients and a signature tropical scent. Known for its smoothing and firming properties this cream leaves skin soft hydrated and subtly fragrant. The 2.5 oz size is perfect for on-the-go use or travel.",
+        "primary_image_url": "https://i5.walmartimages.com/asr/2fe08c28-601b-4e85-bfc1-94e935663f1e.136b9f76c4bc6e465f4390ad35a8d569.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/2fe08c28-601b-4e85-bfc1-94e935663f1e.136b9f76c4bc6e465f4390ad35a8d569.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/2fe08c28-601b-4e85-bfc1-94e935663f1e.136b9f76c4bc6e465f4390ad35a8d569.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00767194347938.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00767194347938",
+        "ean13": "0767194347938",
+        "upc_a": "767194347938",
+        "ean8": null,
+        "primary_code": "767194347938",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0767194347938",
+          "767194347938"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00767194347938",
+        "qr_payload_text": "https://id.gs1.org/01/00767194347938",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00767194347938",
+          "code": "767194347938",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Sol de Janeiro Brazilian Bum Bum Cream 2.5 oz",
+          "image_url": "https://i5.walmartimages.com/asr/2fe08c28-601b-4e85-bfc1-94e935663f1e.136b9f76c4bc6e465f4390ad35a8d569.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00767194347938.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0767194347938",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810912031555",
+      "product_name": "Sol de Janeiro Brazilian Crush Cheirosa 40 Hair & Body Mist 3 oz",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/fd994e024e2c9d7772b8bf926714ffd6bf7a0498?wid=800&hei=800&op_sharpen=1&ver=18",
+      "local_image_path": "images/sol-de-janeiro/00810912031555.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "Sol De Janeiro"
+        ]
+      },
+      "product": {
+        "name": "Sol de Janeiro Brazilian Crush Cheirosa 40 Hair & Body Mist 3 oz",
+        "source_names": {
+          "upcitemdb": "Sol de Janeiro Brazilian Crush Cheirosa 40 Hair & Body Mist 3 oz"
+        },
+        "alternate_names": [
+          "Brazilian Crush Cheirosa 40, 3 Oz Hair And Body Mist",
+          "Sol de Janeiro Cheirosa 40 Hair & Body Perfume Mist, Size: 3.04 FL Oz, None",
+          "11941 Brazilian Crush Cheirosa 40 Perfume Mist 90 ml./ 3.0 oz. New",
+          "Sol De Janeiro Brazilian Crush Cheirosa 40 By Sol De Janeiro Hair & Body Perfume Spray 3 Oz 3 Oz",
+          "Sol De Janeiro Brazilian Crush Cheirosa 40 Perfume 90 ml Hair & Body Perfume Spray for Women"
+        ],
+        "quantity": "5.26lb",
+        "categories": [],
+        "description": "Indulge in the exotic ambiance of a Brazilian beach without ever leaving the comfort of your home with Sol de Janeiro s Brazilian Crush Cheirosa 40 Hair & Body Mist. This delicate and sultry mist adds an extra layer of elegance to your beauty routine feeling like silk on your skin and boasting the alluring scent of dark fruits and a hint of woods. The top notes include Black Amber plum and Creme de Cassis; the mid notes are Jasmine and Brazilian Orchid; and at the base you will find Vanilla Woods and warm Musk. You can spritz yourself from head to toe with this luxurious mist anytime and anywhere. Don t be surprised if you start receiving compliments! Experience for yourself the mystique of South America with Brazilian Crush Cheirosa 40 Hair & Body Mist from Sol de Janeiro perfect for those who seek an air of elegance wherever they go.",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/fd994e024e2c9d7772b8bf926714ffd6bf7a0498?wid=800&hei=800&op_sharpen=1&ver=18",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/fd994e024e2c9d7772b8bf926714ffd6bf7a0498?wid=800&hei=800&op_sharpen=1&ver=18",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/fd994e024e2c9d7772b8bf926714ffd6bf7a0498?wid=800&hei=800&op_sharpen=1&ver=18",
+          "https://i5.walmartimages.com/asr/ff297ee6-e284-4e29-b468-37cc0672c9b7.62dddb45362385730f8e7ce785c6483a.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+          "https://img.fragrancex.com/images/products/sku/large/SOLS7K.jpg",
+          "https://static.storeautomator.com/c/JP4JNQ/media/07e09ecc-42d1-4177-b36c-dedcad962e30.jpeg?v=638772997234875509",
+          "http://site.unbeatablesale.com/TXSNT1167.JPG",
+          "https://i5.walmartimages.ca/asr/d173f50c-6226-4c0c-9574-6141a8624e62.c61a1b8af5e47363c56293ee8bece0f1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00810912031555.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810912031555",
+        "ean13": "0810912031555",
+        "upc_a": "810912031555",
+        "ean8": null,
+        "primary_code": "810912031555",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810912031555",
+          "810912031555"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810912031555",
+        "qr_payload_text": "https://id.gs1.org/01/00810912031555",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810912031555",
+          "code": "810912031555",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Sol de Janeiro Brazilian Crush Cheirosa 40 Hair & Body Mist 3 oz",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/fd994e024e2c9d7772b8bf926714ffd6bf7a0498?wid=800&hei=800&op_sharpen=1&ver=18"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00810912031555.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0810912031555",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810912032019",
+      "product_name": "Sol de Janeiro Brazilian Bum Bum Cream 8.1 oz",
+      "image_url": "https://s.cdnsbn.com/images/products/30362749303.jpg",
+      "local_image_path": "images/sol-de-janeiro/00810912032019.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "Sol De Janeiro"
+        ]
+      },
+      "product": {
+        "name": "Sol de Janeiro Brazilian Bum Bum Cream 8.1 oz",
+        "source_names": {
+          "upcitemdb": "Sol de Janeiro Brazilian Bum Bum Cream 8.1 oz"
+        },
+        "alternate_names": [
+          "Brazilian Bum Bum Cream By Sol De Janeiro, 8 Oz Body Cream",
+          "Sol de Janeiro Mini Brazilian Bum Bum Visibly Firming Refillable Body Cream with Caffeine-Rich Guarana, 8.1 Oz",
+          "솔데자네이루바디 브라질 범범 크림 240ml/8oz",
+          "303627 240 ml Body Brazilian Bum Bum Cream",
+          "Brazilian Bum Bum Cream By Sol De Janeiro For Unisex - 8 Oz Cream 8.1 Oz"
+        ],
+        "quantity": "5.12lb",
+        "categories": [
+          "Health & Beauty"
+        ],
+        "description": "From your bum to your arms you can defy the ages and embrace youthful radiant skin. Add Sol de Janeiro Brazilian Bum Bum Cream to your skincare routine. This dynamic eight-ounce body cream lotion effectively firms your skin while enhancing its glow so you look good from head to toe. Formulated with some of nature s miracles this body cream deserves bragging rights. Crafted with Guarana Extract a high-caffeine product your skin receives a boost of caffeine sure to increase circulation and smoothness. Coconut oil moisturizes and softens helping your skin feel good and reap better elasticity. Sol de Janeiro Brazilian Bum Bum Cream is a perk your legs deserve.",
+        "primary_image_url": "https://s.cdnsbn.com/images/products/30362749303.jpg",
+        "thumbnail_url": "https://s.cdnsbn.com/images/products/30362749303.jpg",
+        "image_urls": [
+          "https://s.cdnsbn.com/images/products/30362749303.jpg",
+          "https://i5.walmartimages.com/asr/bcec3a7d-e762-461d-887c-4a5e2710dfc2.e1350273661c074ec7a76e1cc505ee5f.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://media.kohlsimg.com/is/image/kohls/5077814_81_Oz?wid=800&hei=800&op_sharpen=1&ver=5",
+          "http://site.unbeatablesale.com/STRBN131465.JPG",
+          "https://static.storeautomator.com/c/JP4JNQ/media/a712329f-a1a2-46bb-ab9f-8f3960410bfe.jpeg?v=638772997225441566",
+          "https://i5.walmartimages.ca/asr/64a49aa1-ea1c-4e06-a190-c9646422e830.e0ff0ec543582a70fecb593fa8e29f32.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://img.grouponcdn.com/stores/3JXdz5GktefbCDQaNoZG2GGxhRVz/storespi29262489-2500x1500/v1/t460x279.jpg?p=1"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00810912032019.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810912032019",
+        "ean13": "0810912032019",
+        "upc_a": "810912032019",
+        "ean8": null,
+        "primary_code": "810912032019",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810912032019",
+          "810912032019"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810912032019",
+        "qr_payload_text": "https://id.gs1.org/01/00810912032019",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810912032019",
+          "code": "810912032019",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Sol de Janeiro Brazilian Bum Bum Cream 8.1 oz",
+          "image_url": "https://s.cdnsbn.com/images/products/30362749303.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00810912032019.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0810912032019",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810912032200",
+      "product_name": "Sol de Janeiro Beija Flor Elasti-Cream 8 oz",
+      "image_url": "https://media.kohlsimg.com/is/image/kohls/bfbb2f5d6102ef0f56ea9ad8378e55c8ddabb4bb?wid=800&hei=800&op_sharpen=1&ver=10",
+      "local_image_path": "images/sol-de-janeiro/00810912032200.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "Sol De Janeiro"
+        ]
+      },
+      "product": {
+        "name": "Sol de Janeiro Beija Flor Elasti-Cream 8 oz",
+        "source_names": {
+          "upcitemdb": "Sol de Janeiro Beija Flor Elasti-Cream 8 oz"
+        },
+        "alternate_names": [
+          "Beija Flor Elasti-Cream By Sol De Janeiro, 8 Oz Body Cream For Women",
+          "Sol de Janeiro Beija Flor Body Collagen-Boosting Elasti-Cream with Polypeptides and Bio-Retinol, Size: 8.1 FL Oz, None",
+          "솔데자네이루바디 베이자 플로라 엘라스티 크림 240ml/8oz"
+        ],
+        "quantity": "0.83 oz",
+        "categories": [],
+        "description": "Introducing the Sol de Janeiro Beija Flor Elasti-Cream the ultimate solution for achieving the bouncy youthful skin you ve always dreamed of. This elasticity-boosting collagen-rich body cream is here to revolutionize your skincare routine and deliver visibly plumper deeply replenished skin that will leave you feeling absolutely radiant. One of the key benefits of our Beija Flor Elasti-Cream is its use of cacay oil a gentle retinol alternative and plant collagen. This dynamic duo works together to provide intense hydration improve skin resilience and leave your skin feeling velvety-soft to the touch. Say goodbye to dryness dullness and lackluster skin and say hello to a whole new level of radiance! But it s not just the amazing formulation that sets our Beija Flor Elasti-Cream apart. We ve also carefully selected the iconic and best-loved Cheirosa 62 fragrance to scent this luxurious body cream. Prepare to be enveloped in a sensory journey as you experience the irresistible blend of fruity and flo",
+        "primary_image_url": "https://media.kohlsimg.com/is/image/kohls/bfbb2f5d6102ef0f56ea9ad8378e55c8ddabb4bb?wid=800&hei=800&op_sharpen=1&ver=10",
+        "thumbnail_url": "https://media.kohlsimg.com/is/image/kohls/bfbb2f5d6102ef0f56ea9ad8378e55c8ddabb4bb?wid=800&hei=800&op_sharpen=1&ver=10",
+        "image_urls": [
+          "https://media.kohlsimg.com/is/image/kohls/bfbb2f5d6102ef0f56ea9ad8378e55c8ddabb4bb?wid=800&hei=800&op_sharpen=1&ver=10",
+          "https://s.cdnsbn.com/images/products/30363049303.jpg",
+          "https://i5.walmartimages.com/asr/1d94de53-61cc-49e3-8e8b-1e7f2361df19.9a4866bb2920c27ee38b5429bc42a1e6.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://static.storeautomator.com/c/JP4JNQ/media/856c9b8e-ef78-4524-896f-b2c1814f03f7.jpeg?v=638772996773934400"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00810912032200.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810912032200",
+        "ean13": "0810912032200",
+        "upc_a": "810912032200",
+        "ean8": null,
+        "primary_code": "810912032200",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810912032200",
+          "810912032200"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810912032200",
+        "qr_payload_text": "https://id.gs1.org/01/00810912032200",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810912032200",
+          "code": "810912032200",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Sol de Janeiro Beija Flor Elasti-Cream 8 oz",
+          "image_url": "https://media.kohlsimg.com/is/image/kohls/bfbb2f5d6102ef0f56ea9ad8378e55c8ddabb4bb?wid=800&hei=800&op_sharpen=1&ver=10"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00810912032200.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0810912032200",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810912032675",
+      "product_name": "Sol de Janeiro Bom Dia Body Scrub 8 oz",
+      "image_url": "https://i5.walmartimages.com/asr/d15c1b44-3295-456c-9f39-551e4dd54cb1.8ceb1c266d7df5ffabd32baa99a1e297.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+      "local_image_path": "images/sol-de-janeiro/00810912032675.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "Sol De Janeiro"
+        ]
+      },
+      "product": {
+        "name": "Sol de Janeiro Bom Dia Body Scrub 8 oz",
+        "source_names": {
+          "upcitemdb": "Sol de Janeiro Bom Dia Body Scrub 8 oz"
+        },
+        "alternate_names": [
+          "Bom Dia Body Scrub By Sol De Janeiro, 7.8 Oz Body",
+          "Sol de Janeiro Bom Dia Body Scrub 10% AHA BHA Resurfacing Complex + Crushed Maracuja Seeds, Multicolor",
+          "303636 220 g Bom Dia Body Scrub",
+          "Bom Dia Body Scrub By Sol De Janeiro For Unisex - 7.8 Oz Scrub 7.8 Oz",
+          "Sol De Janeiro Bom Dia Body Scrub 220g/7.8oz"
+        ],
+        "quantity": "5.12lb",
+        "categories": [],
+        "description": "For smooth radiant skin you ve got to try Sol de Janeiro s Bom Dia Body Scrub! This magical scrub instantly retexturizes helps avoid ingrown hairs and targets rough patches for the silky-smooth feel you desire. Not to mention its dreamy warm floral Cheirosa 40 fragrance with notes of Black Amber plum and vanilla woods will instantly put you in a sunny daytime mood! The secret behind our results-driven Bom Dia scrub is its 10% AHA BHA Resurfacing Complex that exfoliates away buildup while clarifying pores. Plus passionfruit seeds help gently slough away debris from even your most delicate areas. And how about the ease of use? All you have to do is massage it into skin for 60 seconds using circular motions and rinse clean - simple as that! For best results twice a week your skin will soon be glowing from head to toe after just a few scrubs. What more could you want from a body scrub? Try out Sol de Janiero s Bom Dia Body Scrub today and get ready to experience beautiful softer skin with an unforgettable",
+        "primary_image_url": "https://i5.walmartimages.com/asr/d15c1b44-3295-456c-9f39-551e4dd54cb1.8ceb1c266d7df5ffabd32baa99a1e297.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+        "thumbnail_url": "https://i5.walmartimages.com/asr/d15c1b44-3295-456c-9f39-551e4dd54cb1.8ceb1c266d7df5ffabd32baa99a1e297.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+        "image_urls": [
+          "https://i5.walmartimages.com/asr/d15c1b44-3295-456c-9f39-551e4dd54cb1.8ceb1c266d7df5ffabd32baa99a1e297.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://media.kohlsimg.com/is/image/kohls/5904176?wid=800&hei=800&op_sharpen=1",
+          "https://static.storeautomator.com/c/JP4JNQ/media/63d5636e-0b4b-4195-8a25-e3ab634c1bd2.jpeg?v=638772997245577953",
+          "http://site.unbeatablesale.com/STRBN131476.JPG",
+          "https://i5.walmartimages.ca/asr/61f95d0f-0826-4d0f-8967-19e415546674.c07fca0ef90ff0b5c58982441ee8b36a.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+          "https://cdn3.ykso.co/images/2023/07/04/10/64a430ec653060335348a40c-transformed.jpeg"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00810912032675.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810912032675",
+        "ean13": "0810912032675",
+        "upc_a": "810912032675",
+        "ean8": null,
+        "primary_code": "810912032675",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810912032675",
+          "810912032675"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810912032675",
+        "qr_payload_text": "https://id.gs1.org/01/00810912032675",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810912032675",
+          "code": "810912032675",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Sol de Janeiro Bom Dia Body Scrub 8 oz",
+          "image_url": "https://i5.walmartimages.com/asr/d15c1b44-3295-456c-9f39-551e4dd54cb1.8ceb1c266d7df5ffabd32baa99a1e297.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00810912032675.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.92,
+        "sources": [
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": "0810912032675",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810912033474",
+      "product_name": "Brazilian Play",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "xx:sol-de-janeiro"
+        ]
+      },
+      "product": {
+        "name": "Brazilian Play",
+        "source_names": {
+          "openbeautyfacts": "Brazilian Play"
+        },
+        "alternate_names": [],
+        "quantity": "90 ml",
+        "categories": [
+          "Duschgel"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00810912033474",
+        "ean13": "0810912033474",
+        "upc_a": "810912033474",
+        "ean8": null,
+        "primary_code": "810912033474",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810912033474"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810912033474",
+        "qr_payload_text": "https://id.gs1.org/01/00810912033474",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810912033474",
+          "code": "810912033474",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Brazilian Play",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00810912033474.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810912033474",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810912033610",
+      "product_name": "Cheirosa 87",
+      "image_url": "https://images.openbeautyfacts.org/images/products/081/091/203/3610/front_en.3.400.jpg",
+      "local_image_path": "images/sol-de-janeiro/00810912033610.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "xx:sol-de-janeiro"
+        ]
+      },
+      "product": {
+        "name": "Cheirosa 87",
+        "source_names": {
+          "openbeautyfacts": "Cheirosa 87"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/081/091/203/3610/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/081/091/203/3610/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/081/091/203/3610/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/081/091/203/3610/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00810912033610.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810912033610",
+        "ean13": "0810912033610",
+        "upc_a": "810912033610",
+        "ean8": null,
+        "primary_code": "810912033610",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810912033610"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810912033610",
+        "qr_payload_text": "https://id.gs1.org/01/00810912033610",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810912033610",
+          "code": "810912033610",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Cheirosa 87",
+          "image_url": "https://images.openbeautyfacts.org/images/products/081/091/203/3610/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00810912033610.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0810912033610",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00810912034068",
+      "product_name": "Rio deo",
+      "image_url": "https://images.openproductsfacts.org/images/products/081/091/203/4068/front_en.3.400.jpg",
+      "local_image_path": "images/sol-de-janeiro/00810912034068.jpg",
+      "brand": {
+        "slug": "sol-de-janeiro",
+        "display_name": "Sol de Janeiro",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Sol%20de%20Janeiro",
+        "matched_raw_brands": [
+          "xx:sol-de-janeiro"
+        ]
+      },
+      "product": {
+        "name": "Rio deo",
+        "source_names": {
+          "openproductsfacts": "Rio deo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openproductsfacts.org/images/products/081/091/203/4068/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openproductsfacts.org/images/products/081/091/203/4068/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openproductsfacts.org/images/products/081/091/203/4068/front_en.3.400.jpg",
+          "https://images.openproductsfacts.org/images/products/081/091/203/4068/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/sol-de-janeiro/00810912034068.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00810912034068",
+        "ean13": "0810912034068",
+        "upc_a": "810912034068",
+        "ean8": null,
+        "primary_code": "810912034068",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0810912034068"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00810912034068",
+        "qr_payload_text": "https://id.gs1.org/01/00810912034068",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00810912034068",
+          "code": "810912034068",
+          "type": "UPC-A",
+          "brand": "Sol de Janeiro",
+          "name": "Rio deo",
+          "image_url": "https://images.openproductsfacts.org/images/products/081/091/203/4068/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/sol-de-janeiro/00810912034068.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.9,
+        "sources": [
+          "openproductsfacts"
+        ],
+        "match_methods": {
+          "openproductsfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": null,
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z",
+        "openproductsfacts_url": "http://world-en.openproductsfacts.org/product/0810912034068/rio-deo-sol-de-janeiro"
+      }
+    }
+  ]
+}

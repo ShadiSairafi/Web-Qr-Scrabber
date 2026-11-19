@@ -1,0 +1,105 @@
+{
+  "brand_slug": "anastasia-beverly-hills",
+  "display_name": "Anastasia Beverly Hills",
+  "letter_section": "A",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Anastasia%20Beverly%20Hills",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 1,
+  "products": [
+    {
+      "gtin14": "00689304188890",
+      "product_name": "Anastasia Beverly Hills Nouveau Eye Shadow Palette - 0.6oz - Ulta Beauty",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/930/418/8890/front_fr.3.400.jpg",
+      "local_image_path": "images/anastasia-beverly-hills/00689304188890.jpg",
+      "brand": {
+        "slug": "anastasia-beverly-hills",
+        "display_name": "Anastasia Beverly Hills",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Anastasia%20Beverly%20Hills",
+        "matched_raw_brands": [
+          "xx:anastasia-beverly-hills",
+          "Anastasia Beverly Hills"
+        ]
+      },
+      "product": {
+        "name": "Anastasia Beverly Hills Nouveau Eye Shadow Palette - 0.6oz - Ulta Beauty",
+        "source_names": {
+          "openbeautyfacts": "Nouveau Eyeshadow Palette",
+          "upcitemdb": "Anastasia Beverly Hills Nouveau Eye Shadow Palette - 0.6oz - Ulta Beauty"
+        },
+        "alternate_names": [
+          "Nouveau Eyeshadow Palette",
+          "Anastasia Beverly Hills Nouveau Eyeshadow Palette at Nordstrom",
+          "Anastasia Beverly Hills Nouveau Palette",
+          "Anastasia Beverly Hills - Nouveau Palette"
+        ],
+        "quantity": null,
+        "categories": [],
+        "description": "Inspired by the rich hues and duo-chrome shades of summer dreams, Nouveau Palette's re-invented mattes and multidimensional metallics leave everything to your imagination. Think amped-up everyday neutrals, perfect pops of color and a fresh green color story that feels ethereal. It's sublime, it's all-in-one and it's designed to create all your day-to-night looks. Update your signature look, recreate the season's hottest trends, or achieve breathtaking effects wherever your face and body demand the summer spotlight. Shades included: WINGS - Metallic silver green with sparkling reflects ISLE - Metallic blonde gold BELLE - Metallic antique bronze * WISTERIA - Matte pastel lavender with sparkling reflects LILI - Metallic rose gold with multi-dimensional reflects HOPE - Metallic olive green with gold reflects * PALOMA - Matte creamy ivory with sparkling reflects FLEUR - Matte golden peach LIBERTY - Matte muted hunter green PEACOCK - Duo-chrome blueish-green brown with pink reflects * METRO - Matte rich clay MUSE",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/930/418/8890/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/930/418/8890/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/930/418/8890/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/930/418/8890/front_fr.3.200.jpg",
+          "https://target.scene7.com/is/image/Target/GUEST_6f22cdef-4264-418d-a0b1-91af41d740a9?wid=1000&hei=1000",
+          "https://n.nordstrommedia.com/id/sr3/a6feee84-f9e1-402c-ac8e-ad824f774395.jpeg?w=500",
+          "https://images.bloomingdalesassets.com/is/image/BLM/products/1/optimized/12332501_fpx.tif?wid=800&qlt=100,0&layer=comp&op_sharpen=0&resMode=bilin&op_usm=0.7,1.0,0.5,0&fmt=jpeg&4msn=.jpg",
+          "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/22250197_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+          "https://i5.walmartimages.com/asr/350239c6-e31c-4b20-a9df-9be0e0265bdb.e0ea2f830998e6fea6e85eb798223814.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+        ],
+        "local_image_path": "images/anastasia-beverly-hills/00689304188890.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00689304188890",
+        "ean13": "0689304188890",
+        "upc_a": "689304188890",
+        "ean8": null,
+        "primary_code": "689304188890",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0689304188890",
+          "689304188890"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00689304188890",
+        "qr_payload_text": "https://id.gs1.org/01/00689304188890",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00689304188890",
+          "code": "689304188890",
+          "type": "UPC-A",
+          "brand": "Anastasia Beverly Hills",
+          "name": "Anastasia Beverly Hills Nouveau Eye Shadow Palette - 0.6oz - Ulta Beauty",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/930/418/8890/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/anastasia-beverly-hills/00689304188890.svg"
+      },
+      "verification": {
+        "status": "verified_cross_source",
+        "confidence_score": 1.0,
+        "sources": [
+          "openbeautyfacts",
+          "upcitemdb"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf",
+          "upcitemdb": "exact_brand_field"
+        },
+        "cross_source_title_similarity": 75.0
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0689304188890",
+        "upcitemdb_ean": "0689304188890",
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

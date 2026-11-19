@@ -1,0 +1,87 @@
+{
+  "brand_slug": "champo",
+  "display_name": "CHĀMPO",
+  "letter_section": "C",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=CH%C4%80MPO",
+  "product_count": 1,
+  "canonical_product_count": 1,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "08008277192543",
+      "product_name": "champo",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "champo",
+        "display_name": "CHĀMPO",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=CH%C4%80MPO",
+        "matched_raw_brands": [
+          "champo"
+        ]
+      },
+      "product": {
+        "name": "champo",
+        "source_names": {
+          "openbeautyfacts": "champo"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "08008277192543",
+        "ean13": "8008277192543",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "8008277192543",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "8008277192543"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/08008277192543",
+        "qr_payload_text": "https://id.gs1.org/01/08008277192543",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "08008277192543",
+          "code": "8008277192543",
+          "type": "EAN-13",
+          "brand": "CHĀMPO",
+          "name": "champo",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/champo/08008277192543.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/8008277192543",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

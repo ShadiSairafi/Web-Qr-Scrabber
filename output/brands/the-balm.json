@@ -1,0 +1,503 @@
+{
+  "brand_slug": "the-balm",
+  "display_name": "The Balm",
+  "letter_section": "T",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Balm",
+  "product_count": 6,
+  "canonical_product_count": 6,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00681619820588",
+      "product_name": "theBalm Male Order Far Paleti Special Delivery",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0588/front_en.4.400.jpg",
+      "local_image_path": "images/the-balm/00681619820588.jpg",
+      "brand": {
+        "slug": "the-balm",
+        "display_name": "The Balm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Balm",
+        "matched_raw_brands": [
+          "xx:theBalm"
+        ]
+      },
+      "product": {
+        "name": "theBalm Male Order Far Paleti Special Delivery",
+        "source_names": {
+          "openbeautyfacts": "theBalm Male Order Far Paleti Special Delivery"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0588/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0588/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0588/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0588/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/the-balm/00681619820588.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00681619820588",
+        "ean13": "0681619820588",
+        "upc_a": "681619820588",
+        "ean8": null,
+        "primary_code": "681619820588",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0681619820588"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00681619820588",
+        "qr_payload_text": "https://id.gs1.org/01/00681619820588",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00681619820588",
+          "code": "681619820588",
+          "type": "UPC-A",
+          "brand": "The Balm",
+          "name": "theBalm Male Order Far Paleti Special Delivery",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0588/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-balm/00681619820588.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0681619820588",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00681619820885",
+      "product_name": "theBalm Lip Oil Dudak Yağı Berry Fast",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0885/front_en.4.400.jpg",
+      "local_image_path": "images/the-balm/00681619820885.jpg",
+      "brand": {
+        "slug": "the-balm",
+        "display_name": "The Balm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Balm",
+        "matched_raw_brands": [
+          "xx:theBalm"
+        ]
+      },
+      "product": {
+        "name": "theBalm Lip Oil Dudak Yağı Berry Fast",
+        "source_names": {
+          "openbeautyfacts": "theBalm Lip Oil Dudak Yağı Berry Fast"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Cosmetics",
+          "Lip Glosses",
+          "Lip Oils"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0885/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0885/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0885/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0885/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/the-balm/00681619820885.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00681619820885",
+        "ean13": "0681619820885",
+        "upc_a": "681619820885",
+        "ean8": null,
+        "primary_code": "681619820885",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0681619820885"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00681619820885",
+        "qr_payload_text": "https://id.gs1.org/01/00681619820885",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00681619820885",
+          "code": "681619820885",
+          "type": "UPC-A",
+          "brand": "The Balm",
+          "name": "theBalm Lip Oil Dudak Yağı Berry Fast",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0885/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-balm/00681619820885.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0681619820885",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00681619820915",
+      "product_name": "theBalm Lip Oil Dudak Yağı Little Red Corvette",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0915/front_en.4.400.jpg",
+      "local_image_path": "images/the-balm/00681619820915.jpg",
+      "brand": {
+        "slug": "the-balm",
+        "display_name": "The Balm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Balm",
+        "matched_raw_brands": [
+          "xx:theBalm"
+        ]
+      },
+      "product": {
+        "name": "theBalm Lip Oil Dudak Yağı Little Red Corvette",
+        "source_names": {
+          "openbeautyfacts": "theBalm Lip Oil Dudak Yağı Little Red Corvette"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Cosmetics",
+          "Lip Glosses",
+          "Lip Oils"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0915/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0915/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0915/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0915/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/the-balm/00681619820915.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00681619820915",
+        "ean13": "0681619820915",
+        "upc_a": "681619820915",
+        "ean8": null,
+        "primary_code": "681619820915",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0681619820915"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00681619820915",
+        "qr_payload_text": "https://id.gs1.org/01/00681619820915",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00681619820915",
+          "code": "681619820915",
+          "type": "UPC-A",
+          "brand": "The Balm",
+          "name": "theBalm Lip Oil Dudak Yağı Little Red Corvette",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0915/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-balm/00681619820915.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0681619820915",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00681619820922",
+      "product_name": "theBalm Lip Oil Dudak Yağı Too Slow, Mauve Over",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0922/front_en.4.400.jpg",
+      "local_image_path": "images/the-balm/00681619820922.jpg",
+      "brand": {
+        "slug": "the-balm",
+        "display_name": "The Balm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Balm",
+        "matched_raw_brands": [
+          "xx:theBalm"
+        ]
+      },
+      "product": {
+        "name": "theBalm Lip Oil Dudak Yağı Too Slow, Mauve Over",
+        "source_names": {
+          "openbeautyfacts": "theBalm Lip Oil Dudak Yağı Too Slow, Mauve Over"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Cosmetics",
+          "Lip Glosses",
+          "Lip Oils"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0922/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0922/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0922/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0922/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/the-balm/00681619820922.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00681619820922",
+        "ean13": "0681619820922",
+        "upc_a": "681619820922",
+        "ean8": null,
+        "primary_code": "681619820922",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0681619820922"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00681619820922",
+        "qr_payload_text": "https://id.gs1.org/01/00681619820922",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00681619820922",
+          "code": "681619820922",
+          "type": "UPC-A",
+          "brand": "The Balm",
+          "name": "theBalm Lip Oil Dudak Yağı Too Slow, Mauve Over",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0922/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-balm/00681619820922.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0681619820922",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00681619820939",
+      "product_name": "theBalm Lip Oil Dudak Yağı Take The High Rose",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0939/front_en.4.400.jpg",
+      "local_image_path": "images/the-balm/00681619820939.jpg",
+      "brand": {
+        "slug": "the-balm",
+        "display_name": "The Balm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Balm",
+        "matched_raw_brands": [
+          "xx:theBalm"
+        ]
+      },
+      "product": {
+        "name": "theBalm Lip Oil Dudak Yağı Take The High Rose",
+        "source_names": {
+          "openbeautyfacts": "theBalm Lip Oil Dudak Yağı Take The High Rose"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Lip Makeup",
+          "Cosmetics",
+          "Lip Glosses",
+          "Lip Oils"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0939/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0939/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0939/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/161/982/0939/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/the-balm/00681619820939.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00681619820939",
+        "ean13": "0681619820939",
+        "upc_a": "681619820939",
+        "ean8": null,
+        "primary_code": "681619820939",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0681619820939"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00681619820939",
+        "qr_payload_text": "https://id.gs1.org/01/00681619820939",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00681619820939",
+          "code": "681619820939",
+          "type": "UPC-A",
+          "brand": "The Balm",
+          "name": "theBalm Lip Oil Dudak Yağı Take The High Rose",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/0939/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-balm/00681619820939.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0681619820939",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00681619821813",
+      "product_name": "theBalm Big Fan Maskara Maximizing",
+      "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/1813/front_en.4.400.jpg",
+      "local_image_path": "images/the-balm/00681619821813.jpg",
+      "brand": {
+        "slug": "the-balm",
+        "display_name": "The Balm",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Balm",
+        "matched_raw_brands": [
+          "xx:theBalm"
+        ]
+      },
+      "product": {
+        "name": "theBalm Big Fan Maskara Maximizing",
+        "source_names": {
+          "openbeautyfacts": "theBalm Big Fan Maskara Maximizing"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Makeup",
+          "Eyes",
+          "Eyes Makeup",
+          "Mascara",
+          "Cosmetics",
+          "Defining Mascaras",
+          "Lengthening Mascaras",
+          "Volumizing Mascaras"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/1813/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/068/161/982/1813/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/068/161/982/1813/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/068/161/982/1813/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/the-balm/00681619821813.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00681619821813",
+        "ean13": "0681619821813",
+        "upc_a": "681619821813",
+        "ean8": null,
+        "primary_code": "681619821813",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0681619821813"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00681619821813",
+        "qr_payload_text": "https://id.gs1.org/01/00681619821813",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00681619821813",
+          "code": "681619821813",
+          "type": "UPC-A",
+          "brand": "The Balm",
+          "name": "theBalm Big Fan Maskara Maximizing",
+          "image_url": "https://images.openbeautyfacts.org/images/products/068/161/982/1813/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-balm/00681619821813.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0681619821813",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "brand_slug": "olaplex",
+  "display_name": "Olaplex",
+  "letter_section": "O",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+  "product_count": 12,
+  "canonical_product_count": 12,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00850018802260",
+      "product_name": "No. 4P Blonde Enhancer Toning Shampoo",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2260/front_en.3.400.jpg",
+      "local_image_path": "images/olaplex/00850018802260.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "No. 4P Blonde Enhancer Toning Shampoo",
+        "source_names": {
+          "openbeautyfacts": "No. 4P Blonde Enhancer Toning Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": "250 ml",
+        "categories": [
+          "Hair",
+          "Shampoos",
+          "Shampoos For Colored Hair"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2260/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2260/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2260/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2260/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00850018802260.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850018802260",
+        "ean13": "0850018802260",
+        "upc_a": "850018802260",
+        "ean8": null,
+        "primary_code": "850018802260",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0850018802260"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850018802260",
+        "qr_payload_text": "https://id.gs1.org/01/00850018802260",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850018802260",
+          "code": "850018802260",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "No. 4P Blonde Enhancer Toning Shampoo",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2260/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00850018802260.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850018802260",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00850018802444",
+      "product_name": "Olaplex No. 4 Bond Maintenance Shampoo",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "Olaplex No. 4 Bond Maintenance Shampoo",
+        "source_names": {
+          "openbeautyfacts": "Olaplex No. 4 Bond Maintenance Shampoo"
+        },
+        "alternate_names": [],
+        "quantity": "250 ml",
+        "categories": [
+          "Cuidados Com Os Cabelos",
+          "Reparacao De Ligacoes"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00850018802444",
+        "ean13": "0850018802444",
+        "upc_a": "850018802444",
+        "ean8": null,
+        "primary_code": "850018802444",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0850018802444"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850018802444",
+        "qr_payload_text": "https://id.gs1.org/01/00850018802444",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850018802444",
+          "code": "850018802444",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "Olaplex No. 4 Bond Maintenance Shampoo",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00850018802444.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850018802444",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00850018802451",
+      "product_name": "Olaplex No. 5 Bond Maintenance Conditioner",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "Olaplex No. 5 Bond Maintenance Conditioner",
+        "source_names": {
+          "openbeautyfacts": "Olaplex No. 5 Bond Maintenance Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": "250 ml",
+        "categories": [
+          "Cuidados Com Os Cabelos"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00850018802451",
+        "ean13": "0850018802451",
+        "upc_a": "850018802451",
+        "ean8": null,
+        "primary_code": "850018802451",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0850018802451"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850018802451",
+        "qr_payload_text": "https://id.gs1.org/01/00850018802451",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850018802451",
+          "code": "850018802451",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "Olaplex No. 5 Bond Maintenance Conditioner",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00850018802451.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850018802451",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00850018802659",
+      "product_name": "No.5 Bond Maintenance Conditioner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2659/front_en.18.400.jpg",
+      "local_image_path": "images/olaplex/00850018802659.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:Olaplex"
+        ]
+      },
+      "product": {
+        "name": "No.5 Bond Maintenance Conditioner",
+        "source_names": {
+          "openbeautyfacts": "No.5 Bond Maintenance Conditioner"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Hair",
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2659/front_en.18.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2659/front_en.18.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2659/front_en.18.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2659/front_en.18.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00850018802659.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850018802659",
+        "ean13": "0850018802659",
+        "upc_a": "850018802659",
+        "ean8": null,
+        "primary_code": "850018802659",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0850018802659"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850018802659",
+        "qr_payload_text": "https://id.gs1.org/01/00850018802659",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850018802659",
+          "code": "850018802659",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "No.5 Bond Maintenance Conditioner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2659/front_en.18.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00850018802659.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850018802659",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00850018802772",
+      "product_name": "Olaplex Shampoo Nr. 4 Blond",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2772/front_de.5.400.jpg",
+      "local_image_path": "images/olaplex/00850018802772.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "Olaplex Shampoo Nr. 4 Blond",
+        "source_names": {
+          "openbeautyfacts": "Olaplex Shampoo Nr. 4 Blond"
+        },
+        "alternate_names": [],
+        "quantity": "250ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2772/front_de.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2772/front_de.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2772/front_de.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2772/front_de.5.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00850018802772.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850018802772",
+        "ean13": "0850018802772",
+        "upc_a": "850018802772",
+        "ean8": null,
+        "primary_code": "850018802772",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0850018802772"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850018802772",
+        "qr_payload_text": "https://id.gs1.org/01/00850018802772",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850018802772",
+          "code": "850018802772",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "Olaplex Shampoo Nr. 4 Blond",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2772/front_de.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00850018802772.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850018802772",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00850018802796",
+      "product_name": "No. 6 Bond Smoother",
+      "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2796/front_en.4.400.jpg",
+      "local_image_path": "images/olaplex/00850018802796.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:OLAPLEX"
+        ]
+      },
+      "product": {
+        "name": "No. 6 Bond Smoother",
+        "source_names": {
+          "openbeautyfacts": "No. 6 Bond Smoother"
+        },
+        "alternate_names": [],
+        "quantity": "100 mL / 3.3 fl. oz.",
+        "categories": [
+          "Hair",
+          "Hair Care"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2796/front_en.4.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2796/front_en.4.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2796/front_en.4.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/085/001/880/2796/front_en.4.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00850018802796.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00850018802796",
+        "ean13": "0850018802796",
+        "upc_a": "850018802796",
+        "ean8": null,
+        "primary_code": "850018802796",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0850018802796"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00850018802796",
+        "qr_payload_text": "https://id.gs1.org/01/00850018802796",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00850018802796",
+          "code": "850018802796",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "No. 6 Bond Smoother",
+          "image_url": "https://images.openbeautyfacts.org/images/products/085/001/880/2796/front_en.4.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00850018802796.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0850018802796",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00896364002312",
+      "product_name": "Olaplex Bond Multiplier No. 1",
+      "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2312/front_en.3.400.jpg",
+      "local_image_path": "images/olaplex/00896364002312.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "Olaplex Bond Multiplier No. 1",
+        "source_names": {
+          "openbeautyfacts": "Olaplex Bond Multiplier No. 1"
+        },
+        "alternate_names": [],
+        "quantity": "525 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2312/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2312/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2312/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2312/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00896364002312.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00896364002312",
+        "ean13": "0896364002312",
+        "upc_a": "896364002312",
+        "ean8": null,
+        "primary_code": "896364002312",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0896364002312"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00896364002312",
+        "qr_payload_text": "https://id.gs1.org/01/00896364002312",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00896364002312",
+          "code": "896364002312",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "Olaplex Bond Multiplier No. 1",
+          "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2312/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00896364002312.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0896364002312",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00896364002329",
+      "product_name": "Olaplex Bond Perfector No. 2",
+      "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2329/front_en.3.400.jpg",
+      "local_image_path": "images/olaplex/00896364002329.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "Olaplex Bond Perfector No. 2",
+        "source_names": {
+          "openbeautyfacts": "Olaplex Bond Perfector No. 2"
+        },
+        "alternate_names": [],
+        "quantity": "525 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2329/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2329/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2329/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2329/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00896364002329.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00896364002329",
+        "ean13": "0896364002329",
+        "upc_a": "896364002329",
+        "ean8": null,
+        "primary_code": "896364002329",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0896364002329"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00896364002329",
+        "qr_payload_text": "https://id.gs1.org/01/00896364002329",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00896364002329",
+          "code": "896364002329",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "Olaplex Bond Perfector No. 2",
+          "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2329/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00896364002329.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0896364002329",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00896364002428",
+      "product_name": "No. 4 Bond Maintenance Shampoo 250ml",
+      "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2428/front_en.5.400.jpg",
+      "local_image_path": "images/olaplex/00896364002428.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "No. 4 Bond Maintenance Shampoo 250ml",
+        "source_names": {
+          "openbeautyfacts": "No. 4 Bond Maintenance Shampoo 250ml"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Shampoos"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2428/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2428/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2428/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2428/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00896364002428.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00896364002428",
+        "ean13": "0896364002428",
+        "upc_a": "896364002428",
+        "ean8": null,
+        "primary_code": "896364002428",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0896364002428"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00896364002428",
+        "qr_payload_text": "https://id.gs1.org/01/00896364002428",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00896364002428",
+          "code": "896364002428",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "No. 4 Bond Maintenance Shampoo 250ml",
+          "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2428/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00896364002428.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0896364002428",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00896364002756",
+      "product_name": "Olaplex",
+      "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2756/front_fr.6.400.jpg",
+      "local_image_path": "images/olaplex/00896364002756.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "olaplex"
+        ]
+      },
+      "product": {
+        "name": "Olaplex",
+        "source_names": {
+          "openbeautyfacts": "Olaplex"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2756/front_fr.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2756/front_fr.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2756/front_fr.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2756/front_fr.6.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00896364002756.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00896364002756",
+        "ean13": "0896364002756",
+        "upc_a": "896364002756",
+        "ean8": null,
+        "primary_code": "896364002756",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0896364002756"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00896364002756",
+        "qr_payload_text": "https://id.gs1.org/01/00896364002756",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00896364002756",
+          "code": "896364002756",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "Olaplex",
+          "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2756/front_fr.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00896364002756.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0896364002756",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00896364002947",
+      "product_name": "No. 8 Bond Intense Moisture Mask",
+      "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2947/front_en.3.400.jpg",
+      "local_image_path": "images/olaplex/00896364002947.jpg",
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "No. 8 Bond Intense Moisture Mask",
+        "source_names": {
+          "openbeautyfacts": "No. 8 Bond Intense Moisture Mask"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [
+          "Hair",
+          "Hair Care",
+          "Hair Masks"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2947/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2947/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2947/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/089/636/400/2947/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/olaplex/00896364002947.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00896364002947",
+        "ean13": "0896364002947",
+        "upc_a": "896364002947",
+        "ean8": null,
+        "primary_code": "896364002947",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0896364002947"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00896364002947",
+        "qr_payload_text": "https://id.gs1.org/01/00896364002947",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00896364002947",
+          "code": "896364002947",
+          "type": "UPC-A",
+          "brand": "Olaplex",
+          "name": "No. 8 Bond Intense Moisture Mask",
+          "image_url": "https://images.openbeautyfacts.org/images/products/089/636/400/2947/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/00896364002947.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0896364002947",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "05051143414501",
+      "product_name": "Olaplex No. 6 Bond Smoother",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "olaplex",
+        "display_name": "Olaplex",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=Olaplex",
+        "matched_raw_brands": [
+          "xx:olaplex"
+        ]
+      },
+      "product": {
+        "name": "Olaplex No. 6 Bond Smoother",
+        "source_names": {
+          "openbeautyfacts": "Olaplex No. 6 Bond Smoother"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [
+          "Cuidados Com Os Cabelos"
+        ],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "05051143414501",
+        "ean13": "5051143414501",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "5051143414501",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "5051143414501"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/05051143414501",
+        "qr_payload_text": "https://id.gs1.org/01/05051143414501",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "05051143414501",
+          "code": "5051143414501",
+          "type": "EAN-13",
+          "brand": "Olaplex",
+          "name": "Olaplex No. 6 Bond Smoother",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/olaplex/05051143414501.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/5051143414501",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}

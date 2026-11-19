@@ -1,0 +1,1806 @@
+{
+  "brand_slug": "the-ordinary",
+  "display_name": "The Ordinary",
+  "letter_section": "T",
+  "is_most_loved": false,
+  "is_store_own_brand": false,
+  "alias_of": null,
+  "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+  "product_count": 23,
+  "canonical_product_count": 23,
+  "cross_source_verified_count": 0,
+  "products": [
+    {
+      "gtin14": "00769915190045",
+      "product_name": "granactive retinoid 2% emulsion",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0045/front_en.7.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190045.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "granactive retinoid 2% emulsion",
+        "source_names": {
+          "openbeautyfacts": "granactive retinoid 2% emulsion"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Serum"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0045/front_en.7.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0045/front_en.7.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0045/front_en.7.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0045/front_en.7.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190045.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190045",
+        "ean13": "0769915190045",
+        "upc_a": "769915190045",
+        "ean8": null,
+        "primary_code": "769915190045",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190045"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190045",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190045",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190045",
+          "code": "769915190045",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "granactive retinoid 2% emulsion",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0045/front_en.7.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190045.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190045",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190199",
+      "product_name": "Hyaluronic acid 2% b5",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0199/front_en.10.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190199.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The ordinary"
+        ]
+      },
+      "product": {
+        "name": "Hyaluronic acid 2% b5",
+        "source_names": {
+          "openbeautyfacts": "Hyaluronic acid 2% b5"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0199/front_en.10.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0199/front_en.10.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0199/front_en.10.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0199/front_en.10.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190199.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190199",
+        "ean13": "0769915190199",
+        "upc_a": "769915190199",
+        "ean8": null,
+        "primary_code": "769915190199",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190199"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190199",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190199",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190199",
+          "code": "769915190199",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Hyaluronic acid 2% b5",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0199/front_en.10.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190199.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190199",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190342",
+      "product_name": "100% Organic Cold Pressed Rose Hip Seed Oil",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0342/front_en.3.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190342.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "100% Organic Cold Pressed Rose Hip Seed Oil",
+        "source_names": {
+          "openbeautyfacts": "100% Organic Cold Pressed Rose Hip Seed Oil"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0342/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0342/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0342/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0342/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190342.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190342",
+        "ean13": "0769915190342",
+        "upc_a": "769915190342",
+        "ean8": null,
+        "primary_code": "769915190342",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190342"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190342",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190342",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190342",
+          "code": "769915190342",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "100% Organic Cold Pressed Rose Hip Seed Oil",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0342/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190342.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190342",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190373",
+      "product_name": "Lactic Acid 10% + HA",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0373/front_en.12.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190373.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Lactic Acid 10% + HA",
+        "source_names": {
+          "openbeautyfacts": "Lactic Acid 10% + HA"
+        },
+        "alternate_names": [
+          "A High-Strength Lactic Acid Superficial Peeling Formulation"
+        ],
+        "quantity": "30ml",
+        "categories": [
+          "Direct Acids"
+        ],
+        "description": "A High-Strength Lactic Acid Superficial Peeling Formulation",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0373/front_en.12.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0373/front_en.12.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0373/front_en.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0373/front_en.12.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190373.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190373",
+        "ean13": "0769915190373",
+        "upc_a": "769915190373",
+        "ean8": null,
+        "primary_code": "769915190373",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190373"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190373",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190373",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190373",
+          "code": "769915190373",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Lactic Acid 10% + HA",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0373/front_en.12.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190373.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190373",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190588",
+      "product_name": "Azelaic Acid Suspension 10%",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0588/front_en.13.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190588.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "Azelaic Acid Suspension 10%",
+        "source_names": {
+          "openbeautyfacts": "Azelaic Acid Suspension 10%"
+        },
+        "alternate_names": [
+          "Multifunctional Brightening Formula"
+        ],
+        "quantity": "30ml",
+        "categories": [
+          "Direct Acids"
+        ],
+        "description": "Multifunctional Brightening Formula",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0588/front_en.13.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0588/front_en.13.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0588/front_en.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0588/front_en.13.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190588.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190588",
+        "ean13": "0769915190588",
+        "upc_a": "769915190588",
+        "ean8": null,
+        "primary_code": "769915190588",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190588"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190588",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190588",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190588",
+          "code": "769915190588",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Azelaic Acid Suspension 10%",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0588/front_en.13.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190588.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190588",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190670",
+      "product_name": "Caffeine Solution 5% + EGCG",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0670/front_en.21.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190670.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Caffeine Solution 5% + EGCG",
+        "source_names": {
+          "openbeautyfacts": "Caffeine Solution 5% + EGCG"
+        },
+        "alternate_names": [
+          "Reduces Appearance of Eye Contour Pigmentation and of Puffiness"
+        ],
+        "quantity": "30ml",
+        "categories": [
+          "Cafffeine"
+        ],
+        "description": "Reduces Appearance of Eye Contour Pigmentation and of Puffiness",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0670/front_en.21.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0670/front_en.21.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0670/front_en.21.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0670/front_en.21.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190670.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190670",
+        "ean13": "0769915190670",
+        "upc_a": "769915190670",
+        "ean8": null,
+        "primary_code": "769915190670",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190670"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190670",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190670",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190670",
+          "code": "769915190670",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Caffeine Solution 5% + EGCG",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0670/front_en.21.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190670.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190670",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190731",
+      "product_name": "Natural Moisturizing Factors + HA",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0731/front_en.3.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190731.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Natural Moisturizing Factors + HA",
+        "source_names": {
+          "openbeautyfacts": "Natural Moisturizing Factors + HA"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0731/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0731/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0731/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0731/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190731.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190731",
+        "ean13": "0769915190731",
+        "upc_a": "769915190731",
+        "ean8": null,
+        "primary_code": "769915190731",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190731"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190731",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190731",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190731",
+          "code": "769915190731",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Natural Moisturizing Factors + HA",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0731/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190731.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190731",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190762",
+      "product_name": "Primer fixateur à base de silicone",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0762/front_fr.3.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190762.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Primer fixateur à base de silicone",
+        "source_names": {
+          "openbeautyfacts": "Primer fixateur à base de silicone"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0762/front_fr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0762/front_fr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0762/front_fr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0762/front_fr.3.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190762.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190762",
+        "ean13": "0769915190762",
+        "upc_a": "769915190762",
+        "ean8": null,
+        "primary_code": "769915190762",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190762"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190762",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190762",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190762",
+          "code": "769915190762",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Primer fixateur à base de silicone",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0762/front_fr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190762.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190762",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915190977",
+      "product_name": "The Ordinary Glycolic Acid 7% Toning Solution (Solução tonificante de ácido glicólico 7%)",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0977/front_en.21.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915190977.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "The Ordinary Glycolic Acid 7% Toning Solution (Solução tonificante de ácido glicólico 7%)",
+        "source_names": {
+          "openbeautyfacts": "The Ordinary Glycolic Acid 7% Toning Solution (Solução tonificante de ácido glicólico 7%)"
+        },
+        "alternate_names": [],
+        "quantity": "240 ml",
+        "categories": [
+          "Esfoliante",
+          "Tônico Facial"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0977/front_en.21.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0977/front_en.21.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0977/front_en.21.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/0977/front_en.21.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915190977.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915190977",
+        "ean13": "0769915190977",
+        "upc_a": "769915190977",
+        "ean8": null,
+        "primary_code": "769915190977",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915190977"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915190977",
+        "qr_payload_text": "https://id.gs1.org/01/00769915190977",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915190977",
+          "code": "769915190977",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "The Ordinary Glycolic Acid 7% Toning Solution (Solução tonificante de ácido glicólico 7%)",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/0977/front_en.21.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915190977.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915190977",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915191004",
+      "product_name": "Ordinary",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/1004/front_en.33.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915191004.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Ordinary",
+        "source_names": {
+          "openbeautyfacts": "Ordinary"
+        },
+        "alternate_names": [
+          "AHA 30 BHA 2 Peeling Solution - 30ml"
+        ],
+        "quantity": "30 ml",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/1004/front_en.33.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/1004/front_en.33.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/1004/front_en.33.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/1004/front_en.33.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915191004.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915191004",
+        "ean13": "0769915191004",
+        "upc_a": "769915191004",
+        "ean8": null,
+        "primary_code": "769915191004",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915191004"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915191004",
+        "qr_payload_text": "https://id.gs1.org/01/00769915191004",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915191004",
+          "code": "769915191004",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Ordinary",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/1004/front_en.33.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915191004.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915191004",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915193954",
+      "product_name": "Granactive Retinoid 5% in Squalane",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/3954/front_en.14.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915193954.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Granactive Retinoid 5% in Squalane",
+        "source_names": {
+          "openbeautyfacts": "Granactive Retinoid 5% in Squalane"
+        },
+        "alternate_names": [
+          "Highly-Stable, Water-Free Solution of 0.5% Ester of All-Trans Retinoic Acid"
+        ],
+        "quantity": "30ml",
+        "categories": [
+          "Retinoids"
+        ],
+        "description": "Highly-Stable, Water-Free Solution of 0.5% Ester of All-Trans Retinoic Acid",
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/3954/front_en.14.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/3954/front_en.14.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/3954/front_en.14.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/3954/front_en.14.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915193954.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915193954",
+        "ean13": "0769915193954",
+        "upc_a": "769915193954",
+        "ean8": null,
+        "primary_code": "769915193954",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915193954"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915193954",
+        "qr_payload_text": "https://id.gs1.org/01/00769915193954",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915193954",
+          "code": "769915193954",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Granactive Retinoid 5% in Squalane",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/3954/front_en.14.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915193954.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915193954",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915194463",
+      "product_name": "the ordinary",
+      "image_url": null,
+      "local_image_path": null,
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "the ordinary"
+        ]
+      },
+      "product": {
+        "name": "the ordinary",
+        "source_names": {
+          "openbeautyfacts": "the ordinary"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": null,
+        "thumbnail_url": null,
+        "image_urls": [],
+        "local_image_path": null,
+        "image_status": "unavailable"
+      },
+      "barcode": {
+        "gtin14": "00769915194463",
+        "ean13": "0769915194463",
+        "upc_a": "769915194463",
+        "ean8": null,
+        "primary_code": "769915194463",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915194463"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915194463",
+        "qr_payload_text": "https://id.gs1.org/01/00769915194463",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915194463",
+          "code": "769915194463",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "the ordinary",
+          "image_url": null
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915194463.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915194463",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915194791",
+      "product_name": "Squalene Cleanser",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4791/front_en.5.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915194791.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Squalene Cleanser",
+        "source_names": {
+          "openbeautyfacts": "Squalene Cleanser"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4791/front_en.5.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4791/front_en.5.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/4791/front_en.5.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/4791/front_en.5.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915194791.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915194791",
+        "ean13": "0769915194791",
+        "upc_a": "769915194791",
+        "ean8": null,
+        "primary_code": "769915194791",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915194791"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915194791",
+        "qr_payload_text": "https://id.gs1.org/01/00769915194791",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915194791",
+          "code": "769915194791",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Squalene Cleanser",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4791/front_en.5.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915194791.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915194791",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915194982",
+      "product_name": "Hyaluronic Acid 2% + B5",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4982/front_en.3.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915194982.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "Hyaluronic Acid 2% + B5",
+        "source_names": {
+          "openbeautyfacts": "Hyaluronic Acid 2% + B5"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4982/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4982/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/4982/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/4982/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915194982.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915194982",
+        "ean13": "0769915194982",
+        "upc_a": "769915194982",
+        "ean8": null,
+        "primary_code": "769915194982",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915194982"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915194982",
+        "qr_payload_text": "https://id.gs1.org/01/00769915194982",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915194982",
+          "code": "769915194982",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Hyaluronic Acid 2% + B5",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/4982/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915194982.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915194982",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915195606",
+      "product_name": "The Ordinary AHA 30% + BHA 2% Peeling Solution",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5606/front_en.6.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915195606.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "The Ordinary AHA 30% + BHA 2% Peeling Solution",
+        "source_names": {
+          "openbeautyfacts": "The Ordinary AHA 30% + BHA 2% Peeling Solution"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5606/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5606/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5606/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5606/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915195606.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915195606",
+        "ean13": "0769915195606",
+        "upc_a": "769915195606",
+        "ean8": null,
+        "primary_code": "769915195606",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915195606"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915195606",
+        "qr_payload_text": "https://id.gs1.org/01/00769915195606",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915195606",
+          "code": "769915195606",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "The Ordinary AHA 30% + BHA 2% Peeling Solution",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5606/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915195606.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915195606",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915195712",
+      "product_name": "Caffeine Solution",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5712/front_en.6.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915195712.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Caffeine Solution",
+        "source_names": {
+          "openbeautyfacts": "Caffeine Solution"
+        },
+        "alternate_names": [],
+        "quantity": "30 mL",
+        "categories": [
+          "Non Food Products",
+          "Open Beauty Facts"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5712/front_en.6.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5712/front_en.6.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5712/front_en.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5712/front_en.6.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915195712.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915195712",
+        "ean13": "0769915195712",
+        "upc_a": "769915195712",
+        "ean8": null,
+        "primary_code": "769915195712",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915195712"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915195712",
+        "qr_payload_text": "https://id.gs1.org/01/00769915195712",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915195712",
+          "code": "769915195712",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Caffeine Solution",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5712/front_en.6.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915195712.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915195712",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915195835",
+      "product_name": "Lactic Acid 10% + HA",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5835/front_en.9.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915195835.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "Lactic Acid 10% + HA",
+        "source_names": {
+          "openbeautyfacts": "Lactic Acid 10% + HA"
+        },
+        "alternate_names": [],
+        "quantity": "30ml",
+        "categories": [
+          "Face Serums"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5835/front_en.9.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5835/front_en.9.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5835/front_en.9.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5835/front_en.9.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915195835.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915195835",
+        "ean13": "0769915195835",
+        "upc_a": "769915195835",
+        "ean8": null,
+        "primary_code": "769915195835",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915195835"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915195835",
+        "qr_payload_text": "https://id.gs1.org/01/00769915195835",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915195835",
+          "code": "769915195835",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Lactic Acid 10% + HA",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5835/front_en.9.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915195835.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915195835",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915195934",
+      "product_name": "The Ordinary",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_en.12.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915195934.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "the ordinary"
+        ]
+      },
+      "product": {
+        "name": "The Ordinary",
+        "source_names": {
+          "openbeautyfacts": "The Ordinary"
+        },
+        "alternate_names": [],
+        "quantity": "100 ml",
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_en.12.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_en.12.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_en.12.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_en.12.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_lt.13.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_lt.13.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915195934.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915195934",
+        "ean13": "0769915195934",
+        "upc_a": "769915195934",
+        "ean8": null,
+        "primary_code": "769915195934",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915195934"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915195934",
+        "qr_payload_text": "https://id.gs1.org/01/00769915195934",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915195934",
+          "code": "769915195934",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "The Ordinary",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/519/5934/front_en.12.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915195934.svg"
+      },
+      "verification": {
+        "status": "inferred_title_prefix",
+        "confidence_score": 0.65,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "title_prefix_fallback"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915195934",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915233179",
+      "product_name": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3179/front_tr.3.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915233179.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum",
+        "source_names": {
+          "openbeautyfacts": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum"
+        },
+        "alternate_names": [],
+        "quantity": "30 ml",
+        "categories": [
+          "Anti Aging Serums",
+          "Face Care",
+          "Facial Serums",
+          "Skin Care"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3179/front_tr.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3179/front_tr.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/523/3179/front_tr.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/523/3179/front_tr.3.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915233179.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915233179",
+        "ean13": "0769915233179",
+        "upc_a": "769915233179",
+        "ean8": null,
+        "primary_code": "769915233179",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915233179"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915233179",
+        "qr_payload_text": "https://id.gs1.org/01/00769915233179",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915233179",
+          "code": "769915233179",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "The Ordinary Multi-Peptide + Copper Peptides 1% Serum",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3179/front_tr.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915233179.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915233179",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915233506",
+      "product_name": "Hyaluronic Acid 2% + B5",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3506/front_en.8.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915233506.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "Hyaluronic Acid 2% + B5",
+        "source_names": {
+          "openbeautyfacts": "Hyaluronic Acid 2% + B5"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [
+          "Cosmetic Products"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3506/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3506/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/523/3506/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/523/3506/front_en.8.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915233506.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915233506",
+        "ean13": "0769915233506",
+        "upc_a": "769915233506",
+        "ean8": null,
+        "primary_code": "769915233506",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915233506"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915233506",
+        "qr_payload_text": "https://id.gs1.org/01/00769915233506",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915233506",
+          "code": "769915233506",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Hyaluronic Acid 2% + B5",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3506/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915233506.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915233506",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915233551",
+      "product_name": "Saccharomyces Ferment 30% Milky Toner",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3551/front_en.3.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915233551.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:The Ordinary"
+        ]
+      },
+      "product": {
+        "name": "Saccharomyces Ferment 30% Milky Toner",
+        "source_names": {
+          "openbeautyfacts": "Saccharomyces Ferment 30% Milky Toner"
+        },
+        "alternate_names": [],
+        "quantity": "100ml",
+        "categories": [
+          "Skincare",
+          "The Ordinary",
+          "Toner"
+        ],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3551/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3551/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/523/3551/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/523/3551/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915233551.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915233551",
+        "ean13": "0769915233551",
+        "upc_a": "769915233551",
+        "ean8": null,
+        "primary_code": "769915233551",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915233551"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915233551",
+        "qr_payload_text": "https://id.gs1.org/01/00769915233551",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915233551",
+          "code": "769915233551",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Saccharomyces Ferment 30% Milky Toner",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/3551/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915233551.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915233551",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "00769915234411",
+      "product_name": "Age support serum GF 15% Solution",
+      "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/4411/front_en.3.400.jpg",
+      "local_image_path": "images/the-ordinary/00769915234411.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "Age support serum GF 15% Solution",
+        "source_names": {
+          "openbeautyfacts": "Age support serum GF 15% Solution"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/4411/front_en.3.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/076/991/523/4411/front_en.3.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/076/991/523/4411/front_en.3.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/076/991/523/4411/front_en.3.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/00769915234411.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "00769915234411",
+        "ean13": "0769915234411",
+        "upc_a": "769915234411",
+        "ean8": null,
+        "primary_code": "769915234411",
+        "barcode_type": "UPC-A",
+        "raw_codes": [
+          "0769915234411"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/00769915234411",
+        "qr_payload_text": "https://id.gs1.org/01/00769915234411",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "00769915234411",
+          "code": "769915234411",
+          "type": "UPC-A",
+          "brand": "The Ordinary",
+          "name": "Age support serum GF 15% Solution",
+          "image_url": "https://images.openbeautyfacts.org/images/products/076/991/523/4411/front_en.3.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/00769915234411.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/0769915234411",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    },
+    {
+      "gtin14": "06106615191004",
+      "product_name": "AHA30%+BHA2% peeling solution",
+      "image_url": "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_en.8.400.jpg",
+      "local_image_path": "images/the-ordinary/06106615191004.jpg",
+      "brand": {
+        "slug": "the-ordinary",
+        "display_name": "The Ordinary",
+        "glow_and_glare_vendor_url": "https://glowandglare.com/collections/vendors?q=The%20Ordinary",
+        "matched_raw_brands": [
+          "xx:the-ordinary"
+        ]
+      },
+      "product": {
+        "name": "AHA30%+BHA2% peeling solution",
+        "source_names": {
+          "openbeautyfacts": "AHA30%+BHA2% peeling solution"
+        },
+        "alternate_names": [],
+        "quantity": null,
+        "categories": [],
+        "description": null,
+        "primary_image_url": "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_en.8.400.jpg",
+        "thumbnail_url": "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_en.8.200.jpg",
+        "image_urls": [
+          "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_en.8.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_en.8.200.jpg",
+          "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_xx.6.400.jpg",
+          "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_xx.6.200.jpg"
+        ],
+        "local_image_path": "images/the-ordinary/06106615191004.jpg",
+        "image_status": "downloaded"
+      },
+      "barcode": {
+        "gtin14": "06106615191004",
+        "ean13": "6106615191004",
+        "upc_a": null,
+        "ean8": null,
+        "primary_code": "6106615191004",
+        "barcode_type": "EAN-13",
+        "raw_codes": [
+          "6106615191004"
+        ],
+        "gs1_check_digit_valid": true,
+        "gs1_restricted_circulation": false
+      },
+      "qr": {
+        "gs1_digital_link": "https://id.gs1.org/01/06106615191004",
+        "qr_payload_text": "https://id.gs1.org/01/06106615191004",
+        "qr_payload_data": {
+          "schema": "glow-glare-qr/v1",
+          "gtin14": "06106615191004",
+          "code": "6106615191004",
+          "type": "EAN-13",
+          "brand": "The Ordinary",
+          "name": "AHA30%+BHA2% peeling solution",
+          "image_url": "https://images.openbeautyfacts.org/images/products/610/661/519/1004/front_en.8.400.jpg"
+        },
+        "qr_standard": "GS1_DIGITAL_LINK_ISO_18004",
+        "qr_svg_path": "qr/the-ordinary/06106615191004.svg"
+      },
+      "verification": {
+        "status": "verified_single_source",
+        "confidence_score": 0.95,
+        "sources": [
+          "openbeautyfacts"
+        ],
+        "match_methods": {
+          "openbeautyfacts": "brands_tags_leaf"
+        },
+        "cross_source_title_similarity": null
+      },
+      "provenance": {
+        "openbeautyfacts_url": "https://world.openbeautyfacts.org/product/6106615191004",
+        "upcitemdb_ean": null,
+        "harvested_at": "2026-11-19T07:36:47.452158Z"
+      }
+    }
+  ]
+}
